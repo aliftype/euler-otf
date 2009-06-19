@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245375532
-ModificationTime: 1245382310
+ModificationTime: 1245413114
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -40,6 +40,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 0"  {"'onum' Oldstyle Figures lookup 0-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 
 Encoding: UnicodeFull
@@ -1667,6 +1668,7 @@ SplineSet
  312 562 298 584 282 603 c 0
  269 617 256 630 239 639 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" zero.onum
 EndChar
 
 StartChar: one
@@ -1691,6 +1693,7 @@ SplineSet
  92 639 l 1
  308 712 l 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" one.onum
 EndChar
 
 StartChar: two
@@ -1725,6 +1728,7 @@ SplineSet
  148 89 153 88 158 88 c 0
  263 88 369 88 474 88 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" two.onum
 EndChar
 
 StartChar: three
@@ -1769,6 +1773,7 @@ SplineSet
  399 523 384 478 352 446 c 0
  321 416 282 394 241 382 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" three.onum
 EndChar
 
 StartChar: four
@@ -1804,6 +1809,7 @@ SplineSet
  62 235 64 235 66 235 c 0
  141 235 215 235 290 235 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" four.onum
 EndChar
 
 StartChar: five
@@ -1840,6 +1846,7 @@ SplineSet
  311 607 185 604 137 604 c 0
  131 604 125 600 125 594 c 2
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" five.onum
 EndChar
 
 StartChar: six
@@ -1879,6 +1886,7 @@ SplineSet
  323 303 289 314 256 314 c 0
  210 314 169 290 133 263 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" six.onum
 EndChar
 
 StartChar: seven
@@ -1904,6 +1912,7 @@ SplineSet
  210 686 352 686 494 686 c 1
  494 674 l 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" seven.onum
 EndChar
 
 StartChar: eight
@@ -1951,6 +1960,7 @@ SplineSet
  165 536 178 512 194 491 c 1
  215 461 244 437 274 416 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" eight.onum
 EndChar
 
 StartChar: nine
@@ -1989,6 +1999,7 @@ SplineSet
  201 361 230 355 259 355 c 0
  292 355 327 360 351 384 c 0
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" nine.onum
 EndChar
 
 StartChar: period
@@ -17573,6 +17584,7 @@ SplineSet
  69 595 l 1
  70 626 l 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7CF.onum
 EndChar
 
 StartChar: u1D7D0
@@ -17605,6 +17617,7 @@ SplineSet
  187 112 188 109 191 109 c 0
  304 109 416 109 529 109 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D0.onum
 EndChar
 
 StartChar: u1D7D1
@@ -17648,6 +17661,7 @@ SplineSet
  455 535 434 491 397 458 c 1
  364 427 322 406 277 391 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D1.onum
 EndChar
 
 StartChar: u1D7D2
@@ -17684,6 +17698,7 @@ SplineSet
  84 259 87 256 87 255 c 1
  88 255 230 253 301 252 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D2.onum
 EndChar
 
 StartChar: u1D7D3
@@ -17722,6 +17737,7 @@ SplineSet
  83 694 l 1
  475 694 l 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D3.onum
 EndChar
 
 StartChar: u1D7D4
@@ -17760,6 +17776,7 @@ SplineSet
  340 310 305 320 269 320 c 0
  230 320 194 303 161 286 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D4.onum
 EndChar
 
 StartChar: u1D7D5
@@ -17789,6 +17806,7 @@ SplineSet
  466 560 391 442 328 318 c 0
  282 226 259 127 252 27 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D5.onum
 EndChar
 
 StartChar: u1D7D6
@@ -17836,6 +17854,7 @@ SplineSet
  185 548 202 528 218 511 c 0
  245 480 278 453 312 427 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D6.onum
 EndChar
 
 StartChar: u1D7D7
@@ -17875,6 +17894,7 @@ SplineSet
  231 379 267 374 302 374 c 0
  331 374 359 384 384 398 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7D7.onum
 EndChar
 
 StartChar: u1D7CE
@@ -17911,6 +17931,7 @@ SplineSet
  349 564 331 584 310 600 c 0
  294 612 276 622 255 625 c 1
 EndSplineSet
+Substitution2: "'onum' Oldstyle Figures lookup 0-1" u1D7CE.onum
 EndChar
 
 StartChar: u1D6DA
