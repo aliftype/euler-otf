@@ -1,2 +1,3 @@
-amspsfnt
-amsps-unix.tar.gz
+ams*
+*~
+*.otf
