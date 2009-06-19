@@ -43,13 +43,70 @@ OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 0"  {"'onum' Oldstyle Figures lookup 0-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 
+MATH:ScriptPercentScaleDown: 80
+MATH:ScriptScriptPercentScaleDown: 60
+MATH:DelimitedSubFormulaMinHeight: 1500
+MATH:DisplayOperatorMinHeight: 0
+MATH:MathLeading: 0 
+MATH:AxisHeight: 0 
+MATH:AccentBaseHeight: 464 
+MATH:FlattenedAccentBaseHeight: 683 
+MATH:SubscriptShiftDown: 0 
+MATH:SubscriptTopMax: 464 
+MATH:SubscriptBaselineDropMin: 0 
+MATH:SuperscriptShiftUp: 0 
+MATH:SuperscriptShiftUpCramped: 0 
+MATH:SuperscriptBottomMin: 464 
+MATH:SuperscriptBaselineDropMax: 0 
+MATH:SubSuperscriptGapMin: 0 
+MATH:SuperscriptBottomMaxWithSubscript: 464 
+MATH:SpaceAfterScript: 41 
+MATH:UpperLimitGapMin: 0 
+MATH:UpperLimitBaselineRiseMin: 0 
+MATH:LowerLimitGapMin: 0 
+MATH:LowerLimitBaselineDropMin: 0 
+MATH:StackTopShiftUp: 0 
+MATH:StackTopDisplayStyleShiftUp: 0 
+MATH:StackBottomShiftDown: 0 
+MATH:StackBottomDisplayStyleShiftDown: 0 
+MATH:StackGapMin: 0 
+MATH:StackDisplayStyleGapMin: 0 
+MATH:StretchStackTopShiftUp: 0 
+MATH:StretchStackBottomShiftDown: 0 
+MATH:StretchStackGapAboveMin: 0 
+MATH:StretchStackGapBelowMin: 0 
+MATH:FractionNumeratorShiftUp: 0 
+MATH:FractionNumeratorDisplayStyleShiftUp: 0 
+MATH:FractionDenominatorShiftDown: 0 
+MATH:FractionDenominatorDisplayStyleShiftDown: 0 
+MATH:FractionNumeratorGapMin: 0 
+MATH:FractionNumeratorDisplayStyleGapMin: 0 
+MATH:FractionRuleThickness: 0 
+MATH:FractionDenominatorGapMin: 0 
+MATH:FractionDenominatorDisplayStyleGapMin: 0 
+MATH:SkewedFractionHorizontalGap: 0 
+MATH:SkewedFractionVerticalGap: 0 
+MATH:OverbarVerticalGap: 0 
+MATH:OverbarRuleThickness: 0 
+MATH:OverbarExtraAscender: 0 
+MATH:UnderbarVerticalGap: 0 
+MATH:UnderbarRuleThickness: 0 
+MATH:UnderbarExtraDescender: 0 
+MATH:RadicalVerticalGap: 0 
+MATH:RadicalDisplayStyleVerticalGap: 0 
+MATH:RadicalRuleThickness: 0 
+MATH:RadicalExtraAscender: 0 
+MATH:RadicalKernBeforeDegree: 277 
+MATH:RadicalKernAfterDegree: -555 
+MATH:RadicalDegreeBottomRaisePercent: 60
+MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 9075 25 10
+WinInfo: 8975 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -4623,6 +4680,7 @@ StartChar: braceleft
 Encoding: 123 123 119
 Width: 320
 Flags: MW
+GlyphVariantsVertical: braceleft.big braceleft.Big braceleft.bigg braceleft.Bigg
 HStem: -178 17<278.5 292 278.5 292> 259 26<-3 20.5> 710 20<271.5 292>
 VStem: 108 51<497.5 531.5>
 LayerCount: 2
@@ -4668,6 +4726,7 @@ StartChar: braceright
 Encoding: 125 125 120
 Width: 320
 Flags: MW
+GlyphVariantsVertical: braceright.big braceright.Big braceright.bigg braceright.Bigg
 HStem: -177 21<21 49> 263 24<295.5 321> 717 17<21 32>
 VStem: 159 52
 LayerCount: 2
