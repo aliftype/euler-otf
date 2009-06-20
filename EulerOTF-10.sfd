@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 250 25 10
+WinInfo: 75 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -4682,6 +4682,7 @@ Encoding: 123 123 119
 Width: 320
 Flags: MW
 GlyphVariantsVertical: braceleft braceleft.big braceleft.Big braceleft.bigg braceleft.Bigg
+GlyphCompositionVertical: 5  uni23A9%0,303,303,909 uni23AA%1,107,107,320 uni23A8%0,607,607,1820 uni23AA%1,107,107,320 uni23A7%0,303,303,909
 HStem: -178 17<278.5 292 278.5 292> 259 26<-3 20.5> 710 20<271.5 292>
 VStem: 108 51<497.5 531.5>
 LayerCount: 2
@@ -4728,6 +4729,7 @@ Encoding: 125 125 120
 Width: 320
 Flags: MW
 GlyphVariantsVertical: braceright braceright.big braceright.Big braceright.bigg braceright.Bigg
+GlyphCompositionVertical: 5  uni23AD%0,303,303,909 uni23AA%1,107,107,320 uni23AC%0,607,607,1820 uni23AA%1,107,107,320 uni23AB%0,303,303,909
 HStem: -177 21<21 49> 263 24<295.5 321> 717 17<21 32>
 VStem: 159 52
 LayerCount: 2
