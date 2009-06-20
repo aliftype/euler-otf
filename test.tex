@@ -1,0 +1,29 @@
+\usetypescript      [pagella]
+\starttypescript    [math]     [euler][name]
+  \definefontsynonym[MathRoman][file:EulerOTF.otf] [features=math]
+\stoptypescript
+\definetypeface     [pagella]  [mm][math][euler][default][text=rm]
+\setupbodyfont      [pagella]
+\starttext
+
+\startformula
+\int_0^3 9x^2 + 2x + 4\, dx = 3x^3 + x^2 + 4x + C \Big\rbracket_0^3 = 102
+\stopformula
+
+\startformula
+e^{x+iy} = e^x(\cos y + i\sin y)
+\stopformula
+
+\startformula
+-b = \pm \sqrt{b^2 - 4ac} \over 2a
+\stopformula
+
+\startformula
+ f(x) = 
+   \startmathcases
+     \NC x, \MC \text{if } 0 \le x \le \frac12 \NR
+     \NC 1-x ,\MC \text{if } \frac12 \le x \le 1 \NR
+   \stopmathcases
+\stopformula
+
+\stoptext
