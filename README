@@ -1,0 +1,11 @@
+This is an experimental port of AMS Euler math font to OpenType and
+Unicode math, based on Type1 version of the font released by AMS.
+
+It is in a very early state, and I'm doing it only as a way to exercise
+with the OpenType MATH table, I'm not a math user myself.
+
+Khaled Hosny
+khaledhosny@eglug.org
+
+21 July 2009
+
