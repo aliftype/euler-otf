@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 250 25 10
+WinInfo: 0 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -4681,6 +4681,7 @@ StartChar: braceleft
 Encoding: 123 123 119
 Width: 320
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: braceleft braceleft.big braceleft.Big braceleft.bigg braceleft.Bigg
 GlyphCompositionVertical: 5  uni23A9%0,303,303,909 uni23AA%1,107,107,320 uni23A8%0,607,607,1820 uni23AA%1,107,107,320 uni23A7%0,303,303,909
 HStem: -178 17<278.5 292 278.5 292> 259 26<-3 20.5> 710 20<271.5 292>
@@ -4728,6 +4729,7 @@ StartChar: braceright
 Encoding: 125 125 120
 Width: 320
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: braceright braceright.big braceright.Big braceright.bigg braceright.Bigg
 GlyphCompositionVertical: 5  uni23AD%0,303,303,909 uni23AA%1,107,107,320 uni23AC%0,607,607,1820 uni23AA%1,107,107,320 uni23AB%0,303,303,909
 HStem: -177 21<21 49> 263 24<295.5 321> 717 17<21 32>
@@ -9446,6 +9448,7 @@ StartChar: parenleft
 Encoding: 40 40 215
 Width: 388
 Flags: MW
+IsExtendedShape: 1
 HStem: -186 21<294 294> 718 20<294 294>
 VStem: 113 52<239.5 310 231 318.5>
 LayerCount: 2
@@ -9474,6 +9477,7 @@ StartChar: parenright
 Encoding: 41 41 216
 Width: 388
 Flags: MW
+IsExtendedShape: 1
 HStem: -187 21<89 89> 715 20<89 89>
 VStem: 224 52<232 314.5 230 315.5>
 LayerCount: 2
@@ -9672,6 +9676,7 @@ StartChar: bracketleft
 Encoding: 91 91 223
 Width: 277
 Flags: MW
+IsExtendedShape: 1
 HStem: -129 31 709 32
 VStem: 118 42<-93 699 -93 741>
 LayerCount: 2
@@ -9693,6 +9698,7 @@ StartChar: bracketright
 Encoding: 93 93 224
 Width: 277
 Flags: MW
+IsExtendedShape: 1
 HStem: -131 29 706 33
 VStem: 118 42<-92 700 700 700>
 LayerCount: 2
@@ -19028,6 +19034,7 @@ StartChar: braceleft.big
 Encoding: 1114151 -1 436
 Width: 583
 Flags: MW
+IsExtendedShape: 1
 HStem: -1159 35 -577 35 5 35
 VStem: 257 69<-959 -737 -737 -721 -398 -279 -279 -110>
 LayerCount: 2
@@ -19062,6 +19069,7 @@ StartChar: braceright.big
 Encoding: 1114152 -1 437
 Width: 583
 Flags: MW
+IsExtendedShape: 1
 HStem: -1159 35 -577 35 5 35
 VStem: 257 69<-1000.5 -980 -980 -735 -735 -721 -407 -382 -382 -160>
 LayerCount: 2
@@ -19095,6 +19103,7 @@ StartChar: braceleft.Big
 Encoding: 1114153 -1 438
 Width: 666
 Flags: MW
+IsExtendedShape: 1
 HStem: -1759 42 -881 42 -2 42
 VStem: 296 73<-1498 -1136 -576 -264 -264 -248.5>
 LayerCount: 2
@@ -19135,6 +19144,7 @@ StartChar: braceright.Big
 Encoding: 1114154 -1 439
 Width: 666
 Flags: MW
+IsExtendedShape: 1
 HStem: -1759 42 -881 42 -2 42
 VStem: 296 73<-1480 -1143 -583 -233 -233 -221.5>
 LayerCount: 2
@@ -19174,6 +19184,7 @@ StartChar: braceleft.bigg
 Encoding: 1114155 -1 440
 Width: 750
 Flags: MW
+IsExtendedShape: 1
 HStem: -2359 61 -1190 61 -21 61
 VStem: 335 79<-2049 -1521 -1521 -1489 -780 -289>
 LayerCount: 2
@@ -19213,6 +19224,7 @@ StartChar: braceright.bigg
 Encoding: 1114156 -1 441
 Width: 750
 Flags: MW
+IsExtendedShape: 1
 HStem: -2359 61 -1190 61 -21 61
 VStem: 335 79<-2030 -1473 -830 -270>
 LayerCount: 2
@@ -19247,6 +19259,7 @@ StartChar: braceleft.Bigg
 Encoding: 1114157 -1 442
 Width: 805
 Flags: MW
+IsExtendedShape: 1
 HStem: -2959 64 -1492 64 -24 64
 VStem: 361 83<-2595 -2593 -2593 -1900 -1035 -400>
 LayerCount: 2
@@ -19286,6 +19299,7 @@ StartChar: braceright.Bigg
 Encoding: 1114158 -1 443
 Width: 805
 Flags: MW
+IsExtendedShape: 1
 HStem: -2959 64 -1492 64 -24 64
 VStem: 361 83<-2520 -1884 -1019 -326 -326 -324>
 LayerCount: 2
