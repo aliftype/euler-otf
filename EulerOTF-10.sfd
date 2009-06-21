@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245375532
-ModificationTime: 1245528077
+ModificationTime: 1245543950
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 75 25 10
+WinInfo: 250 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -118,7 +118,7 @@ StemSnapV 7 [78 86]
 BlueScale 7 0.04379
 ForceBold 5 false
 EndPrivate
-BeginChars: 1114173 490
+BeginChars: 1114173 491
 
 StartChar: Gamma
 Encoding: 915 915 0
@@ -20621,6 +20621,39 @@ SplineSet
  386 -678 427 -617 427 -555 c 0
  427 -497 389 -433 317 -414 c 1
  317 -697 l 1
+EndSplineSet
+EndChar
+
+StartChar: integral
+Encoding: 8747 8747 490
+Width: 527
+Flags: W
+GlyphVariantsVertical: integral integral.display
+HStem: -1111 31<164 205 164 234> -31 31<351 390>
+VStem: 49 105<-1033.5 -1004.5 -1033.5 -1003> 244 76 400 105<-106.5 -77.5>
+LayerCount: 2
+Fore
+SplineSet
+318 -549 m 2
+ 317 -750 l 2
+ 317 -793 316 -837 314 -881 c 0
+ 312 -933 303 -1111 165 -1111 c 0
+ 114 -1111 49 -1090 49 -1024 c 0
+ 49 -982 79 -971 99 -971 c 0
+ 118 -971 154 -984 154 -1025 c 0
+ 154 -1042 148 -1058 133 -1068 c 1
+ 146 -1080 161 -1080 167 -1080 c 0
+ 243 -1080 246 -978 246 -866 c 0
+ 246 -833 243 -661 243 -538 c 0
+ 243 -469 243 -226 250 -175 c 0
+ 257 -123 278 0 389 0 c 0
+ 445 0 505 -24 505 -86 c 0
+ 505 -132 472 -140 455 -140 c 0
+ 436 -140 400 -127 400 -86 c 0
+ 400 -69 406 -53 421 -43 c 1
+ 408 -31 393 -31 387 -31 c 0
+ 315 -31 315 -135 315 -254 c 0
+ 315 -320 318 -479 318 -549 c 2
 EndSplineSet
 EndChar
 EndChars
