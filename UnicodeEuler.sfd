@@ -46,7 +46,7 @@ LangName: 1033
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
-MATH:DisplayOperatorMinHeight: 1250
+MATH:DisplayOperatorMinHeight: 1400
 MATH:MathLeading: 150 
 MATH:AxisHeight: 295 
 MATH:AccentBaseHeight: 464 
@@ -81,32 +81,33 @@ MATH:FractionDenominatorShiftDown: 515
 MATH:FractionDenominatorDisplayStyleShiftDown: 700 
 MATH:FractionNumeratorGapMin: 70 
 MATH:FractionNumeratorDisplayStyleGapMin: 130 
-MATH:FractionRuleThickness: 70 
+MATH:FractionRuleThickness: 40 
 MATH:FractionDenominatorGapMin: 70 
 MATH:FractionDenominatorDisplayStyleGapMin: 130 
 MATH:SkewedFractionHorizontalGap: 400 
 MATH:SkewedFractionVerticalGap: 70 
 MATH:OverbarVerticalGap: 170 
-MATH:OverbarRuleThickness: 70 
+MATH:OverbarRuleThickness: 40 
 MATH:OverbarExtraAscender: 70 
 MATH:UnderbarVerticalGap: 170 
-MATH:UnderbarRuleThickness: 70 
+MATH:UnderbarRuleThickness: 40 
 MATH:UnderbarExtraDescender: 70 
 MATH:RadicalVerticalGap: 83 
 MATH:RadicalDisplayStyleVerticalGap: 170 
-MATH:RadicalRuleThickness: 70 
+MATH:RadicalRuleThickness: 40 
 MATH:RadicalExtraAscender: 70 
 MATH:RadicalKernBeforeDegree: 70 
 MATH:RadicalKernAfterDegree: -555 
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 30
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 10
+WinInfo: 425 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
