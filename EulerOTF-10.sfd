@@ -65,16 +65,16 @@ MATH:UpperLimitGapMin: 70
 MATH:UpperLimitBaselineRiseMin: 250 
 MATH:LowerLimitGapMin: 70 
 MATH:LowerLimitBaselineDropMin: 620 
-MATH:StackTopShiftUp: 0 
-MATH:StackTopDisplayStyleShiftUp: 0 
-MATH:StackBottomShiftDown: 0 
-MATH:StackBottomDisplayStyleShiftDown: 0 
-MATH:StackGapMin: 0 
-MATH:StackDisplayStyleGapMin: 0 
-MATH:StretchStackTopShiftUp: 0 
-MATH:StretchStackBottomShiftDown: 0 
-MATH:StretchStackGapAboveMin: 0 
-MATH:StretchStackGapBelowMin: 0 
+MATH:StackTopShiftUp: 460 
+MATH:StackTopDisplayStyleShiftUp: 775 
+MATH:StackBottomShiftDown: 385 
+MATH:StackBottomDisplayStyleShiftDown: 735 
+MATH:StackGapMin: 200 
+MATH:StackDisplayStyleGapMin: 330 
+MATH:StretchStackTopShiftUp: 800 
+MATH:StretchStackBottomShiftDown: 590 
+MATH:StretchStackGapAboveMin: 70 
+MATH:StretchStackGapBelowMin: 70 
 MATH:FractionNumeratorShiftUp: 600 
 MATH:FractionNumeratorDisplayStyleShiftUp: 775 
 MATH:FractionDenominatorShiftDown: 515 
@@ -86,20 +86,20 @@ MATH:FractionDenominatorGapMin: 70
 MATH:FractionDenominatorDisplayStyleGapMin: 130 
 MATH:SkewedFractionHorizontalGap: 400 
 MATH:SkewedFractionVerticalGap: 70 
-MATH:OverbarVerticalGap: 0 
-MATH:OverbarRuleThickness: 0 
-MATH:OverbarExtraAscender: 0 
-MATH:UnderbarVerticalGap: 0 
-MATH:UnderbarRuleThickness: 0 
-MATH:UnderbarExtraDescender: 0 
-MATH:RadicalVerticalGap: 0 
-MATH:RadicalDisplayStyleVerticalGap: 0 
-MATH:RadicalRuleThickness: 0 
-MATH:RadicalExtraAscender: 0 
-MATH:RadicalKernBeforeDegree: 277 
+MATH:OverbarVerticalGap: 170 
+MATH:OverbarRuleThickness: 70 
+MATH:OverbarExtraAscender: 70 
+MATH:UnderbarVerticalGap: 170 
+MATH:UnderbarRuleThickness: 70 
+MATH:UnderbarExtraDescender: 70 
+MATH:RadicalVerticalGap: 83 
+MATH:RadicalDisplayStyleVerticalGap: 170 
+MATH:RadicalRuleThickness: 70 
+MATH:RadicalExtraAscender: 70 
+MATH:RadicalKernBeforeDegree: 70 
 MATH:RadicalKernAfterDegree: -555 
 MATH:RadicalDegreeBottomRaisePercent: 60
-MATH:MinConnectorOverlap: 20
+MATH:MinConnectorOverlap: 30
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 10
+WinInfo: 25 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
