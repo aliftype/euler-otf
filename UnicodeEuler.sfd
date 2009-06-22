@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245375532
-ModificationTime: 1245680733
+ModificationTime: 1245703698
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -101,13 +101,12 @@ MATH:RadicalKernAfterDegree: -555
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 30
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 425 25 10
+WinInfo: 0 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -4778,6 +4777,7 @@ StartChar: bar
 Encoding: 124 124 121
 Width: 213
 Flags: MW
+GlyphCompositionVertical: 2  bar%0,303,303,910 bar%1,303,303,910
 HStem: -172 21<86 86> 718 20<121 121>
 VStem: 86 35<-159 -159 -159 719 719 719>
 LayerCount: 2
