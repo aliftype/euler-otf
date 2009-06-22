@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245375532
-ModificationTime: 1245627194
+ModificationTime: 1245638816
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 425 25 10
+WinInfo: 0 25 10
 BeginPrivate: 8
 BlueValues 31 [-22 0 683 705 431 448 666 677]
 OtherBlues 11 [-206 -194]
@@ -118,7 +118,7 @@ StemSnapV 7 [78 86]
 BlueScale 7 0.04379
 ForceBold 5 false
 EndPrivate
-BeginChars: 1114299 663
+BeginChars: 1114299 666
 
 StartChar: Gamma
 Encoding: 915 915 0
@@ -4410,7 +4410,6 @@ StartChar: similar
 Encoding: 8764 8764 112
 Width: 551
 Flags: MW
-GlyphVariantsHorizontal: similar similar.wide similar.wider similar.widest
 HStem: 178 41<415.5 430> 305 42<140 148.5>
 VStem: 22 508<240 275>
 LayerCount: 2
@@ -22548,7 +22547,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hatwide
+StartChar: hat.wide
 Encoding: 1114271 -1 568
 Width: 555
 Flags: MW
@@ -22567,7 +22566,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hatwider
+StartChar: hat.wider
 Encoding: 1114272 -1 569
 Width: 1000
 Flags: MW
@@ -22586,7 +22585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hatwidest
+StartChar: hat.widest
 Encoding: 1114273 -1 570
 Width: 1444
 Flags: MW
@@ -22605,7 +22604,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: similar.wide
+StartChar: tildecomb.wide
 Encoding: 1114274 -1 571
 Width: 555
 Flags: MW
@@ -22632,7 +22631,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: similar.wider
+StartChar: tildecomb.wider
 Encoding: 1114275 -1 572
 Width: 1000
 Flags: MW
@@ -22655,7 +22654,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: similar.widest
+StartChar: tildecomb.widest
 Encoding: 1114276 -1 573
 Width: 1444
 Flags: MW
@@ -25187,6 +25186,73 @@ SplineSet
  653 164 l 2
  663 169 670 170 675 170 c 0
  682 170 694 165 694 152 c 0
+EndSplineSet
+EndChar
+
+StartChar: hat
+Encoding: 770 770 663
+Width: 499
+Flags: W
+GlyphVariantsHorizontal: hat hat.wide hat.wider hat.widest
+HStem: 451 22 715 20<251 251>
+VStem: 0 495<464 486>
+LayerCount: 2
+Fore
+SplineSet
+251 735 m 1
+ 495 486 l 1
+ 456 459 l 1
+ 248 673 l 1
+ 23 452 l 1
+ 0 464 l 1
+ 251 735 l 1
+EndSplineSet
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 664
+Width: 555
+Flags: W
+GlyphVariantsHorizontal: tildecomb tildecomb.wide tildecomb.wider tildecomb.widest
+HStem: 608 43<368 383.5> 679 43<171.5 187>
+VStem: 0 555<625 705>
+LayerCount: 2
+Fore
+SplineSet
+555 705 m 1
+ 501 661 l 2
+ 484 647 464 636 444 626 c 0
+ 422 616 396 608 371 608 c 0
+ 331 608 300 625 271 642 c 0
+ 236 662 207 679 167 679 c 0
+ 116 679 63 649 14 608 c 1
+ 0 625 l 1
+ 54 669 l 2
+ 71 683 91 694 111 704 c 0
+ 133 714 159 722 184 722 c 0
+ 224 722 255 705 284 688 c 0
+ 319 668 348 651 388 651 c 0
+ 439 651 492 681 541 722 c 1
+ 555 705 l 1
+EndSplineSet
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 665
+Width: 499
+Flags: W
+HStem: 451 22 715 20<251 251>
+VStem: 0 495<464 486>
+LayerCount: 2
+Fore
+SplineSet
+251 735 m 1
+ 495 486 l 1
+ 456 459 l 1
+ 248 673 l 1
+ 23 452 l 1
+ 0 464 l 1
+ 251 735 l 1
 EndSplineSet
 EndChar
 EndChars
