@@ -18,7 +18,14 @@
   \usetypescript[cambria]
   \setupbodyfont[cambria]
 }
+\setupheader[state=empty]
 \starttext
+
+\midaligned{\bfd $Unicode\ Euler$}\blank[4*big]
+
+\startformula
+\pi(n) = \sum^{n}_{m=2}\left\lfloor\biggl(\sum^{m-1}_{k=1}\bigl\lfloor(m/k)\big/\lceil m/k\rceil\bigr\rfloor\biggr)^{-1}\right\rfloor
+\stopformula
 
 \startformula
 \pi(n) = \sum^{n}_{k=2}\left\lfloor\phi(k) \over k-1\right\rfloor
