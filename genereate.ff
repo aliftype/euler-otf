@@ -1,3 +1,11 @@
 #!/usr/bin/env fontforge
-Open("UnicodeEuler.sfd")
-Generate("UnicodeEuler.otf")
+if (Strtol($version) < 20090622)
+  Error("Please upgrade to fontforge 20090622 or later version")
+endif
+
+filename = "UnicodeEuler"
+Open(filename + ".sfd")
+
+Print("Generating " + filename + ".otf...")
+Generate(filename + ".otf")
+Print("Done")
