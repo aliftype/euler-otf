@@ -1,5 +1,5 @@
 MATH constants -- where does TeX store those values?
 Math accents
-Greek not shown in ConTeXt -- test with xelatex
+Selecting bold symboles in ConTeXt
 `\Bigg|' -- test with xelatex
 Script and ScriptScript glyphs
