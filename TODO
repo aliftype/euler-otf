@@ -1,5 +1,4 @@
-MATH constants -- where does TeX store those values?
 Math accents
-Selecting bold symboles in ConTeXt
+Selecting bold symbols in ConTeXt
 `\Bigg|' -- test with xelatex
 Script and ScriptScript glyphs
