@@ -3,7 +3,7 @@ if (Strtol($version) < 20090622)
   Error("Please upgrade to fontforge 20090622 or later version")
 endif
 
-filename = "UnicodeEuler"
+filename = $1:r
 Open(filename + ".sfd")
 
 Print("Generating " + filename + ".otf...")
