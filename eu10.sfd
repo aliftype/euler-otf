@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1246135361
+ModificationTime: 1246136053
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -40,6 +40,7 @@ HheadAOffset: 0
 HheadDescent: -200
 HheadDOffset: 0
 OS2Vendor: 'GNU '
+Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 
 MATH:ScriptPercentScaleDown: 70
@@ -118,7 +119,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115127 1431
+BeginChars: 1115177 1431
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -153,6 +154,7 @@ SplineSet
  110 -547 114 -546 126 -541 c 0
  257 -492 257 -431 257 -397 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007B.alt01.ssty1
 EndChar
 
 StartChar: uni007D.alt01
@@ -188,6 +190,7 @@ SplineSet
  474 -572 473 -572 457 -578 c 0
  327 -626 327 -690 327 -722 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007D.alt01.ssty1
 EndChar
 
 StartChar: uni007B.alt02
@@ -222,6 +225,7 @@ SplineSet
  490 -1759 400 -1708 367 -1677 c 0
  296 -1608 296 -1563 296 -1498 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007B.alt02.ssty1
 EndChar
 
 StartChar: uni007D.alt02
@@ -257,6 +261,7 @@ SplineSet
  119 -1729 119 -1723 127 -1719 c 0
  169 -1701 296 -1647 296 -1531 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007D.alt02.ssty1
 EndChar
 
 StartChar: uni007B.alt03
@@ -297,6 +302,7 @@ SplineSet
  584 -2359 582 -2359 565 -2351 c 0
  490 -2319 335 -2226 335 -2049 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007B.alt03.ssty1
 EndChar
 
 StartChar: uni007D.alt03
@@ -333,6 +339,7 @@ SplineSet
  177 -2298 235 -2265 276 -2214 c 0
  335 -2139 335 -2083 335 -2030 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007D.alt03.ssty1
 EndChar
 
 StartChar: uni007B.alt04
@@ -372,6 +379,7 @@ SplineSet
  623 -2959 621 -2959 608 -2951 c 1
  398 -2841 361 -2662 361 -2595 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007B.alt04.ssty1
 EndChar
 
 StartChar: uni007D.alt04
@@ -409,6 +417,7 @@ SplineSet
  298 -2829 337 -2718 350 -2669 c 0
  361 -2624 361 -2610 361 -2520 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007D.alt04.ssty1
 EndChar
 
 StartChar: uni21BC
@@ -431,6 +440,7 @@ SplineSet
  927 270 945 270 945 250 c 0
  945 230 928 230 910 230 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21BC.ssty1
 EndChar
 
 StartChar: uni21BD
@@ -452,6 +462,7 @@ SplineSet
  927 270 945 270 945 250 c 0
  945 230 928 230 910 230 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21BD.ssty1
 EndChar
 
 StartChar: uni21C0
@@ -473,6 +484,7 @@ SplineSet
  811 405 859 321 932 260 c 0
  944 249 945 248 945 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21C0.ssty1
 EndChar
 
 StartChar: uni21C1
@@ -495,6 +507,7 @@ SplineSet
  759 0 l 1
  772 110 826 187 864 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21C1.ssty1
 EndChar
 
 StartChar: uni2190
@@ -518,6 +531,7 @@ SplineSet
  927 270 945 270 945 250 c 0
  945 230 928 230 910 230 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2190.ssty1
 EndChar
 
 StartChar: uni2192
@@ -541,6 +555,7 @@ SplineSet
  759 0 l 1
  784 105 837 184 874 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2192.ssty1
 EndChar
 
 StartChar: uni2191
@@ -564,6 +579,7 @@ SplineSet
  472 508 l 1
  393 529 324 571 270 617 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2191.ssty1
 EndChar
 
 StartChar: uni2193
@@ -587,6 +603,7 @@ SplineSet
  230 676 230 694 250 694 c 0
  270 694 270 677 270 659 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2193.ssty1
 EndChar
 
 StartChar: uni2194
@@ -614,6 +631,7 @@ SplineSet
  759 0 l 1
  784 105 837 184 874 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2194.ssty1
 EndChar
 
 StartChar: uni2197
@@ -638,6 +656,7 @@ SplineSet
  990 386 l 1
  971 415 923 503 908 629 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2197.ssty1
 EndChar
 
 StartChar: uni2198
@@ -662,6 +681,7 @@ SplineSet
  637 -239 l 1
  666 -220 754 -172 880 -157 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2198.ssty1
 EndChar
 
 StartChar: uni21D0
@@ -691,6 +711,7 @@ SplineSet
  927 173 945 173 945 153 c 0
  945 133 927 133 910 133 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D0.ssty1
 EndChar
 
 StartChar: uni21D2
@@ -720,6 +741,7 @@ SplineSet
  811 211 843 234 868 250 c 1
  817 283 786 313 771 327 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D2.ssty1
 EndChar
 
 StartChar: uni21D1
@@ -751,6 +773,7 @@ SplineSet
  652 341 l 1
  583 369 520 405 450 468 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D1.ssty1
 EndChar
 
 StartChar: uni21D3
@@ -782,6 +805,7 @@ SplineSet
  410 675 410 694 430 694 c 0
  450 694 450 676 450 658 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D3.ssty1
 EndChar
 
 StartChar: uni21D4
@@ -816,6 +840,7 @@ SplineSet
  155 301 137 281 100 250 c 1
  137 219 155 199 179 173 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D4.ssty1
 EndChar
 
 StartChar: uni2196
@@ -840,6 +865,7 @@ SplineSet
  364 739 l 1
  335 720 247 672 121 657 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2196.ssty1
 EndChar
 
 StartChar: uni2199
@@ -864,6 +890,7 @@ SplineSet
  936 695 945 686 945 675 c 0
  945 670 945 666 931 652 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2199.ssty1
 EndChar
 
 StartChar: uni221E
@@ -899,6 +926,7 @@ SplineSet
  903 304 855 399 760 399 c 0
  672 399 597 335 539 234 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni221E.ssty1
 EndChar
 
 StartChar: uniF8F1
@@ -922,6 +950,7 @@ SplineSet
  718 -44 717 -45 712 -48 c 0
  558 -147 492 -301 492 -467 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8F1.ssty1
 EndChar
 
 StartChar: uniF8FC
@@ -945,6 +974,7 @@ SplineSet
  212 -1 l 1
  424 -119 492 -316 492 -445 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8FC.ssty1
 EndChar
 
 StartChar: uniF8F3
@@ -968,6 +998,7 @@ SplineSet
  717 -856 718 -857 718 -875 c 0
  718 -892 718 -898 708 -899 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8F3.ssty1
 EndChar
 
 StartChar: uniF8FE
@@ -991,6 +1022,7 @@ SplineSet
  170 -856 171 -855 176 -852 c 0
  364 -731 395 -541 395 -447 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8FE.ssty1
 EndChar
 
 StartChar: uniF8F2
@@ -1021,6 +1053,7 @@ SplineSet
  492 -519 471 -745 228 -900 c 1
  478 -1060 492 -1294 492 -1353 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8F2.ssty1
 EndChar
 
 StartChar: uniF8FD
@@ -1052,6 +1085,7 @@ SplineSet
  676 -949 613 -994 560 -1092 c 1
  511 -1180 492 -1276 492 -1375 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8FD.ssty1
 EndChar
 
 StartChar: uniF8F4
@@ -1073,6 +1107,7 @@ SplineSet
  463 10 l 2
  484 10 486 10 492 4 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF8F4.ssty1
 EndChar
 
 StartChar: uni222E.alt01
@@ -1125,6 +1160,7 @@ SplineSet
  319 -558 318 -569 318 -579 c 2
  318 -697 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni222E.alt01.ssty1
 EndChar
 
 StartChar: uni222E.alt02
@@ -1178,6 +1214,7 @@ SplineSet
  329 -908 329 -966 329 -1006 c 2
  329 -1336 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni222E.alt02.ssty1
 EndChar
 
 StartChar: uni2211.alt01
@@ -1207,6 +1244,7 @@ SplineSet
  489 -468 493 -474 493 -480 c 0
  493 -484 491 -488 484 -497 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2211.alt01.ssty1
 EndChar
 
 StartChar: uni220F.alt01
@@ -1240,6 +1278,7 @@ SplineSet
  985 -40 l 1
  882 -40 882 -89 882 -119 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni220F.alt01.ssty1
 EndChar
 
 StartChar: uni222B.alt01
@@ -1276,6 +1315,7 @@ SplineSet
  316 -31 316 -132 316 -254 c 0
  316 -302 319 -519 319 -549 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni222B.alt01.ssty1
 EndChar
 
 StartChar: uni2211.alt02
@@ -1305,6 +1345,7 @@ SplineSet
  1361 -1282 l 1
  1347 -1400 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2211.alt02.ssty1
 EndChar
 
 StartChar: uni220F.alt02
@@ -1338,6 +1379,7 @@ SplineSet
  873 -1346 l 1
  1005 -1346 1037 -1301 1037 -1236 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni220F.alt02.ssty1
 EndChar
 
 StartChar: uni222B.alt02
@@ -1378,6 +1420,7 @@ SplineSet
  249 -1556 l 1
  247 -1452 245 -1347 245 -1242 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni222B.alt02.ssty1
 EndChar
 
 StartChar: uni2210.alt01
@@ -1411,6 +1454,7 @@ SplineSet
  985 -40 l 1
  882 -40 882 -89 882 -119 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2210.alt01.ssty1
 EndChar
 
 StartChar: uni2210.alt02
@@ -1444,6 +1488,7 @@ SplineSet
  1190 -1300 1221 -1346 1354 -1346 c 1
  1354 -1400 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2210.alt02.ssty1
 EndChar
 
 StartChar: uni2195
@@ -1471,6 +1516,7 @@ SplineSet
  472 586 l 1
  393 607 324 649 270 695 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2195.ssty1
 EndChar
 
 StartChar: uni21D5
@@ -1505,6 +1551,7 @@ SplineSet
  371 653 338 696 333 702 c 1
  326 693 293 652 256 618 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D5.ssty1
 EndChar
 
 StartChar: bracehtipdownleft
@@ -1527,6 +1574,7 @@ SplineSet
  80 -6 253 97 454 97 c 1
  460 91 460 89 460 68 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" bracehtipdownleft.ssty1
 EndChar
 
 StartChar: bracehtipdownright
@@ -1549,6 +1597,7 @@ SplineSet
  -10 89 -10 91 -4 97 c 1
  208 97 376 -15 474 -183 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" bracehtipdownright.ssty1
 EndChar
 
 StartChar: bracehtipupleft
@@ -1571,6 +1620,7 @@ SplineSet
  262 120 349 100 436 98 c 0
  460 97 460 96 460 68 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" bracehtipupleft.ssty1
 EndChar
 
 StartChar: bracehtipupright
@@ -1594,6 +1644,7 @@ SplineSet
  431 322 433 322 450 322 c 0
  467 322 473 322 474 312 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" bracehtipupright.ssty1
 EndChar
 
 StartChar: uni0020
@@ -1638,6 +1689,7 @@ SplineSet
  90 267 93 315 100 364 c 1
  148 403 205 435 262 465 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D589.alt.ssty1 u1D589.alt.ssty2
 EndChar
 
 StartChar: u1D58B.alt01
@@ -1680,6 +1732,7 @@ SplineSet
  405 676 l 1
  408 655 l 1xe0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58B.alt01.ssty1 u1D58B.alt01.ssty2
 EndChar
 
 StartChar: u1D58B.alt02
@@ -1719,6 +1772,7 @@ SplineSet
  175 551 191 517 211 486 c 0
  227 460 238 438 251 405 c 1xa0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58B.alt02.ssty1 u1D58B.alt02.ssty2
 EndChar
 
 StartChar: u1D58C.alt
@@ -1761,6 +1815,7 @@ SplineSet
  235 105 269 79 289 65 c 1
  383 124 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58C.alt.ssty1 u1D58C.alt.ssty2
 EndChar
 
 StartChar: u1D590.alt
@@ -1804,6 +1859,7 @@ SplineSet
  245 497 239 496 234 492 c 0
  218 477 218 437 218 405 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D590.alt.ssty1 u1D590.alt.ssty2
 EndChar
 
 StartChar: u1D599.alt
@@ -1837,6 +1893,7 @@ SplineSet
  254 577 l 1
  250 521 242 406 242 405 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D599.alt.ssty1 u1D599.alt.ssty2
 EndChar
 
 StartChar: u1D584.alt
@@ -1908,6 +1965,7 @@ SplineSet
  67 572 91 596 116 618 c 0
  161 656 225 681 300 681 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D584.alt.ssty1 u1D584.alt.ssty2
 EndChar
 
 StartChar: u1D585.alt
@@ -1964,6 +2022,7 @@ SplineSet
  208 291 l 1
  252 360 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D585.alt.ssty1 u1D585.alt.ssty2
 EndChar
 
 StartChar: uni2018
@@ -1989,6 +2048,7 @@ SplineSet
  53 566 67 588 82 609 c 0
  107 644 135 677 166 709 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2018.ssty1 uni2018.ssty2
 EndChar
 
 StartChar: uni2019
@@ -2014,6 +2074,7 @@ SplineSet
  192 537 178 515 163 494 c 0
  138 459 110 426 79 394 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2019.ssty1 uni2019.ssty2
 EndChar
 
 StartChar: uni0021
@@ -2042,6 +2103,7 @@ SplineSet
  220 672 224 658 224 644 c 0
  224 615 221 586 217 557 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0021.ssty1 uni0021.ssty2
 EndChar
 
 StartChar: uni0026
@@ -2103,6 +2165,7 @@ SplineSet
  284 627 278 601 278 576 c 0
  278 530 293 485 319 445 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0026.ssty1 uni0026.ssty2
 EndChar
 
 StartChar: uni0027
@@ -2125,6 +2188,7 @@ SplineSet
  123 436 l 1
  104 436 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0027.ssty1 uni0027.ssty2
 EndChar
 
 StartChar: uni0028
@@ -2153,6 +2217,7 @@ SplineSet
  250 -88 260 -107 276 -123 c 0
  296 -143 319 -165 347 -172 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0028.ssty1 uni0028.ssty2
 EndChar
 
 StartChar: uni0029
@@ -2181,6 +2246,7 @@ SplineSet
  229 564 213 617 177 662 c 1
  158 684 134 703 105 715 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0029.ssty1 uni0029.ssty2
 EndChar
 
 StartChar: uni002A
@@ -2212,6 +2278,7 @@ SplineSet
  231 508 206 526 174 548 c 1
  176 506 178 492 188 449 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002A.ssty1 uni002A.ssty2
 EndChar
 
 StartChar: uni002B
@@ -2237,6 +2304,7 @@ SplineSet
  472 598 l 1
  472 288 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002B.ssty1 uni002B.ssty2
 EndChar
 
 StartChar: uni002C
@@ -2265,6 +2333,7 @@ SplineSet
  213 -130 191 -163 148 -214 c 1
  145 -217 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002C.ssty1 uni002C.ssty2
 EndChar
 
 StartChar: uni2212
@@ -2281,6 +2350,7 @@ SplineSet
  834 281 l 1
  818 231 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2212.ssty1 uni2212.ssty2
 EndChar
 
 StartChar: uni002E
@@ -2298,6 +2368,7 @@ SplineSet
  129 -15 97 17 97 57 c 0
  97 97 129 129 169 129 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002E.ssty1 uni002E.ssty2
 EndChar
 
 StartChar: uni002F
@@ -2318,6 +2389,7 @@ SplineSet
  516 725 l 1
  541 719 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
 StartChar: u1D7CE.onum
@@ -2350,6 +2422,7 @@ SplineSet
  428 269 394 322 346 363 c 0
  316 389 274 414 233 424 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7CE.onum.ssty1 u1D7CE.onum.ssty2
 EndChar
 
 StartChar: u1D7CF.onum
@@ -2379,6 +2452,7 @@ SplineSet
  237 422 213 434 188 438 c 2
  97 451 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7CF.onum.ssty1 u1D7CF.onum.ssty2
 EndChar
 
 StartChar: u1D7D0.onum
@@ -2413,6 +2487,7 @@ SplineSet
  564 102 l 1
  537 1 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D0.onum.ssty1 u1D7D0.onum.ssty2
 EndChar
 
 StartChar: u1D7D1.onum
@@ -2451,6 +2526,7 @@ SplineSet
  466 334 448 297 417 270 c 0
  387 245 353 225 314 212 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D1.onum.ssty1 u1D7D1.onum.ssty2
 EndChar
 
 StartChar: u1D7D2.onum
@@ -2483,6 +2559,7 @@ SplineSet
  276 307 182 177 110 68 c 1
  110 57 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D2.onum.ssty1 u1D7D2.onum.ssty2
 EndChar
 
 StartChar: u1D7D3.onum
@@ -2517,6 +2594,7 @@ SplineSet
  95 481 l 1
  516 481 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D3.onum.ssty1 u1D7D3.onum.ssty2
 EndChar
 
 StartChar: u1D7D4.onum
@@ -2556,6 +2634,7 @@ SplineSet
  365 310 327 322 288 322 c 0
  247 322 213 311 173 286 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D4.onum.ssty1 u1D7D4.onum.ssty2
 EndChar
 
 StartChar: u1D7D5.onum
@@ -2580,6 +2659,7 @@ SplineSet
  591 456 l 1
  424 251 285 30 169 -198 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D5.onum.ssty1 u1D7D5.onum.ssty2
 EndChar
 
 StartChar: u1D7D6.onum
@@ -2627,6 +2707,7 @@ SplineSet
  198 548 216 524 233 507 c 0
  262 476 294 450 333 424 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D6.onum.ssty1 u1D7D6.onum.ssty2
 EndChar
 
 StartChar: u1D7D7.onum
@@ -2666,6 +2747,7 @@ SplineSet
  250 122 283 115 314 115 c 0
  338 115 365 115 383 130 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D7.onum.ssty1 u1D7D7.onum.ssty2
 EndChar
 
 StartChar: uni003A
@@ -2688,6 +2770,7 @@ SplineSet
  88 -16 55 17 55 57 c 0
  55 97 88 129 127 129 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003A.ssty1 uni003A.ssty2
 EndChar
 
 StartChar: uni003B
@@ -2721,6 +2804,7 @@ SplineSet
  171 -130 149 -163 106 -214 c 1
  103 -217 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003B.ssty1 uni003B.ssty2
 EndChar
 
 StartChar: uni003D
@@ -2742,6 +2826,7 @@ SplineSet
  559 214 l 1
  549 164 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003D.ssty1 uni003D.ssty2
 EndChar
 
 StartChar: uni003F
@@ -2784,6 +2869,7 @@ SplineSet
  121 575 129 559 141 546 c 2
  153 534 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003F.ssty1 uni003F.ssty2
 EndChar
 
 StartChar: u1D56C
@@ -2842,6 +2928,7 @@ SplineSet
  656 -26 l 1
  583 124 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D56C.ssty1 u1D56C.ssty2
 EndChar
 
 StartChar: u1D56D
@@ -2921,6 +3008,7 @@ SplineSet
  527 490 528 462 528 419 c 0
  528 394 527 368 526 346 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D56D.ssty1 u1D56D.ssty2
 EndChar
 
 StartChar: u1D56E
@@ -2971,6 +3059,7 @@ SplineSet
  71 368 89 429 118 485 c 1
  139 501 242 562 313 593 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D56E.ssty1 u1D56E.ssty2
 EndChar
 
 StartChar: u1D56F
@@ -3025,6 +3114,7 @@ SplineSet
  276 453 289 467 306 481 c 0
  339 506 375 529 413 549 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D56F.ssty1 u1D56F.ssty2
 EndChar
 
 StartChar: u1D570
@@ -3082,6 +3172,7 @@ SplineSet
  484 444 492 408 492 381 c 1
  614 461 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D570.ssty1 u1D570.ssty2
 EndChar
 
 StartChar: u1D571
@@ -3146,6 +3237,7 @@ SplineSet
  364 404 373 386 383 368 c 0
  398 343 417 321 438 299 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D571.ssty1 u1D571.ssty2
 EndChar
 
 StartChar: u1D572
@@ -3204,6 +3296,7 @@ SplineSet
  427 266 406 255 385 246 c 0
  354 233 326 224 293 214 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D572.ssty1 u1D572.ssty2
 EndChar
 
 StartChar: u1D573
@@ -3260,6 +3353,7 @@ SplineSet
  360 291 382 237 382 205 c 0
  382 178 375 147 354 127 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D573.ssty1 u1D573.ssty2
 EndChar
 
 StartChar: u1D574
@@ -3309,6 +3403,7 @@ SplineSet
  187 -25 143 -4 107 22 c 1
  45 -16 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D574.ssty1 u1D574.ssty2
 EndChar
 
 StartChar: u1D575
@@ -3362,6 +3457,7 @@ SplineSet
  90 70 75 76 59 76 c 0
  39 76 19 68 1 59 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D575.ssty1 u1D575.ssty2
 EndChar
 
 StartChar: u1D576
@@ -3431,6 +3527,7 @@ SplineSet
  334 375 314 343 300 314 c 1
  308 288 316 256 323 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D576.ssty1 u1D576.ssty2
 EndChar
 
 StartChar: u1D577
@@ -3488,6 +3585,7 @@ SplineSet
  369 311 372 295 372 279 c 0
  372 274 371 262 367 257 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D577.ssty1 u1D577.ssty2
 EndChar
 
 StartChar: u1D578
@@ -3584,6 +3682,7 @@ SplineSet
  1171 85 1203 87 1223 94 c 1
  1223 76 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D578.ssty1 u1D578.ssty2
 EndChar
 
 StartChar: u1D579
@@ -3658,6 +3757,7 @@ SplineSet
  968 542 l 1
  939 529 902 505 860 476 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D579.ssty1 u1D579.ssty2
 EndChar
 
 StartChar: u1D57A
@@ -3715,6 +3815,7 @@ SplineSet
  389 572 374 572 360 572 c 0
  314 572 296 598 296 608 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57A.ssty1 u1D57A.ssty2
 EndChar
 
 StartChar: u1D57B
@@ -3798,6 +3899,7 @@ SplineSet
  606 612 574 595 548 573 c 0
  538 564 513 540 494 518 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57B.ssty1 u1D57B.ssty2
 EndChar
 
 StartChar: u1D57C
@@ -3861,6 +3963,7 @@ SplineSet
  881 292 852 208 800 134 c 1
  778 110 744 86 716 66 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57C.ssty1 u1D57C.ssty2
 EndChar
 
 StartChar: u1D57D
@@ -3943,6 +4046,7 @@ SplineSet
  565 376 626 401 678 405 c 1
  778 458 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57D.ssty1 u1D57D.ssty2
 EndChar
 
 StartChar: u1D57E
@@ -3996,6 +4100,7 @@ SplineSet
  702 495 684 490 665 490 c 0
  639 490 616 502 594 513 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57E.ssty1 u1D57E.ssty2
 EndChar
 
 StartChar: u1D57F
@@ -4047,6 +4152,7 @@ SplineSet
  718 641 766 664 798 691 c 1
  798 659 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D57F.ssty1 u1D57F.ssty2
 EndChar
 
 StartChar: u1D580
@@ -4103,6 +4209,7 @@ SplineSet
  369 335 371 318 371 301 c 0
  371 283 369 266 363 249 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D580.ssty1 u1D580.ssty2
 EndChar
 
 StartChar: u1D581
@@ -4181,6 +4288,7 @@ SplineSet
  506 481 507 466 507 452 c 0
  507 387 495 322 462 262 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D581.ssty1 u1D581.ssty2
 EndChar
 
 StartChar: u1D582
@@ -4275,6 +4383,7 @@ SplineSet
  809 496 814 451 814 414 c 0
  814 344 794 277 764 212 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D582.ssty1 u1D582.ssty2
 EndChar
 
 StartChar: u1D583
@@ -4331,6 +4440,7 @@ SplineSet
  808 590 824 594 835 597 c 1
  835 578 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D583.ssty1 u1D583.ssty2
 EndChar
 
 StartChar: u1D584
@@ -4405,6 +4515,7 @@ SplineSet
  383 467 360 536 302 585 c 0
  279 605 253 622 217 622 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D584.ssty1 u1D584.ssty2
 EndChar
 
 StartChar: u1D585
@@ -4464,6 +4575,7 @@ SplineSet
  203 690 206 681 214 674 c 0
  224 666 239 664 253 664 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D585.ssty1 u1D585.ssty2
 EndChar
 
 StartChar: uni005B
@@ -4485,6 +4597,7 @@ SplineSet
  82 736 162 736 226 736 c 1
  226 712 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005B.ssty1 uni005B.ssty2
 EndChar
 
 StartChar: uni005D
@@ -4506,6 +4619,7 @@ SplineSet
  158 -92 l 1
  158 700 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005D.ssty1 uni005D.ssty2
 EndChar
 
 StartChar: uni005E
@@ -4525,6 +4639,7 @@ SplineSet
  0 464 l 1
  296 735 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005E.ssty1 uni005E.ssty2
 EndChar
 
 StartChar: u1D586
@@ -4561,6 +4676,7 @@ SplineSet
  223 113 250 86 279 66 c 1
  293 66 342 93 368 110 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D586.ssty1 u1D586.ssty2
 EndChar
 
 StartChar: u1D587
@@ -4600,6 +4716,7 @@ SplineSet
  385 205 386 229 386 252 c 0
  386 284 384 315 380 347 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D587.ssty1 u1D587.ssty2
 EndChar
 
 StartChar: u1D588
@@ -4627,6 +4744,7 @@ SplineSet
  295 473 l 1
  341 465 385 451 424 429 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D588.ssty1 u1D588.ssty2
 EndChar
 
 StartChar: u1D589
@@ -4661,6 +4779,7 @@ SplineSet
  85 209 87 269 92 335 c 1
  139 378 203 424 257 459 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D589.ssty1 u1D589.ssty2
 EndChar
 
 StartChar: u1D58A
@@ -4689,6 +4808,7 @@ SplineSet
  285 340 222 387 207 399 c 1
  192 330 186 285 186 214 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58A.ssty1 u1D58A.ssty2
 EndChar
 
 StartChar: u1D58B
@@ -4731,6 +4851,7 @@ SplineSet
  217 463 230 450 240 435 c 0
  247 424 249 419 253 405 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58B.ssty1 u1D58B.ssty2
 EndChar
 
 StartChar: u1D58C
@@ -4775,6 +4896,7 @@ SplineSet
  240 107 270 78 305 62 c 1
  383 111 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58C.ssty1 u1D58C.ssty2
 EndChar
 
 StartChar: u1D58D
@@ -4815,6 +4937,7 @@ SplineSet
  298 665 287 658 276 649 c 0
  231 612 220 559 220 507 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58D.ssty1 u1D58D.ssty2
 EndChar
 
 StartChar: u1D58E
@@ -4849,6 +4972,7 @@ SplineSet
  162 540 l 1
  130 562 100 587 73 613 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58E.ssty1 u1D58E.ssty2
 EndChar
 
 StartChar: u1D58F
@@ -4881,6 +5005,7 @@ SplineSet
  155 683 l 1
  165 673 208 637 235 614 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58F.ssty1 u1D58F.ssty2
 EndChar
 
 StartChar: u1D590
@@ -4929,6 +5054,7 @@ SplineSet
  240 469 236 449 234 432 c 0
  231 404 230 375 230 346 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D590.ssty1 u1D590.ssty2
 EndChar
 
 StartChar: u1D591
@@ -4957,6 +5083,7 @@ SplineSet
  266 83 289 92 306 101 c 1
  315 86 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D591.ssty1 u1D591.ssty2
 EndChar
 
 StartChar: u1D592
@@ -5010,6 +5137,7 @@ SplineSet
  420 451 465 429 514 416 c 1
  513 403 511 377 511 376 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D592.ssty1 u1D592.ssty2
 EndChar
 
 StartChar: u1D593
@@ -5048,6 +5176,7 @@ SplineSet
  213 350 l 1
  213 348 213 204 214 129 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D593.ssty1 u1D593.ssty2
 EndChar
 
 StartChar: u1D594
@@ -5077,6 +5206,7 @@ SplineSet
  225 203 228 167 232 131 c 1
  274 98 322 69 377 55 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D594.ssty1 u1D594.ssty2
 EndChar
 
 StartChar: u1D595
@@ -5118,6 +5248,7 @@ SplineSet
  404 252 400 302 394 349 c 1
  361 363 318 381 283 391 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D595.ssty1 u1D595.ssty2
 EndChar
 
 StartChar: u1D596
@@ -5151,6 +5282,7 @@ SplineSet
  313 76 345 94 373 110 c 1
  373 193 373 283 378 358 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D596.ssty1 u1D596.ssty2
 EndChar
 
 StartChar: u1D597
@@ -5190,6 +5322,7 @@ SplineSet
  348 318 345 316 339 316 c 0
  324 316 316 322 301 334 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D597.ssty1 u1D597.ssty2
 EndChar
 
 StartChar: u1D598
@@ -5233,6 +5366,7 @@ SplineSet
  411 428 447 445 471 461 c 1
  482 442 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D598.ssty1 u1D598.ssty2
 EndChar
 
 StartChar: u1D599
@@ -5267,6 +5401,7 @@ SplineSet
  337 359 l 1
  245 359 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D599.ssty1 u1D599.ssty2
 EndChar
 
 StartChar: u1D59A
@@ -5306,6 +5441,7 @@ SplineSet
  374 98 l 1
  374 201 374 312 370 424 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59A.ssty1 u1D59A.ssty2
 EndChar
 
 StartChar: u1D59B
@@ -5345,6 +5481,7 @@ SplineSet
  389 291 388 320 386 349 c 1
  355 365 299 389 288 389 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59B.ssty1 u1D59B.ssty2
 EndChar
 
 StartChar: u1D59C
@@ -5398,6 +5535,7 @@ SplineSet
  696 233 697 284 697 336 c 1
  664 353 601 378 591 378 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59C.ssty1 u1D59C.ssty2
 EndChar
 
 StartChar: u1D59D
@@ -5445,6 +5583,7 @@ SplineSet
  346 68 390 86 421 100 c 1
  423 82 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59D.ssty1 u1D59D.ssty2
 EndChar
 
 StartChar: u1D59E
@@ -5488,6 +5627,7 @@ SplineSet
  371 478 l 1
  416 453 463 431 512 412 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59E.ssty1 u1D59E.ssty2
 EndChar
 
 StartChar: u1D59F
@@ -5528,6 +5668,7 @@ SplineSet
  245 -121 259 -90 259 -4 c 0
  259 29 257 70 252 120 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D59F.ssty1 u1D59F.ssty2
 EndChar
 
 StartChar: uni0022
@@ -5560,6 +5701,7 @@ SplineSet
  208 432 l 1
  183 432 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0022.ssty1 uni0022.ssty2
 EndChar
 
 StartChar: uni0031.alt
@@ -5585,6 +5727,7 @@ SplineSet
  371 560 364 422 364 284 c 0
  364 200 364 96 368 32 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0031.alt.ssty1 uni0031.alt.ssty2
 EndChar
 
 StartChar: u1D521.alt01
@@ -5626,6 +5769,7 @@ SplineSet
  348 226 349 246 349 267 c 0
  349 301 346 338 341 371 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D521.alt01.ssty1 u1D521.alt01.ssty2
 EndChar
 
 StartChar: u1D521.alt02
@@ -5658,6 +5802,7 @@ SplineSet
  127 397 171 429 215 460 c 1
  234 451 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D521.alt02.ssty1 u1D521.alt02.ssty2
 EndChar
 
 StartChar: u1D523.alt01
@@ -5697,6 +5842,7 @@ SplineSet
  315 648 317 649 319 651 c 2
  339 665 l 1xe0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D523.alt01.ssty1 u1D523.alt01.ssty2
 EndChar
 
 StartChar: u1D523.alt02
@@ -5733,6 +5879,7 @@ SplineSet
  312 351 l 1
  208 351 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D523.alt02.ssty1 u1D523.alt02.ssty2
 EndChar
 
 StartChar: u1D524.alt
@@ -5776,6 +5923,7 @@ SplineSet
  155 204 157 163 161 122 c 1
  180 99 207 67 230 48 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D524.alt.ssty1 u1D524.alt.ssty2
 EndChar
 
 StartChar: u1D528.alt
@@ -5818,6 +5966,7 @@ SplineSet
  262 351 l 1
  168 351 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D528.alt.ssty1 u1D528.alt.ssty2
 EndChar
 
 StartChar: u1D531.alt
@@ -5850,6 +5999,7 @@ SplineSet
  288 71 324 91 342 101 c 1
  348 84 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D531.alt.ssty1 u1D531.alt.ssty2
 EndChar
 
 StartChar: u1D532.alt
@@ -5892,6 +6042,7 @@ SplineSet
  340 316 338 369 336 424 c 1
  421 468 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D532.alt.ssty1 u1D532.alt.ssty2
 EndChar
 
 StartChar: uni0030.onum
@@ -5922,6 +6073,7 @@ SplineSet
  381 267 361 321 322 360 c 0
  294 388 236 415 195 418 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0030.onum.ssty1 uni0030.onum.ssty2
 EndChar
 
 StartChar: uni0031.onum
@@ -5954,6 +6106,7 @@ SplineSet
  103 460 l 1
  169 460 234 462 299 469 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0031.onum.ssty1 uni0031.onum.ssty2
 EndChar
 
 StartChar: uni0032.onum
@@ -5988,6 +6141,7 @@ SplineSet
  176 65 186 65 192 65 c 0
  287 68 474 73 475 73 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0032.onum.ssty1 uni0032.onum.ssty2
 EndChar
 
 StartChar: uni0033.onum
@@ -6029,6 +6183,7 @@ SplineSet
  385 331 370 296 344 270 c 0
  319 245 279 224 246 210 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0033.onum.ssty1 uni0033.onum.ssty2
 EndChar
 
 StartChar: uni0034.onum
@@ -6062,6 +6217,7 @@ SplineSet
  206 264 138 155 79 41 c 1
  83 41 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0034.onum.ssty1 uni0034.onum.ssty2
 EndChar
 
 StartChar: uni0035.onum
@@ -6096,6 +6252,7 @@ SplineSet
  81 458 l 1
  421 458 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0035.onum.ssty1 uni0035.onum.ssty2
 EndChar
 
 StartChar: uni0036.onum
@@ -6135,6 +6292,7 @@ SplineSet
  323 303 271 318 246 318 c 0
  193 318 168 302 132 275 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0036.onum.ssty1 uni0036.onum.ssty2
 EndChar
 
 StartChar: uni0037.onum
@@ -6159,6 +6317,7 @@ SplineSet
  90 468 l 1
  159 460 228 458 297 458 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0037.onum.ssty1 uni0037.onum.ssty2
 EndChar
 
 StartChar: uni0038.onum
@@ -6206,6 +6365,7 @@ SplineSet
  164 537 177 513 193 492 c 1
  214 462 253 430 283 410 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0038.onum.ssty1 uni0038.onum.ssty2
 EndChar
 
 StartChar: uni0039.onum
@@ -6243,6 +6403,7 @@ SplineSet
  190 105 217 94 246 94 c 0
  280 94 315 101 339 125 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0039.onum.ssty1 uni0039.onum.ssty2
 EndChar
 
 StartChar: u1D504
@@ -6305,6 +6466,7 @@ SplineSet
  429 606 448 563 448 516 c 0
  448 448 430 380 400 319 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D504.ssty1 u1D504.ssty2
 EndChar
 
 StartChar: u1D505
@@ -6372,6 +6534,7 @@ SplineSet
  506 341 479 336 454 325 c 1
  450 284 440 244 421 207 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D505.ssty1 u1D505.ssty2
 EndChar
 
 StartChar: uni212D
@@ -6420,6 +6583,7 @@ SplineSet
  59 382 74 444 102 500 c 1
  153 539 208 575 267 601 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni212D.ssty1 uni212D.ssty2
 EndChar
 
 StartChar: u1D507
@@ -6474,6 +6638,7 @@ SplineSet
  232 453 246 469 261 484 c 0
  292 515 329 539 368 559 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D507.ssty1 u1D507.ssty2
 EndChar
 
 StartChar: u1D508
@@ -6531,6 +6696,7 @@ SplineSet
  86 382 101 444 128 500 c 1
  180 539 234 575 293 601 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D508.ssty1 u1D508.ssty2
 EndChar
 
 StartChar: u1D509
@@ -6595,6 +6761,7 @@ SplineSet
  309 397 316 379 324 364 c 0
  337 340 352 315 368 293 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D509.ssty1 u1D509.ssty2
 EndChar
 
 StartChar: u1D50A
@@ -6651,6 +6818,7 @@ SplineSet
  402 352 397 303 365 271 c 0
  329 236 283 221 235 213 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D50A.ssty1 u1D50A.ssty2
 EndChar
 
 StartChar: uni210C
@@ -6706,6 +6874,7 @@ SplineSet
  551 -63 475 -133 437 -133 c 0
  411 -133 386 -125 368 -107 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni210C.ssty1 uni210C.ssty2
 EndChar
 
 StartChar: uni2111
@@ -6754,6 +6923,7 @@ SplineSet
  155 -27 123 -3 96 21 c 1
  43 -16 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2111.ssty1 uni2111.ssty2
 EndChar
 
 StartChar: u1D50D
@@ -6808,6 +6978,7 @@ SplineSet
  83 72 69 80 54 80 c 0
  34 80 4 71 -13 60 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D50D.ssty1 u1D50D.ssty2
 EndChar
 
 StartChar: u1D50E
@@ -6877,6 +7048,7 @@ SplineSet
  302 384 285 357 267 327 c 1
  278 299 284 261 289 230 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D50E.ssty1 u1D50E.ssty2
 EndChar
 
 StartChar: u1D50F
@@ -6935,6 +7107,7 @@ SplineSet
  506 64 550 70 581 101 c 0
  607 127 619 162 629 197 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D50F.ssty1 u1D50F.ssty2
 EndChar
 
 StartChar: u1D510
@@ -7032,6 +7205,7 @@ SplineSet
  394 604 405 583 414 561 c 1
  417 563 419 566 421 569 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D510.ssty1 u1D510.ssty2
 EndChar
 
 StartChar: u1D511
@@ -7106,6 +7280,7 @@ SplineSet
  309 685 352 651 382 614 c 0
  398 595 412 564 422 533 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D511.ssty1 u1D511.ssty2
 EndChar
 
 StartChar: u1D512
@@ -7164,6 +7339,7 @@ SplineSet
  574 566 551 576 527 584 c 0
  496 593 464 596 432 596 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D512.ssty1 u1D512.ssty2
 EndChar
 
 StartChar: u1D513
@@ -7245,6 +7421,7 @@ SplineSet
  286 685 329 651 359 614 c 0
  376 594 389 567 398 540 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D513.ssty1 u1D513.ssty2
 EndChar
 
 StartChar: u1D514
@@ -7312,6 +7489,7 @@ SplineSet
  574 566 551 576 527 584 c 0
  496 593 464 596 432 596 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D514.ssty1 u1D514.ssty2
 EndChar
 
 StartChar: uni211C
@@ -7391,6 +7569,7 @@ SplineSet
  309 686 352 652 382 615 c 0
  397 597 409 573 418 548 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni211C.ssty1 uni211C.ssty2
 EndChar
 
 StartChar: u1D516
@@ -7443,6 +7622,7 @@ SplineSet
  229 417 242 443 261 463 c 1
  283 484 310 500 339 508 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D516.ssty1 u1D516.ssty2
 EndChar
 
 StartChar: u1D517
@@ -7500,6 +7680,7 @@ SplineSet
  496 58 517 67 536 78 c 0
  562 92 586 112 607 133 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D517.ssty1 u1D517.ssty2
 EndChar
 
 StartChar: u1D518
@@ -7555,6 +7736,7 @@ SplineSet
  522 -27 l 1
  455 120 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D518.ssty1 u1D518.ssty2
 EndChar
 
 StartChar: u1D519
@@ -7626,6 +7808,7 @@ SplineSet
  399 594 416 555 425 526 c 1
  438 548 453 570 480 601 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D519.ssty1 u1D519.ssty2
 EndChar
 
 StartChar: u1D51A
@@ -7719,6 +7902,7 @@ SplineSet
  301 686 344 652 374 615 c 0
  388 598 400 575 409 551 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D51A.ssty1 u1D51A.ssty2
 EndChar
 
 StartChar: u1D51B
@@ -7780,6 +7964,7 @@ SplineSet
  127 547 107 527 95 512 c 1
  78 527 l 1x18
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D51B.ssty1 u1D51B.ssty2
 EndChar
 
 StartChar: u1D51C
@@ -7851,6 +8036,7 @@ SplineSet
  308 200 323 233 334 267 c 0
  347 309 353 353 353 397 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D51C.ssty1 u1D51C.ssty2
 EndChar
 
 StartChar: uni2128
@@ -7911,6 +8097,7 @@ SplineSet
  251 319 220 312 192 298 c 1
  181 309 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2128.ssty1 uni2128.ssty2
 EndChar
 
 StartChar: u1D51E
@@ -7949,6 +8136,7 @@ SplineSet
  209 55 212 55 215 55 c 0
  230 55 269 78 329 119 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D51E.ssty1 u1D51E.ssty2
 EndChar
 
 StartChar: u1D51F
@@ -7988,6 +8176,7 @@ SplineSet
  350 352 327 364 274 386 c 1
  243 382 205 353 178 332 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D51F.ssty1 u1D51F.ssty2
 EndChar
 
 StartChar: u1D520
@@ -8015,6 +8204,7 @@ SplineSet
  278 68 317 89 351 109 c 1
  359 92 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D520.ssty1 u1D520.ssty2
 EndChar
 
 StartChar: u1D521
@@ -8054,6 +8244,7 @@ SplineSet
  430 297 429 267 427 249 c 0
  423 201 419 153 401 109 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D521.ssty1 u1D521.ssty2
 EndChar
 
 StartChar: u1D522
@@ -8085,6 +8276,7 @@ SplineSet
  166 397 160 375 158 369 c 0
  149 337 148 246 148 193 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D522.ssty1 u1D522.ssty2
 EndChar
 
 StartChar: u1D523
@@ -8127,6 +8319,7 @@ SplineSet
  312 351 l 1
  206 351 l 1xa0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D523.ssty1 u1D523.ssty2
 EndChar
 
 StartChar: u1D524
@@ -8172,6 +8365,7 @@ SplineSet
  155 215 156 169 160 124 c 1
  175 95 203 64 228 41 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D524.ssty1 u1D524.ssty2
 EndChar
 
 StartChar: u1D525
@@ -8211,6 +8405,7 @@ SplineSet
  363 -97 306 -150 244 -198 c 1
  228 -184 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D525.ssty1 u1D525.ssty2
 EndChar
 
 StartChar: u1D526
@@ -8244,6 +8439,7 @@ SplineSet
  92 637 114 654 132 675 c 1
  150 654 172 628 187 616 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D526.ssty1 u1D526.ssty2
 EndChar
 
 StartChar: u1D527
@@ -8276,6 +8472,7 @@ SplineSet
  132 673 l 1
  148 652 164 633 183 615 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D527.ssty1 u1D527.ssty2
 EndChar
 
 StartChar: u1D528
@@ -8323,6 +8520,7 @@ SplineSet
  181 460 178 442 176 424 c 0
  173 399 173 370 173 343 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D528.ssty1 u1D528.ssty2
 EndChar
 
 StartChar: u1D529
@@ -8350,6 +8548,7 @@ SplineSet
  133 594 l 1
  261 686 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D529.ssty1 u1D529.ssty2
 EndChar
 
 StartChar: u1D52A
@@ -8402,6 +8601,7 @@ SplineSet
  135 455 168 421 168 420 c 2
  168 376 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52A.ssty1 u1D52A.ssty2
 EndChar
 
 StartChar: u1D52B
@@ -8443,6 +8643,7 @@ SplineSet
  134 457 157 439 176 425 c 1
  176 367 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52B.ssty1 u1D52B.ssty2
 EndChar
 
 StartChar: u1D52C
@@ -8473,6 +8674,7 @@ SplineSet
  170 102 189 83 211 68 c 0
  229 56 247 47 268 44 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52C.ssty1 u1D52C.ssty2
 EndChar
 
 StartChar: u1D52D
@@ -8517,6 +8719,7 @@ SplineSet
  318 366 277 381 247 391 c 1
  218 380 193 364 166 347 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52D.ssty1 u1D52D.ssty2
 EndChar
 
 StartChar: u1D52E
@@ -8552,6 +8755,7 @@ SplineSet
  139 137 140 130 145 125 c 0
  167 103 195 71 218 50 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52E.ssty1 u1D52E.ssty2
 EndChar
 
 StartChar: u1D52F
@@ -8591,6 +8795,7 @@ SplineSet
  137 453 159 433 182 414 c 1
  182 382 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D52F.ssty1 u1D52F.ssty2
 EndChar
 
 StartChar: u1D530
@@ -8637,6 +8842,7 @@ SplineSet
  159 254 164 242 175 242 c 0
  181 242 187 242 192 244 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D530.ssty1 u1D530.ssty2
 EndChar
 
 StartChar: u1D531
@@ -8670,6 +8876,7 @@ SplineSet
  115 558 l 1
  228 641 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D531.ssty1 u1D531.ssty2
 EndChar
 
 StartChar: u1D532
@@ -8711,6 +8918,7 @@ SplineSet
  339 316 338 369 336 424 c 1
  421 468 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D532.ssty1 u1D532.ssty2
 EndChar
 
 StartChar: u1D533
@@ -8753,6 +8961,7 @@ SplineSet
  328 379 297 390 266 396 c 1
  238 394 203 369 175 348 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D533.ssty1 u1D533.ssty2
 EndChar
 
 StartChar: u1D534
@@ -8809,6 +9018,7 @@ SplineSet
  610 292 606 317 598 348 c 1
  569 366 530 381 498 386 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D534.ssty1 u1D534.ssty2
 EndChar
 
 StartChar: u1D535
@@ -8856,6 +9066,7 @@ SplineSet
  143 451 181 416 194 407 c 1
  192 376 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D535.ssty1 u1D535.ssty2
 EndChar
 
 StartChar: u1D536
@@ -8898,6 +9109,7 @@ SplineSet
  120 2 98 34 78 52 c 1
  88 113 89 178 89 255 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D536.ssty1 u1D536.ssty2
 EndChar
 
 StartChar: u1D537
@@ -8943,6 +9155,7 @@ SplineSet
  235 -50 240 -15 240 20 c 0
  240 57 236 94 225 130 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D537.ssty1 u1D537.ssty2
 EndChar
 
 StartChar: u1D6AA
@@ -8973,6 +9186,7 @@ SplineSet
  379 692 l 1
  562 692 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6AA.ssty1 u1D6AA.ssty2
 EndChar
 
 StartChar: u1D6AB
@@ -9001,6 +9215,7 @@ SplineSet
  399 566 390 564 389 564 c 0
  306 400 210 225 120 67 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6AB.ssty1 u1D6AB.ssty2
 EndChar
 
 StartChar: u1D6AF
@@ -9052,6 +9267,7 @@ SplineSet
  215 255 243 161 316 94 c 0
  362 52 429 32 493 32 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6AF.ssty1 u1D6AF.ssty2
 EndChar
 
 StartChar: u1D6B2
@@ -9080,6 +9296,7 @@ SplineSet
  18 16 l 1
  159 228 287 447 403 672 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6B2.ssty1 u1D6B2.ssty2
 EndChar
 
 StartChar: u1D6B5
@@ -9123,6 +9340,7 @@ SplineSet
  46 700 l 1
  598 693 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6B5.ssty1 u1D6B5.ssty2
 EndChar
 
 StartChar: u1D6B7
@@ -9161,6 +9379,7 @@ SplineSet
  713 554 713 512 713 471 c 0
  713 385 713 288 716 214 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6B7.ssty1 u1D6B7.ssty2
 EndChar
 
 StartChar: u1D6BA
@@ -9193,6 +9412,7 @@ SplineSet
  389 428 392 419 392 411 c 0
  392 403 385 389 377 378 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6BA.ssty1 u1D6BA.ssty2
 EndChar
 
 StartChar: u1D6BC
@@ -9233,6 +9453,7 @@ SplineSet
  470 355 462 283 462 210 c 0
  462 149 466 88 470 27 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6BC.ssty1 u1D6BC.ssty2
 EndChar
 
 StartChar: u1D6BD
@@ -9297,6 +9518,7 @@ SplineSet
  417 546 l 1
  407 556 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6BD.ssty1 u1D6BD.ssty2
 EndChar
 
 StartChar: u1D6BF
@@ -9352,6 +9574,7 @@ SplineSet
  766 661 l 1
  736 650 725 620 719 592 c 2xe4
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6BF.ssty1 u1D6BF.ssty2
 EndChar
 
 StartChar: u1D6C0
@@ -9396,6 +9619,7 @@ SplineSet
  647 95 l 1
  734 100 842 105 928 105 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C0.ssty1 u1D6C0.ssty2
 EndChar
 
 StartChar: u1D6C2
@@ -9446,6 +9670,7 @@ SplineSet
  313 72 337 90 358 108 c 0
  380 128 411 158 455 220 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C2.ssty1 u1D6C2.ssty2
 EndChar
 
 StartChar: u1D6C3
@@ -9497,6 +9722,7 @@ SplineSet
  219 498 217 461 217 424 c 0
  217 423 223 40 227 -152 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C3.ssty1 u1D6C3.ssty2
 EndChar
 
 StartChar: u1D6C4
@@ -9529,6 +9755,7 @@ SplineSet
  368 -27 368 -112 360 -166 c 1
  305 -201 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C4.ssty1 u1D6C4.ssty2
 EndChar
 
 StartChar: u1D6C5
@@ -9572,6 +9799,7 @@ SplineSet
  380 672 421 667 448 664 c 1
  454 655 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C5.ssty1 u1D6C5.ssty2
 EndChar
 
 StartChar: u1D6DC
@@ -9609,6 +9837,7 @@ SplineSet
  240 262 278 262 313 262 c 0
  356 262 400 262 443 263 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6DC.ssty1 u1D6DC.ssty2
 EndChar
 
 StartChar: u1D6C7
@@ -9654,6 +9883,7 @@ SplineSet
  511 4 500 -16 488 -37 c 0
  470 -69 449 -99 426 -129 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C7.ssty1 u1D6C7.ssty2
 EndChar
 
 StartChar: u1D6C8
@@ -9693,6 +9923,7 @@ SplineSet
  530 340 531 253 531 195 c 0
  531 78 531 -39 540 -156 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C8.ssty1 u1D6C8.ssty2
 EndChar
 
 StartChar: u1D6C9
@@ -9740,6 +9971,7 @@ SplineSet
  190 317 l 1
  180 306 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C9.ssty1 u1D6C9.ssty2
 EndChar
 
 StartChar: u1D6CA
@@ -9767,6 +9999,7 @@ SplineSet
  290 68 310 86 328 104 c 1
  336 104 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CA.ssty1 u1D6CA.ssty2
 EndChar
 
 StartChar: u1D6CB
@@ -9802,6 +10035,7 @@ SplineSet
  271 298 327 347 360 375 c 0
  400 408 442 439 487 467 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CB.ssty1 u1D6CB.ssty2
 EndChar
 
 StartChar: u1D6CC
@@ -9837,6 +10071,7 @@ SplineSet
  393 131 349 247 297 374 c 1
  290 374 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CC.ssty1 u1D6CC.ssty2
 EndChar
 
 StartChar: u1D6CD
@@ -9881,6 +10116,7 @@ SplineSet
  263 69 286 69 305 69 c 0
  348 69 387 94 419 116 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CD.ssty1 u1D6CD.ssty2
 EndChar
 
 StartChar: u1D6CE
@@ -9913,6 +10149,7 @@ SplineSet
  476 322 494 389 502 456 c 1
  527 471 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CE.ssty1 u1D6CE.ssty2
 EndChar
 
 StartChar: u1D6CF
@@ -9968,6 +10205,7 @@ SplineSet
  576 4 568 -20 556 -42 c 0
  539 -73 514 -100 489 -126 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6CF.ssty1 u1D6CF.ssty2
 EndChar
 
 StartChar: u1D6D1
@@ -10015,6 +10253,7 @@ SplineSet
  89 476 99 478 111 481 c 0
  130 485 151 485 171 485 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D1.ssty1 u1D6D1.ssty2
 EndChar
 
 StartChar: u1D6D2
@@ -10056,6 +10295,7 @@ SplineSet
  216 300 210 261 210 222 c 0
  210 198 212 160 221 133 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D2.ssty1 u1D6D2.ssty2
 EndChar
 
 StartChar: u1D6D4
@@ -10095,6 +10335,7 @@ SplineSet
  194 452 258 464 325 464 c 0
  438 465 560 472 673 475 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D4.ssty1 u1D6D4.ssty2
 EndChar
 
 StartChar: u1D6D5
@@ -10137,6 +10378,7 @@ SplineSet
  574 446 547 413 518 381 c 0
  513 375 506 372 499 372 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D5.ssty1 u1D6D5.ssty2
 EndChar
 
 StartChar: u1D6D6
@@ -10173,6 +10415,7 @@ SplineSet
  476 129 485 183 485 230 c 0
  485 293 455 352 409 399 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D6.ssty1 u1D6D6.ssty2
 EndChar
 
 StartChar: u1D6DF
@@ -10228,6 +10471,7 @@ SplineSet
  480 36 l 1
  489 28 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6DF.ssty1 u1D6DF.ssty2
 EndChar
 
 StartChar: u1D6D8
@@ -10272,6 +10516,7 @@ SplineSet
  493 -113 516 -122 540 -122 c 0
  558 -122 576 -119 593 -116 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D8.ssty1 u1D6D8.ssty2
 EndChar
 
 StartChar: u1D6D9
@@ -10326,6 +10571,7 @@ SplineSet
  366 390 361 513 358 637 c 1
  464 672 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D9.ssty1 u1D6D9.ssty2
 EndChar
 
 StartChar: u1D6DA
@@ -10373,6 +10619,7 @@ SplineSet
  801 300 775 366 719 413 c 1
  716 432 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6DA.ssty1 u1D6DA.ssty2
 EndChar
 
 StartChar: u1D6C6
@@ -10416,6 +10663,7 @@ SplineSet
  243 307 264 299 283 294 c 0
  307 287 336 286 360 286 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6C6.ssty1 u1D6C6.ssty2
 EndChar
 
 StartChar: u1D6DD
@@ -10470,6 +10718,7 @@ SplineSet
  354 377 410 361 454 353 c 1
  461 359 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6DD.ssty1 u1D6DD.ssty2
 EndChar
 
 StartChar: u1D6E1
@@ -10524,6 +10773,7 @@ SplineSet
  84 222 111 279 158 321 c 0
  189 349 228 369 271 381 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6E1.ssty1 u1D6E1.ssty2
 EndChar
 
 StartChar: u1D6D7
@@ -10572,6 +10822,7 @@ SplineSet
  428 38 l 1
  434 30 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6D7.ssty1 u1D6D7.ssty2
 EndChar
 
 StartChar: u1D7CE
@@ -10608,6 +10859,7 @@ SplineSet
  350 564 331 585 310 601 c 0
  294 613 274 627 256 632 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7CE.ssty1 u1D7CE.ssty2
 EndChar
 
 StartChar: u1D7CF
@@ -10633,6 +10885,7 @@ SplineSet
  70 594 l 1
  70 626 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7CF.ssty1 u1D7CF.ssty2
 EndChar
 
 StartChar: u1D7D0
@@ -10665,6 +10918,7 @@ SplineSet
  185 112 188 109 191 109 c 2
  529 109 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D0.ssty1 u1D7D0.ssty2
 EndChar
 
 StartChar: u1D7D1
@@ -10708,6 +10962,7 @@ SplineSet
  455 535 434 491 397 458 c 1
  364 427 324 407 281 391 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D1.ssty1 u1D7D1.ssty2
 EndChar
 
 StartChar: u1D7D2
@@ -10746,6 +11001,7 @@ SplineSet
  293 252 l 1
  301 260 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D2.ssty1 u1D7D2.ssty2
 EndChar
 
 StartChar: u1D7D3
@@ -10785,6 +11041,7 @@ SplineSet
  83 694 l 1
  475 694 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D3.ssty1 u1D7D3.ssty2
 EndChar
 
 StartChar: u1D7D4
@@ -10824,6 +11081,7 @@ SplineSet
  342 311 305 320 269 320 c 0
  230 320 194 303 161 286 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D4.ssty1 u1D7D4.ssty2
 EndChar
 
 StartChar: u1D7D5
@@ -10852,6 +11110,7 @@ SplineSet
  466 560 391 442 328 318 c 0
  282 226 258 120 251 20 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D5.ssty1 u1D7D5.ssty2
 EndChar
 
 StartChar: u1D7D6
@@ -10901,6 +11160,7 @@ SplineSet
  187 548 201 525 217 508 c 0
  244 477 280 446 315 422 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D6.ssty1 u1D7D6.ssty2
 EndChar
 
 StartChar: u1D7D7
@@ -10939,6 +11199,7 @@ SplineSet
  231 379 267 370 302 370 c 0
  331 370 356 380 380 393 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7D7.ssty1 u1D7D7.ssty2
 EndChar
 
 StartChar: uni003C
@@ -10958,6 +11219,7 @@ SplineSet
  304 475 l 1
  329 443 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003C.ssty1 uni003C.ssty2
 EndChar
 
 StartChar: uni003E
@@ -10977,6 +11239,7 @@ SplineSet
  74 472 l 1
  329 241 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni003E.ssty1 uni003E.ssty2
 EndChar
 
 StartChar: u1D6DB
@@ -11021,6 +11284,7 @@ SplineSet
  441 170 444 216 444 261 c 0
  444 319 432 376 411 430 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6DB.ssty1 u1D6DB.ssty2
 EndChar
 
 StartChar: u1D400
@@ -11065,6 +11329,7 @@ SplineSet
  279 323 286 320 290 320 c 2
  461 320 l 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D400.ssty1 u1D400.ssty2
 EndChar
 
 StartChar: u1D401
@@ -11120,6 +11385,7 @@ SplineSet
  262 641 262 618 262 604 c 2
  262 385 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D401.ssty1 u1D401.ssty2
 EndChar
 
 StartChar: u1D402
@@ -11152,6 +11418,7 @@ SplineSet
  645 685 677 671 702 648 c 0
  722 630 737 607 751 585 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D402.ssty1 u1D402.ssty2
 EndChar
 
 StartChar: u1D403
@@ -11196,6 +11463,7 @@ SplineSet
  266 627 266 594 266 575 c 2
  266 185 l 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D403.ssty1 u1D403.ssty2
 EndChar
 
 StartChar: u1D404
@@ -11241,6 +11509,7 @@ SplineSet
  275 65 291 61 310 61 c 0
  325 61 595 76 595 76 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D404.ssty1 u1D404.ssty2
 EndChar
 
 StartChar: u1D405
@@ -11278,6 +11547,7 @@ SplineSet
  232 334 232 324 232 316 c 0
  232 315 237 121 238 23 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D405.ssty1 u1D405.ssty2
 EndChar
 
 StartChar: u1D406
@@ -11316,6 +11586,7 @@ SplineSet
  577 255 458 262 398 266 c 1
  398 303 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D406.ssty1 u1D406.ssty2
 EndChar
 
 StartChar: u1D407
@@ -11363,6 +11634,7 @@ SplineSet
  612 398 613 405 613 413 c 2
  613 681 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D407.ssty1 u1D407.ssty2
 EndChar
 
 StartChar: u1D408
@@ -11396,6 +11668,7 @@ SplineSet
  302 649 l 2
  286 646 278 632 278 618 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D408.ssty1 u1D408.ssty2
 EndChar
 
 StartChar: u1D409
@@ -11430,6 +11703,7 @@ SplineSet
  330 654 316 643 312 629 c 0
  305 605 305 552 305 513 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D409.ssty1 u1D409.ssty2
 EndChar
 
 StartChar: u1D40A
@@ -11467,6 +11741,7 @@ SplineSet
  273 591 268 490 268 387 c 1
  280 387 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40A.ssty1 u1D40A.ssty2
 EndChar
 
 StartChar: u1D40B
@@ -11502,6 +11777,7 @@ SplineSet
  262 60 274 53 282 53 c 0
  385 53 540 71 575 75 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40B.ssty1 u1D40B.ssty2
 EndChar
 
 StartChar: u1D40C
@@ -11552,6 +11828,7 @@ SplineSet
  259 536 255 539 252 539 c 0
  248 539 244 536 244 533 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40C.ssty1 u1D40C.ssty2
 EndChar
 
 StartChar: u1D40D
@@ -11586,6 +11863,7 @@ SplineSet
  216 537 212 539 210 539 c 0
  206 539 203 535 203 526 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40D.ssty1 u1D40D.ssty2
 EndChar
 
 StartChar: u1D40E
@@ -11621,6 +11899,7 @@ SplineSet
  272 592 253 558 239 518 c 0
  221 469 210 417 210 366 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40E.ssty1 u1D40E.ssty2
 EndChar
 
 StartChar: u1D40F
@@ -11663,6 +11942,7 @@ SplineSet
  264 659 263 648 263 641 c 0
  263 640 264 454 265 361 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40F.ssty1 u1D40F.ssty2
 EndChar
 
 StartChar: u1D410
@@ -11705,6 +11985,7 @@ SplineSet
  228 250 253 147 334 74 c 0
  367 43 417 26 464 26 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D410.ssty1 u1D410.ssty2
 EndChar
 
 StartChar: u1D411
@@ -11748,6 +12029,7 @@ SplineSet
  272 656 269 647 268 639 c 0
  267 635 264 458 264 366 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D411.ssty1 u1D411.ssty2
 EndChar
 
 StartChar: u1D412
@@ -11790,6 +12072,7 @@ SplineSet
  568 665 582 644 591 622 c 1
  496 548 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D412.ssty1 u1D412.ssty2
 EndChar
 
 StartChar: u1D413
@@ -11823,6 +12106,7 @@ SplineSet
  249 1 l 1
  254 166 257 331 257 496 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D413.ssty1 u1D413.ssty2
 EndChar
 
 StartChar: u1D414
@@ -11868,6 +12152,7 @@ SplineSet
  497 53 544 70 584 88 c 1
  584 283 584 560 577 671 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D414.ssty1 u1D414.ssty2
 EndChar
 
 StartChar: u1D415
@@ -11900,6 +12185,7 @@ SplineSet
  559 437 l 2
  598 519 643 611 688 697 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D415.ssty1 u1D415.ssty2
 EndChar
 
 StartChar: u1D416
@@ -11941,6 +12227,7 @@ SplineSet
  912 316 1002 508 1058 683 c 1
  1178 699 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D416.ssty1 u1D416.ssty2
 EndChar
 
 StartChar: u1D417
@@ -11978,6 +12265,7 @@ SplineSet
  283 617 335 531 386 448 c 1
  400 448 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D417.ssty1 u1D417.ssty2
 EndChar
 
 StartChar: u1D418
@@ -12009,6 +12297,7 @@ SplineSet
  681 707 l 1
  682 695 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D418.ssty1 u1D418.ssty2
 EndChar
 
 StartChar: u1D419
@@ -12039,6 +12328,7 @@ SplineSet
  29 24 l 1
  188 223 328 424 477 629 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D419.ssty1 u1D419.ssty2
 EndChar
 
 StartChar: uni2113
@@ -12087,6 +12377,7 @@ SplineSet
  184 340 185 320 186 299 c 1
  195 296 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2113.ssty1 uni2113.ssty2
 EndChar
 
 StartChar: u1D41A
@@ -12133,6 +12424,7 @@ SplineSet
  405 94 419 104 433 117 c 1
  439 161 441 263 441 331 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41A.ssty1 u1D41A.ssty2
 EndChar
 
 StartChar: u1D41B
@@ -12173,6 +12465,7 @@ SplineSet
  332 419 314 413 298 406 c 0
  276 396 253 381 234 367 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41B.ssty1 u1D41B.ssty2
 EndChar
 
 StartChar: u1D41C
@@ -12205,6 +12498,7 @@ SplineSet
  404 496 451 489 482 459 c 0
  504 438 514 409 516 379 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41C.ssty1 u1D41C.ssty2
 EndChar
 
 StartChar: u1D41D
@@ -12257,6 +12551,7 @@ SplineSet
  272 71 296 63 320 63 c 0
  368 63 406 87 439 113 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41D.ssty1 u1D41D.ssty2
 EndChar
 
 StartChar: u1D41E
@@ -12297,6 +12592,7 @@ SplineSet
  455 74 484 91 507 105 c 1
  522 101 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41E.ssty1 u1D41E.ssty2
 EndChar
 
 StartChar: u1D41F
@@ -12337,6 +12633,7 @@ SplineSet
  260 400 l 1
  251 392 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D41F.ssty1 u1D41F.ssty2
 EndChar
 
 StartChar: u1D420
@@ -12381,6 +12678,7 @@ SplineSet
  266 69 289 58 316 58 c 0
  360 58 410 80 436 114 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D420.ssty1 u1D420.ssty2
 EndChar
 
 StartChar: u1D421
@@ -12427,6 +12725,7 @@ SplineSet
  329 428 312 422 296 415 c 0
  274 406 249 394 230 380 c 1xe8
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D421.ssty1 u1D421.ssty2
 EndChar
 
 StartChar: u1D422
@@ -12467,6 +12766,7 @@ SplineSet
  289 72 300 79 308 85 c 0
  322 95 335 106 348 119 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D422.ssty1 u1D422.ssty2
 EndChar
 
 StartChar: u1D423
@@ -12502,6 +12802,7 @@ SplineSet
  127 416 114 420 107 420 c 0
  85 420 58 405 38 389 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D423.ssty1 u1D423.ssty2
 EndChar
 
 StartChar: u1D424
@@ -12542,6 +12843,7 @@ SplineSet
  370 68 317 180 252 262 c 1
  238 253 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D424.ssty1 u1D424.ssty2
 EndChar
 
 StartChar: u1D425
@@ -12575,6 +12877,7 @@ SplineSet
  224 697 l 1
  237 685 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D425.ssty1 u1D425.ssty2
 EndChar
 
 StartChar: u1D426
@@ -12635,6 +12938,7 @@ SplineSet
  353 433 326 425 312 419 c 0
  287 409 262 397 240 383 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D426.ssty1 u1D426.ssty2
 EndChar
 
 StartChar: u1D427
@@ -12680,6 +12984,7 @@ SplineSet
  393 422 372 424 352 424 c 0
  322 424 268 398 231 378 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D427.ssty1 u1D427.ssty2
 EndChar
 
 StartChar: u1D428
@@ -12715,6 +13020,7 @@ SplineSet
  259 -11 195 -3 151 37 c 0
  95 88 79 162 79 233 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D428.ssty1 u1D428.ssty2
 EndChar
 
 StartChar: u1D429
@@ -12763,6 +13069,7 @@ SplineSet
  239 144 240 124 245 106 c 0
  249 92 255 79 266 69 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D429.ssty1 u1D429.ssty2
 EndChar
 
 StartChar: u1D42A
@@ -12803,6 +13110,7 @@ SplineSet
  278 70 301 61 324 61 c 0
  372 61 410 89 440 112 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42A.ssty1 u1D42A.ssty2
 EndChar
 
 StartChar: u1D42B
@@ -12841,6 +13149,7 @@ SplineSet
  239 295 239 276 239 257 c 0
  239 225 246 109 253 33 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42B.ssty1 u1D42B.ssty2
 EndChar
 
 StartChar: u1D42C
@@ -12882,6 +13191,7 @@ SplineSet
  306 494 343 493 373 474 c 0
  393 462 409 446 419 426 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42C.ssty1 u1D42C.ssty2
 EndChar
 
 StartChar: u1D42D
@@ -12926,6 +13236,7 @@ SplineSet
  146 453 l 1
  145 505 143 587 143 588 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42D.ssty1 u1D42D.ssty2
 EndChar
 
 StartChar: u1D42E
@@ -12972,6 +13283,7 @@ SplineSet
  368 67 400 88 435 114 c 1
  437 227 437 354 430 466 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42E.ssty1 u1D42E.ssty2
 EndChar
 
 StartChar: u1D42F
@@ -13009,6 +13321,7 @@ SplineSet
  79 409 68 412 58 412 c 0
  44 412 11 400 -11 386 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D42F.ssty1 u1D42F.ssty2
 EndChar
 
 StartChar: u1D430
@@ -13059,6 +13372,7 @@ SplineSet
  217 460 219 452 221 444 c 0
  223 437 228 402 231 382 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D430.ssty1 u1D430.ssty2
 EndChar
 
 StartChar: u1D431
@@ -13104,6 +13418,7 @@ SplineSet
  332 372 388 434 452 489 c 1
  464 489 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D431.ssty1 u1D431.ssty2
 EndChar
 
 StartChar: u1D432
@@ -13153,6 +13468,7 @@ SplineSet
  534 491 l 1
  552 487 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D432.ssty1 u1D432.ssty2
 EndChar
 
 StartChar: u1D433
@@ -13196,6 +13512,7 @@ SplineSet
  296 468 336 462 377 462 c 0
  412 462 443 473 471 492 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D433.ssty1 u1D433.ssty2
 EndChar
 
 StartChar: uni0131.mathbold
@@ -13231,6 +13548,7 @@ SplineSet
  289 72 300 79 308 85 c 0
  322 95 335 106 348 119 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0131.mathbold.ssty1 uni0131.mathbold.ssty2
 EndChar
 
 StartChar: uniF6BE.mathbold
@@ -13261,6 +13579,7 @@ SplineSet
  127 416 114 420 107 420 c 0
  85 420 58 405 38 389 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF6BE.mathbold.ssty1 uniF6BE.mathbold.ssty2
 EndChar
 
 StartChar: uni2118.mathbold
@@ -13324,6 +13643,7 @@ SplineSet
  172 153 l 1
  162 153 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2118.mathbold.ssty1 uni2118.mathbold.ssty2
 EndChar
 
 StartChar: texskewchar
@@ -13331,6 +13651,7 @@ Encoding: 1114181 -1 320
 Width: 0
 Flags: W
 LayerCount: 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" texskewchar.ssty1 texskewchar.ssty2
 EndChar
 
 StartChar: uni0393
@@ -13361,6 +13682,7 @@ SplineSet
  314 693 l 2
  375 693 436 694 496 697 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0393.ssty1 uni0393.ssty2
 EndChar
 
 StartChar: uni2206
@@ -13389,6 +13711,7 @@ SplineSet
  104 52 l 1
  256 55 410 50 562 50 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2206.ssty1 uni2206.ssty2
 EndChar
 
 StartChar: uni0398
@@ -13443,6 +13766,7 @@ SplineSet
  122 251 149 157 216 90 c 0
  259 47 319 31 379 31 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0398.ssty1 uni0398.ssty2
 EndChar
 
 StartChar: uni039B
@@ -13469,6 +13793,7 @@ SplineSet
  28 4 l 1
  155 224 278 446 393 673 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni039B.ssty1 uni039B.ssty2
 EndChar
 
 StartChar: uni039E
@@ -13512,6 +13837,7 @@ SplineSet
  528 93 539 129 544 147 c 1
  569 147 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni039E.ssty1 uni039E.ssty2
 EndChar
 
 StartChar: uni03A0
@@ -13554,6 +13880,7 @@ SplineSet
  493 681 612 684 693 686 c 1
  693 658 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03A0.ssty1 uni03A0.ssty2
 EndChar
 
 StartChar: uni03A3
@@ -13589,6 +13916,7 @@ SplineSet
  349 395 351 390 351 384 c 0
  351 378 344 369 340 362 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03A3.ssty1 uni03A3.ssty2
 EndChar
 
 StartChar: uni03A5
@@ -13629,6 +13957,7 @@ SplineSet
  664 656 671 639 676 621 c 0
  683 597 685 572 685 546 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03A5.ssty1 uni03A5.ssty2
 EndChar
 
 StartChar: uni03A6
@@ -13690,6 +14019,7 @@ SplineSet
  272 128 316 115 358 114 c 1
  365 121 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03A6.ssty1 uni03A6.ssty2
 EndChar
 
 StartChar: uni03A8
@@ -13749,6 +14079,7 @@ SplineSet
  532 262 473 252 415 251 c 1
  409 244 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03A8.ssty1 uni03A8.ssty2
 EndChar
 
 StartChar: uni2126
@@ -13793,6 +14124,7 @@ SplineSet
  584 51 l 1
  669 55 765 60 835 60 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2126.ssty1 uni2126.ssty2
 EndChar
 
 StartChar: uni03B1
@@ -13844,6 +14176,7 @@ SplineSet
  464 307 l 1
  558 468 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B1.ssty1 uni03B1.ssty2
 EndChar
 
 StartChar: uni03B2
@@ -13891,6 +14224,7 @@ SplineSet
  431 419 408 402 382 392 c 1
  381 380 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B2.ssty1 uni03B2.ssty2
 EndChar
 
 StartChar: uni03B3
@@ -13924,6 +14258,7 @@ SplineSet
  390 210 472 370 509 465 c 1
  522 470 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B3.ssty1 uni03B3.ssty2
 EndChar
 
 StartChar: uni03B4
@@ -13966,6 +14301,7 @@ SplineSet
  374 243 357 273 339 301 c 0
  313 344 274 386 238 422 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B4.ssty1 uni03B4.ssty2
 EndChar
 
 StartChar: uni03F5
@@ -14005,6 +14341,7 @@ SplineSet
  177 257 l 1
  214 257 278 256 279 256 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03F5.ssty1 uni03F5.ssty2
 EndChar
 
 StartChar: uni03B6
@@ -14050,6 +14387,7 @@ SplineSet
  491 -16 482 -37 472 -56 c 0
  458 -85 439 -111 419 -136 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B6.ssty1 uni03B6.ssty2
 EndChar
 
 StartChar: uni03B7
@@ -14091,6 +14429,7 @@ SplineSet
  462 81 464 -42 479 -164 c 1
  397 -199 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B7.ssty1 uni03B7.ssty2
 EndChar
 
 StartChar: uni03B8
@@ -14136,6 +14475,7 @@ SplineSet
  403 219 406 274 406 325 c 1
  398 333 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B8.ssty1 uni03B8.ssty2
 EndChar
 
 StartChar: uni03B9
@@ -14164,6 +14504,7 @@ SplineSet
  287 86 298 96 310 108 c 1
  319 109 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B9.ssty1 uni03B9.ssty2
 EndChar
 
 StartChar: uni03BA
@@ -14196,6 +14537,7 @@ SplineSet
  271 344 359 412 453 472 c 1
  504 441 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03BA.ssty1 uni03BA.ssty2
 EndChar
 
 StartChar: uni03BB
@@ -14230,6 +14572,7 @@ SplineSet
  436 -11 l 1
  422 -4 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03BB.ssty1 uni03BB.ssty2
 EndChar
 
 StartChar: uni00B5
@@ -14276,6 +14619,7 @@ SplineSet
  412 320 410 377 408 434 c 1
  485 466 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni00B5.ssty1 uni00B5.ssty2
 EndChar
 
 StartChar: uni03BD
@@ -14307,6 +14651,7 @@ SplineSet
  558 452 l 1
  561 444 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03BD.ssty1 uni03BD.ssty2
 EndChar
 
 StartChar: uni03BE
@@ -14357,6 +14702,7 @@ SplineSet
  545 -14 536 -34 526 -53 c 0
  511 -83 491 -110 471 -137 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03BE.ssty1 uni03BE.ssty2
 EndChar
 
 StartChar: uni03C0
@@ -14404,6 +14750,7 @@ SplineSet
  81 447 96 451 111 454 c 0
  136 459 161 460 186 460 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C0.ssty1 uni03C0.ssty2
 EndChar
 
 StartChar: uni03C1
@@ -14445,6 +14792,7 @@ SplineSet
  195 388 182 359 174 333 c 0
  164 300 161 265 161 231 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C1.ssty1 uni03C1.ssty2
 EndChar
 
 StartChar: uni03C3
@@ -14485,6 +14833,7 @@ SplineSet
  390 349 376 378 357 397 c 0
  337 417 308 429 280 429 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C3.ssty1 uni03C3.ssty2
 EndChar
 
 StartChar: uni03C4
@@ -14524,6 +14873,7 @@ SplineSet
  19 304 41 406 54 426 c 0
  74 456 113 461 142 461 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C4.ssty1 uni03C4.ssty2
 EndChar
 
 StartChar: uni03C5
@@ -14563,6 +14913,7 @@ SplineSet
  427 120 444 199 444 253 c 0
  444 307 426 360 387 398 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C5.ssty1 uni03C5.ssty2
 EndChar
 
 StartChar: uni03C6
@@ -14615,6 +14966,7 @@ SplineSet
  321 433 l 1
  312 441 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C6.ssty1 uni03C6.ssty2
 EndChar
 
 StartChar: uni03C7
@@ -14660,6 +15012,7 @@ SplineSet
  278 206 l 1
  288 206 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C7.ssty1 uni03C7.ssty2
 EndChar
 
 StartChar: uni03C8
@@ -14712,6 +15065,7 @@ SplineSet
  363 -189 l 1
  353 -182 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C8.ssty1 uni03C8.ssty2
 EndChar
 
 StartChar: uni03C9
@@ -14759,6 +15113,7 @@ SplineSet
  714 305 694 368 646 409 c 1
  649 421 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03C9.ssty1 uni03C9.ssty2
 EndChar
 
 StartChar: uni03B5
@@ -14801,6 +15156,7 @@ SplineSet
  195 456 242 471 287 471 c 0
  326 471 361 452 392 430 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03B5.ssty1 uni03B5.ssty2
 EndChar
 
 StartChar: uni03D1
@@ -14859,6 +15215,7 @@ SplineSet
  124 29 119 43 115 57 c 0
  109 77 108 97 108 118 c 2xf4
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03D1.ssty1 uni03D1.ssty2
 EndChar
 
 StartChar: uni03D6
@@ -14909,6 +15266,7 @@ SplineSet
  402 258 399 280 397 302 c 1
  478 330 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03D6.ssty1 uni03D6.ssty2
 EndChar
 
 StartChar: uni03D5
@@ -14955,6 +15313,7 @@ SplineSet
  394 33 l 1
  401 26 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni03D5.ssty1 uni03D5.ssty2
 EndChar
 
 StartChar: uni0030
@@ -14989,6 +15348,7 @@ SplineSet
  398 375 374 461 330 539 c 0
  324 551 279 621 234 640 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0030.ssty1 uni0030.ssty2
 EndChar
 
 StartChar: uni0031
@@ -15013,6 +15373,7 @@ SplineSet
  92 639 l 1
  308 712 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0031.ssty1 uni0031.ssty2
 EndChar
 
 StartChar: uni0032
@@ -15048,6 +15409,7 @@ SplineSet
  467 88 l 1
  472 80 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0032.ssty1 uni0032.ssty2
 EndChar
 
 StartChar: uni0033
@@ -15093,6 +15455,7 @@ SplineSet
  399 523 384 478 352 446 c 0
  321 416 282 394 241 382 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0033.ssty1 uni0033.ssty2
 EndChar
 
 StartChar: uni0034
@@ -15132,6 +15495,7 @@ SplineSet
  284 235 l 1
  290 243 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0034.ssty1 uni0034.ssty2
 EndChar
 
 StartChar: uni0035
@@ -15170,6 +15534,7 @@ SplineSet
  311 607 185 604 137 604 c 0
  131 604 125 600 125 594 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0035.ssty1 uni0035.ssty2
 EndChar
 
 StartChar: uni0036
@@ -15209,6 +15574,7 @@ SplineSet
  323 303 289 314 256 314 c 0
  215 314 154 286 132 265 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0036.ssty1 uni0036.ssty2
 EndChar
 
 StartChar: uni0037
@@ -15235,6 +15601,7 @@ SplineSet
  494 686 l 1
  494 674 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0037.ssty1 uni0037.ssty2
 EndChar
 
 StartChar: uni0038
@@ -15284,6 +15651,7 @@ SplineSet
  166 536 178 512 194 491 c 1
  215 461 249 433 279 412 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0038.ssty1 uni0038.ssty2
 EndChar
 
 StartChar: uni0039
@@ -15324,6 +15692,7 @@ SplineSet
  199 365 230 352 259 352 c 0
  292 352 327 360 351 384 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0039.ssty1 uni0039.ssty2
 EndChar
 
 StartChar: uni2202
@@ -15366,6 +15735,7 @@ SplineSet
  308 33 323 40 341 54 c 1
  362 72 375 100 383 125 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2202.ssty1 uni2202.ssty2
 EndChar
 
 StartChar: uni0041
@@ -15412,6 +15782,7 @@ SplineSet
  394 574 391 576 388 576 c 0
  385 576 382 573 382 572 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0041.ssty1 uni0041.ssty2
 EndChar
 
 StartChar: uni0042
@@ -15471,6 +15842,7 @@ SplineSet
  534 512 520 472 491 443 c 0
  461 412 421 395 381 378 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0042.ssty1 uni0042.ssty2
 EndChar
 
 StartChar: uni0043
@@ -15502,6 +15874,7 @@ SplineSet
  648 621 661 604 672 586 c 1
  615 528 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0043.ssty1 uni0043.ssty2
 EndChar
 
 StartChar: uni0044
@@ -15545,6 +15918,7 @@ SplineSet
  457 7 397 2 337 2 c 2
  106 2 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0044.ssty1 uni0044.ssty2
 EndChar
 
 StartChar: uni0045
@@ -15591,6 +15965,7 @@ SplineSet
  462 384 l 1
  456 336 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0045.ssty1 uni0045.ssty2
 EndChar
 
 StartChar: uni0046
@@ -15625,6 +16000,7 @@ SplineSet
  118 -2 l 1
  122 119 125 239 125 360 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0046.ssty1 uni0046.ssty2
 EndChar
 
 StartChar: uni0047
@@ -15664,6 +16040,7 @@ SplineSet
  376 270 l 1
  376 296 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0047.ssty1 uni0047.ssty2
 EndChar
 
 StartChar: uni0048
@@ -15709,6 +16086,7 @@ SplineSet
  713 40 742 32 743 32 c 2
  744 14 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0048.ssty1 uni0048.ssty2
 EndChar
 
 StartChar: uni0049
@@ -15744,6 +16122,7 @@ SplineSet
  305 35 347 23 348 23 c 2
  346 -1 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0049.ssty1 uni0049.ssty2
 EndChar
 
 StartChar: uni004A
@@ -15775,6 +16154,7 @@ SplineSet
  281 646 l 2
  269 643 260 626 260 608 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004A.ssty1 uni004A.ssty2
 EndChar
 
 StartChar: uni004B
@@ -15814,6 +16194,7 @@ SplineSet
  546 -7 l 1
  441 105 329 210 221 319 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004B.ssty1 uni004B.ssty2
 EndChar
 
 StartChar: uni004C
@@ -15846,6 +16227,7 @@ SplineSet
  336 43 518 57 524 58 c 1
  534 48 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004C.ssty1 uni004C.ssty2
 EndChar
 
 StartChar: uni004D
@@ -15894,6 +16276,7 @@ SplineSet
  516 138 522 143 524 147 c 2
  800 690 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004D.ssty1 uni004D.ssty2
 EndChar
 
 StartChar: uni004E
@@ -15930,6 +16313,7 @@ SplineSet
  648 275 645 374 624 678 c 1
  704 694 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004E.ssty1 uni004E.ssty2
 EndChar
 
 StartChar: uni004F
@@ -15963,6 +16347,7 @@ SplineSet
  216 567 199 532 187 494 c 0
  172 448 165 398 165 348 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni004F.ssty1 uni004F.ssty2
 EndChar
 
 StartChar: uni0050
@@ -16005,6 +16390,7 @@ SplineSet
  214 286 210 281 210 274 c 0
  210 249 216 123 217 22 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0050.ssty1 uni0050.ssty2
 EndChar
 
 StartChar: uni0051
@@ -16046,6 +16432,7 @@ SplineSet
  179 245 202 156 264 92 c 0
  302 52 357 22 410 22 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0051.ssty1 uni0051.ssty2
 EndChar
 
 StartChar: uni0052
@@ -16091,6 +16478,7 @@ SplineSet
  536 491 532 477 517 443 c 0
  485 373 404 340 321 331 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0052.ssty1 uni0052.ssty2
 EndChar
 
 StartChar: uni0053
@@ -16132,6 +16520,7 @@ SplineSet
  354 702 407 695 444 658 c 0
  459 643 470 625 480 606 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0053.ssty1 uni0053.ssty2
 EndChar
 
 StartChar: uni0054
@@ -16163,6 +16552,7 @@ SplineSet
  380 686 479 692 567 696 c 1
  575 689 l 1xa0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0054.ssty1 uni0054.ssty2
 EndChar
 
 StartChar: uni0055
@@ -16207,6 +16597,7 @@ SplineSet
  218 674 l 1
  216 660 210 559 210 542 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0055.ssty1 uni0055.ssty2
 EndChar
 
 StartChar: uni0056
@@ -16242,6 +16633,7 @@ SplineSet
  568 548 l 2
  588 593 612 637 637 680 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0056.ssty1 uni0056.ssty2
 EndChar
 
 StartChar: uni0057
@@ -16288,6 +16680,7 @@ SplineSet
  919 558 l 1
  941 604 961 644 979 675 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0057.ssty1 uni0057.ssty2
 EndChar
 
 StartChar: uni0058
@@ -16330,6 +16723,7 @@ SplineSet
  632 687 l 1
  632 672 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0058.ssty1 uni0058.ssty2
 EndChar
 
 StartChar: uni0059
@@ -16362,6 +16756,7 @@ SplineSet
  255 -2 l 1
  258 98 258 199 258 299 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0059.ssty1 uni0059.ssty2
 EndChar
 
 StartChar: uni005A
@@ -16390,6 +16785,7 @@ SplineSet
  298 686 446 683 595 683 c 1
  595 664 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005A.ssty1 uni005A.ssty2
 EndChar
 
 StartChar: uni0061
@@ -16431,6 +16827,7 @@ SplineSet
  322 54 345 61 360 68 c 0
  381 78 391 84 411 99 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0061.ssty1 uni0061.ssty2
 EndChar
 
 StartChar: uni0062
@@ -16471,6 +16868,7 @@ SplineSet
  397 383 373 406 335 406 c 0
  282 406 237 381 198 347 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0062.ssty1 uni0062.ssty2
 EndChar
 
 StartChar: uni0063
@@ -16503,6 +16901,7 @@ SplineSet
  332 47 382 78 426 116 c 1
  435 114 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0063.ssty1 uni0063.ssty2
 EndChar
 
 StartChar: uni0064
@@ -16549,6 +16948,7 @@ SplineSet
  235 57 264 48 291 48 c 0
  326 48 382 68 409 95 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0064.ssty1 uni0064.ssty2
 EndChar
 
 StartChar: uni0065
@@ -16590,6 +16990,7 @@ SplineSet
  459 336 459 333 458 332 c 0
  455 327 445 322 438 319 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0065.ssty1 uni0065.ssty2
 EndChar
 
 StartChar: uni0066
@@ -16633,6 +17034,7 @@ SplineSet
  40 428 l 1
  47 434 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0066.ssty1 uni0066.ssty2
 EndChar
 
 StartChar: uni0067
@@ -16678,6 +17080,7 @@ SplineSet
  221 72 255 52 283 52 c 0
  329 52 385 81 408 99 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0067.ssty1 uni0067.ssty2
 EndChar
 
 StartChar: uni0068
@@ -16726,6 +17129,7 @@ SplineSet
  550 62 566 67 580 74 c 0
  599 85 612 96 624 107 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0068.ssty1 uni0068.ssty2
 EndChar
 
 StartChar: uni0069
@@ -16764,6 +17168,7 @@ SplineSet
  114 661 146 683 176 683 c 0
  210 683 230 655 230 625 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0069.ssty1 uni0069.ssty2
 EndChar
 
 StartChar: uni006A
@@ -16798,6 +17203,7 @@ SplineSet
  132 565 109 593 109 625 c 0
  109 657 136 683 168 683 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006A.ssty1 uni006A.ssty2
 EndChar
 
 StartChar: uni006B
@@ -16842,6 +17248,7 @@ SplineSet
  189 266 l 1
  202 266 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006B.ssty1 uni006B.ssty2
 EndChar
 
 StartChar: uni006C
@@ -16875,6 +17282,7 @@ SplineSet
  266 65 281 70 292 77 c 0
  308 87 323 99 338 112 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006C.ssty1 uni006C.ssty2
 EndChar
 
 StartChar: uni006D
@@ -16933,6 +17341,7 @@ SplineSet
  432 -10 l 1
  422 -4 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006D.ssty1 uni006D.ssty2
 EndChar
 
 StartChar: uni006E
@@ -16978,6 +17387,7 @@ SplineSet
  211 302 208 250 208 198 c 0
  208 138 206 99 210 18 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006E.ssty1 uni006E.ssty2
 EndChar
 
 StartChar: uni006F
@@ -17010,6 +17420,7 @@ SplineSet
  497 174 483 108 439 59 c 0
  392 6 320 -14 250 -14 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006F.ssty1 uni006F.ssty2
 EndChar
 
 StartChar: uni0070
@@ -17058,6 +17469,7 @@ SplineSet
  192 339 189 263 189 252 c 0
  189 170 191 67 191 66 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0070.ssty1 uni0070.ssty2
 EndChar
 
 StartChar: uni0071
@@ -17095,6 +17507,7 @@ SplineSet
  235 67 265 55 295 55 c 0
  334 55 378 76 411 105 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0071.ssty1 uni0071.ssty2
 EndChar
 
 StartChar: uni0072
@@ -17131,6 +17544,7 @@ SplineSet
  406 435 413 410 415 388 c 1
  361 339 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0072.ssty1 uni0072.ssty2
 EndChar
 
 StartChar: uni0073
@@ -17172,6 +17586,7 @@ SplineSet
  293 466 325 462 348 441 c 0
  364 426 375 405 376 383 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0073.ssty1 uni0073.ssty2
 EndChar
 
 StartChar: uni0074
@@ -17214,6 +17629,7 @@ SplineSet
  140 441 l 1
  140 492 140 556 138 582 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0074.ssty1 uni0074.ssty2
 EndChar
 
 StartChar: uni0075
@@ -17260,6 +17676,7 @@ SplineSet
  604 85 619 95 636 107 c 1
  644 105 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0075.ssty1 uni0075.ssty2
 EndChar
 
 StartChar: uni0076
@@ -17298,6 +17715,7 @@ SplineSet
  358 420 360 423 362 425 c 2
  412 460 l 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0076.ssty1 uni0076.ssty2
 EndChar
 
 StartChar: uni0077
@@ -17348,6 +17766,7 @@ SplineSet
  713 327 708 342 703 356 c 0
  696 377 686 397 675 416 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0077.ssty1 uni0077.ssty2
 EndChar
 
 StartChar: uni0078
@@ -17394,6 +17813,7 @@ SplineSet
  411 464 413 464 416 464 c 0
  418 464 420 464 422 462 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0078.ssty1 uni0078.ssty2
 EndChar
 
 StartChar: uni0079
@@ -17441,6 +17861,7 @@ SplineSet
  363 -209 292 -233 224 -233 c 0
  177 -233 124 -210 97 -182 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0079.ssty1 uni0079.ssty2
 EndChar
 
 StartChar: uni007A
@@ -17483,6 +17904,7 @@ SplineSet
  276 439 308 431 335 431 c 0
  364 431 387 445 408 462 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007A.ssty1 uni007A.ssty2
 EndChar
 
 StartChar: uni0131
@@ -17516,6 +17938,7 @@ SplineSet
  152 471 172 469 184 453 c 1
  198 437 200 413 200 392 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0131.ssty1 uni0131.ssty2
 EndChar
 
 StartChar: uniF6BE
@@ -17545,6 +17968,7 @@ SplineSet
  120 408 114 408 103 408 c 0
  87 408 52 388 27 375 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF6BE.ssty1 uniF6BE.ssty2
 EndChar
 
 StartChar: uni2118
@@ -17605,6 +18029,7 @@ SplineSet
  218 66 194 106 170 144 c 1
  161 144 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2118.ssty1 uni2118.ssty2
 EndChar
 
 StartChar: uni223C
@@ -17636,6 +18061,7 @@ SplineSet
  523 189 499 178 472 178 c 0
  429 178 389 194 353 214 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni223C.ssty1 uni223C.ssty2
 EndChar
 
 StartChar: uni00AC
@@ -17655,6 +18081,7 @@ SplineSet
  30 401 l 1
  709 401 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni00AC.ssty1 uni00AC.ssty2
 EndChar
 
 StartChar: uni2135
@@ -17707,6 +18134,7 @@ SplineSet
  249 136 268 129 288 125 c 1
  315 118 343 116 371 116 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2135.ssty1 uni2135.ssty2
 EndChar
 
 StartChar: u1D4D0
@@ -17758,6 +18186,7 @@ SplineSet
  425 457 392 353 377 275 c 1
  577 275 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D0.ssty1 u1D4D0.ssty2
 EndChar
 
 StartChar: u1D4D1
@@ -17823,6 +18252,7 @@ SplineSet
  592 628 565 639 537 647 c 0
  501 657 464 661 427 661 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D1.ssty1 u1D4D1.ssty2
 EndChar
 
 StartChar: u1D4D2
@@ -17871,6 +18301,7 @@ SplineSet
  537 84 550 120 550 157 c 1
  565 165 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D2.ssty1 u1D4D2.ssty2
 EndChar
 
 StartChar: u1D4D3
@@ -17924,6 +18355,7 @@ SplineSet
  313 139 285 112 256 95 c 1
  261 87 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D3.ssty1 u1D4D3.ssty2
 EndChar
 
 StartChar: u1D4D4
@@ -17975,6 +18407,7 @@ SplineSet
  61 219 79 275 124 315 c 0
  166 351 221 372 275 380 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D4.ssty1 u1D4D4.ssty2
 EndChar
 
 StartChar: u1D4D5
@@ -18036,6 +18469,7 @@ SplineSet
  503 725 l 1
  503 682 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D5.ssty1 u1D4D5.ssty2
 EndChar
 
 StartChar: u1D4D6
@@ -18090,6 +18524,7 @@ SplineSet
  394 264 431 274 458 298 c 1
  475 319 488 342 496 377 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D6.ssty1 u1D4D6.ssty2
 EndChar
 
 StartChar: u1D4D7
@@ -18163,6 +18598,7 @@ SplineSet
  261 692 315 698 370 698 c 0
  390 698 446 696 476 694 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D7.ssty1 u1D4D7.ssty2
 EndChar
 
 StartChar: u1D4D8
@@ -18208,6 +18644,7 @@ SplineSet
  500 675 l 1
  468 658 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D8.ssty1 u1D4D8.ssty2
 EndChar
 
 StartChar: u1D4D9
@@ -18254,6 +18691,7 @@ SplineSet
  346 85 349 138 349 191 c 2
  349 304 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4D9.ssty1 u1D4D9.ssty2
 EndChar
 
 StartChar: u1D4DA
@@ -18324,6 +18762,7 @@ SplineSet
  482 675 l 1
  435 656 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DA.ssty1 u1D4DA.ssty2
 EndChar
 
 StartChar: u1D4DB
@@ -18377,6 +18816,7 @@ SplineSet
  159 226 173 250 182 273 c 1
  195 302 209 348 218 411 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DB.ssty1 u1D4DB.ssty2
 EndChar
 
 StartChar: u1D4DC
@@ -18450,6 +18890,7 @@ SplineSet
  619 243 595 139 582 35 c 1
  577 23 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DC.ssty1 u1D4DC.ssty2
 EndChar
 
 StartChar: u1D4DD
@@ -18508,6 +18949,7 @@ SplineSet
  363 618 396 583 426 544 c 0
  468 490 504 441 540 388 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DD.ssty1 u1D4DD.ssty2
 EndChar
 
 StartChar: u1D4DE
@@ -18555,6 +18997,7 @@ SplineSet
  45 447 81 552 159 622 c 0
  179 640 204 659 230 670 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DE.ssty1 u1D4DE.ssty2
 EndChar
 
 StartChar: u1D4DF
@@ -18605,6 +19048,7 @@ SplineSet
  589 534 577 579 542 610 c 0
  510 638 463 650 419 650 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4DF.ssty1 u1D4DF.ssty2
 EndChar
 
 StartChar: u1D4E0
@@ -18657,6 +19101,7 @@ SplineSet
  602 85 641 103 667 126 c 0
  685 142 695 162 705 184 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E0.ssty1 u1D4E0.ssty2
 EndChar
 
 StartChar: u1D4E1
@@ -18721,6 +19166,7 @@ SplineSet
  560 636 541 643 522 648 c 0
  496 654 469 656 442 656 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E1.ssty1 u1D4E1.ssty2
 EndChar
 
 StartChar: u1D4E2
@@ -18779,6 +19225,7 @@ SplineSet
  472 527 437 511 399 511 c 0
  385 511 365 513 351 515 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E2.ssty1 u1D4E2.ssty2
 EndChar
 
 StartChar: u1D4E3
@@ -18829,6 +19276,7 @@ SplineSet
  646 635 670 651 691 672 c 1
  711 697 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E3.ssty1 u1D4E3.ssty2
 EndChar
 
 StartChar: u1D4E4
@@ -18887,6 +19335,7 @@ SplineSet
  715 54 724 60 736 71 c 0
  746 79 766 105 777 121 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E4.ssty1 u1D4E4.ssty2
 EndChar
 
 StartChar: u1D4E5
@@ -18931,6 +19380,7 @@ SplineSet
  305 542 322 477 332 426 c 2
  396 118 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E5.ssty1 u1D4E5.ssty2
 EndChar
 
 StartChar: u1D4E6
@@ -18985,6 +19435,7 @@ SplineSet
  378 143 l 1
  387 146 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E6.ssty1 u1D4E6.ssty2
 EndChar
 
 StartChar: u1D4E7
@@ -19052,6 +19503,7 @@ SplineSet
  657 69 674 74 686 85 c 0
  712 108 724 138 733 169 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E7.ssty1 u1D4E7.ssty2
 EndChar
 
 StartChar: u1D4E8
@@ -19106,6 +19558,7 @@ SplineSet
  424 -26 441 5 453 38 c 0
  473 90 474 129 474 261 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E8.ssty1 u1D4E8.ssty2
 EndChar
 
 StartChar: u1D4E9
@@ -19170,6 +19623,7 @@ SplineSet
  618 658 l 1
  577 616 537 573 501 527 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4E9.ssty1 u1D4E9.ssty2
 EndChar
 
 StartChar: uni2227
@@ -19191,6 +19645,7 @@ SplineSet
  447 714 l 1
  457 713 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2227.ssty1 uni2227.ssty2
 EndChar
 
 StartChar: uni2228
@@ -19212,6 +19667,7 @@ SplineSet
  850 688 l 1
  854 684 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2228.ssty1 uni2228.ssty2
 EndChar
 
 StartChar: uni007B
@@ -19257,6 +19713,7 @@ SplineSet
  214 -139 226 -148 240 -152 c 0
  269 -160 300 -161 330 -161 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007B.ssty1 uni007B.ssty2
 EndChar
 
 StartChar: uni007D
@@ -19302,6 +19759,7 @@ SplineSet
  188 -160 173 -168 156 -172 c 0
  129 -178 69 -178 25 -178 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007D.ssty1 uni007D.ssty2
 EndChar
 
 StartChar: uni007C
@@ -19318,6 +19776,7 @@ SplineSet
  145 738 l 1
  145 -159 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007C.ssty1 uni007C.ssty2
 EndChar
 
 StartChar: uni005C
@@ -19335,6 +19794,7 @@ SplineSet
  528 -169 l 1
  486 -194 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005C.ssty1 uni005C.ssty2
 EndChar
 
 StartChar: uni00A7
@@ -19393,6 +19853,7 @@ SplineSet
  209 -107 149 -97 107 -60 c 0
  81 -38 67 -8 63 23 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni00A7.ssty1 uni00A7.ssty2
 EndChar
 
 StartChar: u1D49C
@@ -19449,6 +19910,7 @@ SplineSet
  435 588 417 546 400 505 c 0
  369 432 346 355 324 279 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D49C.ssty1 u1D49C.ssty2
 EndChar
 
 StartChar: uni212C
@@ -19511,6 +19973,7 @@ SplineSet
  301 144 256 86 219 59 c 1
  224 51 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni212C.ssty1 uni212C.ssty2
 EndChar
 
 StartChar: u1D49E
@@ -19558,6 +20021,7 @@ SplineSet
  473 84 483 115 489 145 c 1
  500 152 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D49E.ssty1 u1D49E.ssty2
 EndChar
 
 StartChar: u1D49F
@@ -19608,6 +20072,7 @@ SplineSet
  378 358 373 293 356 231 c 1
  342 184 319 137 285 101 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D49F.ssty1 u1D49F.ssty2
 EndChar
 
 StartChar: uni2130
@@ -19658,6 +20123,7 @@ SplineSet
  459 97 468 123 472 151 c 1
  484 154 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2130.ssty1 uni2130.ssty2
 EndChar
 
 StartChar: uni2131
@@ -19718,6 +20184,7 @@ SplineSet
  646 634 663 644 671 656 c 2
  694 692 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2131.ssty1 uni2131.ssty2
 EndChar
 
 StartChar: u1D4A2
@@ -19769,6 +20236,7 @@ SplineSet
  362 253 402 267 434 299 c 0
  446 311 465 351 471 380 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4A2.ssty1 u1D4A2.ssty2
 EndChar
 
 StartChar: uni210B
@@ -19839,6 +20307,7 @@ SplineSet
  243 684 278 689 320 689 c 0
  359 689 402 688 436 686 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni210B.ssty1 uni210B.ssty2
 EndChar
 
 StartChar: uni2110
@@ -19882,6 +20351,7 @@ SplineSet
  227 680 277 685 328 685 c 0
  356 685 384 680 412 679 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2110.ssty1 uni2110.ssty2
 EndChar
 
 StartChar: u1D4A5
@@ -19927,6 +20397,7 @@ SplineSet
  337 88 341 132 341 176 c 0
  341 223 337 269 337 316 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4A5.ssty1 u1D4A5.ssty2
 EndChar
 
 StartChar: u1D4A6
@@ -19996,6 +20467,7 @@ SplineSet
  167 664 257 688 352 688 c 0
  354 688 405 688 432 686 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4A6.ssty1 u1D4A6.ssty2
 EndChar
 
 StartChar: uni2112
@@ -20046,6 +20518,7 @@ SplineSet
  175 170 l 1
  255 170 305 134 305 134 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2112.ssty1 uni2112.ssty2
 EndChar
 
 StartChar: uni2133
@@ -20118,6 +20591,7 @@ SplineSet
  831 659 822 655 815 649 c 1
  803 636 796 612 796 595 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2133.ssty1 uni2133.ssty2
 EndChar
 
 StartChar: u1D4A9
@@ -20174,6 +20648,7 @@ SplineSet
  332 595 366 543 400 491 c 0
  450 415 551 247 625 124 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4A9.ssty1 u1D4A9.ssty2
 EndChar
 
 StartChar: u1D4AA
@@ -20218,6 +20693,7 @@ SplineSet
  71 426 104 540 186 622 c 0
  200 637 217 648 234 659 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4AA.ssty1 u1D4AA.ssty2
 EndChar
 
 StartChar: u1D4AB
@@ -20271,6 +20747,7 @@ SplineSet
  44 541 69 586 104 619 c 0
  155 667 231 685 307 685 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4AB.ssty1 u1D4AB.ssty2
 EndChar
 
 StartChar: u1D4AC
@@ -20322,6 +20799,7 @@ SplineSet
  139 338 154 273 200 227 c 0
  223 204 255 194 287 186 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4AC.ssty1 u1D4AC.ssty2
 EndChar
 
 StartChar: uni211B
@@ -20388,6 +20866,7 @@ SplineSet
  596 -6 578 -4 565 8 c 0
  543 30 524 55 512 83 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni211B.ssty1 uni211B.ssty2
 EndChar
 
 StartChar: u1D4AE
@@ -20444,6 +20923,7 @@ SplineSet
  410 524 383 509 353 509 c 0
  341 509 328 511 316 514 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4AE.ssty1 u1D4AE.ssty2
 EndChar
 
 StartChar: u1D4AF
@@ -20493,6 +20973,7 @@ SplineSet
  579 631 597 641 611 655 c 0
  624 668 631 678 640 693 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4AF.ssty1 u1D4AF.ssty2
 EndChar
 
 StartChar: u1D4B0
@@ -20549,6 +21030,7 @@ SplineSet
  616 47 626 51 636 61 c 0
  650 75 661 95 671 113 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B0.ssty1 u1D4B0.ssty2
 EndChar
 
 StartChar: u1D4B1
@@ -20594,6 +21076,7 @@ SplineSet
  345 111 l 1
  357 114 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B1.ssty1 u1D4B1.ssty2
 EndChar
 
 StartChar: u1D4B2
@@ -20652,6 +21135,7 @@ SplineSet
  305 361 310 247 311 127 c 1
  320 127 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B2.ssty1 u1D4B2.ssty2
 EndChar
 
 StartChar: u1D4B3
@@ -20720,6 +21204,7 @@ SplineSet
  572 42 587 54 599 66 c 0
  625 92 637 125 641 161 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B3.ssty1 u1D4B3.ssty2
 EndChar
 
 StartChar: u1D4B4
@@ -20774,6 +21259,7 @@ SplineSet
  374 -35 394 8 406 52 c 0
  423 112 431 182 431 244 c 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B4.ssty1 u1D4B4.ssty2
 EndChar
 
 StartChar: u1D4B5
@@ -20833,6 +21319,7 @@ SplineSet
  193 133 221 141 251 141 c 0
  288 141 323 125 356 108 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D4B5.ssty1 u1D4B5.ssty2
 EndChar
 
 StartChar: uni007B.alt01.ssty1
