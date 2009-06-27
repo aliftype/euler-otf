@@ -2254,7 +2254,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7CE.oldstyle
+StartChar: u1D7CE.onum
 Encoding: 1114149 -1 72
 Width: 592
 Flags: MW
@@ -2286,7 +2286,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7CF.oldstyle
+StartChar: u1D7CF.onum
 Encoding: 1114150 -1 73
 Width: 592
 Flags: MW
@@ -2315,7 +2315,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D0.oldstyle
+StartChar: u1D7D0.onum
 Encoding: 1114151 -1 74
 Width: 592
 Flags: MW
@@ -2349,7 +2349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D1.oldstyle
+StartChar: u1D7D1.onum
 Encoding: 1114152 -1 75
 Width: 592
 Flags: MW
@@ -2387,7 +2387,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D2.oldstyle
+StartChar: u1D7D2.onum
 Encoding: 1114153 -1 76
 Width: 592
 Flags: W
@@ -2419,7 +2419,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D3.oldstyle
+StartChar: u1D7D3.onum
 Encoding: 1114154 -1 77
 Width: 592
 Flags: MW
@@ -2453,7 +2453,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D4.oldstyle
+StartChar: u1D7D4.onum
 Encoding: 1114155 -1 78
 Width: 592
 Flags: MW
@@ -2492,7 +2492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D5.oldstyle
+StartChar: u1D7D5.onum
 Encoding: 1114156 -1 79
 Width: 592
 Flags: MW
@@ -2516,7 +2516,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D6.oldstyle
+StartChar: u1D7D6.onum
 Encoding: 1114157 -1 80
 Width: 592
 Flags: MW
@@ -2563,7 +2563,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1D7D7.oldstyle
+StartChar: u1D7D7.onum
 Encoding: 1114158 -1 81
 Width: 592
 Flags: MW
@@ -5828,7 +5828,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0030.oldstyle
+StartChar: uni0030.onum
 Encoding: 1114168 -1 151
 Width: 501
 Flags: MW
@@ -5858,7 +5858,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0031.oldstyle
+StartChar: uni0031.onum
 Encoding: 1114169 -1 152
 Width: 501
 Flags: MW
@@ -5890,7 +5890,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0032.oldstyle
+StartChar: uni0032.onum
 Encoding: 1114170 -1 153
 Width: 501
 Flags: MW
@@ -5924,7 +5924,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0033.oldstyle
+StartChar: uni0033.onum
 Encoding: 1114171 -1 154
 Width: 501
 Flags: MW
@@ -5965,7 +5965,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0034.oldstyle
+StartChar: uni0034.onum
 Encoding: 1114172 -1 155
 Width: 501
 Flags: MW
@@ -5998,7 +5998,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0035.oldstyle
+StartChar: uni0035.onum
 Encoding: 1114173 -1 156
 Width: 501
 Flags: MW
@@ -6032,7 +6032,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0036.oldstyle
+StartChar: uni0036.onum
 Encoding: 1114174 -1 157
 Width: 501
 Flags: MW
@@ -6071,7 +6071,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0037.oldstyle
+StartChar: uni0037.onum
 Encoding: 1114175 -1 158
 Width: 501
 Flags: MW
@@ -6095,7 +6095,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0038.oldstyle
+StartChar: uni0038.onum
 Encoding: 1114176 -1 159
 Width: 501
 Flags: MW
@@ -6142,7 +6142,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0039.oldstyle
+StartChar: uni0039.onum
 Encoding: 1114177 -1 160
 Width: 501
 Flags: MW
