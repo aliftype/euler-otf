@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: EUEX10
-FullName: EUEX10
-FamilyName: Euler
+FontName: NeoEuler
+FullName: Neo Euler
+FamilyName: NeoEuler
 Weight: Medium
 Copyright: Copyright (c) 1997, 2009 American Mathematical Society (<http://www.ams.org>), with Reserved Font Name EUEX10.
-Version: 003.001
+Version: 000.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -13,34 +13,42 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 UniqueID: 5096681
+FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1245785330
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
-OS2TypoLinegap: 0
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
-OS2Vendor: 'PfEd'
+ModificationTime: 1246135361
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 90
+OS2WinAscent: 800
+OS2WinAOffset: 0
+OS2WinDescent: 200
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2Vendor: 'GNU '
 DEI: 91125
+LangName: 1033 
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114250 50 16
+WinInfo: 1114350 50 16
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
