@@ -42,8 +42,8 @@ math_parameters = {
 	FractionRuleThickness			= {fractionrule = "display"},
 	UpperLimitBaselineRiseMin		= {limitabovebgap = "display"},
 	UpperLimitGapMin			= {limitabovevgap = "display"},
-	LowerLimitBaselineDropMin		= {limitdownbgap = "display"},
-	LowerLimitGapMin			= {limitdownvgap = "display"},
+	LowerLimitBaselineDropMin		= {limitbelowbgap = "display"},
+	LowerLimitGapMin			= {limitbelowvgap = "display"},
 	StretchStackGapBelowMin			= {overdelimitervgap = "display"},
 	StretchStackTopShiftUp			= {overdelimiterbgap = "display"},
 	StretchStackGapAboveMin			= {underdelimitervgap = "display"},
@@ -95,5 +95,7 @@ end
 for k,v in pairs(font_parameters) do
 	output("MATH:"..k..": "..to_em_unit(fnt.parameters[v]).." \n")
 end
+
+--output("MATH:DisplayOperatorMinHeight: "..to_em_unit(tex.dp[0]).." \n")
 
 file:close()
