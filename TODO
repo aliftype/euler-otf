@@ -1,5 +1,7 @@
 Math kerning
 Math accents
-Selecting bold symbols in ConTeXt
+ConTeXt
+ Bold math
+ Upright greek
+ ssty
 `\Bigg|' -- test with xelatex
-Script and ScriptScript glyphs
