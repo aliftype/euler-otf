@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1246208875
+ModificationTime: 1246209749
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -106,8 +106,8 @@ UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 1114050 50 16
+FitToEm: 0
+WinInfo: 120200 50 16
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -120,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115127 1436
+BeginChars: 1115127 1437
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -13381,7 +13381,7 @@ EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0131.mathbold.ssty1 uni0131.mathbold.ssty2
 EndChar
 
-StartChar: uniF6BE.mathbold
+StartChar: uni0237.mathbold
 Encoding: 1114179 -1 311
 Width: 367
 Flags: MW
@@ -13409,7 +13409,7 @@ SplineSet
  127 416 114 420 107 420 c 0
  85 420 58 405 38 389 c 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF6BE.mathbold.ssty1 uniF6BE.mathbold.ssty2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0237.mathbold.ssty1 uni0237.mathbold.ssty2
 EndChar
 
 StartChar: uni2118.mathbold
@@ -17808,7 +17808,7 @@ SplineSet
  120 408 114 408 103 408 c 0
  87 408 52 388 27 375 c 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 0-1" uniF6BE.ssty1 uniF6BE.ssty2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0237.ssty1 uni0237.ssty2
 EndChar
 
 StartChar: uni2118
@@ -34250,7 +34250,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF6BE.mathbold.ssty1
+StartChar: uni0237.mathbold.ssty1
 Encoding: 1114501 -1 798
 Width: 464
 Flags: MW
@@ -38535,7 +38535,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF6BE.ssty1
+StartChar: uni0237.ssty1
 Encoding: 1114606 -1 903
 Width: 434
 Flags: MW
@@ -53756,7 +53756,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF6BE.mathbold.ssty2
+StartChar: uni0237.mathbold.ssty2
 Encoding: 1114948 -1 1245
 Width: 635
 Flags: MW
@@ -58041,7 +58041,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniF6BE.ssty2
+StartChar: uni0237.ssty2
 Encoding: 1115053 -1 1350
 Width: 591
 Flags: MW
@@ -62068,6 +62068,36 @@ SplineSet
  364 -731 395 -541 395 -447 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni23AD.ssty1
+EndChar
+
+StartChar: uni0237
+Encoding: 567 567 1436
+Width: 331
+Flags: W
+HStem: -191 21 408 60<95 162.5>
+VStem: 149 72
+LayerCount: 2
+Fore
+SplineSet
+27 375 m 1
+ 14 393 l 1
+ 41 414 68 433 98 449 c 0
+ 116 458 135 468 155 468 c 0
+ 170 468 186 465 196 455 c 0
+ 211 441 214 421 216 401 c 1
+ 223 358 223 191 223 154 c 0
+ 223 134 223 -6 211 -41 c 0
+ 198 -79 175 -112 148 -141 c 0
+ 115 -176 61 -209 15 -231 c 1
+ -1 -215 l 1
+ 73 -171 113 -126 127 -76 c 0
+ 144 -14 147 110 147 154 c 0
+ 147 252 147 318 144 355 c 0
+ 142 375 135 390 131 394 c 0
+ 120 408 114 408 103 408 c 0
+ 87 408 52 388 27 375 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0237.ssty1 uni0237.ssty2
 EndChar
 EndChars
 EndSplineFont
