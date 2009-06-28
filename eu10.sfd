@@ -102,12 +102,13 @@ MATH:RadicalKernAfterDegree: -556
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 50 50 16
+FitToEm: 0
+WinInfo: 0 50 16
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -19296,6 +19297,8 @@ StartChar: uni007B
 Encoding: 123 123 443
 Width: 361
 Flags: MW
+GlyphVariantsVertical: uni007B uni007B.alt01 uni007B.alt02 uni007B.alt03 uni007B.alt04
+GlyphCompositionVertical: 5  uni23A9%0,303,303,909 uni23AA%1,107,107,320 uni23A8%0,607,607,1820 uni23AA%1,107,107,320 uni23A7%0,303,303,909
 HStem: -178 17<315 330 315 330> 259 26<-4 6.5> 710 20<306.5 330>
 VStem: 122 58<497.5 531.5>
 LayerCount: 2
@@ -19342,6 +19345,8 @@ StartChar: uni007D
 Encoding: 125 125 444
 Width: 361
 Flags: MW
+GlyphVariantsVertical: uni007D uni007D.alt01 uni007D.alt02 uni007D.alt03 uni007D.alt04
+GlyphCompositionVertical: 5  uni23AD%0,303,303,909 uni23AA%1,107,107,320 uni23AC%0,607,607,1820 uni23AA%1,107,107,320 uni23AB%0,303,303,909
 HStem: -177 21 263 24 717 17
 VStem: -239 61
 LayerCount: 2
@@ -61492,6 +61497,7 @@ StartChar: product
 Encoding: 8719 8719 1418
 Width: 1056
 Flags: W
+GlyphVariantsVertical: product uni220F.alt
 HStem: -1000 40<70 121.5 321.5 373 70 121.5 682 733.5 933.5 985> -40 40<70 121.5 270 785 270 270 933.5 985>
 VStem: 173 97<-881 -119 -119 -104> 785 97<-881 -119>
 LayerCount: 2
@@ -61526,6 +61532,7 @@ StartChar: uni2210
 Encoding: 8720 8720 1419
 Width: 1056
 Flags: W
+GlyphVariantsVertical: uni2210 uni2210.alt
 HStem: -1000 40<70 121.5 270 785 933.5 985 70 121.5> -40 40<70 121.5 321.5 373 682 733.5 933.5 985>
 VStem: 173 97<-881 -119 -960 -104> 785 97<-896 -881 -881 -119>
 LayerCount: 2
@@ -61560,6 +61567,7 @@ StartChar: summation
 Encoding: 8721 8721 1420
 Width: 1056
 Flags: W
+GlyphVariantsVertical: summation uni2211.alt
 HStem: -1000 97<79 971 180 957> -70 70<229 888 229 229>
 VStem: 56 915<-992 -903>
 LayerCount: 2
@@ -61590,6 +61598,7 @@ StartChar: integral
 Encoding: 8747 8747 1421
 Width: 528
 Flags: W
+GlyphVariantsVertical: integral uni222B.alt
 HStem: -1111 31<165 206 165 235> -31 31<352.5 391.5>
 VStem: 50 105 245 76 401 105
 LayerCount: 2
@@ -61627,6 +61636,7 @@ StartChar: uni222E
 Encoding: 8750 8750 1422
 Width: 528
 Flags: W
+GlyphVariantsVertical: uni222E uni222E.alt
 HStem: -1111 31<165 206 165 211.5> -737 40 -413 40 -31 31<352.5 391.5>
 VStem: 49 104 95 40 243 74 244 74<-697 -670.5> 402 104 427 40<-588 -522>
 LayerCount: 2
