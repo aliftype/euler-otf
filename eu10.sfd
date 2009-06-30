@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1246209749
+ModificationTime: 1246389502
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -102,13 +102,12 @@ MATH:RadicalKernAfterDegree: -556
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 50 16
+WinInfo: 850 50 16
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -121,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115131 1431
+BeginChars: 1115127 1433
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -61895,6 +61894,80 @@ SplineSet
  87 408 52 388 27 375 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0237.ssty1 uni0237.ssty2
+EndChar
+
+StartChar: Omega
+Encoding: 937 937 1431
+Width: 875
+Flags: W
+HStem: -2 67 651 38
+VStem: 98 88<316.5 355 288.5 385.5> 679 90<344 410>
+LayerCount: 2
+Fore
+SplineSet
+835 60 m 1
+ 844 51 l 1
+ 819 -2 l 1
+ 704 7 588 7 473 -1 c 1
+ 482 57 l 1
+ 529 68 572 93 606 127 c 0
+ 633 153 649 188 660 224 c 0
+ 674 271 679 320 679 368 c 0
+ 679 452 657 537 597 597 c 0
+ 557 637 500 654 444 654 c 0
+ 382 654 318 637 274 592 c 1
+ 243 562 223 523 209 482 c 0
+ 193 433 186 381 186 329 c 0
+ 186 248 207 165 265 106 c 0
+ 294 77 334 61 375 53 c 1
+ 354 -2 l 1
+ 244 8 135 12 25 4 c 1
+ 42 65 l 1
+ 103 62 179 59 232 54 c 1
+ 238 69 l 1
+ 212 83 188 99 167 120 c 0
+ 143 145 127 176 116 210 c 0
+ 103 251 98 295 98 338 c 0
+ 98 433 126 528 194 595 c 1
+ 264 666 365 689 463 689 c 0
+ 507 689 552 684 594 670 c 0
+ 629 658 662 641 688 615 c 0
+ 748 555 769 469 769 385 c 0
+ 769 292 746 196 679 129 c 0
+ 650 101 621 78 584 63 c 1
+ 584 51 l 1
+ 669 55 765 60 835 60 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2126.ssty1 uni2126.ssty2
+EndChar
+
+StartChar: Delta
+Encoding: 916 916 1432
+Width: 713
+Flags: W
+HStem: -4 56 676 20<421 421>
+VStem: 30 659<44 45>
+LayerCount: 2
+Fore
+SplineSet
+363 671 m 1
+ 421 696 l 1
+ 465 564 512 439 564 311 c 0
+ 601 221 645 129 689 44 c 1
+ 688 28 l 1
+ 627 -4 l 1
+ 429 9 230 17 32 3 c 1
+ 30 45 l 1
+ 363 671 l 1
+562 50 m 1
+ 568 59 l 1
+ 527 153 367 553 367 554 c 1
+ 356 554 l 1
+ 261 390 181 233 101 64 c 1
+ 104 52 l 1
+ 256 55 410 50 562 50 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2206.ssty1 uni2206.ssty2
 EndChar
 EndChars
 EndSplineFont
