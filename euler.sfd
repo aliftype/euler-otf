@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1247050805
+ModificationTime: 1247780563
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114096 16 12
+WinInfo: 8704 16 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -120,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115127 1445
+BeginChars: 1115127 1455
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -62548,6 +62548,251 @@ SplineSet
  523 707 527 702 526 697 c 0
  513 560 505 422 505 284 c 0
  505 200 505 96 510 32 c 1
+EndSplineSet
+EndChar
+
+StartChar: radical
+Encoding: 8730 8730 1445
+Width: 833
+Flags: W
+GlyphVariantsVertical: radical radical.big radical.Big radical.bigg radical.Bigg
+GlyphCompositionVertical: 3  radical.bt%0,607,607,1820 radical.vertex%1,213,213,640 radical.tp%0,207,207,620
+HStem: -960 21<360.5 374> 20 20<827 839>
+VStem: 73 780<-549.5 25.5>
+LayerCount: 2
+Fore
+SplineSet
+389 -855 m 1
+ 812 21 l 2
+ 818 33 821 40 833 40 c 0
+ 845 40 853 31 853 20 c 0
+ 853 15 852 14 847 3 c 2
+ 391 -941 l 2
+ 384 -956 382 -960 366 -960 c 0
+ 355 -960 353 -959 347 -945 c 2
+ 149 -510 l 1
+ 97 -549 l 2
+ 88 -557 86 -557 83 -557 c 0
+ 77 -557 73 -553 73 -546 c 0
+ 73 -542 74 -541 85 -532 c 2
+ 184 -457 l 2
+ 193 -449 195 -449 198 -449 c 0
+ 205 -449 207 -455 211 -463 c 2
+ 389 -855 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" radical.ssty1 radical.ssty2
+EndChar
+
+StartChar: radical.big
+Encoding: 1114120 -1 1446
+Width: 1000
+Flags: W
+HStem: -1160 21<424 439.5> 20 20<978 1006>
+LayerCount: 2
+Fore
+SplineSet
+424 -1160 m 1
+ 196 -629 l 1
+ 125 -683 l 1
+ 110 -667 l 1
+ 249 -560 l 1
+ 462 -1056 l 1
+ 978 20 l 2
+ 983 31 987 40 1000 40 c 0
+ 1012 40 1020 31 1020 20 c 0
+ 1020 17 1020 15 1013 2 c 2
+ 466 -1140 l 2
+ 456 -1159 455 -1160 424 -1160 c 1
+EndSplineSet
+EndChar
+
+StartChar: radical.Big
+Encoding: 1114121 -1 1447
+Width: 1000
+Flags: W
+HStem: -1760 21<424 440.5> 20 20<992.5 1006>
+LayerCount: 2
+Fore
+SplineSet
+464 -1610 m 1
+ 977 14 l 2
+ 981 27 985 40 1000 40 c 0
+ 1012 40 1020 31 1020 20 c 0
+ 1020 19 1020 15 1015 0 c 2
+ 466 -1736 l 2
+ 458 -1760 457 -1760 424 -1760 c 1
+ 194 -958 l 1
+ 126 -1038 l 1
+ 110 -1023 l 1
+ 249 -860 l 1
+ 464 -1610 l 1
+EndSplineSet
+EndChar
+
+StartChar: radical.bigg
+Encoding: 1114122 -1 1448
+Width: 1000
+Flags: W
+HStem: -2360 21<424 440.5> 20 20<992 1006>
+LayerCount: 2
+Fore
+SplineSet
+466 -2162 m 1
+ 978 13 l 2
+ 981 27 984 40 1000 40 c 0
+ 1012 40 1020 31 1020 20 c 0
+ 1020 15 1018 6 1016 -1 c 2
+ 466 -2334 l 2
+ 460 -2360 457 -2360 424 -2360 c 1
+ 193 -1287 l 1
+ 125 -1394 l 1
+ 124 -1393 111 -1382 111 -1378 c 0
+ 111 -1377 111 -1375 118 -1366 c 1
+ 249 -1160 l 1
+ 465 -2162 l 1
+ 466 -2162 l 1
+EndSplineSet
+EndChar
+
+StartChar: radical.Bigg
+Encoding: 1114123 -1 1449
+Width: 1000
+Flags: W
+HStem: -2960 21<424 439.5> 20 20<992 1020>
+LayerCount: 2
+Fore
+SplineSet
+466 -2715 m 1
+ 978 10 l 2
+ 981 27 984 40 1000 40 c 0
+ 1012 40 1020 31 1020 20 c 1
+ 466 -2934 l 2
+ 461 -2960 455 -2960 424 -2960 c 1
+ 193 -1617 l 1
+ 125 -1749 l 1
+ 124 -1748 111 -1737 111 -1733 c 0
+ 111 -1732 112 -1730 117 -1720 c 2
+ 249 -1460 l 1
+ 465 -2715 l 1
+ 466 -2715 l 1
+EndSplineSet
+EndChar
+
+StartChar: radical.bt
+Encoding: 1114124 -1 1450
+Width: 1055
+Flags: W
+HStem: -1800 21<702 721> -20 20
+VStem: 702 40<-1800 -1764 -1545 -15>
+LayerCount: 2
+Fore
+SplineSet
+702 -1800 m 1
+ 209 -305 l 1
+ 126 -467 l 1
+ 111 -451 l 1
+ 250 -178 l 1
+ 701 -1545 l 1
+ 702 -1545 l 1
+ 702 -15 l 2
+ 702 2 702 20 722 20 c 0
+ 742 20 742 2 742 -15 c 2
+ 742 -1764 l 2
+ 742 -1794 740 -1800 702 -1800 c 1
+EndSplineSet
+EndChar
+
+StartChar: radical.vertex
+Encoding: 1114125 -1 1451
+Width: 1055
+Flags: W
+HStem: -600 21 -20 20
+VStem: 702 40<-585 -15>
+LayerCount: 2
+Fore
+SplineSet
+742 -15 m 2
+ 742 -585 l 2
+ 742 -602 742 -620 722 -620 c 0
+ 702 -620 702 -602 702 -585 c 2
+ 702 -15 l 2
+ 702 2 702 20 722 20 c 0
+ 742 20 742 2 742 -15 c 2
+EndSplineSet
+EndChar
+
+StartChar: radical.tp
+Encoding: 1114126 -1 1452
+Width: 1055
+Flags: W
+HStem: -560 21 0 40<742 1041 742 742>
+VStem: 702 40<-545 0>
+LayerCount: 2
+Fore
+SplineSet
+1041 0 m 2
+ 742 0 l 1
+ 742 -545 l 2
+ 742 -562 742 -580 722 -580 c 0
+ 702 -580 702 -562 702 -545 c 2
+ 702 4 l 2
+ 702 37 706 40 738 40 c 2
+ 1041 40 l 2
+ 1058 40 1076 40 1076 20 c 0
+ 1076 0 1058 0 1041 0 c 2
+EndSplineSet
+EndChar
+
+StartChar: radical.ssty1
+Encoding: 1114256 -1 1453
+Width: 938
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+443 -841 m 1
+ 913 31 l 2
+ 917 39 923 49 938 49 c 0
+ 948 49 962 41 962 24 c 0
+ 962 23 962 17 955 4 c 2
+ 451 -932 l 2
+ 441 -951 430 -951 421 -951 c 0
+ 408 -951 405 -949 398 -935 c 2
+ 180 -502 l 1
+ 113 -547 l 1
+ 108 -547 94 -547 94 -533 c 0
+ 94 -526 97 -525 108 -517 c 2
+ 216 -444 l 2
+ 224 -438 226 -437 231 -437 c 0
+ 239 -437 241 -442 247 -453 c 2
+ 443 -841 l 1
+EndSplineSet
+EndChar
+
+StartChar: radical.ssty2
+Encoding: 1114702 -1 1454
+Width: 1097
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+537 -834 m 1
+ 1072 38 l 2
+ 1077 47 1083 56 1098 56 c 0
+ 1114 56 1126 43 1126 28 c 0
+ 1126 20 1125 18 1117 6 c 2
+ 545 -926 l 2
+ 537 -938 534 -944 514 -944 c 0
+ 501 -944 497 -944 489 -929 c 2
+ 240 -495 l 1
+ 174 -533 l 2
+ 169 -536 165 -538 161 -538 c 0
+ 154 -538 144 -534 144 -522 c 0
+ 144 -513 150 -509 160 -503 c 2
+ 278 -434 l 2
+ 283 -431 289 -428 293 -428 c 0
+ 303 -428 307 -435 312 -443 c 2
+ 537 -834 l 1
 EndSplineSet
 EndChar
 EndChars
