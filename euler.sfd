@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113915 33 12
+WinInfo: 1114707 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -126,6 +126,7 @@ StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
 Width: 583
 Flags: MW
+IsExtendedShape: 1
 HStem: -1159 35 -577 35 5 35
 VStem: 258 69
 LayerCount: 2
@@ -162,6 +163,7 @@ StartChar: uni007D.alt01
 Encoding: 1114113 -1 1
 Width: 583
 Flags: MW
+IsExtendedShape: 1
 HStem: -1159 35 -577 35 5 35
 VStem: 258 69
 LayerCount: 2
@@ -198,6 +200,7 @@ StartChar: uni007B.alt02
 Encoding: 1114114 -1 2
 Width: 667
 Flags: MW
+IsExtendedShape: 1
 HStem: -1759 42 -881 42 -2 42
 VStem: 296 73
 LayerCount: 2
@@ -233,6 +236,7 @@ StartChar: uni007D.alt02
 Encoding: 1114115 -1 3
 Width: 667
 Flags: MW
+IsExtendedShape: 1
 HStem: -1759 42 -881 42 -2 42
 VStem: 296 73
 LayerCount: 2
@@ -269,6 +273,7 @@ StartChar: uni007B.alt03
 Encoding: 1114116 -1 4
 Width: 750
 Flags: MW
+IsExtendedShape: 1
 HStem: -2359 61 -1190 61 -21 61
 VStem: 335 79<-2049 -1489 -781 -319 -319 -289>
 LayerCount: 2
@@ -310,6 +315,7 @@ StartChar: uni007D.alt03
 Encoding: 1114117 -1 5
 Width: 750
 Flags: MW
+IsExtendedShape: 1
 HStem: -2359 61 -1190 61 -21 61
 VStem: 335 79<-2030 -2000 -2000 -1472 -830 -270>
 LayerCount: 2
@@ -347,6 +353,7 @@ StartChar: uni007B.alt04
 Encoding: 1114118 -1 6
 Width: 806
 Flags: MW
+IsExtendedShape: 1
 HStem: -2959 64 -1492 64 -24 64
 VStem: 361 83
 LayerCount: 2
@@ -387,6 +394,7 @@ StartChar: uni007D.alt04
 Encoding: 1114119 -1 7
 Width: 806
 Flags: MW
+IsExtendedShape: 1
 HStem: -2959 64 -1492 64 -24 64
 VStem: 361 83
 LayerCount: 2
@@ -934,6 +942,7 @@ StartChar: radical.big
 Encoding: 1114128 -1 27
 Width: 1000
 Flags: W
+IsExtendedShape: 1
 HStem: -1160 21<424 439.5> 20 20<978 1006>
 LayerCount: 2
 Fore
@@ -1022,6 +1031,7 @@ StartChar: uni222B.alt
 Encoding: 1114136 -1 31
 Width: 444
 Flags: MW
+IsExtendedShape: 1
 HStem: -2222 31<154 196.5 154 212> -2161 71 -130 71 -31 31<369.5 403>
 VStem: 41 85 247 84 434 85
 LayerCount: 2
@@ -1126,6 +1136,7 @@ StartChar: uni2211.alt
 Encoding: 1114137 -1 34
 Width: 1444
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 118<219 1347> -76 76
 VStem: 57 1304
 LayerCount: 2
@@ -1156,6 +1167,7 @@ StartChar: uni220F.alt
 Encoding: 1114138 -1 35
 Width: 1411
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 54<56 122 470.5 537 56 122 873 939 1287.5 1354> -54 54<56 122.5 373 1037 373 373 1288 1354>
 VStem: 220 153<-1236 -164 -164 -132> 1037 153<-1236 -164>
 LayerCount: 2
@@ -1190,6 +1202,7 @@ StartChar: uni2210.alt
 Encoding: 1114139 -1 36
 Width: 1411
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 54<56 122 373 1037 1287.5 1354 56 122> -54 54<56 122.5 471 537 873 939.5 1288 1354>
 VStem: 220 153<-1236 -164 -1346 -132> 1037 153<-1268 -1236 -1236 -164>
 LayerCount: 2
@@ -1702,6 +1715,7 @@ StartChar: uni0028
 Encoding: 40 40 52
 Width: 388
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni0028 uni0028.big uni0028.Big uni0028.bigg uni0028.Bigg
 GlyphCompositionVertical: 3  uni0028.bt%0,152,152,456 uni0028.ex%1,55,55,164 uni0028.tp%0,152,152,457
 HStem: -186 21 718 20<301 301>
@@ -1733,6 +1747,7 @@ StartChar: uni0029
 Encoding: 41 41 53
 Width: 388
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni0029 uni0029.big uni0029.Big uni0029.bigg uni0029.Bigg
 GlyphCompositionVertical: 3  uni0029.bt%0,152,152,456 uni0029.ex%1,55,55,164 uni0029.tp%0,152,152,457
 HStem: -187 21 715 20
@@ -4137,6 +4152,7 @@ StartChar: uni005B
 Encoding: 91 91 100
 Width: 277
 Flags: MW
+IsExtendedShape: 1
 HStem: -120 24<252 279> 712 24<252 279>
 VStem: 120 40<-83 699 -83 741>
 LayerCount: 2
@@ -4159,6 +4175,7 @@ StartChar: uni005D
 Encoding: 93 93 101
 Width: 277
 Flags: MW
+IsExtendedShape: 1
 HStem: -120 24<-1 26> 712 24<-1 26>
 VStem: 118 40<-83 699 699 699>
 LayerCount: 2
@@ -19195,6 +19212,7 @@ StartChar: uni007B
 Encoding: 123 123 442
 Width: 320
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni007B uni007B.alt01 uni007B.alt02 uni007B.alt03 uni007B.alt04
 GlyphCompositionVertical: 5  uni23A9%0,303,303,909 uni23AA%1,107,107,320 uni23A8%0,607,607,1820 uni23AA%1,107,107,320 uni23A7%0,303,303,909
 HStem: -178 17 259 26<-3 6> 710 20<271.5 292>
@@ -19243,6 +19261,7 @@ StartChar: uni007D
 Encoding: 125 125 443
 Width: 320
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni007D uni007D.alt01 uni007D.alt02 uni007D.alt03 uni007D.alt04
 GlyphCompositionVertical: 5  uni23AD%0,303,303,909 uni23AA%1,107,107,320 uni23AC%0,607,607,1820 uni23AA%1,107,107,320 uni23AB%0,303,303,909
 HStem: -177 21 263 24 717 17
@@ -20944,6 +20963,7 @@ StartChar: uni007B.alt01.ssty1
 Encoding: 1114185 -1 475
 Width: 662
 Flags: MW
+IsExtendedShape: 1
 HStem: -1150 35 -569 36 14 35
 VStem: 257 69
 LayerCount: 2
@@ -20978,6 +20998,7 @@ StartChar: uni007D.alt01.ssty1
 Encoding: 1114186 -1 476
 Width: 662
 Flags: MW
+IsExtendedShape: 1
 HStem: -1150 35 -569 36 14 35
 VStem: 257 69
 LayerCount: 2
@@ -21011,6 +21032,7 @@ StartChar: uni007B.alt02.ssty1
 Encoding: 1114187 -1 477
 Width: 754
 Flags: MW
+IsExtendedShape: 1
 HStem: -1751 43 -872 43 7 43
 VStem: 296 73
 LayerCount: 2
@@ -21046,6 +21068,7 @@ StartChar: uni007D.alt02.ssty1
 Encoding: 1114188 -1 478
 Width: 754
 Flags: MW
+IsExtendedShape: 1
 HStem: -1750 43 -872 43 7 43
 VStem: 296 73
 LayerCount: 2
@@ -21082,6 +21105,7 @@ StartChar: uni007B.alt03.ssty1
 Encoding: 1114189 -1 479
 Width: 846
 Flags: MW
+IsExtendedShape: 1
 HStem: -2350 61 -1181 61 -12 61
 VStem: 335 79
 LayerCount: 2
@@ -21120,6 +21144,7 @@ StartChar: uni007D.alt03.ssty1
 Encoding: 1114190 -1 480
 Width: 846
 Flags: MW
+IsExtendedShape: 1
 HStem: -2351 61 -1182 61 -13 61
 VStem: 335 79
 LayerCount: 2
@@ -21159,6 +21184,7 @@ StartChar: uni007B.alt04.ssty1
 Encoding: 1114191 -1 481
 Width: 908
 Flags: MW
+IsExtendedShape: 1
 HStem: -2950 64 -1483 64 -15 64
 VStem: 361 83
 LayerCount: 2
@@ -21197,6 +21223,7 @@ StartChar: uni007D.alt04.ssty1
 Encoding: 1114192 -1 482
 Width: 908
 Flags: MW
+IsExtendedShape: 1
 HStem: -2950 64 -1483 64 -15 64
 VStem: 361 83
 LayerCount: 2
@@ -21899,6 +21926,7 @@ StartChar: uni222E.ssty1
 Encoding: 1114225 -1 509
 Width: 600
 Flags: MW
+IsExtendedShape: 1
 HStem: -1111 32<182 214 182 227.5> -758 49 -401 49 -32 32<400.5 444.5>
 VStem: 60 114 108 49<-590.5 -520 -590.5 -510.5> 277 81 455 115<-109 -77.5> 477 49<-591 -520.5>
 LayerCount: 2
@@ -21945,6 +21973,7 @@ StartChar: uni222E.alt.ssty1
 Encoding: 1114226 -1 510
 Width: 508
 Flags: MW
+IsExtendedShape: 1
 HStem: -2222 32<171.5 223 171.5 275> -1408 49<369 369> -863 49<275 275> -32 32<413 441.5>
 VStem: 21 49<-1166 -1058 -1166 -1037> 49 88 275 94<-1231 -993> 493 88 574 49<-1164 -1056>
 LayerCount: 2
@@ -21992,6 +22021,7 @@ StartChar: uni2211.ssty1
 Encoding: 1114227 -1 511
 Width: 1185
 Flags: MW
+IsExtendedShape: 1
 HStem: -1000 103<215 1069> -79 79<264 992 264 264>
 VStem: 69 1015<-992 -897>
 LayerCount: 2
@@ -22020,6 +22050,7 @@ StartChar: uni2211.alt.ssty1
 Encoding: 1114228 -1 512
 Width: 1615
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 121<250 1498> -86 86<368 1360 368 368>
 VStem: 69 1445<-1392 -1279>
 LayerCount: 2
@@ -22048,6 +22079,7 @@ StartChar: uni220F.ssty1
 Encoding: 1114229 -1 513
 Width: 1185
 Flags: MW
+IsExtendedShape: 1
 HStem: -1000 49<85 136.5 342.5 394 85 136.5 790 841.5 1047.5 1099> -49 49<85 136.5 291 893 291 291 1047.5 1099>
 VStem: 188 103<-872 -128 -128 -113> 893 103<-872 -128>
 LayerCount: 2
@@ -22081,6 +22113,7 @@ StartChar: uni220F.alt.ssty1
 Encoding: 1114230 -1 514
 Width: 1578
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 61<69 129.5 487 550 69 129.5 1027 1087.5 1445 1508> -61 61<69 132 385 1192 385 385 1447.5 1508>
 VStem: 69 1439<-1400 -1339 -1400 -1339 -61 0 -1400 0>
 LayerCount: 2
@@ -22114,6 +22147,7 @@ StartChar: uni222B.ssty1
 Encoding: 1114231 -1 515
 Width: 600
 Flags: MW
+IsExtendedShape: 1
 HStem: -1111 32<182 234.5 182 246> -32 32<397 444.5>
 VStem: 59 115<-1032.5 -1002> 275 84<-594 -481> 455 115<-109 -77.5>
 LayerCount: 2
@@ -22146,6 +22180,7 @@ StartChar: uni222B.alt.ssty1
 Encoding: 1114232 -1 516
 Width: 508
 Flags: MW
+IsExtendedShape: 1
 HStem: -2222 32<171.5 223 171.5 278> -32 32<413 441.5>
 VStem: 49 90<-2125 -2113 -2125 -2110.5> 275 94<-1249 -975> 491 90<-109.5 -95>
 LayerCount: 2
@@ -22181,6 +22216,7 @@ StartChar: uni2210.ssty1
 Encoding: 1114233 -1 517
 Width: 1185
 Flags: W
+IsExtendedShape: 1
 HStem: -1000 49<85 136.5 291 893 1047.5 1099 85 136.5> -49 49<85 136.5 342.5 394 790 841.5 1047.5 1099>
 VStem: 188 103<-872 -128 -951 -113> 893 103<-887 -872 -872 -128>
 LayerCount: 2
@@ -22214,6 +22250,7 @@ StartChar: uni2210.alt.ssty1
 Encoding: 1114234 -1 518
 Width: 1578
 Flags: MW
+IsExtendedShape: 1
 HStem: -1400 61<69 129.5 385 1192 1445 1508 69 129.5> -61 61<69 132 489.5 550 1027 1090 1447.5 1508>
 VStem: 69 1439<-1400 -1339 -1400 -1339 -61 0 -1400 0>
 LayerCount: 2
@@ -24724,6 +24761,7 @@ StartChar: uni005B.ssty1
 Encoding: 1114295 -1 569
 Width: 367
 Flags: MW
+IsExtendedShape: 1
 HStem: -120 24<312.5 342> 712 24<312.5 342>
 VStem: 169 44
 LayerCount: 2
@@ -24745,6 +24783,7 @@ StartChar: uni005D.ssty1
 Encoding: 1114296 -1 570
 Width: 378
 Flags: MW
+IsExtendedShape: 1
 HStem: -120 24<48 77.5> 712 24<48 77.5>
 VStem: 178 44
 LayerCount: 2
@@ -39474,6 +39513,7 @@ StartChar: uni007B.ssty1
 Encoding: 1114639 -1 913
 Width: 423
 Flags: MW
+IsExtendedShape: 1
 HStem: -178 17 259 26<28 38> 710 20<338 361>
 VStem: 153 58<497.5 531.5>
 LayerCount: 2
@@ -39519,6 +39559,7 @@ StartChar: uni007D.ssty1
 Encoding: 1114640 -1 914
 Width: 423
 Flags: MW
+IsExtendedShape: 1
 HStem: -177 21 263 24 717 17
 VStem: 119 59
 LayerCount: 2
@@ -41974,6 +42015,7 @@ StartChar: uni0028.ssty2
 Encoding: 1114693 -1 967
 Width: 697
 Flags: MW
+IsExtendedShape: 1
 HStem: -186 21<493 493> 718 20<493 493>
 VStem: 233 74<239.5 310 231 318.5>
 LayerCount: 2
@@ -42002,6 +42044,7 @@ StartChar: uni0029.ssty2
 Encoding: 1114694 -1 968
 Width: 697
 Flags: MW
+IsExtendedShape: 1
 HStem: -187 21<198 198> 715 20<198 198>
 VStem: 392 74
 LayerCount: 2
@@ -43876,6 +43919,7 @@ StartChar: uni005B.ssty2
 Encoding: 1114741 -1 1005
 Width: 491
 Flags: MW
+IsExtendedShape: 1
 HStem: -130 32 710 31
 VStem: 145 55<-93 699 -93 741 -93 741>
 LayerCount: 2
@@ -43897,6 +43941,7 @@ StartChar: uni005D.ssty2
 Encoding: 1114742 -1 1006
 Width: 491
 Flags: MW
+IsExtendedShape: 1
 HStem: -132 31 708 31
 VStem: 279 55<-92 700 700 700>
 LayerCount: 2
@@ -58633,6 +58678,7 @@ StartChar: uni007B.ssty2
 Encoding: 1115086 -1 1350
 Width: 578
 Flags: MW
+IsExtendedShape: 1
 HStem: -178 17 259 26<93 104> 710 20<422.5 447>
 VStem: 227 61<497.5 531.5>
 LayerCount: 2
@@ -58678,6 +58724,7 @@ StartChar: uni007D.ssty2
 Encoding: 1115087 -1 1351
 Width: 578
 Flags: MW
+IsExtendedShape: 1
 HStem: -177 21 263 24 717 17
 VStem: 191 62
 LayerCount: 2
@@ -60605,6 +60652,7 @@ StartChar: product
 Encoding: 8719 8719 1391
 Width: 1056
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: product uni220F.alt
 HStem: -1000 40<70 121.5 321.5 373 70 121.5 682 733.5 933.5 985> -40 40<70 121.5 270 785 270 270 933.5 985>
 VStem: 173 97<-881 -119 -119 -104> 785 97<-881 -119>
@@ -60640,6 +60688,7 @@ StartChar: uni2210
 Encoding: 8720 8720 1392
 Width: 1056
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni2210 uni2210.alt
 HStem: -1000 40<70 121.5 270 785 933.5 985 70 121.5> -40 40<70 121.5 321.5 373 682 733.5 933.5 985>
 VStem: 173 97<-881 -119 -960 -104> 785 97<-896 -881 -881 -119>
@@ -60675,6 +60724,7 @@ StartChar: summation
 Encoding: 8721 8721 1393
 Width: 1056
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: summation uni2211.alt
 HStem: -1000 97<79 971 180 957> -70 70<229 888 229 229>
 VStem: 56 915<-992 -903>
@@ -60706,6 +60756,7 @@ StartChar: integral
 Encoding: 8747 8747 1394
 Width: 528
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: integral uni222B.alt
 HStem: -1111 31<165 206 165 235> -31 31<352.5 391.5>
 VStem: 50 105 245 76 401 105
@@ -60744,6 +60795,7 @@ StartChar: uni222E
 Encoding: 8750 8750 1395
 Width: 528
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni222E uni222E.alt
 HStem: -1111 31<165 206 165 211.5> -737 40 -413 40 -31 31<352.5 391.5>
 VStem: 49 104 95 40 243 74 244 74<-697 -670.5> 402 104 427 40<-588 -522>
@@ -62308,6 +62360,7 @@ StartChar: uni0028.ssty1
 Encoding: 1114255 -1 1436
 Width: 488
 Flags: W
+IsExtendedShape: 1
 HStem: -186 21 718 20<365 365>
 VStem: 161 57
 LayerCount: 2
@@ -62393,6 +62446,7 @@ StartChar: uni0029.ssty1
 Encoding: 1114256 -1 1439
 Width: 490
 Flags: W
+IsExtendedShape: 1
 HStem: -187 21 715 20
 VStem: 284 57<232 314.5 230 315.5>
 LayerCount: 2
@@ -62448,6 +62502,7 @@ StartChar: radical.Big
 Encoding: 1114129 -1 1441
 Width: 1000
 Flags: W
+IsExtendedShape: 1
 HStem: -1760 21<424 440.5> 20 20<992.5 1006>
 LayerCount: 2
 Fore
@@ -62471,6 +62526,7 @@ StartChar: radical.bigg
 Encoding: 1114130 -1 1442
 Width: 1000
 Flags: W
+IsExtendedShape: 1
 HStem: -2360 21<424 440.5> 20 20<992 1006>
 LayerCount: 2
 Fore
@@ -62532,6 +62588,7 @@ StartChar: uni222E.alt
 Encoding: 1114135 -1 1444
 Width: 444
 Flags: W
+IsExtendedShape: 1
 HStem: -2222 31<153 195.5 153 210> -2162 70 -1376 40<329 329> -884 40 -130 70 -31 31<368.5 402>
 VStem: 18 40 41 80 242 89 243 89 434 80 516 40<-1162 -1067 -1174 -1062.5>
 LayerCount: 2
@@ -62586,6 +62643,7 @@ StartChar: radical.Bigg
 Encoding: 1114131 -1 1445
 Width: 1000
 Flags: W
+IsExtendedShape: 1
 HStem: -2960 21<424 439.5> 20 20<992 1020>
 LayerCount: 2
 Fore
@@ -62946,6 +63004,7 @@ StartChar: uni0028.big
 Encoding: 1114120 -1 1460
 Width: 458
 Flags: W
+IsExtendedShape: 1
 HStem: -1159 21<392 403> 20 20<393.5 403>
 VStem: 152 69<-606.5 -447.5>
 LayerCount: 2
@@ -62970,6 +63029,7 @@ StartChar: uni0029.big
 Encoding: 1114121 -1 1461
 Width: 458
 Flags: W
+IsExtendedShape: 1
 HStem: -1159 21<53.5 63.5> 20 20<53.5 65>
 VStem: 236 69<-609.5 -512.5>
 LayerCount: 2
@@ -62995,6 +63055,7 @@ StartChar: uni0028.Big
 Encoding: 1114122 -1 1462
 Width: 597
 Flags: W
+IsExtendedShape: 1
 HStem: -1759 21<526.5 527 527 549> 20 20<534.5 547>
 VStem: 180 76<-977.5 -776>
 LayerCount: 2
@@ -63024,6 +63085,7 @@ StartChar: uni0029.Big
 Encoding: 1114123 -1 1463
 Width: 597
 Flags: W
+IsExtendedShape: 1
 HStem: -1759 21<50 61.5> 20 20<50 61.5>
 VStem: 340 76<-939.5 -739>
 LayerCount: 2
@@ -63050,6 +63112,7 @@ StartChar: uni0028.bigg
 Encoding: 1114124 -1 1464
 Width: 736
 Flags: W
+IsExtendedShape: 1
 HStem: -2359 21<672 686> 20 20<672 686>
 VStem: 208 83<-1352.5 -1025.5 -1352.5 -948.5>
 LayerCount: 2
@@ -63076,6 +63139,7 @@ StartChar: uni0029.bigg
 Encoding: 1114125 -1 1465
 Width: 736
 Flags: W
+IsExtendedShape: 1
 HStem: -2359 21<50 63> 20 20<50 63>
 VStem: 444 83<-1293.5 -966.5>
 LayerCount: 2
@@ -63102,6 +63166,7 @@ StartChar: uni0028.Bigg
 Encoding: 1114126 -1 1466
 Width: 791
 Flags: W
+IsExtendedShape: 1
 HStem: -2959 21<726.5 742.5> 20 20<727.5 742.5>
 VStem: 236 97<-1646 -1377.5>
 LayerCount: 2
@@ -63130,6 +63195,7 @@ StartChar: uni0029.Bigg
 Encoding: 1114127 -1 1467
 Width: 791
 Flags: W
+IsExtendedShape: 1
 HStem: -2959 21<49 63.5> 20 20<49 64.5>
 VStem: 458 97<-1541.5 -1273 -1541.5 -1244>
 LayerCount: 2
