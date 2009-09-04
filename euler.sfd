@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252092047
+ModificationTime: 1252102345
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 120747 33 12
+WinInfo: 9075 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -958,6 +958,7 @@ SplineSet
  394 -1159 l 1
  202 -1159 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: bracketleft.bigg
@@ -980,6 +981,7 @@ SplineSet
  513 -2359 l 1
  250 -2359 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: bracketright.bigg
@@ -1002,6 +1004,7 @@ SplineSet
  14 -2304 l 1
  222 -2304 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: bracketleft.Bigg
@@ -1024,6 +1027,7 @@ SplineSet
  571 -2959 l 1
  275 -2959 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: radical.big
@@ -1047,6 +1051,7 @@ SplineSet
  466 -1140 l 2
  456 -1159 455 -1160 424 -1160 c 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni2195
@@ -1133,6 +1138,7 @@ SplineSet
  249 -860 l 1
  464 -1610 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: radical.bigg
@@ -1158,6 +1164,7 @@ SplineSet
  465 -2162 l 1
  466 -2162 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: radical.Bigg
@@ -1182,6 +1189,7 @@ SplineSet
  465 -2715 l 1
  466 -2715 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: radical.bt
@@ -1206,6 +1214,7 @@ SplineSet
  742 -1764 l 2
  742 -1794 740 -1800 702 -1800 c 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0020
@@ -1232,6 +1241,7 @@ SplineSet
  702 2 702 20 722 20 c 0
  742 20 742 2 742 -15 c 2
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: radical.tp
@@ -1254,6 +1264,7 @@ SplineSet
  1058 40 1076 40 1076 20 c 0
  1076 0 1058 0 1041 0 c 2
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni222E.alt
@@ -21982,21 +21993,22 @@ VStem: 113 52.0146<-456.645 -442 -425.67 -220.407>
 LayerCount: 2
 Fore
 SplineSet
-165.015 -425.67 m 5
- 166.321 -366.402 169.958 -307.364 179 -249 c 4
- 187 -197 198 -146 220 -99 c 4
- 236 -65 269 -35 301 -27 c 5
- 301 0 l 5
- 260 -7 216 -39 191 -74 c 5
- 160 -120 144 -174 133 -228 c 4
- 120.089 -292.555 114.587 -358.333 113 -425.67 c 5
- 113 -442 l 6
- 113 -456.14 113.505 -456.645 127.645 -456.645 c 6
- 150.37 -456.645 l 6
- 164.51 -456.645 165.015 -456.14 165.015 -442.505 c 6
- 165.015 -425.67 l 5
+165.015 -425.67 m 1
+ 166.321 -366.402 169.958 -307.364 179 -249 c 0
+ 187 -197 198 -146 220 -99 c 0
+ 236 -65 269 -35 301 -27 c 1
+ 301 0 l 1
+ 260 -7 216 -39 191 -74 c 1
+ 160 -120 144 -174 133 -228 c 0
+ 120.089 -292.555 114.587 -358.333 113 -425.67 c 1
+ 113 -442 l 2
+ 113 -456.14 113.505 -456.645 127.645 -456.645 c 2
+ 150.37 -456.645 l 2
+ 164.51 -456.645 165.015 -456.14 165.015 -442.505 c 2
+ 165.015 -425.67 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0028.ssty1 uni0028.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni0029.tp
@@ -22008,21 +22020,22 @@ VStem: 223.985 52.0146<-457.645 -221.407>
 LayerCount: 2
 Fore
 SplineSet
-223.985 -426.67 m 5
- 222.679 -367.402 219.042 -308.363 210 -250 c 4
- 202 -198 191 -147 169 -100 c 4
- 153 -66 120 -36 88 -28 c 5
- 88 -1 l 5
- 129 -8 173 -40 198 -75 c 5
- 229 -121 245 -175 256 -229 c 4
- 268.911 -293.556 274.413 -359.333 276 -426.67 c 5
- 276 -443 l 6
- 276 -457.14 275.495 -457.645 261.355 -457.645 c 6
- 238.63 -457.645 l 6
- 224.49 -457.645 223.985 -457.14 223.985 -443.505 c 6
- 223.985 -426.67 l 5
+223.985 -426.67 m 1
+ 222.679 -367.402 219.042 -308.363 210 -250 c 0
+ 202 -198 191 -147 169 -100 c 0
+ 153 -66 120 -36 88 -28 c 1
+ 88 -1 l 1
+ 129 -8 173 -40 198 -75 c 1
+ 229 -121 245 -175 256 -229 c 0
+ 268.911 -293.556 274.413 -359.333 276 -426.67 c 1
+ 276 -443 l 2
+ 276 -457.14 275.495 -457.645 261.355 -457.645 c 2
+ 238.63 -457.645 l 2
+ 224.49 -457.645 223.985 -457.14 223.985 -443.505 c 2
+ 223.985 -426.67 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0029.ssty1 uni0029.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni0028.bt
@@ -22034,22 +22047,23 @@ VStem: 113.355 52.0146<-244.359 -26.4033 -6.64648 8>
 LayerCount: 2
 Fore
 SplineSet
-113.355 -26.5986 m 5
- 114.873 -92.6348 119.651 -158.146 131 -223 c 4
- 140 -274 152 -326 183 -369 c 5
- 211 -406 253 -444 301 -448 c 5
- 301 -424 l 5
- 281 -420 251 -404 234 -384 c 4
- 220 -368 211 -349 204 -329 c 4
- 194 -301 188 -272 182 -243 c 5
- 170.171 -172.025 167.195 -99.624 165.37 -26.4033 c 5
- 165.37 -6.14062 l 6
- 165.37 7.49512 164.865 8 150.726 8 c 6
- 128 8 l 6
- 113.86 8 113.355 7.49512 113.355 -6.64648 c 6
- 113.355 -26.5986 l 5
+113.355 -26.5986 m 1
+ 114.873 -92.6348 119.651 -158.146 131 -223 c 0
+ 140 -274 152 -326 183 -369 c 1
+ 211 -406 253 -444 301 -448 c 1
+ 301 -424 l 1
+ 281 -420 251 -404 234 -384 c 0
+ 220 -368 211 -349 204 -329 c 0
+ 194 -301 188 -272 182 -243 c 1
+ 170.171 -172.025 167.195 -99.624 165.37 -26.4033 c 1
+ 165.37 -6.14062 l 2
+ 165.37 7.49512 164.865 8 150.726 8 c 2
+ 128 8 l 2
+ 113.86 8 113.355 7.49512 113.355 -6.64648 c 2
+ 113.355 -26.5986 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0028.ssty1 uni0028.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni0029.bt
@@ -22061,22 +22075,23 @@ VStem: 223.63 52.0146<-245.359 7>
 LayerCount: 2
 Fore
 SplineSet
-275.645 -27.5986 m 5
- 274.127 -93.6357 269.35 -159.146 258 -224 c 4
- 249 -275 237 -327 206 -370 c 5
- 178 -407 136 -445 88 -449 c 5
- 88 -425 l 5
- 108 -421 138 -405 155 -385 c 4
- 169 -369 178 -350 185 -330 c 4
- 195 -302 201 -273 207 -244 c 5
- 218.829 -173.025 221.805 -100.624 223.63 -27.4033 c 5
- 223.63 -7.14062 l 6
- 223.63 6.49512 224.135 7 238.274 7 c 6
- 261 7 l 6
- 275.14 7 275.645 6.49512 275.645 -7.64648 c 6
- 275.645 -27.5986 l 5
+275.645 -27.5986 m 1
+ 274.127 -93.6357 269.35 -159.146 258 -224 c 0
+ 249 -275 237 -327 206 -370 c 1
+ 178 -407 136 -445 88 -449 c 1
+ 88 -425 l 1
+ 108 -421 138 -405 155 -385 c 0
+ 169 -369 178 -350 185 -330 c 0
+ 195 -302 201 -273 207 -244 c 1
+ 218.829 -173.025 221.805 -100.624 223.63 -27.4033 c 1
+ 223.63 -7.14062 l 2
+ 223.63 6.49512 224.135 7 238.274 7 c 2
+ 261 7 l 2
+ 275.14 7 275.645 6.49512 275.645 -7.64648 c 2
+ 275.645 -27.5986 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0029.ssty1 uni0029.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni0028.ex
@@ -22088,17 +22103,18 @@ VStem: 113 52.0146<-154.975 8.64648>
 LayerCount: 2
 Fore
 SplineSet
-165.015 -5.49512 m 6
- 165.015 -140.835 l 6
- 165.015 -154.47 164.51 -154.975 150.37 -154.975 c 6
- 127.645 -154.975 l 6
- 113.505 -154.975 113 -154.47 113 -140.33 c 6
- 113 -6 l 6
- 113 8.14062 113.505 8.64648 127.645 8.64648 c 6
- 150.37 8.64648 l 6
- 164.51 8.64648 165.015 8.14062 165.015 -5.49512 c 6
+165.015 -5.49512 m 2
+ 165.015 -140.835 l 2
+ 165.015 -154.47 164.51 -154.975 150.37 -154.975 c 2
+ 127.645 -154.975 l 2
+ 113.505 -154.975 113 -154.47 113 -140.33 c 2
+ 113 -6 l 2
+ 113 8.14062 113.505 8.64648 127.645 8.64648 c 2
+ 150.37 8.64648 l 2
+ 164.51 8.64648 165.015 8.14062 165.015 -5.49512 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0028.ssty1 uni0028.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni0029.ex
@@ -22110,17 +22126,18 @@ VStem: 224 52.0146<-154.975 8.64648>
 LayerCount: 2
 Fore
 SplineSet
-276.015 -5.49512 m 6
- 276.015 -140.835 l 6
- 276.015 -154.47 275.51 -154.975 261.37 -154.975 c 6
- 238.645 -154.975 l 6
- 224.505 -154.975 224 -154.47 224 -140.33 c 6
- 224 -6 l 6
- 224 8.14062 224.505 8.64648 238.645 8.64648 c 6
- 261.37 8.64648 l 6
- 275.51 8.64648 276.015 8.14062 276.015 -5.49512 c 6
+276.015 -5.49512 m 2
+ 276.015 -140.835 l 2
+ 276.015 -154.47 275.51 -154.975 261.37 -154.975 c 2
+ 238.645 -154.975 l 2
+ 224.505 -154.975 224 -154.47 224 -140.33 c 2
+ 224 -6 l 2
+ 224 8.14062 224.505 8.64648 238.645 8.64648 c 2
+ 261.37 8.64648 l 2
+ 275.51 8.64648 276.015 8.14062 276.015 -5.49512 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0029.ssty1 uni0029.ssty2
+Colour: 6400
 EndChar
 
 StartChar: uni222E.ssty1
@@ -23024,6 +23041,7 @@ SplineSet
  239 -437 241 -442 247 -453 c 2
  443 -841 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni003A.ssty1
@@ -42102,6 +42120,7 @@ SplineSet
  303 -428 307 -435 312 -443 c 2
  537 -834 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni003A.ssty2
@@ -62250,6 +62269,7 @@ SplineSet
  389 -855 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" radical.ssty1 radical.ssty2
+Colour: ff
 EndChar
 
 StartChar: u1D584.alt.ssty1
@@ -62407,6 +62427,7 @@ SplineSet
  214 40 l 1
  214 -1159 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: bracketleft.Big
@@ -62429,6 +62450,7 @@ SplineSet
  453 -1759 l 1
  226 -1759 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0032.onum
@@ -62486,6 +62508,7 @@ SplineSet
  11 -2897 l 1
  245 -2897 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: bracketright.Big
@@ -62508,6 +62531,7 @@ SplineSet
  18 -1712 l 1
  198 -1712 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: u1D585.alt.ssty1
@@ -62969,6 +62993,7 @@ SplineSet
  295 -1010 363 -1091 409 -1140 c 0
  411 -1143 413 -1145 413 -1149 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0029.big
@@ -62995,6 +63020,7 @@ SplineSet
  74 40 139 -36 149 -48 c 0
  280 -217 305 -418 305 -560 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0028.Big
@@ -63025,6 +63051,7 @@ SplineSet
  527 -1759 l 2
  526 -1759 517 -1749 515 -1748 c 2
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0029.Big
@@ -63052,6 +63079,7 @@ SplineSet
  101 13 138 -26 152 -42 c 0
  349 -267 416 -572 416 -859 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0028.bigg
@@ -63079,6 +63107,7 @@ SplineSet
  592 -2236 659 -2303 696 -2340 c 0
  698 -2343 700 -2345 700 -2349 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0029.bigg
@@ -63106,6 +63135,7 @@ SplineSet
  125 -8 163 -49 183 -72 c 0
  437 -371 527 -767 527 -1160 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0028.Bigg
@@ -63135,6 +63165,7 @@ SplineSet
  575 -2693 655 -2821 751 -2937 c 0
  757 -2944 757 -2946 757 -2949 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni0029.Bigg
@@ -63164,6 +63195,7 @@ SplineSet
  182 -73 277 -210 348 -362 c 0
  508 -704 555 -1086 555 -1460 c 0
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: equivalence
@@ -63640,6 +63672,7 @@ SplineSet
  395 -1760 l 1
  326 -1760 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni23A3
@@ -63659,6 +63692,7 @@ SplineSet
  659 -1759 l 1
  326 -1759 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni23A4
@@ -63678,6 +63712,7 @@ SplineSet
  340 -1760 l 1
  271 -1760 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni23A6
@@ -63697,6 +63732,7 @@ SplineSet
  7 -1690 l 1
  271 -1690 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni23A2
@@ -63714,6 +63750,7 @@ SplineSet
  326 1 l 1
  395 1 l 1
 EndSplineSet
+Colour: ff
 EndChar
 
 StartChar: uni23A5
@@ -63731,6 +63768,7 @@ SplineSet
  271 1 l 1
  340 1 l 1
 EndSplineSet
+Colour: ff
 EndChar
 EndChars
 EndSplineFont
