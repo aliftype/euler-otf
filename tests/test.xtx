@@ -1,10 +1,9 @@
 \documentclass{minimal}
+\usepackage{amsmath}
 \usepackage[math-style=literal]{unicode-math}
-\usepackage{fontspec}
 
 \begin{document}
 \setmathfont{NeoEuler}
-\setmainfont{NeoEuler}
 
 \centerline{\(\mathfrak{Neo\ Euler}\)}
 \vskip20pt
