@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252345244
+ModificationTime: 1252352068
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -120,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115149 1513
+BeginChars: 1115154 1518
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -19242,15 +19242,18 @@ StartChar: uni007C
 Encoding: 124 124 444
 Width: 213
 Flags: MW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni007C uni007C.big uni007C.Big uni007C.bigg uni007C.Bigg
+GlyphCompositionVertical: 2  uni007C.Bigg%0,1102,1102,3306 uni007C.ex%1,102,102,305
 VStem: 86 40<-159 -159 -159 730 730 730>
 LayerCount: 2
 Fore
 SplineSet
-126 -159 m 1
- 86 -167 l 1
- 86 730 l 1
- 126 738 l 1
- 126 -159 l 1
+126 -159 m 5
+ 86 -167 l 5
+ 86 730 l 5
+ 126 738 l 5
+ 126 -159 l 5
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni007C.ssty1 uni007C.ssty2
 EndChar
@@ -64018,13 +64021,13 @@ VStem: 226 47<-1712 40 -1712 40 -1712 40>
 LayerCount: 2
 Fore
 SplineSet
-226 -1759 m 1
- 226 40 l 1
- 273 40 l 1
- 273 -1712 l 1
- 509 -1712 l 1
- 509 -1759 l 1
- 226 -1759 l 1
+226 -1759 m 5
+ 226 40 l 5
+ 273 40 l 5
+ 273 -1712 l 5
+ 509 -1712 l 5
+ 509 -1759 l 5
+ 226 -1759 l 5
 EndSplineSet
 Colour: ff
 EndChar
@@ -64092,7 +64095,7 @@ EndChar
 StartChar: uni230A.alt03
 Encoding: 1115141 -1 1505
 Width: 583
-Flags: W
+Flags: HW
 HStem: -2359 55<305 568 305 568> 20 20<250 305 305 305>
 VStem: 250 55<-2304 40 -2304 40 -2304 40>
 LayerCount: 2
@@ -64247,6 +64250,101 @@ SplineSet
  301 -2959 l 1
 EndSplineSet
 Colour: ff
+EndChar
+
+StartChar: uni007C.ex
+Encoding: 1115149 -1 1513
+Width: 213
+Flags: MW
+IsExtendedShape: 1
+HStem: -167 305
+VStem: 86 40<-159 130>
+LayerCount: 2
+Fore
+SplineSet
+126 -159 m 1
+ 86 -167 l 1
+ 86 130 l 1
+ 126 138 l 1
+ 126 -159 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni007C.bigg
+Encoding: 1115152 -1 1514
+Width: 213
+VWidth: -600
+Flags: W
+IsExtendedShape: 1
+VStem: 86 40<-2660 30>
+LayerCount: 2
+Fore
+SplineSet
+126 -2660 m 1
+ 86 -2668 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -2660 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni007C.Bigg
+Encoding: 1115153 -1 1515
+Width: 213
+VWidth: -900
+Flags: W
+IsExtendedShape: 1
+VStem: 86 40<-3260 30>
+LayerCount: 2
+Fore
+SplineSet
+126 -3260 m 1
+ 86 -3268 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -3260 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni007C.big
+Encoding: 1115150 -1 1516
+Width: 213
+VWidth: 0
+Flags: W
+IsExtendedShape: 1
+VStem: 86 40<-1459 30>
+LayerCount: 2
+Fore
+SplineSet
+126 -1459 m 1
+ 86 -1467 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -1459 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni007C.Big
+Encoding: 1115151 -1 1517
+Width: 213
+VWidth: -300
+Flags: W
+IsExtendedShape: 1
+VStem: 86 40<-2059 30>
+LayerCount: 2
+Fore
+SplineSet
+126 -2059 m 1
+ 86 -2067 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -2059 l 1
+EndSplineSet
+Colour: ff00
 EndChar
 EndChars
 EndSplineFont

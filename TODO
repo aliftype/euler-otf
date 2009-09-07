@@ -2,8 +2,5 @@ Extensions
 Math kerning
 Math accents
 ConTeXt
- Bold math
  Upright greek
  ssty
-`\Bigg|' -- test with xelatex
-Check license of glyphs copied from LM

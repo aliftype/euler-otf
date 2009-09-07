@@ -32,7 +32,7 @@
 \stopformula
 
 \startformula
-\biggl({\partial^{2} \over \partial x^{2}} + {\partial^{2} \over \partial y^{2}}\biggr) {\bigl|\phi(x+iy)\bigr|}^2
+\biggl({\partial^{2} \over \partial x^{2}} + {\partial^{2} \over \partial y^{2}}\biggr) {\bigl\vert\phi(x+iy)\bigr\vert}^2
 \stopformula
 
 \startformula
@@ -65,6 +65,10 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
      \NC x, \MC \text{if } 0 \le x \le \frac12 \NR
      \NC 1-x ,\MC \text{if } \frac12 \le x \le 1 \NR
    \stopmathcases
+\stopformula
+
+\startformula
+\vert\big\vert\Big\vert\bigg\vert\Bigg\vert
 \stopformula
 
 \stoptext

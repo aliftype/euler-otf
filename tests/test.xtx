@@ -43,7 +43,7 @@
 \]
 
 \[
-\biggl({\partial^{2} \over \partial x^{2}} + {\partial^{2} \over \partial y^{2}}\biggr) {\bigl|\phi(x+iy)\bigr|}^2
+\biggl({\partial^{2} \over \partial x^{2}} + {\partial^{2} \over \partial y^{2}}\biggr) {\bigl\vert\phi(x+iy)\bigr\vert}^2
 \]
 
 \[
@@ -76,6 +76,10 @@ f(x) =
   x, & \mbox{if } 0 \le x \le \frac12 \\
   1-x , & \mbox{if } \frac12 \le x \le 1
 \end{cases}
+\]
+
+\[
+\vert\big\vert\Big\vert\bigg\vert\Bigg\vert
 \]
 
 \end{document}
