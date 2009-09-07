@@ -3,7 +3,7 @@ FontName: NeoEuler
 FullName: Neo Euler
 FamilyName: NeoEuler
 Weight: Medium
-Copyright: Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org).\nCopyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org)
+Copyright: Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org).\nCopyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).
 Version: 000.001
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252337091
+ModificationTime: 1252345244
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -43,7 +43,7 @@ OS2Vendor: 'GNU '
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org), with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7.+AAoA-Copyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "NeoEuler" "Medium" "Neo Euler" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org), with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoA-Copyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "NeoEuler" "Medium" "Neo Euler" 
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 120483 33 12
+WinInfo: 1114773 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -120,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115133 1493
+BeginChars: 1115149 1513
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -63642,7 +63642,7 @@ SplineSet
  198 -146 187 -197 179 -249 c 0
  169.958 -307.364 166.321 -366.402 165.015 -425.67 c 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni239C
@@ -63664,7 +63664,7 @@ SplineSet
  150.37 8.64648 l 2
  164.51 8.64648 165.015 8.14062 165.015 -5.49512 c 2
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni239D
@@ -63691,7 +63691,7 @@ SplineSet
  152 -326 140 -274 131 -223 c 0
  119.651 -158.146 114.873 -92.6348 113.355 -26.5986 c 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni239E
@@ -63717,7 +63717,7 @@ SplineSet
  224.49 -457.645 223.985 -457.14 223.985 -443.505 c 2
  223.985 -426.67 l 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni239F
@@ -63739,7 +63739,7 @@ SplineSet
  261.37 8.64648 l 2
  275.51 8.64648 276.015 8.14062 276.015 -5.49512 c 2
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni23A0
@@ -63766,7 +63766,7 @@ SplineSet
  275.14 7 275.645 6.49512 275.645 -7.64648 c 2
  275.645 -27.5986 l 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: plusminus
@@ -63796,7 +63796,7 @@ SplineSet
  396 586 l 1
  396 276 l 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
 EndChar
 
 StartChar: uni2213
@@ -63826,7 +63826,427 @@ SplineSet
  709 236 l 1
  396 236 l 1
 EndSplineSet
-Colour: 6400
+Colour: ff00
+EndChar
+
+StartChar: uni2308
+Encoding: 8968 8968 1493
+Width: 511
+Flags: W
+GlyphVariantsVertical: uni2308 uni2308.alt01 uni2308.alt02 uni2308.alt03 uni2308.alt04
+GlyphCompositionVertical: 2  uni23A2%1,201,201,602 uni23A1%0,600,600,1799
+HStem: -249 21<208.5 239> 689 61<254 448 254 254>
+VStem: 193 61<-204 689>
+LayerCount: 2
+Fore
+SplineSet
+448 689 m 2
+ 254 689 l 1
+ 254 -204 l 2
+ 254 -218 254 -249 224 -249 c 0
+ 193 -249 193 -218 193 -204 c 2
+ 193 705 l 2
+ 193 742 202 750 238 750 c 2
+ 448 750 l 2
+ 462 750 493 750 493 720 c 0
+ 493 689 464 689 448 689 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2309
+Encoding: 8969 8969 1494
+Width: 511
+Flags: W
+GlyphVariantsVertical: uni2309 uni2309.alt01 uni2309.alt02 uni2309.alt03 uni2309.alt04
+GlyphCompositionVertical: 2  uni23A5%1,201,201,602 uni23A4%0,600,600,1799
+HStem: -249 21<271.5 302> 689 61<54 272 62 256>
+VStem: 256 61<-204 689 689 689>
+LayerCount: 2
+Fore
+SplineSet
+256 689 m 1
+ 62 689 l 2
+ 46 689 17 689 17 720 c 0
+ 17 750 47 750 62 750 c 2
+ 272 750 l 2
+ 309 750 317 741 317 705 c 2
+ 317 -204 l 2
+ 317 -218 317 -249 287 -249 c 0
+ 256 -249 256 -218 256 -204 c 2
+ 256 689 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230A
+Encoding: 8970 8970 1495
+Width: 511
+Flags: W
+GlyphVariantsVertical: uni230A uni230A.alt01 uni230A.alt02 uni230A.alt03 uni230A.alt04
+GlyphCompositionVertical: 2  uni23A3%0,600,600,1799 uni23A2%1,201,201,602
+HStem: -249 61<219.5 448 254 448 254 448> 730 20<208.5 239>
+VStem: 193 61<-188 705 -188 705 -188 712>
+LayerCount: 2
+Fore
+SplineSet
+448 -249 m 2
+ 238 -249 l 2
+ 201 -249 193 -240 193 -204 c 2
+ 193 705 l 2
+ 193 719 193 750 224 750 c 0
+ 254 750 254 720 254 705 c 2
+ 254 -188 l 1
+ 448 -188 l 2
+ 462 -188 493 -188 493 -218 c 0
+ 493 -249 464 -249 448 -249 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230B
+Encoding: 8971 8971 1496
+Width: 511
+Flags: W
+GlyphVariantsVertical: uni230B uni230B.alt01 uni230B.alt02 uni230B.alt03 uni230B.alt04
+GlyphCompositionVertical: 2  uni23A6%0,600,600,1799 uni23A5%1,201,201,602
+HStem: -249 61<54 256 62 256 62 272> 730 20<271.5 302>
+VStem: 256 61<-188 705>
+LayerCount: 2
+Fore
+SplineSet
+256 -188 m 1
+ 256 705 l 2
+ 256 719 256 750 287 750 c 0
+ 317 750 317 720 317 705 c 2
+ 317 -204 l 2
+ 317 -241 308 -249 272 -249 c 2
+ 62 -249 l 2
+ 46 -249 17 -249 17 -218 c 0
+ 17 -188 47 -188 62 -188 c 2
+ 256 -188 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230A.alt01
+Encoding: 1115133 -1 1497
+Width: 472
+Flags: W
+HStem: -1159 40<242 449 242 449> 20 20<202 242 242 242>
+VStem: 202 40<-1119 40 -1119 40 -1119 40>
+LayerCount: 2
+Fore
+SplineSet
+202 -1159 m 1
+ 202 40 l 1
+ 242 40 l 1
+ 242 -1119 l 1
+ 449 -1119 l 1
+ 449 -1159 l 1
+ 202 -1159 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230B.alt01
+Encoding: 1115134 -1 1498
+Width: 472
+Flags: W
+HStem: -1159 40<22 229 22 269 22 229> 20 20<229 269 269 269>
+VStem: 229 40<-1119 40>
+LayerCount: 2
+Fore
+SplineSet
+269 -1159 m 1
+ 22 -1159 l 1
+ 22 -1119 l 1
+ 229 -1119 l 1
+ 229 40 l 1
+ 269 40 l 1
+ 269 -1159 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2308.alt01
+Encoding: 1115135 -1 1499
+Width: 472
+Flags: W
+HStem: -1159 21<202 202 202 242> 0 40<242 449 242 242>
+VStem: 202 40<-1159 0 -1159 40>
+LayerCount: 2
+Fore
+SplineSet
+202 -1159 m 1
+ 202 40 l 1
+ 449 40 l 1
+ 449 0 l 1
+ 242 0 l 1
+ 242 -1159 l 1
+ 202 -1159 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2309.alt01
+Encoding: 1115136 -1 1500
+Width: 472
+Flags: W
+HStem: -1159 21<229 229 229 269> 0 40<22 229 22 269>
+VStem: 229 40<-1159 0 0 0>
+LayerCount: 2
+Fore
+SplineSet
+229 -1159 m 1
+ 229 0 l 1
+ 22 0 l 1
+ 22 40 l 1
+ 269 40 l 1
+ 269 -1159 l 1
+ 229 -1159 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230A.alt02
+Encoding: 1115137 -1 1501
+Width: 527
+Flags: W
+HStem: -1759 47<273 509 273 509> 20 20<226 273 273 273>
+VStem: 226 47<-1712 40 -1712 40 -1712 40>
+LayerCount: 2
+Fore
+SplineSet
+226 -1759 m 1
+ 226 40 l 1
+ 273 40 l 1
+ 273 -1712 l 1
+ 509 -1712 l 1
+ 509 -1759 l 1
+ 226 -1759 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230B.alt02
+Encoding: 1115138 -1 1502
+Width: 527
+Flags: W
+HStem: -1759 47<18 254 18 301 18 254> 20 20<254 301 301 301>
+VStem: 254 47<-1712 40 -1759 40>
+LayerCount: 2
+Fore
+SplineSet
+254 -1712 m 1
+ 254 40 l 1
+ 301 40 l 1
+ 301 -1759 l 1
+ 18 -1759 l 1
+ 18 -1712 l 1
+ 254 -1712 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2308.alt02
+Encoding: 1115139 -1 1503
+Width: 527
+Flags: W
+HStem: -1759 21<226 226 226 273> -7 47<273 509 273 273>
+VStem: 226 47<-1759 -7 -1759 40>
+LayerCount: 2
+Fore
+SplineSet
+226 -1759 m 1
+ 226 40 l 1
+ 509 40 l 1
+ 509 -7 l 1
+ 273 -7 l 1
+ 273 -1759 l 1
+ 226 -1759 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2309.alt02
+Encoding: 1115140 -1 1504
+Width: 527
+Flags: W
+HStem: -1759 21<254 254 254 301> -7 47<18 254 18 301>
+VStem: 254 47<-1759 -7 -7 -7>
+LayerCount: 2
+Fore
+SplineSet
+254 -1759 m 1
+ 254 -7 l 1
+ 18 -7 l 1
+ 18 40 l 1
+ 301 40 l 1
+ 301 -1759 l 1
+ 254 -1759 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230A.alt03
+Encoding: 1115141 -1 1505
+Width: 583
+Flags: W
+HStem: -2359 55<305 568 305 568> 20 20<250 305 305 305>
+VStem: 250 55<-2304 40 -2304 40 -2304 40>
+LayerCount: 2
+Fore
+SplineSet
+250 -2359 m 1
+ 250 40 l 1
+ 305 40 l 1
+ 305 -2304 l 1
+ 568 -2304 l 1
+ 568 -2359 l 1
+ 250 -2359 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230B.alt03
+Encoding: 1115142 -1 1506
+Width: 583
+Flags: W
+HStem: -2359 55<14 277 14 332 14 277> 20 20<277 332 332 332>
+VStem: 277 55<-2304 40 -2359 40>
+LayerCount: 2
+Fore
+SplineSet
+277 -2304 m 1
+ 277 40 l 1
+ 332 40 l 1
+ 332 -2359 l 1
+ 14 -2359 l 1
+ 14 -2304 l 1
+ 277 -2304 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2308.alt03
+Encoding: 1115143 -1 1507
+Width: 583
+Flags: W
+HStem: -2359 21<250 250 250 305> -15 55<305 568 305 305>
+VStem: 250 55<-2359 -15 -2359 40>
+LayerCount: 2
+Fore
+SplineSet
+250 -2359 m 1
+ 250 40 l 1
+ 568 40 l 1
+ 568 -15 l 1
+ 305 -15 l 1
+ 305 -2359 l 1
+ 250 -2359 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2309.alt03
+Encoding: 1115144 -1 1508
+Width: 583
+Flags: W
+HStem: -2359 21<277 277 277 332> -15 55<14 277 14 332>
+VStem: 277 55<-2359 -15 -15 -15>
+LayerCount: 2
+Fore
+SplineSet
+277 -2359 m 1
+ 277 -15 l 1
+ 14 -15 l 1
+ 14 40 l 1
+ 332 40 l 1
+ 332 -2359 l 1
+ 277 -2359 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230A.alt04
+Encoding: 1115145 -1 1509
+Width: 638
+Flags: W
+HStem: -2959 62<337 627 337 627> 20 20<275 337 337 337>
+VStem: 275 62<-2897 40 -2897 40 -2897 40>
+LayerCount: 2
+Fore
+SplineSet
+275 -2959 m 1
+ 275 40 l 1
+ 337 40 l 1
+ 337 -2897 l 1
+ 627 -2897 l 1
+ 627 -2959 l 1
+ 275 -2959 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni230B.alt04
+Encoding: 1115146 -1 1510
+Width: 638
+Flags: W
+HStem: -2959 62<11 301 11 363 11 301> 20 20<301 363 363 363>
+VStem: 301 62<-2897 40 -2959 40>
+LayerCount: 2
+Fore
+SplineSet
+301 -2897 m 1
+ 301 40 l 1
+ 363 40 l 1
+ 363 -2959 l 1
+ 11 -2959 l 1
+ 11 -2897 l 1
+ 301 -2897 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2308.alt04
+Encoding: 1115147 -1 1511
+Width: 638
+Flags: W
+HStem: -2959 21<275 275 275 337> -22 62<337 627 337 337>
+VStem: 275 62<-2959 -22 -2959 40>
+LayerCount: 2
+Fore
+SplineSet
+275 -2959 m 1
+ 275 40 l 1
+ 627 40 l 1
+ 627 -22 l 1
+ 337 -22 l 1
+ 337 -2959 l 1
+ 275 -2959 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni2309.alt04
+Encoding: 1115148 -1 1512
+Width: 638
+Flags: W
+HStem: -2959 21<301 301 301 363> -22 62<11 301 11 363>
+VStem: 301 62<-2959 -22 -22 -22>
+LayerCount: 2
+Fore
+SplineSet
+301 -2959 m 1
+ 301 -22 l 1
+ 11 -22 l 1
+ 11 40 l 1
+ 363 40 l 1
+ 363 -2959 l 1
+ 301 -2959 l 1
+EndSplineSet
+Colour: ff
 EndChar
 EndChars
 EndSplineFont
