@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252352068
+ModificationTime: 1252362754
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114773 33 12
+WinInfo: 0 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -120,7 +120,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115154 1518
+BeginChars: 1115158 1522
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -1815,11 +1815,11 @@ HStem: 236 40<53 704 46 710>
 LayerCount: 2
 Fore
 SplineSet
-704 236 m 1
- 46 236 l 1
- 53 276 l 1
- 710 276 l 1
- 704 236 l 1
+704 236 m 5
+ 46 236 l 5
+ 53 276 l 5
+ 710 276 l 5
+ 704 236 l 5
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2212.ssty1 uni2212.ssty2
 EndChar
@@ -22793,11 +22793,11 @@ HStem: 236 40<80 789 72 796>
 LayerCount: 2
 Fore
 SplineSet
-789 236 m 1
- 72 236 l 1
- 80 276 l 1
- 796 276 l 1
- 789 236 l 1
+789 236 m 5
+ 72 236 l 5
+ 80 276 l 5
+ 796 276 l 5
+ 789 236 l 5
 EndSplineSet
 EndChar
 
@@ -63234,17 +63234,17 @@ EndChar
 StartChar: uni2212.ssty2
 Encoding: 1114709 -1 1469
 Width: 1227
-Flags: W
+Flags: HW
 HStem: 236 39<159 1068 135 1087>
 VStem: 135 950
 LayerCount: 2
 Fore
 SplineSet
-1068 236 m 1
- 135 236 l 1
- 159 275 l 1
- 1087 275 l 1
- 1068 236 l 1
+1068 236 m 5
+ 135 236 l 5
+ 159 275 l 5
+ 1087 275 l 5
+ 1068 236 l 5
 EndSplineSet
 EndChar
 
@@ -63799,6 +63799,7 @@ SplineSet
  396 586 l 1
  396 276 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" plusminus.ssty1 plusminus.ssty2
 Colour: ff00
 EndChar
 
@@ -63807,28 +63808,29 @@ Encoding: 8723 8723 1492
 Width: 755
 Flags: W
 HStem: 236 40<53 356 396 704> 546 40<53 356 396 704>
-VStem: 356 40<-68 236 276 546>
+VStem: 356 40<-67 236 276 546>
 LayerCount: 2
 Fore
 SplineSet
-396 236 m 1
- 396 -74 l 1
- 356 -68 l 1
- 356 236 l 1
- 53 236 l 1
- 46 276 l 1
- 356 276 l 1
- 356 546 l 1
- 53 546 l 1
- 46 586 l 1
- 704 586 l 1
- 710 546 l 1
- 396 546 l 1
- 396 276 l 1
- 704 276 l 1
- 709 236 l 1
- 396 236 l 1
+396 276 m 5
+ 709 276 l 5
+ 704 236 l 5
+ 396 236 l 5
+ 396 -67 l 5
+ 356 -74 l 5
+ 356 236 l 5
+ 46 236 l 5
+ 53 276 l 5
+ 356 276 l 5
+ 356 546 l 5
+ 46 546 l 5
+ 53 586 l 5
+ 710 586 l 5
+ 704 546 l 5
+ 396 546 l 5
+ 396 276 l 5
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2213.ssty1 uni2213.ssty2
 Colour: ff00
 EndChar
 
@@ -64343,6 +64345,126 @@ SplineSet
  86 30 l 1
  126 38 l 1
  126 -2059 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: plusminus.ssty2
+Encoding: 1115156 -1 1518
+Width: 1227
+Flags: W
+HStem: -84 39<159 584 645 1068> 243 39<159 584 645 1071>
+VStem: 584 61<-45 243 282 584>
+LayerCount: 2
+Fore
+SplineSet
+645 282 m 1
+ 1092 282 l 1
+ 1071 243 l 1
+ 645 243 l 1
+ 645 -45 l 1
+ 1087 -45 l 1
+ 1068 -84 l 1
+ 135 -84 l 1
+ 159 -45 l 1
+ 584 -45 l 1
+ 584 243 l 1
+ 138 243 l 1
+ 159 282 l 1
+ 584 282 l 1
+ 584 584 l 1
+ 645 598 l 1
+ 645 282 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2213.ssty2
+Encoding: 1115157 -1 1519
+Width: 1227
+Flags: W
+HStem: 243 39<159 584 645 1071> 560 39<159 584 645 1068>
+VStem: 584 61<-64 243 282 560>
+LayerCount: 2
+Fore
+SplineSet
+645 282 m 1
+ 1092 282 l 1
+ 1071 243 l 1
+ 645 243 l 1
+ 645 -64 l 1
+ 584 -83 l 1
+ 584 243 l 1
+ 138 243 l 1
+ 159 282 l 1
+ 584 282 l 1
+ 584 560 l 1
+ 135 560 l 1
+ 159 599 l 1
+ 1087 599 l 1
+ 1068 560 l 1
+ 645 560 l 1
+ 645 282 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: plusminus.ssty1
+Encoding: 1115154 -1 1520
+Width: 872
+Flags: W
+HStem: -74 40<80 410 454 789> 236 40<80 410 454 789>
+VStem: 410 44<-34 236 276 580>
+LayerCount: 2
+Fore
+SplineSet
+454 276 m 1
+ 795 276 l 1
+ 789 236 l 1
+ 454 236 l 1
+ 454 -34 l 1
+ 796 -34 l 1
+ 789 -74 l 1
+ 72 -74 l 5
+ 80 -34 l 1
+ 410 -34 l 1
+ 410 236 l 1
+ 72 236 l 1
+ 80 276 l 1
+ 410 276 l 1
+ 410 580 l 1
+ 454 586 l 1
+ 454 276 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2213.ssty1
+Encoding: 1115155 -1 1521
+Width: 872
+Flags: W
+HStem: 236 40<80 410 454 789> 546 40<80 410 454 789>
+VStem: 410 44<-67 236 276 546>
+LayerCount: 2
+Fore
+SplineSet
+454 276 m 1
+ 795 276 l 1
+ 789 236 l 1
+ 454 236 l 1
+ 454 -67 l 1
+ 410 -74 l 1
+ 410 236 l 1
+ 72 236 l 1
+ 80 276 l 1
+ 410 276 l 1
+ 410 546 l 1
+ 72 546 l 1
+ 80 586 l 1
+ 796 586 l 5
+ 789 546 l 1
+ 454 546 l 1
+ 454 276 l 1
 EndSplineSet
 Colour: ff00
 EndChar
