@@ -1,6 +1,6 @@
 \usetypescript      [pagella]
 \starttypescript    [math]     [euler][name]
-  \definefontsynonym[MathRoman][file:../euler.otf] [features=math]
+  \definefontsynonym[MathRoman][name:NeoEuler] [features=math]
 \stoptypescript
 \definetypeface     [pagella]  [mm][math][euler][default][text=rm]
 \setupbodyfont      [pagella]
