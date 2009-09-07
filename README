@@ -1,19 +1,19 @@
 This is an experimental Unicode complaint, OpenType enriched math font
 based on Type1 version of AMS Euler.
 
+This font is based on version 3 of AMS Euler, which have been refined
+by Taco Hoekwater after being reviewed by Hermann Zapf.
+
 The aim is to combine the 19 Type1 font files into single OpenType font,
 supplement its missing math symbols from Computer Modern math fonts,
 map the glyphs to Unicode Math code points and enrich the font with
 OpenType layout data, especially MATH table.
 
-It is in a very early state, not even beta quality yet.
-
-I'm doing this mainly as an exercise of OpenType MATH table and Latin
-based mathematical typesetting in general, I rarely do non-Arabic
-math myself.
+The font is in beta stage, but it is usable, though more fine tuning
+still missing.
 
 Khaled Hosny
 khaledhosny@eglug.org
 
-23 July 2009
+7 Sep 2009
 
