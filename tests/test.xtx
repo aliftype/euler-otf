@@ -1,6 +1,20 @@
 \documentclass{minimal}
 \usepackage{amsmath}
-\usepackage[math-style=literal]{unicode-math}
+\usepackage{unicode-math}
+
+% Hack to force upright letters as we have no italics
+\makeatletter
+\@um@upGreektrue
+\@um@upgreektrue
+\@um@upLatintrue
+\@um@uplatintrue
+\@um@bfupGreektrue
+\@um@bfupgreektrue
+\@um@bfupLatintrue
+\@um@bfuplatintrue
+%\@um@upNablatrue
+\@um@uppartialtrue
+\makeatother
 
 \begin{document}
 \setmathfont{NeoEuler}
