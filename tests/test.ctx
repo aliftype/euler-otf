@@ -3,7 +3,7 @@
   \definefontsynonym[MathRoman][name:NeoEuler] [features=math]
 \stoptypescript
 \definetypeface     [pagella]  [mm][math][euler][default][text=rm]
-\setupbodyfont      [pagella]
+\setupbodyfont      [pagella,10pt]
 
 \setupheader[state=empty]
 
