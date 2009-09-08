@@ -1,6 +1,9 @@
-Extensions
 Math kerning
 Math accents
+Math italic correction
 ConTeXt
- Upright greek
+ Upright Greek
  ssty
+LaTeX (unicode-math)
+ LuaTeX support
+ Some symbols still taken from CM fonts
