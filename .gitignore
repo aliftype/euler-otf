@@ -6,4 +6,5 @@ lm*
 *.log
 *.tuc
 *.pdf
+*.aux
 stix-tbl.txt
