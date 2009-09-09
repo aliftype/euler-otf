@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252364167
+ModificationTime: 1252506710
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -109,7 +109,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114707 33 12
+WinInfo: 0 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -122,7 +122,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115158 1522
+BeginChars: 1115158 1525
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -64531,6 +64531,28 @@ SplineSet
  454 276 l 1
 EndSplineSet
 Colour: ff00
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 1522
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni0001
+Encoding: 1 1 1523
+Width: 333
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 1524
+Width: 333
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
