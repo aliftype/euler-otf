@@ -1,8 +1,10 @@
 This is an experimental Unicode complaint, OpenType enriched math font
 based on Type1 version of AMS Euler.
 
-This font is based on version 3 of AMS Euler, which have been refined
-by Taco Hoekwater after being reviewed by Hermann Zapf.
+This font is based on the reshaped Euler, which hase been reviewd by
+Hermann Zapf and implemented by Taco Hoekwater, Hans Hagen and Volker RW
+Schaa. See http://tug.org/TUGboat/Articles/tb29-2/tb92hagen-euler.pdf
+for more details.
 
 The aim is to combine the 19 Type1 font files into single OpenType font,
 supplement its missing math symbols from Computer Modern math fonts,
