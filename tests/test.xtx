@@ -83,7 +83,7 @@ f(x) =
 \]
 
 \[
-\hat a\hat f\hat A
+\hat{a}\hat{f}\hat{A}\hat{i}\hat{j}\mathbf{\hat{i}\hat{j}}
 \]
 
 \end{document}

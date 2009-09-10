@@ -72,7 +72,7 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
 \stopformula
 
 \startformula
-\hat a\hat f\hat A
+\hat{a}\hat{f}\hat{A}\hat{i}\hat{j}{\bf\hat{i}\hat{j}}
 \stopformula
 
 \stoptext

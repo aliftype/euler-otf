@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1252616720
+ModificationTime: 1252621750
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -40,6 +40,7 @@ HheadAOffset: 0
 HheadDescent: -200
 HheadDOffset: 0
 OS2Vendor: 'GNU '
+Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 lookup 2"  {"'ss01' Style Set 1 lookup 2-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
@@ -109,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 12
+WinInfo: 1114641 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -12302,6 +12303,7 @@ SplineSet
  289 72 300 79 308 85 c 0
  322 95 335 106 348 119 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131.mathbold
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D422.ssty1 u1D422.ssty2
 EndChar
 
@@ -12338,6 +12340,7 @@ SplineSet
  127 416 114 420 107 420 c 0
  85 420 58 405 38 389 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237.mathbold
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D423.ssty1 u1D423.ssty2
 EndChar
 
@@ -16717,6 +16720,7 @@ SplineSet
  114 661 146 683 176 683 c 0
  210 683 230 655 230 625 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0069.ssty1 uni0069.ssty2
 EndChar
 
@@ -16752,6 +16756,7 @@ SplineSet
  132 565 109 593 109 625 c 0
  109 657 136 683 168 683 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni006A.ssty1 uni006A.ssty2
 EndChar
 
@@ -32754,6 +32759,7 @@ SplineSet
  347 72 359 79 368 85 c 0
  383 95 397 106 411 119 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131.mathbold.ssty1
 EndChar
 
 StartChar: u1D423.ssty1
@@ -32789,6 +32795,7 @@ SplineSet
  170 416 156 420 148 420 c 0
  124 420 95 405 73 389 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237.mathbold.ssty1
 EndChar
 
 StartChar: u1D424.ssty1
@@ -37079,6 +37086,7 @@ SplineSet
  159 661 195 683 230 683 c 0
  268 683 290 655 290 625 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131.ssty1
 EndChar
 
 StartChar: uni006A.ssty1
@@ -37113,6 +37121,7 @@ SplineSet
  180 565 154 593 154 625 c 0
  154 657 185 683 221 683 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237.ssty1
 EndChar
 
 StartChar: uni006B.ssty1
@@ -51798,6 +51807,7 @@ SplineSet
  440 72 453 79 462 85 c 0
  479 95 493 106 509 119 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131.mathbold.ssty2
 EndChar
 
 StartChar: u1D423.ssty2
@@ -51833,6 +51843,7 @@ SplineSet
  252 416 237 420 229 420 c 0
  203 420 172 405 149 389 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237.mathbold.ssty2
 EndChar
 
 StartChar: u1D424.ssty2
@@ -56095,6 +56106,7 @@ SplineSet
  233 661 272 683 309 683 c 0
  348 683 372 655 372 625 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0131.ssty2
 EndChar
 
 StartChar: uni006A.ssty2
@@ -56129,6 +56141,7 @@ SplineSet
  255 565 228 593 228 625 c 0
  228 657 260 683 299 683 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup-1" uni0237.ssty2
 EndChar
 
 StartChar: uni006B.ssty2
