@@ -12,7 +12,7 @@ def set_topaccent(data, font):
     amount = fontforge.askString("Math accent shift","How much the accent is shifted from midline?", amount)
     for glyph in selection:
         if amount:
-            glyph.topaccent = round((glyph.width/2.0) + (int(amount)))
+            glyph.topaccent = round((glyph.width/2.0) + (float(amount)))
             font.changed = True
 
 fontforge.registerMenuItem(set_topaccent,None,None,"Font",None,"Set Math accent")
