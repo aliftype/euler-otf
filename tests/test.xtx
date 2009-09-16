@@ -1,23 +1,9 @@
 \documentclass{minimal}
 \usepackage{amsmath}
-\usepackage{unicode-math}
-
-% Hack to force upright letters as we have no italics
-\makeatletter
-\@um@upGreektrue
-\@um@upgreektrue
-\@um@upLatintrue
-\@um@uplatintrue
-\@um@bfupGreektrue
-\@um@bfupgreektrue
-\@um@bfupLatintrue
-\@um@bfuplatintrue
-%\@um@upNablatrue
-\@um@uppartialtrue
-\makeatother
+\usepackage[math-style=upright]{unicode-math}
+\setmathfont{Neo Euler}
 
 \begin{document}
-\setmathfont{NeoEuler}
 
 \centerline{\(\mathfrak{Neo\ Euler}\)}
 \vskip20pt
