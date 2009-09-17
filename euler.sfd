@@ -110,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114740 33 12
+WinInfo: 858 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -61458,6 +61458,7 @@ StartChar: Omicron
 Encoding: 927 927 1405
 Width: 803
 Flags: W
+TopAccentHorizontal: 429
 HStem: -18 41<384.5 429.5> 660 40<387.5 428.5>
 VStem: 72 93<301 373 301 382.5> 632 94<331.5 384>
 LayerCount: 2
@@ -61567,6 +61568,7 @@ StartChar: Chi
 Encoding: 935 935 1408
 Width: 666
 Flags: W
+TopAccentHorizontal: 389
 HStem: -11 21<526 526> 645 43
 VStem: 27 609<0 32 16 32>
 LayerCount: 2
