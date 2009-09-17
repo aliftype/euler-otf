@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253215675
+ModificationTime: 1253223364
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -44,6 +44,7 @@ Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  }
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 lookup 2"  {"'ss01' Style Set 1 lookup 2-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org), with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoA-Copyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler" 
 OtfFeatName: 'ss01'  1033 "Digit One alternative form" 
@@ -110,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8217 33 12
+WinInfo: 8679 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -1865,6 +1866,7 @@ SplineSet
  436 720 l 1
  458 715 l 1
 EndSplineSet
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
@@ -8702,6 +8704,7 @@ SplineSet
  379 692 l 1
  562 692 l 1
 EndSplineSet
+Kerns2: 1523 -61 "'kern' Horizontal Kerning lookup 0-1"  1528 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6AA.ssty1 u1D6AA.ssty2
 EndChar
 
@@ -11102,6 +11105,7 @@ SplineSet
  232 334 232 324 232 316 c 0
  232 315 237 121 238 23 c 1
 EndSplineSet
+Kerns2: 1523 -61 "'kern' Horizontal Kerning lookup 0-1"  1528 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D405.ssty1 u1D405.ssty2
 EndChar
 
@@ -11500,6 +11504,7 @@ SplineSet
  264 659 263 648 263 641 c 0
  263 640 264 454 265 361 c 0
 EndSplineSet
+Kerns2: 56 -92 "'kern' Horizontal Kerning lookup 0-1"  58 -92 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40F.ssty1 u1D40F.ssty2
 EndChar
 
@@ -11666,6 +11671,7 @@ SplineSet
  249 1 l 1
  254 166 257 331 257 496 c 2
 EndSplineSet
+Kerns2: 1523 -61 "'kern' Horizontal Kerning lookup 0-1"  1528 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D413.ssty1 u1D413.ssty2
 EndChar
 
@@ -13223,6 +13229,7 @@ SplineSet
  314 693 l 2
  375 693 436 694 496 697 c 1
 EndSplineSet
+Kerns2: 1523 -56 "'kern' Horizontal Kerning lookup 0-1"  1528 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0393.ssty1 uni0393.ssty2
 EndChar
 
@@ -15567,6 +15574,7 @@ SplineSet
  118 -2 l 1
  122 119 125 239 125 360 c 1
 EndSplineSet
+Kerns2: 1523 -56 "'kern' Horizontal Kerning lookup 0-1"  1528 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0046.ssty1 uni0046.ssty2
 EndChar
 
@@ -15960,6 +15968,7 @@ SplineSet
  214 286 210 281 210 274 c 0
  210 249 216 123 217 22 c 1
 EndSplineSet
+Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1"  56 -83 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0050.ssty1 uni0050.ssty2
 EndChar
 
@@ -16124,6 +16133,7 @@ SplineSet
  380 686 479 692 567 696 c 1
  575 689 l 1xa0
 EndSplineSet
+Kerns2: 1523 -56 "'kern' Horizontal Kerning lookup 0-1"  1528 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0054.ssty1 uni0054.ssty2
 EndChar
 
@@ -22933,6 +22943,7 @@ SplineSet
  509 720 l 1
  532 715 l 1
 EndSplineSet
+Kerns2: 755 -67 "'kern' Horizontal Kerning lookup 0-1"  749 -67 "'kern' Horizontal Kerning lookup 0-1"  722 -67 "'kern' Horizontal Kerning lookup 0-1"  682 -67 "'kern' Horizontal Kerning lookup 0-1"  674 -67 "'kern' Horizontal Kerning lookup 0-1"  672 -67 "'kern' Horizontal Kerning lookup 0-1"  741 -67 "'kern' Horizontal Kerning lookup 0-1"  727 -67 "'kern' Horizontal Kerning lookup 0-1"  789 -63 "'kern' Horizontal Kerning lookup 0-1"  781 -63 "'kern' Horizontal Kerning lookup 0-1"  779 -63 "'kern' Horizontal Kerning lookup 0-1"  859 -63 "'kern' Horizontal Kerning lookup 0-1"  853 -63 "'kern' Horizontal Kerning lookup 0-1"  827 -63 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D7CF.alt.ssty1
@@ -29294,6 +29305,7 @@ SplineSet
  445 692 l 1
  645 692 l 1
 EndSplineSet
+Kerns2: 537 -67 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D6AB.ssty1
@@ -32016,6 +32028,7 @@ SplineSet
  320 659 319 648 319 641 c 0
  319 640 320 454 321 361 c 0
 EndSplineSet
+Kerns2: 534 -100 "'kern' Horizontal Kerning lookup 0-1"  536 -100 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D410.ssty1
@@ -33723,6 +33736,7 @@ SplineSet
  386 693 l 2
  455 693 524 694 591 697 c 1
 EndSplineSet
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni2206.ssty1
@@ -36004,6 +36018,7 @@ SplineSet
  164 -2 l 1
  169 119 172 239 172 360 c 1
 EndSplineSet
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0047.ssty1
@@ -36387,6 +36402,7 @@ SplineSet
  272 286 268 281 268 274 c 0
  268 249 275 123 276 22 c 1
 EndSplineSet
+Kerns2: 534 -94 "'kern' Horizontal Kerning lookup 0-1"  536 -94 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0051.ssty1
@@ -36547,6 +36563,7 @@ SplineSet
  460 686 572 692 671 696 c 1
  680 689 l 1xa0
 EndSplineSet
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0055.ssty1
@@ -42103,6 +42120,7 @@ SplineSet
  685 722 l 1
  740 713 l 1
 EndSplineSet
+Kerns2: 1185 -70 "'kern' Horizontal Kerning lookup 0-1"  1179 -70 "'kern' Horizontal Kerning lookup 0-1"  1152 -70 "'kern' Horizontal Kerning lookup 0-1"  1112 -70 "'kern' Horizontal Kerning lookup 0-1"  1104 -70 "'kern' Horizontal Kerning lookup 0-1"  1102 -70 "'kern' Horizontal Kerning lookup 0-1"  1219 -66 "'kern' Horizontal Kerning lookup 0-1"  1211 -66 "'kern' Horizontal Kerning lookup 0-1"  1209 -66 "'kern' Horizontal Kerning lookup 0-1"  1289 -66 "'kern' Horizontal Kerning lookup 0-1"  1283 -66 "'kern' Horizontal Kerning lookup 0-1"  1257 -66 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D7CF.alt.ssty2
@@ -48383,6 +48401,7 @@ SplineSet
  545 692 l 1
  757 692 l 1
 EndSplineSet
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D6AB.ssty2
@@ -50717,6 +50736,7 @@ SplineSet
  374 334 374 324 374 316 c 0
  374 315 380 121 381 23 c 1
 EndSplineSet
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D406.ssty2
@@ -51105,6 +51125,7 @@ SplineSet
  411 659 410 648 410 641 c 0
  410 640 411 454 412 361 c 0
 EndSplineSet
+Kerns2: 1464 -106 "'kern' Horizontal Kerning lookup 0-1"  1466 -106 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D410.ssty2
@@ -51267,6 +51288,7 @@ SplineSet
  394 1 l 1
  400 166 403 331 403 496 c 2
 EndSplineSet
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: u1D414.ssty2
@@ -52812,6 +52834,7 @@ SplineSet
  474 693 l 2
  547 693 620 694 692 697 c 1
 EndSplineSet
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni2206.ssty2
@@ -55093,6 +55116,7 @@ SplineSet
  239 -2 l 1
  243 119 247 239 247 360 c 1
 EndSplineSet
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0047.ssty2
@@ -55476,6 +55500,7 @@ SplineSet
  353 286 349 281 349 274 c 0
  349 249 356 123 357 22 c 1
 EndSplineSet
+Kerns2: 1464 -100 "'kern' Horizontal Kerning lookup 0-1"  1466 -100 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0051.ssty2
@@ -55636,6 +55661,7 @@ SplineSet
  553 686 672 692 777 696 c 1
  787 689 l 1xa0
 EndSplineSet
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
 EndChar
 
 StartChar: uni0055.ssty2
@@ -61529,6 +61555,7 @@ SplineSet
  214 286 210 281 210 274 c 0
  210 249 216 123 217 22 c 1
 EndSplineSet
+Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1"  56 -83 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0050.ssty1 uni0050.ssty2
 EndChar
 
@@ -61561,6 +61588,7 @@ SplineSet
  380 686 479 692 567 696 c 1
  575 689 l 1xa0
 EndSplineSet
+Kerns2: 1523 -56 "'kern' Horizontal Kerning lookup 0-1"  1528 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0054.ssty1 uni0054.ssty2
 EndChar
 
@@ -62150,6 +62178,7 @@ SplineSet
  264 659 263 648 263 641 c 0
  263 640 264 454 265 361 c 0
 EndSplineSet
+Kerns2: 56 -91 "'kern' Horizontal Kerning lookup 0-1"  58 -91 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40F.ssty1 u1D40F.ssty2
 EndChar
 
@@ -62184,6 +62213,7 @@ SplineSet
  249 1 l 1
  254 166 257 331 257 496 c 2
 EndSplineSet
+Kerns2: 1523 -61 "'kern' Horizontal Kerning lookup 0-1"  1528 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D413.ssty1 u1D413.ssty2
 EndChar
 
@@ -64822,6 +64852,7 @@ SplineSet
  436 720 l 1
  458 715 l 1
 EndSplineSet
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
@@ -64932,6 +64963,8 @@ SplineSet
  436 720 l 1
  458 715 l 1
 EndSplineSet
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 EndChars
 EndSplineFont
