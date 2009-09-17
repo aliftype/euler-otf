@@ -9,7 +9,7 @@
 
 \starttext
 
-\midaligned{$\bfd\frak Unicode\ Euler$}\blank[4*big]
+\midaligned{$\bfd\frak Neo\ Euler$}\blank[4*big]
 
 \startformula
 \pi(n) = \sum^{n}_{m=2}\left\lfloor\biggl(\sum^{m-1}_{k=1}\bigl\lfloor(m/k)\big/\lceil m/k\rceil\bigr\rfloor\biggr)^{-1}\right\rfloor
@@ -71,8 +71,42 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
 \vert\big\vert\Big\vert\bigg\vert\Bigg\vert
 \stopformula
 
+\page
+
 \startformula
-\hat{a}\hat{f}\hat{A}\hat{i}\hat{j}{\bf\hat{i}\hat{j}}
+\hat{a} \hat{c} \hat{e} \hat{f} \hat{g} \hat{o} \hat{s} \hat{z}
+\stopformula
+
+\startformula
+\hat{C} \hat{G} \hat{O} \hat{S} \hat{V} \hat{W} \hat{X} \hat{Y} \hat{Z}
+\stopformula
+
+\startformula
+\hat{𝐚} \hat{𝐜} \hat{𝐞} \hat{𝐟} \hat{𝐠} \hat{𝐨} \hat{𝐬} \hat{𝐳}
+\stopformula
+
+\startformula
+\hat{𝐂} \hat{𝐆} \hat{𝐇} \hat{𝐎} \hat{𝐒} \hat{𝐕} \hat{𝐖} \hat{𝐗} \hat{𝐘} \hat{𝐙}
+\stopformula
+
+\startformula
+\hat{ζ} \hat{θ} \hat{λ} \hat{π} \hat{ρ} \hat{τ} \hat{ψ} \hat{ω} \hat{ϕ}
+\stopformula
+
+\startformula
+\hat{Θ} \hat{Λ} \hat{Π} \hat{Υ} \hat{Ψ}
+\stopformula
+
+\startformula
+\hat{𝛇} \hat{𝛉} \hat{𝛌} \hat{𝛑} \hat{𝛒} \hat{𝛕} \hat{𝛟} \hat{𝛙} \hat{𝛚}
+\stopformula
+
+\startformula
+\hat{𝚫} \hat{𝚯} \hat{𝚲} \hat{𝚷} \hat{𝚼} \hat{𝚿}
+\stopformula
+
+\startformula
+\hat{℘} \hat{𝓐} \hat{𝓘} \hat{𝓙} \hat{𝒜} \hat{ℐ} \hat{𝒥} \hat{Δ} \hat{Ο} \hat{Χ} \hat{𝚭} \hat{𝚶} \hat{𝚾}
 \stopformula
 
 \stoptext
