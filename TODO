@@ -1,12 +1,12 @@
 Math kerning
 Math accents
- Positioning
+ Bold accents
  More accent glyphs?
 ConTeXt
- Upright Greek
  ssty
  dtls
-LaTeX (unicode-math)
+unicode-math
  LuaTeX support
  Some symbols still taken from CM fonts
+ Upright math
  dtls
