@@ -1,10 +1,11 @@
 Math kerning
+Bold symbols not in Unicode
 Math accents
- Bold accents
  More accent glyphs?
 ConTeXt
  ssty
  dtls
+ Italic correction
 unicode-math
  LuaTeX support
  Some symbols still taken from CM fonts
