@@ -5,6 +5,8 @@
 \definetypeface     [pagella]  [mm][math][euler][default][text=rm]
 \setupbodyfont      [pagella,10pt]
 
+\setupmathematics   [lcgreek=normal,ucgreek=normal]
+
 \setupheader[state=empty]
 
 \starttext
