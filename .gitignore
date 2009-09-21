@@ -1,5 +1,3 @@
-ams*
-lm*
 *~
 *.otf
 *.ttc
@@ -7,4 +5,4 @@ lm*
 *.tuc
 *.pdf
 *.aux
-stix-tbl.txt
+tmp
