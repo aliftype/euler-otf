@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253740164
+ModificationTime: 1253741937
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 11
+WinInfo: 8613 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115182 1582
+BeginChars: 1115182 1585
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -64745,8 +64745,8 @@ EndChar
 
 StartChar: uni2215
 Encoding: 8725 8725 1517
-Width: 501
-Flags: W
+Width: 0
+Flags: HW
 GlyphVariantsVertical: uni2215 uni2215.alt01 uni2215.alt02 uni2215.alt03 uni2215.alt04
 HStem: -182 21 702 20
 VStem: 34 432
@@ -66662,6 +66662,109 @@ SplineSet
  1041 528 1030 559 989 559 c 0
  959 559 927 536 927 500 c 0
  927 485 936 466 937 465 c 2
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: notequal
+Encoding: 8800 8800 1582
+Width: 756
+Flags: W
+HStem: 132 40<61 310.275 372.031 716> 329 40<61 395.908 457.559 716>
+DStem2: 179 -170 214 -192 0.398239 0.917282<0 329.298 390.583 544.105 605.348 968.266>
+LayerCount: 2
+Fore
+SplineSet
+598 715 m 1
+ 603 704 l 1
+ 457.559 369 l 1
+ 722 369 l 1
+ 716 329 l 1
+ 440.193 329 l 1
+ 372.031 172 l 1
+ 722 172 l 1
+ 716 132 l 1
+ 354.665 132 l 1
+ 214 -192 l 1
+ 182 -184 l 1
+ 179 -170 l 1
+ 310.275 132 l 1
+ 54 132 l 1
+ 61 172 l 1
+ 327.662 172 l 1
+ 395.908 329 l 1
+ 54 329 l 1
+ 61 369 l 1
+ 413.295 369 l 1
+ 565 718 l 1
+ 576 720 l 1
+ 598 715 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni0338
+Encoding: 824 824 1583
+Width: 0
+Flags: HW
+HStem: -182 21 702 20
+VStem: 34 432
+LayerCount: 2
+Fore
+SplineSet
+458 715 m 1
+ 463 704 l 1
+ 74 -192 l 1
+ 42 -184 l 1
+ 39 -170 l 1
+ 425 718 l 1
+ 436 720 l 1
+ 458 715 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2262
+Encoding: 8802 8802 1584
+Width: 830
+Flags: WO
+HStem: 33 39<90 291.241 352.616 740> 230 38<90 376.874 437.71 740> 426 39<90 462.072 523.238 740>
+DStem2: 203 -170 238 -192 0.398239 0.917282<0 221.349 281.565 436.156 495.24 649.872 710.005 968.266>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+622 715 m 1
+ 627 704 l 1
+ 523.238 465 l 1
+ 749 465 l 1
+ 740 426 l 1
+ 506.306 426 l 1
+ 437.71 268 l 1
+ 749 268 l 1
+ 740 230 l 1
+ 421.212 230 l 1
+ 352.616 72 l 1
+ 749 72 l 1
+ 740 33 l 1
+ 335.684 33 l 1
+ 238 -192 l 1
+ 206 -184 l 1
+ 203 -170 l 1
+ 291.241 33 l 1
+ 81 33 l 1
+ 90 72 l 1
+ 308.194 72 l 1
+ 376.874 230 l 1
+ 81 230 l 1
+ 90 268 l 1
+ 393.392 268 l 1
+ 462.072 426 l 1
+ 81 426 l 1
+ 90 465 l 1
+ 479.025 465 l 1
+ 589 718 l 1
+ 600 720 l 1
+ 622 715 l 1
 EndSplineSet
 Colour: ff00
 EndChar
