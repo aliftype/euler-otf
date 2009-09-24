@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253820177
+ModificationTime: 1253821545
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114839 33 10
+WinInfo: 1114905 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115204 1615
+BeginChars: 1115206 1619
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -19202,6 +19202,7 @@ StartChar: uni2227
 Encoding: 8743 8743 440
 Width: 775
 Flags: MW
+GlyphVariantsVertical: uni2227 uni22C0.alt01 uni22C0.alt02
 HStem: -9 21 694 20<395 395>
 VStem: 11 757<2 10>
 LayerCount: 2
@@ -19224,6 +19225,7 @@ StartChar: uni2228
 Encoding: 8744 8744 441
 Width: 775
 Flags: MW
+GlyphVariantsVertical: uni2228 uni22C1.alt01 uni22C1.alt02
 HStem: -12 21<367 382 367 367> 668 20<713 752 752 752>
 VStem: 6 750<677 684>
 LayerCount: 2
@@ -67363,6 +67365,7 @@ StartChar: uni22C0
 Encoding: 8896 8896 1603
 Width: 775
 Flags: W
+GlyphVariantsVertical: uni22C0 uni22C0.alt01 uni22C0.alt02
 HStem: -9 21 694 20<395 395>
 VStem: 11 757<2 10>
 LayerCount: 2
@@ -67375,6 +67378,7 @@ StartChar: uni22C1
 Encoding: 8897 8897 1604
 Width: 775
 Flags: W
+GlyphVariantsVertical: uni22C1 uni22C1.alt01 uni22C1.alt02
 HStem: -12 21<367 382 367 367> 668 20<713 752 752 752>
 VStem: 6 750<677 684>
 LayerCount: 2
@@ -67387,7 +67391,7 @@ StartChar: uni22C2
 Encoding: 8898 8898 1605
 Width: 666
 Flags: W
-GlyphVariantsVertical: intersection intersection.alt01 intersection.alt02
+GlyphVariantsVertical: uni22C2 intersection.alt01 intersection.alt02
 HStem: -22 21<65 85 581 601> 558 40<221.26 447.263>
 VStem: 55 40<-21.9869 453.521> 571 40<-21.9869 456.289>
 LayerCount: 2
@@ -67401,7 +67405,7 @@ StartChar: uni22C3
 Encoding: 8899 8899 1606
 Width: 666
 Flags: W
-GlyphVariantsVertical: union union.alt01 union.alt02
+GlyphVariantsVertical: uni22C3 union.alt01 union.alt02
 HStem: -22 40<310.5 370.5 310.5 398> 578 20<65 85 581 601>
 VStem: 56 40 570 40
 LayerCount: 2
@@ -67623,6 +67627,110 @@ SplineSet
  1054 -1345 l 2
  1054 -1359 1054 -1400 1012 -1400 c 0
  971 -1400 971 -1358 971 -1345 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni22C0.alt01
+Encoding: 1115202 -1 1615
+Width: 833
+Flags: W
+HStem: -1000 21<81.5 99 729.5 750.5> -20 20<404 428.5>
+VStem: 56 720<-975.5 -964.5>
+LayerCount: 2
+Fore
+SplineSet
+705 -965 m 2
+ 416 -139 l 1
+ 126 -970 l 2
+ 119 -990 108 -1000 90 -1000 c 0
+ 73 -1000 56 -986 56 -965 c 0
+ 56 -964 56 -958 61 -944 c 2
+ 381 -32 l 2
+ 386 -17 392 0 416 0 c 0
+ 441 0 447 -19 452 -33 c 2
+ 771 -944 l 2
+ 776 -958 776 -964 776 -965 c 0
+ 776 -986 759 -1000 742 -1000 c 0
+ 717 -1000 711 -982 705 -965 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni22C1.alt01
+Encoding: 1115203 -1 1616
+Width: 833
+Flags: W
+HStem: -1000 21<405 428> -20 20<81.5 102.5 733 750.5>
+VStem: 56 720<-35.5 -24.5 -35.5 -24.5>
+LayerCount: 2
+Fore
+SplineSet
+379 -966 m 2
+ 61 -56 l 2
+ 56 -42 56 -37 56 -35 c 0
+ 56 -14 73 0 90 0 c 0
+ 115 0 121 -18 127 -35 c 2
+ 416 -861 l 1
+ 706 -30 l 2
+ 713 -10 724 0 742 0 c 0
+ 759 0 776 -14 776 -35 c 0
+ 776 -36 776 -42 771 -56 c 2
+ 451 -968 l 2
+ 446 -983 440 -1000 416 -1000 c 0
+ 394 -1000 385 -984 379 -966 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni22C0.alt02
+Encoding: 1115204 -1 1617
+Width: 1111
+Flags: W
+HStem: -1400 21<86.5 112.5 997.5 1024> -20 20<540.5 563>
+VStem: 56 998<-1369.5 -1355.5 -1369.5 -1355.5>
+LayerCount: 2
+Fore
+SplineSet
+970 -1362 m 2
+ 555 -168 l 1
+ 139 -1364 l 2
+ 134 -1377 127 -1400 98 -1400 c 0
+ 75 -1400 56 -1382 56 -1358 c 0
+ 56 -1353 56 -1351 62 -1335 c 2
+ 513 -37 l 2
+ 517 -24 526 0 555 0 c 0
+ 571 0 586 -9 593 -23 c 1
+ 1048 -1335 l 2
+ 1054 -1351 1054 -1353 1054 -1358 c 0
+ 1054 -1381 1036 -1400 1012 -1400 c 0
+ 983 -1400 975 -1376 970 -1362 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: uni22C1.alt02
+Encoding: 1115205 -1 1618
+Width: 1111
+Flags: W
+HStem: -1400 21<540.5 569.5> -20 20<86 112.5 997.5 1023.5>
+VStem: 56 998<-44.5 -30.5>
+LayerCount: 2
+Fore
+SplineSet
+513 -1363 m 2
+ 62 -65 l 2
+ 56 -49 56 -47 56 -42 c 0
+ 56 -19 74 0 98 0 c 0
+ 127 0 135 -24 140 -38 c 2
+ 555 -1232 l 1
+ 971 -36 l 2
+ 976 -23 983 0 1012 0 c 0
+ 1035 0 1054 -18 1054 -42 c 0
+ 1054 -47 1054 -49 1048 -65 c 2
+ 597 -1363 l 2
+ 592 -1377 584 -1400 555 -1400 c 0
+ 526 -1400 517 -1376 513 -1363 c 2
 EndSplineSet
 Colour: ff
 EndChar
