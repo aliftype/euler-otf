@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253824402
+ModificationTime: 1253826308
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114905 33 10
+WinInfo: 1114608 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -65337,24 +65337,24 @@ EndChar
 
 StartChar: ellipsis
 Encoding: 8230 8230 1538
-Width: 688
-Flags: MW
-HStem: -15 134<94.4065 193.594 294.406 393.594 494.406 593.594>
-VStem: 77 134<2.40646 101.594> 277 134<2.40646 101.594> 477 134<2.40646 101.594>
+Width: 768
+Flags: W
+HStem: -15 134<94.4065 193.594 334.406 433.594 574.406 673.594>
+VStem: 77 134<2.40646 101.594> 317 134<2.40646 101.594> 557 134<2.40646 101.594>
 CounterMasks: 1 70
 LayerCount: 2
 Fore
 SplineSet
-477 52 m 0
- 477 89 507 119 544 119 c 0
- 581 119 611 89 611 52 c 0
- 611 15 581 -15 544 -15 c 0
- 507 -15 477 15 477 52 c 0
-277 52 m 0
- 277 89 307 119 344 119 c 0
- 381 119 411 89 411 52 c 0
- 411 15 381 -15 344 -15 c 0
- 307 -15 277 15 277 52 c 0
+557 52 m 0
+ 557 89 587 119 624 119 c 0
+ 661 119 691 89 691 52 c 0
+ 691 15 661 -15 624 -15 c 0
+ 587 -15 557 15 557 52 c 0
+317 52 m 0
+ 317 89 347 119 384 119 c 0
+ 421 119 451 89 451 52 c 0
+ 451 15 421 -15 384 -15 c 0
+ 347 -15 317 15 317 52 c 0
 77 52 m 0
  77 89 107 119 144 119 c 0
  181 119 211 89 211 52 c 0
@@ -65367,23 +65367,23 @@ EndChar
 
 StartChar: ellipsis.ssty1
 Encoding: 1114511 -1 1539
-Width: 776
+Width: 925
 Flags: W
-HStem: -15 134<117.725 226.275 332.725 441.275 549.725 658.275>
-VStem: 99 146<4.625 99.375> 314 146<4.625 99.375> 531 146<4.625 99.375>
+HStem: -15 134<117.725 226.275 408.725 517.275 698.725 807.275>
+VStem: 99 146<4.625 99.375> 390 146<4.625 99.375> 680 146<4.625 99.375>
 LayerCount: 2
 Fore
 SplineSet
-531 52 m 4
- 531 89 563 119 604 119 c 4
- 645 119 677 89 677 52 c 4
- 677 15 645 -15 604 -15 c 4
- 563 -15 531 15 531 52 c 4
-314 52 m 0
- 314 89 346 119 387 119 c 0
- 428 119 460 89 460 52 c 0
- 460 15 428 -15 387 -15 c 0
- 346 -15 314 15 314 52 c 0
+680 52 m 0
+ 680 89 712 119 753 119 c 0
+ 794 119 826 89 826 52 c 0
+ 826 15 794 -15 753 -15 c 0
+ 712 -15 680 15 680 52 c 0
+390 52 m 0
+ 390 89 422 119 463 119 c 0
+ 504 119 536 89 536 52 c 0
+ 536 15 504 -15 463 -15 c 0
+ 422 -15 390 15 390 52 c 0
 99 52 m 0
  99 89 131 119 172 119 c 0
  213 119 245 89 245 52 c 0
@@ -65395,23 +65395,23 @@ EndChar
 
 StartChar: ellipsis.ssty2
 Encoding: 1114953 -1 1540
-Width: 1008
+Width: 1136
 Flags: W
-HStem: -15 117<196.559 322.369 440.559 566.369 684.559 810.369>
-VStem: 178 164<4.95871 81.9435> 422 164<4.95871 81.9435> 666 164<4.95871 81.9435>
+HStem: -15 117<196.559 322.369 517.559 643.369 812.559 938.369>
+VStem: 178 164<4.95871 81.9435> 499 164<4.95871 81.9435> 794 164<4.95871 81.9435>
 LayerCount: 2
 Fore
 SplineSet
-746 102 m 4
- 791 102 830 76 830 44 c 4
- 830 12 792 -15 746 -15 c 4
- 699 -15 666 13 666 44 c 4
- 666 75 699 102 746 102 c 4
-502 102 m 0
- 547 102 586 76 586 44 c 0
- 586 12 548 -15 502 -15 c 0
- 455 -15 422 13 422 44 c 0
- 422 75 455 102 502 102 c 0
+874 102 m 0
+ 919 102 958 76 958 44 c 0
+ 958 12 920 -15 874 -15 c 0
+ 827 -15 794 13 794 44 c 0
+ 794 75 827 102 874 102 c 0
+579 102 m 0
+ 624 102 663 76 663 44 c 0
+ 663 12 625 -15 579 -15 c 0
+ 532 -15 499 13 499 44 c 0
+ 499 75 532 102 579 102 c 0
 258 102 m 0
  303 102 342 76 342 44 c 0
  342 12 304 -15 258 -15 c 0
@@ -67306,7 +67306,6 @@ EndChar
 StartChar: union
 Encoding: 8746 8746 1601
 Width: 666
-Flags:W
 GlyphVariantsVertical: union union.alt01 union.alt02
 HStem: -22 40<310.5 370.5 310.5 398> 578 20<65 85 581 601>
 VStem: 56 40 570 40
@@ -67916,7 +67915,6 @@ EndChar
 StartChar: uni228A
 Encoding: 8842 8842 1627
 Width: 777
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -67937,7 +67935,6 @@ EndChar
 StartChar: uni228B
 Encoding: 8843 8843 1628
 Width: 777
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68102,7 +68099,6 @@ EndChar
 StartChar: uni2288.ssty1
 Encoding: 1115212 -1 1635
 Width: 892
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68122,7 +68118,6 @@ EndChar
 StartChar: uni2289.ssty1
 Encoding: 1115213 -1 1636
 Width: 892
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68142,7 +68137,6 @@ EndChar
 StartChar: uni228A.ssty1
 Encoding: 1115214 -1 1637
 Width: 892
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68162,7 +68156,6 @@ EndChar
 StartChar: uni228B.ssty1
 Encoding: 1115215 -1 1638
 Width: 892
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68326,7 +68319,6 @@ EndChar
 StartChar: uni2288.ssty2
 Encoding: 1115222 -1 1645
 Width: 1083
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68346,7 +68338,6 @@ EndChar
 StartChar: uni2289.ssty2
 Encoding: 1115223 -1 1646
 Width: 1083
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68366,7 +68357,6 @@ EndChar
 StartChar: uni228A.ssty2
 Encoding: 1115224 -1 1647
 Width: 1083
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
@@ -68386,7 +68376,6 @@ EndChar
 StartChar: uni228B.ssty2
 Encoding: 1115225 -1 1648
 Width: 1083
-Flags:W
 LayerCount: 2
 Fore
 SplineSet
