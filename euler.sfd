@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 10
+WinInfo: 1114839 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -66043,7 +66043,7 @@ SplineSet
  271 559 299 535 299 504 c 4
  299 497 298 489 290 472 c 6
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: second
@@ -66075,7 +66075,7 @@ SplineSet
  211.1 737.8 208.3 731.5 204.8 723.1 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" second.ssty1 second.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2034
@@ -66117,7 +66117,7 @@ SplineSet
  211.1 737.8 208.3 731.5 204.8 723.1 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2034.ssty1 uni2034.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2035
@@ -66141,7 +66141,7 @@ SplineSet
  36.2998 723.1 l 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2035.ssty1 uni2035.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2036
@@ -66173,7 +66173,7 @@ SplineSet
  228.8 723.1 l 6
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2036.ssty1 uni2036.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2037
@@ -66214,7 +66214,7 @@ SplineSet
  421.3 723.1 l 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2037.ssty1 uni2037.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2037.ssty1
@@ -66252,7 +66252,7 @@ SplineSet
  697 559 669 535 669 504 c 0
  669 497 670 489 678 472 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: minute.ssty2
@@ -66303,7 +66303,7 @@ SplineSet
  338 559 370 536 370 500 c 4
  370 485 361 466 360 465 c 6
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2034.ssty2
@@ -66341,7 +66341,7 @@ SplineSet
  338 559 370 536 370 500 c 0
  370 485 361 466 360 465 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2057.ssty2
@@ -66388,7 +66388,7 @@ SplineSet
  338 559 370 536 370 500 c 0
  370 485 361 466 360 465 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2035.ssty2
@@ -66410,7 +66410,7 @@ SplineSet
  125 559 93 536 93 500 c 0
  93 485 102 466 103 465 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2034.ssty1
@@ -66448,7 +66448,7 @@ SplineSet
  271 559 299 535 299 504 c 0
  299 497 298 489 290 472 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2057.ssty1
@@ -66495,7 +66495,7 @@ SplineSet
  271 559 299 535 299 504 c 0
  299 497 298 489 290 472 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2035.ssty1
@@ -66517,7 +66517,7 @@ SplineSet
  76 559 48 535 48 504 c 0
  48 497 49 489 57 472 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2036.ssty1
@@ -66546,7 +66546,7 @@ SplineSet
  387 559 359 535 359 504 c 4
  359 497 360 489 368 472 c 6
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2057
@@ -66596,7 +66596,7 @@ SplineSet
  211.1 737.8 208.3 731.5 204.8 723.1 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2057.ssty1 uni2057.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2036.ssty2
@@ -66625,7 +66625,7 @@ SplineSet
  542 559 510 536 510 500 c 4
  510 485 519 466 520 465 c 6
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni2037.ssty2
@@ -66663,7 +66663,7 @@ SplineSet
  959 559 927 536 927 500 c 0
  927 485 936 466 937 465 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: notequal
@@ -66867,7 +66867,7 @@ SplineSet
  638 275 661 275 661 250 c 0
  661 226 637 226 621 226 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: suchthat.ssty1
@@ -66935,7 +66935,7 @@ SplineSet
  611 275 l 1
  596 420 475 528 319 528 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: element.ssty2
@@ -67000,7 +67000,7 @@ SplineSet
  757 278 784 278 784 250 c 0
  784 222 757 222 741 222 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: suchthat.ssty2
@@ -67065,7 +67065,7 @@ SplineSet
  726 278 l 1
  714 421 580 545 400 545 c 2
 EndSplineSet
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: notelement
@@ -67104,7 +67104,7 @@ SplineSet
  583 230 565 230 548 230 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" notelement.ssty1 notelement.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: uni220C
@@ -67143,7 +67143,7 @@ SplineSet
  530 404 415 500 274 500 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni220C.ssty1 uni220C.ssty2
-Colour: ff00
+Colour: ff
 EndChar
 
 StartChar: element
