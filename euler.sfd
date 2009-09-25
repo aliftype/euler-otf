@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253828029
+ModificationTime: 1253837530
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114872 33 10
+WinInfo: 0 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115232 1658
+BeginChars: 1115234 1662
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -68647,6 +68647,78 @@ SplineSet
  765.567 94.9658 730.777 69.2227 683.881 72.3496 c 0
  637.984 75.4092 601.864 104.877 603.993 136.807 c 0
  606.121 168.735 646.765 192.083 691.664 189.09 c 0
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: dotmath
+Encoding: 8901 8901 1658
+Width: 277
+VWidth: 1260
+Flags: HW
+HStem: 239 129
+VStem: 81 126
+LayerCount: 2
+Fore
+SplineSet
+71.5 312 m 0
+ 71.5 349 101.5 379 138.5 379 c 0
+ 175.5 379 205.5 349 205.5 312 c 0
+ 205.5 275 175.5 245 138.5 245 c 0
+ 101.5 245 71.5 275 71.5 312 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" dotmath.ssty1 dotmath.ssty2
+Colour: ff00
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 1659
+Width: 277
+VWidth: 1260
+Flags: W
+HStem: 239 129
+VStem: 75.5 126
+LayerCount: 2
+Fore
+Refer: 1658 8901 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" dotmath.ssty1 dotmath.ssty2
+Colour: ff00
+EndChar
+
+StartChar: dotmath.ssty2
+Encoding: 1115233 -1 1660
+Width: 537
+VWidth: 1260
+Flags: HW
+HStem: 245 117<243 289 243 289.5>
+VStem: 186.5 163
+LayerCount: 2
+Fore
+SplineSet
+266.5 362 m 0
+ 311.5 362 350.5 336 350.5 304 c 0
+ 350.5 272 312.5 245 266.5 245 c 0
+ 219.5 245 186.5 273 186.5 304 c 0
+ 186.5 335 219.5 362 266.5 362 c 0
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: dotmath.ssty1
+Encoding: 1115232 -1 1661
+Width: 372
+VWidth: 1260
+Flags: HW
+HStem: 239 129
+VStem: 118 137
+LayerCount: 2
+Fore
+SplineSet
+113 312 m 0
+ 113 349 145 379 186 379 c 0
+ 227 379 259 349 259 312 c 0
+ 259 275 227 245 186 245 c 0
+ 145 245 113 275 113 312 c 0
 EndSplineSet
 Colour: ff00
 EndChar
