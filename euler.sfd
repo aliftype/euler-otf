@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253837530
+ModificationTime: 1253838051
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 10
+WinInfo: 8679 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115234 1662
+BeginChars: 1115236 1665
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -68655,7 +68655,7 @@ StartChar: dotmath
 Encoding: 8901 8901 1658
 Width: 277
 VWidth: 1260
-Flags: HW
+Flags:W
 HStem: 239 129
 VStem: 81 126
 LayerCount: 2
@@ -68689,7 +68689,7 @@ StartChar: dotmath.ssty2
 Encoding: 1115233 -1 1660
 Width: 537
 VWidth: 1260
-Flags: HW
+Flags:W
 HStem: 245 117<243 289 243 289.5>
 VStem: 186.5 163
 LayerCount: 2
@@ -68708,7 +68708,7 @@ StartChar: dotmath.ssty1
 Encoding: 1115232 -1 1661
 Width: 372
 VWidth: 1260
-Flags: HW
+Flags:W
 HStem: 239 129
 VStem: 118 137
 LayerCount: 2
@@ -68719,6 +68719,62 @@ SplineSet
  227 379 259 349 259 312 c 0
  259 275 227 245 186 245 c 0
  145 245 113 275 113 312 c 0
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2223
+Encoding: 8739 8739 1662
+Width: 213
+Flags: W
+GlyphVariantsVertical: uni2223 uni007C.big uni007C.Big uni007C.bigg uni007C.Bigg
+HStem: 678 20G<86.5 126.5>
+VStem: 86.5 40<-89 690>
+LayerCount: 2
+Fore
+SplineSet
+126.5 -89 m 5
+ 86.5 -97 l 5
+ 86.5 690 l 1
+ 126.5 698 l 1
+ 126.5 -89 l 5
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2223.ssty1 uni2223.ssty2
+Colour: ff00
+EndChar
+
+StartChar: uni2223.ssty2
+Encoding: 1115235 -1 1663
+Width: 449
+Flags: W
+HStem: 678 20G<200 248>
+VStem: 200 48<-89 690>
+LayerCount: 2
+Fore
+SplineSet
+248 -89 m 5
+ 200 -97 l 5
+ 200 690 l 1
+ 248 698 l 1
+ 248 -89 l 5
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2223.ssty1
+Encoding: 1115234 -1 1664
+Width: 302
+Flags: W
+HStem: 678 20G<128 173>
+VStem: 128 45<-89 690>
+LayerCount: 2
+Fore
+SplineSet
+173 -89 m 1
+ 128 -97 l 1
+ 128 690 l 1
+ 173 698 l 1
+ 173 -89 l 1
 EndSplineSet
 Colour: ff00
 EndChar
