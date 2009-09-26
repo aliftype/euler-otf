@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1253838427
+ModificationTime: 1254002929
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8679 33 10
+WinInfo: 1114938 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115236 1666
+BeginChars: 1115248 1682
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -68780,7 +68780,6 @@ StartChar: asteriskmath
 Encoding: 8727 8727 1665
 Width: 277
 VWidth: 700
-Flags:W
 HStem: 149 21 372 20<117 157 157 157>
 VStem: 121 31
 LayerCount: 2
@@ -68806,6 +68805,402 @@ SplineSet
  196 210 172 232 146 252 c 1
  147 217 149 184 157 148 c 1
 EndSplineSet
+EndChar
+
+StartChar: uni27E8
+Encoding: 10216 10216 1666
+Width: 388
+Flags: W
+GlyphVariantsVertical: angleleft angleleft.alt01 angleleft.alt02 angleleft.alt03 angleleft.alt04
+HStem: -250 21<306 318.5> 730 20<308.5 318.5>
+VStem: 110 222
+LayerCount: 2
+Fore
+Refer: 1680 9001 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" angleleft.ssty1 angleleft.ssty2
+Colour: ff00
+EndChar
+
+StartChar: uni27E9
+Encoding: 10217 10217 1667
+Width: 388
+Flags: W
+GlyphVariantsVertical: angleright angleright.alt01 angleright.alt02 angleright.alt03 angleright.alt04
+HStem: -250 21<69.5 81.5> 730 20<69.5 80.5>
+VStem: 56 222
+LayerCount: 2
+Fore
+Refer: 1681 9002 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" angleright.ssty1 angleright.ssty2
+Colour: ff00
+EndChar
+
+StartChar: angleleft.ssty1
+Encoding: 1115236 -1 1668
+Width: 462
+Flags: W
+HStem: -249 21<352 365.5> 730 20<351.5 365.5>
+VStem: 138 245
+LayerCount: 2
+Fore
+SplineSet
+378 706 m 2
+ 189 250 l 1
+ 378 -205 l 2
+ 384 -219 384 -221 384 -224 c 0
+ 384 -240 371 -249 360 -249 c 0
+ 344 -249 338 -238 332 -223 c 2
+ 144 231 l 2
+ 138 245 138 246 138 251 c 0
+ 138 254 138 256 144 270 c 2
+ 333 725 l 2
+ 339 739 343 750 360 750 c 0
+ 371 750 384 741 384 725 c 0
+ 384 722 384 720 378 706 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.ssty1
+Encoding: 1115237 -1 1669
+Width: 462
+Flags: W
+HStem: -249 21<95.5 109.5> 730 20<95.5 109>
+VStem: 78 245
+LayerCount: 2
+Fore
+SplineSet
+317 231 m 2
+ 128 -224 l 2
+ 122 -238 118 -249 101 -249 c 0
+ 90 -249 77 -240 77 -224 c 0
+ 77 -221 77 -219 83 -205 c 2
+ 272 251 l 1
+ 83 706 l 2
+ 77 720 77 722 77 725 c 0
+ 77 741 90 750 101 750 c 0
+ 117 750 123 739 129 724 c 2
+ 317 270 l 2
+ 323 256 323 255 323 250 c 0
+ 323 247 323 245 317 231 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft.ssty2
+Encoding: 1115238 -1 1670
+Width: 597
+Flags: W
+HStem: -250 21<435.5 451.5> 730 20<436 451.5>
+VStem: 194 278
+LayerCount: 2
+Fore
+SplineSet
+465 700 m 2
+ 253 250 l 1
+ 466 -203 l 2
+ 469 -210 472 -215 472 -222 c 0
+ 472 -237 459 -250 444 -250 c 0
+ 427 -250 421 -239 414 -223 c 2
+ 200 231 l 2
+ 197 238 194 243 194 250 c 0
+ 194 252 194 258 201 272 c 2
+ 414 725 l 2
+ 420 738 428 750 444 750 c 0
+ 459 750 472 737 472 722 c 0
+ 472 720 472 714 465 700 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.ssty2
+Encoding: 1115239 -1 1671
+Width: 597
+Flags: W
+HStem: -250 21<145.5 161> 730 20<145.5 161.5>
+VStem: 125 278
+LayerCount: 2
+Fore
+SplineSet
+396 228 m 2
+ 183 -225 l 2
+ 177 -238 169 -250 153 -250 c 0
+ 138 -250 125 -237 125 -222 c 0
+ 125 -220 125 -214 132 -200 c 2
+ 344 250 l 1
+ 131 703 l 2
+ 128 710 125 715 125 722 c 0
+ 125 737 138 750 153 750 c 0
+ 170 750 176 739 183 723 c 2
+ 397 269 l 2
+ 400 262 403 257 403 250 c 0
+ 403 248 403 242 396 228 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft.alt01
+Encoding: 1115240 -1 1672
+Width: 472
+Flags: W
+HStem: -1160 21<367 378.5> 20 20<366.5 378.5>
+VStem: 98 295
+LayerCount: 2
+Fore
+SplineSet
+351 -1138 m 2
+ 104 -579 l 2
+ 98 -566 98 -561 98 -560 c 0
+ 98 -559 98 -554 104 -541 c 2
+ 351 19 l 2
+ 357 32 360 40 373 40 c 0
+ 384 40 393 31 393 20 c 0
+ 393 19 393 14 387 1 c 2
+ 140 -560 l 1
+ 387 -1121 l 2
+ 393 -1134 393 -1139 393 -1140 c 0
+ 393 -1151 384 -1160 373 -1160 c 0
+ 361 -1160 358 -1154 351 -1138 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.alt01
+Encoding: 1115241 -1 1673
+Width: 472
+Flags: W
+HStem: -1160 21<92.5 120> 20 20<92.5 104>
+VStem: 78 295
+LayerCount: 2
+Fore
+SplineSet
+331 -560 m 1
+ 84 1 l 2
+ 78 14 78 19 78 20 c 0
+ 78 31 87 40 98 40 c 0
+ 110 40 113 34 120 18 c 2
+ 367 -541 l 2
+ 373 -554 373 -559 373 -560 c 0
+ 373 -561 373 -566 367 -579 c 2
+ 120 -1139 l 2
+ 114 -1152 111 -1160 98 -1160 c 0
+ 87 -1160 78 -1151 78 -1140 c 0
+ 78 -1139 78 -1134 84 -1121 c 2
+ 331 -560 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft.alt02
+Encoding: 1115242 -1 1674
+Width: 611
+Flags: W
+HStem: -1759 21<491 504> 20 20<491 504>
+VStem: 112 410
+LayerCount: 2
+Fore
+SplineSet
+473 -1735 m 2
+ 118 -879 l 2
+ 113 -867 112 -865 112 -860 c 0
+ 112 -854 113 -853 118 -840 c 2
+ 473 16 l 2
+ 479 31 483 40 499 40 c 0
+ 509 40 522 32 522 16 c 0
+ 522 11 521 9 516 -3 c 2
+ 161 -860 l 1
+ 516 -1716 l 2
+ 521 -1728 522 -1730 522 -1735 c 0
+ 522 -1751 509 -1759 499 -1759 c 0
+ 483 -1759 479 -1750 473 -1735 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.alt02
+Encoding: 1115243 -1 1675
+Width: 611
+Flags: W
+HStem: -1759 21<106 119> 20 20<106 119>
+VStem: 88 410
+LayerCount: 2
+Fore
+SplineSet
+94 -1716 m 2
+ 449 -859 l 1
+ 94 -3 l 2
+ 89 9 88 11 88 16 c 0
+ 88 32 101 40 111 40 c 0
+ 127 40 131 31 137 16 c 2
+ 492 -840 l 2
+ 497 -853 498 -854 498 -860 c 0
+ 498 -865 497 -867 492 -879 c 2
+ 137 -1735 l 2
+ 131 -1750 127 -1759 111 -1759 c 0
+ 101 -1759 88 -1751 88 -1735 c 0
+ 88 -1730 89 -1728 94 -1716 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft.alt03
+Encoding: 1115244 -1 1676
+Width: 750
+Flags: W
+HStem: -2359 21<615 631.5> 20 20<615 631.5>
+VStem: 125 527
+LayerCount: 2
+Fore
+SplineSet
+595 -2332 m 2
+ 132 -1180 l 2
+ 125 -1164 125 -1162 125 -1159 c 0
+ 125 -1158 125 -1153 131 -1139 c 2
+ 595 13 l 2
+ 599 23 606 40 624 40 c 0
+ 639 40 652 28 652 12 c 0
+ 652 11 652 6 646 -8 c 2
+ 182 -1160 l 1
+ 645 -2311 l 2
+ 652 -2327 652 -2329 652 -2331 c 0
+ 652 -2347 639 -2359 624 -2359 c 0
+ 606 -2359 599 -2342 595 -2332 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.alt03
+Encoding: 1115245 -1 1677
+Width: 750
+Flags: W
+HStem: -2359 21<117.5 134> 20 20<117.5 134>
+VStem: 97 527
+LayerCount: 2
+Fore
+SplineSet
+567 -1159 m 1
+ 104 -8 l 2
+ 97 8 97 10 97 12 c 0
+ 97 28 110 40 125 40 c 0
+ 143 40 150 23 154 13 c 2
+ 617 -1139 l 2
+ 624 -1155 624 -1157 624 -1160 c 0
+ 624 -1161 624 -1166 618 -1180 c 2
+ 154 -2332 l 2
+ 150 -2342 143 -2359 125 -2359 c 0
+ 110 -2359 97 -2347 97 -2331 c 0
+ 97 -2330 97 -2325 103 -2311 c 2
+ 567 -1159 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft.alt04
+Encoding: 1115246 -1 1678
+Width: 805
+Flags: W
+HStem: -2960 21<655 674.5> 20 20<655 674.5>
+VStem: 139 558
+LayerCount: 2
+Fore
+SplineSet
+634 -2929 m 2
+ 144 -1480 l 2
+ 139 -1466 139 -1462 139 -1460 c 0
+ 139 -1458 139 -1454 144 -1440 c 2
+ 634 10 l 2
+ 638 23 644 40 666 40 c 0
+ 683 40 697 26 697 9 c 0
+ 697 7 697 3 692 -11 c 2
+ 203 -1460 l 1
+ 692 -2909 l 2
+ 697 -2923 697 -2927 697 -2929 c 0
+ 697 -2946 683 -2960 666 -2960 c 0
+ 644 -2960 639 -2944 634 -2929 c 2
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleright.alt04
+Encoding: 1115247 -1 1679
+Width: 805
+Flags: W
+HStem: -2960 21<130.5 150> 20 20<130.5 150>
+VStem: 108 558
+LayerCount: 2
+Fore
+SplineSet
+602 -1460 m 1
+ 113 -11 l 2
+ 108 3 108 7 108 9 c 0
+ 108 26 122 40 139 40 c 0
+ 161 40 166 24 171 9 c 2
+ 661 -1440 l 2
+ 666 -1454 666 -1458 666 -1460 c 0
+ 666 -1462 666 -1466 661 -1480 c 2
+ 171 -2930 l 2
+ 167 -2943 161 -2960 139 -2960 c 0
+ 122 -2960 108 -2946 108 -2929 c 0
+ 108 -2927 108 -2923 113 -2909 c 2
+ 602 -1460 l 1
+EndSplineSet
+Colour: ff
+EndChar
+
+StartChar: angleleft
+Encoding: 9001 9001 1680
+Width: 388
+Flags: W
+GlyphVariantsVertical: angleleft angleleft.alt01 angleleft.alt02 angleleft.alt03 angleleft.alt04
+HStem: -250 21<306 318.5> 730 20<308.5 318.5>
+VStem: 110 222
+LayerCount: 2
+Fore
+SplineSet
+328 712 m 2
+ 151 250 l 1
+ 328 -214 l 2
+ 333 -225 333 -227 333 -230 c 0
+ 333 -241 324 -250 313 -250 c 0
+ 299 -250 294 -237 290 -226 c 2
+ 115 233 l 2
+ 110 245 110 247 110 250 c 0
+ 110 256 113 262 115 268 c 2
+ 290 727 l 2
+ 297 745 304 750 313 750 c 0
+ 324 750 333 741 333 730 c 0
+ 333 725 333 723 328 712 c 2
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" angleleft.ssty1 angleleft.ssty2
+Colour: ff
+EndChar
+
+StartChar: angleright
+Encoding: 9002 9002 1681
+Width: 388
+Flags: W
+GlyphVariantsVertical: angleright angleright.alt01 angleright.alt02 angleright.alt03 angleright.alt04
+HStem: -250 21<69.5 81.5> 730 20<69.5 80.5>
+VStem: 56 222
+LayerCount: 2
+Fore
+SplineSet
+273 233 m 2
+ 96 -230 l 2
+ 92 -240 88 -250 75 -250 c 0
+ 64 -250 55 -241 55 -230 c 0
+ 55 -225 55 -223 60 -212 c 2
+ 237 250 l 1
+ 60 714 l 2
+ 55 725 55 727 55 730 c 0
+ 55 741 64 750 75 750 c 0
+ 86 750 92 744 98 727 c 2
+ 273 267 l 2
+ 278 255 278 253 278 250 c 0
+ 278 247 278 245 273 233 c 2
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" angleright.ssty1 angleright.ssty2
+Colour: ff
 EndChar
 EndChars
 EndSplineFont
