@@ -942,7 +942,7 @@ EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni221E.ssty1
 EndChar
 
-StartChar: bracketleft.big
+StartChar: bracketleft.alt01
 Encoding: 1114128 -1 27
 Width: 416
 Flags: W
@@ -965,7 +965,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: bracketleft.bigg
+StartChar: bracketleft.alt03
 Encoding: 1114132 -1 28
 Width: 527
 Flags: MW
@@ -988,7 +988,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: bracketright.bigg
+StartChar: bracketright.alt03
 Encoding: 1114133 -1 29
 Width: 527
 Flags: MW
@@ -1011,7 +1011,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: bracketleft.Bigg
+StartChar: bracketleft.alt04
 Encoding: 1114134 -1 30
 Width: 583
 Flags: MW
@@ -1034,7 +1034,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: radical.big
+StartChar: radical.alt01
 Encoding: 1114136 -1 31
 Width: 1000
 Flags: MW
@@ -1121,7 +1121,7 @@ EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21D5.ssty1
 EndChar
 
-StartChar: radical.Big
+StartChar: radical.alt02
 Encoding: 1114137 -1 34
 Width: 1000
 Flags: MW
@@ -1145,7 +1145,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: radical.bigg
+StartChar: radical.alt03
 Encoding: 1114138 -1 35
 Width: 1000
 Flags: MW
@@ -1171,7 +1171,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: radical.Bigg
+StartChar: radical.alt04
 Encoding: 1114139 -1 36
 Width: 1000
 Flags: MW
@@ -1669,7 +1669,7 @@ Encoding: 40 40 52
 Width: 388
 Flags: MW
 IsExtendedShape: 1
-GlyphVariantsVertical: uni0028 uni0028.big uni0028.Big uni0028.bigg uni0028.Bigg
+GlyphVariantsVertical: uni0028 uni0028.alt01 uni0028.alt02 uni0028.alt03 uni0028.alt04
 GlyphCompositionVertical: 3  uni239D%0,603,603,1809 uni239C%1,207,207,620 uni239B%0,603,603,1809
 HStem: -186 21 718 20<301 301>
 VStem: 113 52<239.5 310 231 318.5>
@@ -1701,7 +1701,7 @@ Encoding: 41 41 53
 Width: 388
 Flags: MW
 IsExtendedShape: 1
-GlyphVariantsVertical: uni0029 uni0029.big uni0029.Big uni0029.bigg uni0029.Bigg
+GlyphVariantsVertical: uni0029 uni0029.alt01 uni0029.alt02 uni0029.alt03 uni0029.alt04
 GlyphCompositionVertical: 3  uni23A0%0,603,603,1809 uni239F%1,207,207,620 uni239E%0,603,603,1809
 HStem: -187 21 715 20
 VStem: 224 52<232 314.5 230 315.5>
@@ -4083,7 +4083,7 @@ Encoding: 91 91 100
 Width: 277
 Flags: MW
 IsExtendedShape: 1
-GlyphVariantsVertical: uni005B bracketleft.big bracketleft.Big bracketleft.bigg bracketleft.Bigg
+GlyphVariantsVertical: uni005B bracketleft.alt01 bracketleft.alt02 bracketleft.alt03 bracketleft.alt04
 GlyphCompositionVertical: 3  uni23A3%0,600,600,1799 uni23A2%1,201,201,602 uni23A1%0,600,600,1799
 HStem: -120 24<252 279> 712 24<252 279>
 VStem: 120 40<-83 699 -83 741>
@@ -4108,7 +4108,7 @@ Encoding: 93 93 101
 Width: 277
 Flags: MW
 IsExtendedShape: 1
-GlyphVariantsVertical: uni005D bracketright.big bracketright.Big bracketright.bigg bracketright.Bigg
+GlyphVariantsVertical: uni005D bracketright.alt01 bracketright.alt02 bracketright.alt03 bracketright.alt04
 GlyphCompositionVertical: 3  uni23A6%0,600,600,1799 uni23A5%1,201,201,602 uni23A4%0,600,600,1799
 HStem: -120 24<-1 26> 712 24<-1 26>
 VStem: 118 40<-83 699 699 699>
@@ -19347,8 +19347,8 @@ Encoding: 124 124 444
 Width: 213
 Flags: MW
 IsExtendedShape: 1
-GlyphVariantsVertical: uni007C uni007C.big uni007C.Big uni007C.bigg uni007C.Bigg
-GlyphCompositionVertical: 2  uni007C.Bigg%0,1102,1102,3306 uni007C.ex%1,102,102,305
+GlyphVariantsVertical: uni007C uni007C.alt01 uni007C.alt02 uni007C.alt03 uni007C.alt04
+GlyphCompositionVertical: 2  uni007C.alt04%0,1102,1102,3306 uni007C.ex%1,102,102,305
 VStem: 86 40<-159 -159 -159 730 730 730>
 LayerCount: 2
 Fore
@@ -62428,7 +62428,7 @@ StartChar: radical
 Encoding: 8730 8730 1428
 Width: 833
 Flags: W
-GlyphVariantsVertical: radical radical.big radical.Big radical.bigg radical.Bigg
+GlyphVariantsVertical: radical radical.alt01 radical.alt02 radical.alt03 radical.alt04
 GlyphCompositionVertical: 3  radical.bt%0,607,607,1820 radical.vertex%1,213,213,640 radical.tp%0,207,207,620
 HStem: -960 21<360.5 374> 20 20<827 839>
 VStem: 73 780<-549.5 25.5>
@@ -62592,7 +62592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bracketright.big
+StartChar: bracketright.alt01
 Encoding: 1114129 -1 1431
 Width: 416
 Flags: W
@@ -62615,7 +62615,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: bracketleft.Big
+StartChar: bracketleft.alt02
 Encoding: 1114130 -1 1432
 Width: 472
 Flags: W
@@ -62673,7 +62673,7 @@ EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0032.onum.ssty1 uni0032.onum.ssty2
 EndChar
 
-StartChar: bracketright.Bigg
+StartChar: bracketright.alt04
 Encoding: 1114135 -1 1434
 Width: 583
 Flags: W
@@ -62696,7 +62696,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: bracketright.Big
+StartChar: bracketright.alt02
 Encoding: 1114131 -1 1435
 Width: 472
 Flags: W
@@ -62998,7 +62998,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0028.big
+StartChar: uni0028.alt01
 Encoding: 1114120 -1 1444
 Width: 458
 Flags: W
@@ -63024,7 +63024,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0029.big
+StartChar: uni0029.alt01
 Encoding: 1114121 -1 1445
 Width: 458
 Flags: W
@@ -63051,7 +63051,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0028.Big
+StartChar: uni0028.alt02
 Encoding: 1114122 -1 1446
 Width: 597
 Flags: W
@@ -63082,7 +63082,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0029.Big
+StartChar: uni0029.alt02
 Encoding: 1114123 -1 1447
 Width: 597
 Flags: W
@@ -63110,7 +63110,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0028.bigg
+StartChar: uni0028.alt03
 Encoding: 1114124 -1 1448
 Width: 736
 Flags: W
@@ -63138,7 +63138,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0029.bigg
+StartChar: uni0029.alt03
 Encoding: 1114125 -1 1449
 Width: 736
 Flags: W
@@ -63166,7 +63166,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0028.Bigg
+StartChar: uni0028.alt04
 Encoding: 1114126 -1 1450
 Width: 791
 Flags: W
@@ -63196,7 +63196,7 @@ EndSplineSet
 Colour: ff
 EndChar
 
-StartChar: uni0029.Bigg
+StartChar: uni0029.alt04
 Encoding: 1114127 -1 1451
 Width: 791
 Flags: W
@@ -64485,7 +64485,7 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uni007C.bigg
+StartChar: uni007C.alt03
 Encoding: 1115152 -1 1504
 Width: 213
 VWidth: -600
@@ -64504,7 +64504,7 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uni007C.Bigg
+StartChar: uni007C.alt04
 Encoding: 1115153 -1 1505
 Width: 213
 VWidth: -900
@@ -64523,7 +64523,7 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uni007C.big
+StartChar: uni007C.alt01
 Encoding: 1115150 -1 1506
 Width: 213
 VWidth: 0
@@ -64542,7 +64542,7 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uni007C.Big
+StartChar: uni007C.alt02
 Encoding: 1115151 -1 1507
 Width: 213
 VWidth: -300
@@ -68724,7 +68724,7 @@ StartChar: uni2223
 Encoding: 8739 8739 1662
 Width: 213
 Flags: W
-GlyphVariantsVertical: uni2223 uni007C.big uni007C.Big uni007C.bigg uni007C.Bigg
+GlyphVariantsVertical: uni2223 uni007C.alt01 uni007C.alt02 uni007C.alt03 uni007C.alt04
 HStem: 678 20G<86.5 126.5>
 VStem: 86.5 40<-89 690>
 LayerCount: 2
