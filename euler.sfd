@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254345046
+ModificationTime: 1254346512
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8679 33 10
+WinInfo: 0 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115248 1704
+BeginChars: 1115255 1712
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -68750,11 +68750,11 @@ VStem: 200 48<-89 690>
 LayerCount: 2
 Fore
 SplineSet
-248 -89 m 5
- 200 -97 l 5
+248 -89 m 1
+ 200 -97 l 1
  200 690 l 1
  248 698 l 1
- 248 -89 l 5
+ 248 -89 l 1
 EndSplineSet
 Colour: ff00
 EndChar
@@ -69716,6 +69716,190 @@ SplineSet
  624.397 123.77 682.031 49.5361 760 47.0634 c 1x98
  760 -10.3287 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2016
+Encoding: 8214 8214 1704
+Width: 392
+Flags: W
+GlyphVariantsVertical: uni2016 uni2016.alt01 uni2016.alt02 uni2016.alt03 uni2016.alt04
+GlyphCompositionVertical: 2  uni2016.alt04%0,1102,1102,3306 uni2016.ex%1,102,102,305
+VStem: 86 40<-159 730> 266 40<-159 730>
+LayerCount: 2
+Fore
+SplineSet
+306 -159 m 1
+ 266 -167 l 1
+ 266 730 l 1
+ 306 738 l 1
+ 306 -159 l 1
+126 -159 m 1
+ 86 -167 l 1
+ 86 730 l 1
+ 126 738 l 1
+ 126 -159 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2016.ssty1 uni2016.ssty2
+Colour: ff00
+EndChar
+
+StartChar: uni2016.ex
+Encoding: 1115250 -1 1705
+Width: 403
+Flags: W
+HStem: -167 305
+VStem: 86 40<-159 130> 276 40<-159 130>
+LayerCount: 2
+Fore
+SplineSet
+316 -159 m 1
+ 276 -167 l 1
+ 276 130 l 1
+ 316 138 l 1
+ 316 -159 l 1
+126 -159 m 1
+ 86 -167 l 1
+ 86 130 l 1
+ 126 138 l 1
+ 126 -159 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.alt01
+Encoding: 1115251 -1 1706
+Width: 403
+VWidth: 0
+Flags: W
+VStem: 86 40<-1459 30> 276 40<-1459 30>
+LayerCount: 2
+Fore
+SplineSet
+316 -1459 m 1
+ 276 -1467 l 1
+ 276 30 l 1
+ 316 38 l 1
+ 316 -1459 l 1
+126 -1459 m 1
+ 86 -1467 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -1459 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.alt02
+Encoding: 1115252 -1 1707
+Width: 403
+VWidth: -300
+Flags: W
+VStem: 86 40<-2059 30> 276 40<-2059 30>
+LayerCount: 2
+Fore
+SplineSet
+316 -2059 m 1
+ 276 -2067 l 1
+ 276 30 l 1
+ 316 38 l 1
+ 316 -2059 l 1
+126 -2059 m 1
+ 86 -2067 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -2059 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.alt03
+Encoding: 1115253 -1 1708
+Width: 403
+VWidth: -600
+Flags: W
+VStem: 86 40<-2660 30> 276 40<-2660 30>
+LayerCount: 2
+Fore
+SplineSet
+316 -2660 m 1
+ 276 -2668 l 1
+ 276 30 l 1
+ 316 38 l 1
+ 316 -2660 l 1
+126 -2660 m 1
+ 86 -2668 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -2660 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.alt04
+Encoding: 1115254 -1 1709
+Width: 403
+VWidth: -900
+Flags: W
+VStem: 86 40<-3260 30> 276 40<-3260 30>
+LayerCount: 2
+Fore
+SplineSet
+316 -3260 m 1
+ 276 -3268 l 1
+ 276 30 l 1
+ 316 38 l 1
+ 316 -3260 l 1
+126 -3260 m 1
+ 86 -3268 l 1
+ 86 30 l 1
+ 126 38 l 1
+ 126 -3260 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.ssty2
+Encoding: 1115249 -1 1710
+Width: 676
+Flags: W
+VStem: 200 48<-159 730> 428 48<-159 730>
+LayerCount: 2
+Fore
+SplineSet
+476 -159 m 5
+ 428 -167 l 5
+ 428 730 l 5
+ 476 738 l 5
+ 476 -159 l 5
+248 -159 m 1
+ 200 -167 l 1
+ 200 730 l 1
+ 248 738 l 1
+ 248 -159 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni2016.ssty1
+Encoding: 1115248 -1 1711
+Width: 517
+Flags: W
+VStem: 128 45<-159 730> 344 45<-159 730>
+LayerCount: 2
+Fore
+SplineSet
+389 -159 m 5
+ 344 -167 l 5
+ 344 730 l 5
+ 389 738 l 5
+ 389 -159 l 5
+173 -159 m 1
+ 128 -167 l 1
+ 128 730 l 1
+ 173 738 l 1
+ 173 -159 l 1
+EndSplineSet
+Colour: ff00
 EndChar
 EndChars
 EndSplineFont
