@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254344695
+ModificationTime: 1254345046
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115248 1703
+BeginChars: 1115248 1704
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -69681,6 +69681,41 @@ SplineSet
  320.94 115.4 381.94 178.84 381.94 271.56 c 4
 EndSplineSet
 Colour: ffff00
+EndChar
+
+StartChar: proportional
+Encoding: 8733 8733 1703
+Width: 815
+Flags: W
+HStem: -11 58.0634<692.92 760> -11 43<173.072 323.507> 384 58<170.959 308.895> 399 43<677.715 760>
+VStem: 56 42<119.208 304.971>
+DStem2: 459 336 412 262 0.614268 -0.789098<-103.355 76.8307 164.326 344.512>
+LayerCount: 2
+Fore
+SplineSet
+462 197 m 1x68
+ 412 262 l 2
+ 376 308 317 384 237 384 c 0
+ 160 384 98 312 98 215 c 0
+ 98 127 146 32 241 32 c 0
+ 329 32 404 96 462 197 c 1x68
+760 -10.3287 m 1
+ 754.743 -10.7731 749.408 -11 744 -11 c 0x98
+ 662 -11 593 38 542 95 c 0
+ 522 117 515 129 494 155 c 1
+ 458 95 377 -11 254 -11 c 0
+ 138 -11 56 97 56 215 c 0
+ 56 334 139 442 257 442 c 0x68
+ 339 442 408 393 459 336 c 0
+ 479 314 486 302 507 276 c 1
+ 543 336 624 442 747 442 c 0
+ 751.383 442 755.717 441.846 760 441.543 c 1
+ 760 399 l 1
+ 672 399 597 335 539 234 c 1
+ 589 169 l 2
+ 624.397 123.77 682.031 49.5361 760 47.0634 c 1x98
+ 760 -10.3287 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
