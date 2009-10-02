@@ -67111,6 +67111,7 @@ StartChar: uni2223.ssty2
 Encoding: 1115235 -1 1663
 Width: 449
 Flags: W
+IsExtendedShape: 1
 HStem: 678 20G<200 248>
 VStem: 200 48<-89 690>
 LayerCount: 2
@@ -67129,6 +67130,7 @@ StartChar: uni2223.ssty1
 Encoding: 1115234 -1 1664
 Width: 302
 Flags: W
+IsExtendedShape: 1
 HStem: 678 20G<128 173>
 VStem: 128 45<-89 690>
 LayerCount: 2
@@ -67207,6 +67209,7 @@ StartChar: angleleft.ssty1
 Encoding: 1115236 -1 1668
 Width: 462
 Flags: W
+IsExtendedShape: 1
 HStem: -249 21<352 365.5> 730 20<351.5 365.5>
 VStem: 138 245
 LayerCount: 2
@@ -67233,6 +67236,7 @@ StartChar: angleright.ssty1
 Encoding: 1115237 -1 1669
 Width: 462
 Flags: W
+IsExtendedShape: 1
 HStem: -249 21<95.5 109.5> 730 20<95.5 109>
 VStem: 78 245
 LayerCount: 2
@@ -67259,6 +67263,7 @@ StartChar: angleleft.ssty2
 Encoding: 1115238 -1 1670
 Width: 597
 Flags: W
+IsExtendedShape: 1
 HStem: -250 21<435.5 451.5> 730 20<436 451.5>
 VStem: 194 278
 LayerCount: 2
@@ -67285,6 +67290,7 @@ StartChar: angleright.ssty2
 Encoding: 1115239 -1 1671
 Width: 597
 Flags: W
+IsExtendedShape: 1
 HStem: -250 21<145.5 161> 730 20<145.5 161.5>
 VStem: 125 278
 LayerCount: 2
@@ -67311,6 +67317,7 @@ StartChar: angleleft.alt01
 Encoding: 1115240 -1 1672
 Width: 472
 Flags: W
+IsExtendedShape: 1
 HStem: -1160 21<367 378.5> 20 20<366.5 378.5>
 VStem: 98 295
 LayerCount: 2
@@ -67337,6 +67344,7 @@ StartChar: angleright.alt01
 Encoding: 1115241 -1 1673
 Width: 472
 Flags: W
+IsExtendedShape: 1
 HStem: -1160 21<92.5 120> 20 20<92.5 104>
 VStem: 78 295
 LayerCount: 2
@@ -67363,6 +67371,7 @@ StartChar: angleleft.alt02
 Encoding: 1115242 -1 1674
 Width: 611
 Flags: W
+IsExtendedShape: 1
 HStem: -1759 21<491 504> 20 20<491 504>
 VStem: 112 410
 LayerCount: 2
@@ -67389,6 +67398,7 @@ StartChar: angleright.alt02
 Encoding: 1115243 -1 1675
 Width: 611
 Flags: W
+IsExtendedShape: 1
 HStem: -1759 21<106 119> 20 20<106 119>
 VStem: 88 410
 LayerCount: 2
@@ -67415,6 +67425,7 @@ StartChar: angleleft.alt03
 Encoding: 1115244 -1 1676
 Width: 750
 Flags: W
+IsExtendedShape: 1
 HStem: -2359 21<615 631.5> 20 20<615 631.5>
 VStem: 125 527
 LayerCount: 2
@@ -67441,6 +67452,7 @@ StartChar: angleright.alt03
 Encoding: 1115245 -1 1677
 Width: 750
 Flags: W
+IsExtendedShape: 1
 HStem: -2359 21<117.5 134> 20 20<117.5 134>
 VStem: 97 527
 LayerCount: 2
@@ -67467,6 +67479,7 @@ StartChar: angleleft.alt04
 Encoding: 1115246 -1 1678
 Width: 805
 Flags: W
+IsExtendedShape: 1
 HStem: -2960 21<655 674.5> 20 20<655 674.5>
 VStem: 139 558
 LayerCount: 2
@@ -67493,6 +67506,7 @@ StartChar: angleright.alt04
 Encoding: 1115247 -1 1679
 Width: 805
 Flags: W
+IsExtendedShape: 1
 HStem: -2960 21<130.5 150> 20 20<130.5 150>
 VStem: 108 558
 LayerCount: 2
@@ -68005,6 +68019,7 @@ StartChar: uni2016.ex
 Encoding: 1115250 -1 1705
 Width: 403
 Flags: W
+IsExtendedShape: 1
 HStem: -167 305
 VStem: 86 40<-159 130> 276 40<-159 130>
 LayerCount: 2
@@ -68029,6 +68044,7 @@ Encoding: 1115251 -1 1706
 Width: 403
 VWidth: 0
 Flags: W
+IsExtendedShape: 1
 VStem: 86 40<-1459 30> 276 40<-1459 30>
 LayerCount: 2
 Fore
@@ -68052,6 +68068,7 @@ Encoding: 1115252 -1 1707
 Width: 403
 VWidth: -300
 Flags: W
+IsExtendedShape: 1
 VStem: 86 40<-2059 30> 276 40<-2059 30>
 LayerCount: 2
 Fore
@@ -68075,6 +68092,7 @@ Encoding: 1115253 -1 1708
 Width: 403
 VWidth: -600
 Flags: W
+IsExtendedShape: 1
 VStem: 86 40<-2660 30> 276 40<-2660 30>
 LayerCount: 2
 Fore
@@ -68098,6 +68116,7 @@ Encoding: 1115254 -1 1709
 Width: 403
 VWidth: -900
 Flags: W
+IsExtendedShape: 1
 VStem: 86 40<-3260 30> 276 40<-3260 30>
 LayerCount: 2
 Fore
@@ -68120,6 +68139,7 @@ StartChar: uni2016.ssty2
 Encoding: 1115249 -1 1710
 Width: 676
 Flags: W
+IsExtendedShape: 1
 VStem: 200 48<-159 730> 428 48<-159 730>
 LayerCount: 2
 Fore
@@ -68142,6 +68162,7 @@ StartChar: uni2016.ssty1
 Encoding: 1115248 -1 1711
 Width: 517
 Flags: W
+IsExtendedShape: 1
 VStem: 128 45<-159 730> 344 45<-159 730>
 LayerCount: 2
 Fore
@@ -68196,6 +68217,7 @@ StartChar: uni222C.alt
 Encoding: 1115258 -1 1713
 Width: 773
 Flags: W
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -68263,6 +68285,7 @@ StartChar: uni222C.ssty1
 Encoding: 1115255 -1 1714
 Width: 990
 Flags: W
+IsExtendedShape: 1
 HStem: -1111 32<153.628 234.941 543.628 624.941> -32 32<396.598 476.597 786.598 866.597>
 VStem: 59 115<-1063.9 -971.347> 275 84<-992.718 -114.908> 449 115<-1063.9 -971.347 -134 -51.3655> 665 84<-992.718 -114.908> 845 115<-139.653 -46.1473>
 LayerCount: 2
@@ -68316,6 +68339,7 @@ StartChar: uni222D.ssty1
 Encoding: 1115256 -1 1715
 Width: 1380
 Flags: W
+IsExtendedShape: 1
 HStem: -1111 32<153.628 234.941 543.628 624.941 933.628 1014.94> -32 32<396.598 476.597 786.598 866.597 1176.6 1256.6>
 VStem: 59 115<-1063.9 -971.347> 275 84<-992.718 -114.908> 449 115<-1063.9 -971.347 -134 -51.3655> 665 84<-992.718 -114.908> 839 115<-1063.9 -971.347 -134 -51.3655> 1055 84<-992.718 -114.908> 1235 115<-139.653 -46.1473>
 LayerCount: 2
@@ -68389,6 +68413,7 @@ StartChar: uni2A0C.ssty1
 Encoding: 1115257 -1 1716
 Width: 1770
 Flags: W
+IsExtendedShape: 1
 HStem: -1111 32<153.628 234.941 543.628 624.941 933.628 1014.94 1323.63 1404.94> -32 32<396.598 476.597 786.598 866.597 1176.6 1256.6 1566.6 1646.6>
 VStem: 59 115<-1063.9 -971.347> 275 84<-992.718 -114.908> 449 115<-1063.9 -971.347 -134 -51.3655> 665 84<-992.718 -114.908> 839 115<-1063.9 -971.347 -134 -51.3655> 1055 84<-992.718 -114.908> 1229 115<-1063.9 -971.347 -134 -51.3655> 1445 84<-992.718 -114.908> 1625 115<-139.653 -46.1473>
 LayerCount: 2
@@ -68482,6 +68507,7 @@ StartChar: uni222D.alt
 Encoding: 1115259 -1 1717
 Width: 1103
 Flags: W
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -68577,6 +68603,7 @@ StartChar: uni2A0C.alt
 Encoding: 1115260 -1 1718
 Width: 1433
 Flags: W
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
