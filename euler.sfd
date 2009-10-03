@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254577690
+ModificationTime: 1254579378
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -111,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114971 33 10
+WinInfo: 8382 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +124,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115285 1768
+BeginChars: 1115287 1770
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -67572,26 +67572,27 @@ StartChar: uni20D7
 Encoding: 8407 8407 1682
 Width: 500
 Flags: W
-TopAccentHorizontal: 402
-HStem: 595 40<178.012 549.383>
+TopAccentHorizontal: 419
+GlyphVariantsHorizontal: uni20D7
+GlyphCompositionHorizontal: 2  uni20D6.ex%1,50,50,150 uni20D7%0,137,137,412
+HStem: 595 40<213 549.383>
 LayerCount: 2
 Fore
 SplineSet
-625 615 m 24
- 625 604.344 614.537 600 606.383 595 c 0
- 580.92 580 565.764 562 552.223 538 c 0
- 548.146 529 541.145 516 527.145 516 c 0
- 513.145 516 510.146 529 511.992 537 c 0
- 513.146 542 528.534 574 549.383 595 c 1
- 213 595 l 2
- 195 595 178 595 178 615 c 0
- 178 635 195 635 213 635 c 2
+213 635 m 9
  549.383 635 l 1
  528.534 656 513.146 688 511.992 693 c 0
  510.146 701 513.145 714 527.145 714 c 0
  541.145 714 548.146 701 552.223 692 c 0
  565.764 668 580.92 650 606.383 635 c 0
  614.537 630 625 625.656 625 615 c 24
+ 625 604.344 614.537 600 606.383 595 c 0
+ 580.92 580 565.764 562 552.223 538 c 0
+ 548.146 529 541.145 516 527.145 516 c 0
+ 513.145 516 510.146 529 511.992 537 c 0
+ 513.146 542 528.534 574 549.383 595 c 1
+ 213 595 l 17
+ 213 635 l 9
 EndSplineSet
 Colour: ff0000
 EndChar
@@ -67600,26 +67601,27 @@ StartChar: uni20D6
 Encoding: 8406 8406 1683
 Width: 500
 Flags: W
-TopAccentHorizontal: 402
-HStem: 595 40<253.617 624.988>
+TopAccentHorizontal: 384
+GlyphVariantsHorizontal: uni20D6
+GlyphCompositionHorizontal: 2  uni20D6%0,137,137,412 uni20D6.ex%1,50,50,150
+HStem: 595 40<253.617 590>
 LayerCount: 2
 Fore
 SplineSet
-178 615 m 24
- 178 625.656 188.463 630 196.617 635 c 0
- 222.08 650 237.236 668 250.777 692 c 0
- 254.854 701 261.855 714 275.855 714 c 0
- 289.855 714 292.854 701 291.008 693 c 0
- 289.854 688 274.466 656 253.617 635 c 1
- 590 635 l 2
- 608 635 625 635 625 615 c 0
- 625 595 608 595 590 595 c 2
+590 595 m 9
  253.617 595 l 1
  274.466 574 289.854 542 291.008 537 c 0
  292.854 529 289.855 516 275.855 516 c 0
  261.855 516 254.854 529 250.777 538 c 0
  237.236 562 222.08 580 196.617 595 c 0
  188.463 600 178 604.344 178 615 c 24
+ 178 625.656 188.463 630 196.617 635 c 0
+ 222.08 650 237.236 668 250.777 692 c 0
+ 254.854 701 261.855 714 275.855 714 c 0
+ 289.855 714 292.854 701 291.008 693 c 0
+ 289.854 688 274.466 656 253.617 635 c 1
+ 590 635 l 17
+ 590 595 l 9
 EndSplineSet
 Colour: ff0000
 EndChar
@@ -67628,11 +67630,13 @@ StartChar: uni20EE
 Encoding: 8430 8430 1684
 Width: 500
 Flags: W
-TopAccentHorizontal: 402
-HStem: -105 40<253.617 624.988>
+TopAccentHorizontal: 384
+GlyphVariantsHorizontal: uni20EE
+GlyphCompositionHorizontal: 2  uni20EE%0,137,137,412 uni20EE.ex%1,50,50,150
+HStem: -105 40<253.617 590>
 LayerCount: 2
 Fore
-Refer: 1683 8406 S 1 0 0 1 0 -700 2
+Refer: 1683 8406 N 1 0 0 1 0 -700 2
 Colour: ff0000
 EndChar
 
@@ -67640,11 +67644,13 @@ StartChar: uni20EF
 Encoding: 8431 8431 1685
 Width: 500
 Flags: W
-TopAccentHorizontal: 402
-HStem: -105 40<178.012 549.383>
+TopAccentHorizontal: 419
+GlyphVariantsHorizontal: uni20EF
+GlyphCompositionHorizontal: 2  uni20EE.ex%1,50,50,150 uni20EF%0,137,137,412
+HStem: -105 40<213 549.383>
 LayerCount: 2
 Fore
-Refer: 1682 8407 S 1 0 0 1 0 -700 2
+Refer: 1682 8407 N 1 0 0 1 0 -700 2
 Colour: ff0000
 EndChar
 
@@ -70043,6 +70049,8 @@ Encoding: 8417 8417 1767
 Width: 500
 Flags: W
 TopAccentHorizontal: 402
+GlyphVariantsHorizontal: uni20E1
+GlyphCompositionHorizontal: 3  uni20D6%0,137,137,412 uni20D6.ex%1,50,50,150 uni20D7%0,137,137,412
 HStem: 595 40<253.617 549.383>
 LayerCount: 2
 Fore
@@ -70072,6 +70080,40 @@ SplineSet
  253.617 595 l 1
 EndSplineSet
 Colour: ff0000
+EndChar
+
+StartChar: uni20D6.ex
+Encoding: 1115285 -1 1768
+Width: 150
+Flags: W
+HStem: 595 40<0 150>
+VStem: 0 150<595 635>
+LayerCount: 2
+Fore
+SplineSet
+0 635 m 1
+ 150 635 l 17
+ 150 595 l 9
+ 0 595 l 1
+ 0 635 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20EE.ex
+Encoding: 1115286 -1 1769
+Width: 150
+Flags: W
+HStem: -105 40<0 150>
+VStem: 0 150<-105 -65>
+LayerCount: 2
+Fore
+SplineSet
+0 -65 m 1
+ 150 -65 l 17
+ 150 -105 l 9
+ 0 -105 l 1
+ 0 -65 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
