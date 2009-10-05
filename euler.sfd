@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254718823
+ModificationTime: 1254720138
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -42,12 +42,11 @@ HheadDOffset: 0
 OS2Vendor: 'GNU '
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 5"  {"'salt' Stylistic Alternatives lookup 5-1"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Style Set 1 lookup 2"  {"'ss01' Style Set 1 lookup 2-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org), with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoA-Copyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler" 
-OtfFeatName: 'ss01'  1033 "Digit One alternative form" 
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -111,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 10
+WinInfo: 8844 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -4015,6 +4014,7 @@ SplineSet
  383 467 360 536 302 585 c 0
  279 605 253 622 217 622 c 0
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D584.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D584.ssty1 u1D584.ssty2
 EndChar
 
@@ -4075,6 +4075,7 @@ SplineSet
  203 690 206 681 214 674 c 0
  224 666 239 664 253 664 c 2
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D585.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D585.ssty1 u1D585.ssty2
 EndChar
 
@@ -4286,6 +4287,7 @@ SplineSet
  85 209 87 269 92 335 c 1
  139 378 203 424 257 459 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D589.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D589.ssty1 u1D589.ssty2
 EndChar
 
@@ -4358,6 +4360,7 @@ SplineSet
  217 463 230 450 240 435 c 0
  247 424 249 419 253 405 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58B.alt01 u1D58B.alt02
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58B.ssty1 u1D58B.ssty2
 EndChar
 
@@ -4403,6 +4406,7 @@ SplineSet
  240 107 270 78 305 62 c 1
  383 111 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58C.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D58C.ssty1 u1D58C.ssty2
 EndChar
 
@@ -4561,6 +4565,7 @@ SplineSet
  240 469 236 449 234 432 c 0
  231 404 230 375 230 346 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D590.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D590.ssty1 u1D590.ssty2
 EndChar
 
@@ -4908,6 +4913,7 @@ SplineSet
  337 359 l 1
  245 359 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D599.alt
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D599.ssty1 u1D599.ssty2
 EndChar
 
@@ -10420,7 +10426,7 @@ SplineSet
  70 594 l 1
  70 626 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" u1D7CF.alt
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D7CF.alt
 Substitution2: "'onum' Oldstyle Figures lookup 1-1" u1D7CF.onum
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D7CF.ssty1 u1D7CF.ssty2
 EndChar
@@ -14936,7 +14942,7 @@ SplineSet
  92 639 l 1
  308 712 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" uni0031.alt
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" uni0031.alt
 Substitution2: "'onum' Oldstyle Figures lookup 1-1" uni0031.onum
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0031.ssty1 uni0031.ssty2
 EndChar
@@ -24722,6 +24728,7 @@ SplineSet
  423 467 399 536 340 585 c 0
  317 605 290 622 253 622 c 0
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D584.alt.ssty1
 EndChar
 
 StartChar: u1D585.ssty1
@@ -24781,6 +24788,7 @@ SplineSet
  239 690 242 681 250 674 c 0
  260 666 276 664 290 664 c 2
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D585.alt.ssty1
 EndChar
 
 StartChar: uni005B.ssty1
@@ -24981,6 +24989,7 @@ SplineSet
  118 209 121 269 126 335 c 1
  174 378 239 424 294 459 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D589.alt.ssty1
 EndChar
 
 StartChar: u1D58A.ssty1
@@ -25051,6 +25060,7 @@ SplineSet
  253 463 267 450 277 435 c 0
  284 424 286 419 290 405 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58B.alt01.ssty1 u1D58B.alt02.ssty1
 EndChar
 
 StartChar: u1D58C.ssty1
@@ -25095,6 +25105,7 @@ SplineSet
  277 107 307 78 343 62 c 1
  423 111 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58C.alt.ssty1
 EndChar
 
 StartChar: u1D58D.ssty1
@@ -25249,6 +25260,7 @@ SplineSet
  277 469 272 449 271 432 c 0
  268 404 267 375 267 346 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D590.alt.ssty1
 EndChar
 
 StartChar: u1D591.ssty1
@@ -25587,6 +25599,7 @@ SplineSet
  376 359 l 1
  282 359 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D599.alt.ssty1
 EndChar
 
 StartChar: u1D59A.ssty1
@@ -30969,7 +30982,7 @@ SplineSet
  108 594 l 1
  108 626 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" u1D7CF.alt.ssty1
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D7CF.alt.ssty1
 EndChar
 
 StartChar: u1D7D0.ssty1
@@ -35392,7 +35405,7 @@ SplineSet
  135 639 l 1
  379 712 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" uni0031.alt.ssty1
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" uni0031.alt.ssty1
 EndChar
 
 StartChar: uni0032.ssty1
@@ -43814,6 +43827,7 @@ SplineSet
  526 467 501 536 437 585 c 0
  412 605 383 622 344 622 c 0
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D584.alt.ssty2
 EndChar
 
 StartChar: u1D585.ssty2
@@ -43873,6 +43887,7 @@ SplineSet
  328 690 331 681 340 674 c 0
  351 666 368 664 383 664 c 2
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D585.alt.ssty2
 EndChar
 
 StartChar: uni005B.ssty2
@@ -44073,6 +44088,7 @@ SplineSet
  198 209 201 269 206 335 c 1
  258 378 328 424 388 459 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D589.alt.ssty2
 EndChar
 
 StartChar: u1D58A.ssty2
@@ -44143,6 +44159,7 @@ SplineSet
  344 463 358 450 369 435 c 0
  377 424 379 419 383 405 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58B.alt01.ssty2 u1D58B.alt02.ssty2
 EndChar
 
 StartChar: u1D58C.ssty2
@@ -44187,6 +44204,7 @@ SplineSet
  369 107 402 78 440 62 c 1
  526 111 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D58C.alt.ssty2
 EndChar
 
 StartChar: u1D58D.ssty2
@@ -44341,6 +44359,7 @@ SplineSet
  369 469 364 449 362 432 c 0
  359 404 358 375 358 346 c 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D590.alt.ssty2
 EndChar
 
 StartChar: u1D591.ssty2
@@ -44679,6 +44698,7 @@ SplineSet
  476 359 l 1
  374 359 l 1
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D599.alt.ssty2
 EndChar
 
 StartChar: u1D59A.ssty2
@@ -50061,7 +50081,7 @@ SplineSet
  186 594 l 1
  186 626 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" u1D7CF.alt.ssty2
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" u1D7CF.alt.ssty2
 EndChar
 
 StartChar: u1D7D0.ssty2
@@ -54486,7 +54506,7 @@ SplineSet
  207 639 l 1
  467 712 l 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 lookup 2-1" uni0031.alt.ssty2
+AlternateSubs2: "'salt' Stylistic Alternatives lookup 5-1" uni0031.alt.ssty2
 EndChar
 
 StartChar: uni0032.ssty2
