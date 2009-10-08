@@ -73,7 +73,13 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
 \vert\big\vert\Big\vert\bigg\vert\Bigg\vert
 \stopformula
 
-\page
+\startformula
+\hat{i}\hat{j}\bf\hat{i}\hat{j}
+\stopformula
+
+\startformula
+\hat{\imath}\hat{\jmath}\bf\hat{\imath}\hat{\jmath}
+\stopformula
 
 \startformula
 \hat{a} \hat{c} \hat{e} \hat{f} \hat{g} \hat{o} \hat{s} \hat{z}
