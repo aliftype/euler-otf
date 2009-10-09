@@ -1,7 +1,7 @@
 \documentclass{minimal}
 \usepackage{amsmath}
-\usepackage[math-style=literal]{unicode-math}
-\setmathfont{Neo Euler}
+\usepackage{unicode-math}
+\setmathfont[math-style=upright]{Neo Euler}
 
 \begin{document}
 
