@@ -50,7 +50,7 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family w
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
-MATH:DisplayOperatorMinHeight: 1400
+MATH:DisplayOperatorMinHeight: 2180
 MATH:MathLeading: 150 
 MATH:AxisHeight: 250 
 MATH:AccentBaseHeight: 413 
@@ -105,12 +105,13 @@ MATH:RadicalKernAfterDegree: -556
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8844 33 10
+WinInfo: 429 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -60722,7 +60723,6 @@ Flags: W
 ItalicCorrection: 28
 IsExtendedShape: 1
 GlyphVariantsVertical: integral uni222B.alt
-GlyphCompositionVertical: 3  integralbt%0,0,308,925 uni23AE%1,127,127,381 integraltp%0,305,0,915
 HStem: -161 31<165 206 165 235> 919 31<352.5 391.5>
 VStem: 50 105 245 76 401 105
 LayerCount: 2
