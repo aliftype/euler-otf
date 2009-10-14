@@ -81,6 +81,10 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
 \stopformula
 
 \startformula
+\emptyset \varnothing \eth \backepsilon \approx
+\stopformula
+
+\startformula
 \hat{i}\hat{j}\bf\hat{i}\hat{j}
 \stopformula
 
