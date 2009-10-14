@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254720138
+ModificationTime: 1255528293
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -105,13 +105,12 @@ MATH:RadicalKernAfterDegree: -556
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 429 33 10
+WinInfo: 0 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -63800,7 +63799,7 @@ SplineSet
  410 546 l 1
  72 546 l 1
  80 586 l 1
- 796 586 l 5
+ 796 586 l 1
  789 546 l 1
  454 546 l 1
  454 276 l 1
@@ -63874,88 +63873,80 @@ StartChar: uni2215.alt01
 Encoding: 1115142 -1 1518
 Width: 577
 Flags: W
-HStem: -1159 21<70 85> 20 20<492 507>
-VStem: 56 465
+DStem2: 55 -1137 92 -1159 0.343018 0.939329<0 1251.21>
 LayerCount: 2
 Fore
 SplineSet
-62 -1117 m 2
- 476 15 l 2
- 482 31 485 40 499 40 c 0
- 515 40 521 26 521 19 c 0
- 521 17 521 14 515 -2 c 2
- 101 -1134 l 2
- 95 -1150 92 -1159 78 -1159 c 0
- 62 -1159 56 -1145 56 -1138 c 0
- 56 -1136 56 -1133 62 -1117 c 2
+92 -1159 m 1
+ 58 -1151 l 1
+ 55 -1137 l 1
+ 485 38 l 1
+ 497 40 l 1
+ 519 35 l 1
+ 524 24 l 1
+ 92 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ff0000
 EndChar
 
 StartChar: uni2215.alt02
 Encoding: 1115143 -1 1519
 Width: 811
 Flags: W
-HStem: -1759 21<73.5 88> 20 20<722 736.5>
-VStem: 56 698
+DStem2: 53 -1737 97 -1759 0.348068 0.937469<0 1893.73>
 LayerCount: 2
 Fore
 SplineSet
-61 -1715 m 2
- 704 14 l 2
- 710 30 714 40 730 40 c 0
- 743 40 754 30 754 16 c 0
- 754 9 751 2 749 -4 c 2
- 106 -1733 l 2
- 100 -1749 96 -1759 80 -1759 c 0
- 67 -1759 56 -1749 56 -1735 c 0
- 56 -1728 59 -1721 61 -1715 c 2
+759 24 m 1
+ 97 -1759 l 1
+ 56 -1751 l 1
+ 53 -1737 l 1
+ 713 38 l 1
+ 725 40 l 1
+ 754 35 l 1
+ 759 24 l 1
 EndSplineSet
-Colour: ff
+Colour: ff0000
 EndChar
 
 StartChar: uni2215.alt03
 Encoding: 1115144 -1 1520
 Width: 1044
 Flags: W
-HStem: -2359 21<75.5 91.5> 20 20<951.5 967.5>
-VStem: 56 931
+DStem2: 53.667 -2337 102.667 -2359 0.349644 0.936883<0 2535.35>
 LayerCount: 2
 Fore
 SplineSet
-62 -2313 m 2
- 931 14 l 2
- 936 27 943 40 960 40 c 0
- 975 40 987 28 987 13 c 0
- 987 10 987 8 981 -6 c 2
- 112 -2333 l 2
- 107 -2346 100 -2359 83 -2359 c 0
- 68 -2359 56 -2347 56 -2332 c 0
- 56 -2329 56 -2327 62 -2313 c 2
+941 38 m 5
+ 953 40 l 5
+ 987 35 l 5
+ 992 24 l 5
+ 102.667 -2359 l 5
+ 56.667 -2351 l 5
+ 53.667 -2337 l 5
+ 941 38 l 5
 EndSplineSet
-Colour: ff
+Colour: ff0000
 EndChar
 
 StartChar: uni2215.alt04
 Encoding: 1115145 -1 1521
 Width: 1277
 Flags: W
-HStem: -2959 21<77.5 97> 20 20<1180 1199.5>
-VStem: 56 1165
+DStem2: 49.998 -2937 107.998 -2959 0.351502 0.936187<0 3178.14>
 LayerCount: 2
 Fore
 SplineSet
-62 -2906 m 2
- 1158 11 l 2
- 1162 22 1170 40 1190 40 c 0
- 1209 40 1221 25 1221 10 c 0
- 1221 2 1218 -6 1215 -13 c 2
- 119 -2930 l 2
- 115 -2941 107 -2959 87 -2959 c 0
- 68 -2959 56 -2944 56 -2929 c 0
- 56 -2921 59 -2913 62 -2906 c 2
+1168 38 m 1
+ 1180 40 l 1
+ 1223 35 l 1
+ 1228 24 l 1
+ 107.998 -2959 l 1
+ 52.998 -2951 l 1
+ 49.998 -2937 l 1
+ 1168 38 l 1
 EndSplineSet
-Colour: ff
+Colour: ff0000
 EndChar
 
 StartChar: fraction
