@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1254720138
+ModificationTime: 1255603541
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -110,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8844 33 10
+WinInfo: 8646 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -525,13 +525,13 @@ EndChar
 StartChar: uni2190
 Encoding: 8592 8592 12
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: 230 40<127 910 127 910>
 VStem: 204 40
 LayerCount: 2
 Fore
 SplineSet
-910 230 m 2
+945 230 m 5
  127 230 l 1
  165 183 217 104 242 0 c 1
  202 0 l 1
@@ -539,26 +539,25 @@ SplineSet
  87 278 171 369 202 500 c 1
  242 500 l 1
  217 395 164 316 127 270 c 1
- 910 270 l 2
- 927 270 945 270 945 250 c 0
- 945 230 928 230 910 230 c 2
+ 945 270 l 5
+ 945 230 l 5
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2190.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2192
 Encoding: 8594 8594 13
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: 230 40<82.5 874 91 874>
 VStem: 757 40
 LayerCount: 2
 Fore
 SplineSet
 874 230 m 1
- 91 230 l 6
- 74 230 56 230 56 250 c 4
- 56 270 73 270 91 270 c 6
+ 56 230 l 1
+ 56 270 l 1
  874 270 l 1
  836 317 784 396 759 500 c 1
  799 500 l 1
@@ -568,21 +567,21 @@ SplineSet
  784 105 837 184 874 230 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2192.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2191
 Encoding: 8593 8593 14
 Width: 500
-Flags: MW
+Flags: HMW
 HStem: -194 21<240 260> 508 40<28 28>
 VStem: 230 40<-159 617>
 LayerCount: 2
 Fore
 SplineSet
 270 617 m 1
- 270 -159 l 2
- 270 -176 270 -194 250 -194 c 0
- 230 -194 230 -177 230 -159 c 2
+ 270.001 -194.179 l 1
+ 230.001 -194.179 l 1
  230 617 l 1
  177 572 109 529 28 508 c 1
  28 548 l 1
@@ -592,18 +591,19 @@ SplineSet
  393 529 324 571 270 617 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2191.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2193
 Encoding: 8595 8595 15
 Width: 500
-Flags: MW
+Flags: HMW
 HStem: -48 40<28 28> 674 20<240 260>
 VStem: 230 40<-117 659 -117 667.5>
 LayerCount: 2
 Fore
 SplineSet
-270 659 m 2
+270.001 674.002 m 1
  270 -117 l 1
  323 -72 391 -29 472 -8 c 1
  472 -48 l 1
@@ -611,11 +611,11 @@ SplineSet
  195 -127 116 -71 28 -48 c 1
  28 -8 l 1
  107 -29 176 -71 230 -117 c 1
- 230 659 l 2
- 230 676 230 694 250 694 c 0
- 270 694 270 677 270 659 c 2
+ 230.001 674.002 l 1
+ 270.001 674.002 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2193.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2194
@@ -644,22 +644,21 @@ SplineSet
  784 105 837 184 874 230 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2194.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2197
 Encoding: 8599 8599 17
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: -193 21 654 40
 VStem: 904 40
 LayerCount: 2
 Fore
 SplineSet
 908 629 m 1
- 98 -181 l 2
- 85 -194 84 -195 76 -195 c 0
- 65 -195 56 -186 56 -175 c 0
- 56 -170 56 -166 70 -152 c 2
+ 86 -193 l 1
+ 58 -164 l 1
  880 658 l 1
  760 669 667 720 637 739 c 1
  665 767 l 1
@@ -669,22 +668,21 @@ SplineSet
  971 415 923 503 908 629 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2197.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2198
 Encoding: 8600 8600 18
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: -194 40 673 20
 VStem: 904 40
 LayerCount: 2
 Fore
 SplineSet
 880 -157 m 1
- 70 653 l 2
- 57 666 56 667 56 675 c 0
- 56 686 65 695 76 695 c 0
- 81 695 85 695 99 681 c 2
+ 57 666 l 5
+ 86 694 l 5
  909 -129 l 1
  920 -9 971 84 990 114 c 1
  1018 86 l 1
@@ -694,6 +692,7 @@ SplineSet
  666 -220 754 -172 880 -157 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2198.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni21D0
@@ -858,17 +857,15 @@ EndChar
 StartChar: uni2196
 Encoding: 8598 8598 24
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: -193 21 654 40
 VStem: 57 40
 LayerCount: 2
 Fore
 SplineSet
 121 657 m 1
- 931 -153 l 2
- 944 -166 945 -167 945 -175 c 0
- 945 -186 936 -195 925 -195 c 0
- 920 -195 916 -195 902 -181 c 2
+ 943 -165 l 1
+ 914 -193 l 1
  92 629 l 1
  81 509 30 416 11 386 c 1
  -17 414 l 1
@@ -878,18 +875,19 @@ SplineSet
  335 720 247 672 121 657 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2196.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni2199
 Encoding: 8601 8601 25
 Width: 1000
-Flags: MW
+Flags: HMW
 HStem: -194 40 673 20
 VStem: 55 40
 LayerCount: 2
 Fore
 SplineSet
-931 652 m 2
+944 665 m 1
  121 -158 l 1
  241 -169 334 -220 364 -239 c 1
  336 -267 l 1
@@ -897,12 +895,11 @@ SplineSet
  56 -149 56 -36 -17 86 c 1
  11 114 l 1
  30 85 78 -3 93 -129 c 1
- 903 681 l 2
- 916 694 917 695 925 695 c 0
- 936 695 945 686 945 675 c 0
- 945 670 945 666 931 652 c 2
+ 916 694 l 1
+ 944 665 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2199.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni221E
@@ -1083,6 +1080,7 @@ SplineSet
  393 607 324 649 270 695 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2195.ssty1
+Colour: ffff
 EndChar
 
 StartChar: uni21D5
@@ -65777,35 +65775,34 @@ EndChar
 StartChar: union
 Encoding: 8746 8746 1601
 Width: 666
+Flags: H
 GlyphVariantsVertical: union union.alt01 union.alt02
 HStem: -22 40<310.5 370.5 310.5 398> 578 20<65 85 581 601>
 VStem: 56 40 570 40
 LayerCount: 2
 Fore
 SplineSet
-611 562 m 2
+611 578 m 1
  611 195 l 2
  611 48 463 -22 333 -22 c 0
  208 -22 55 44 55 196 c 2
- 55 562 l 2
- 55 580 55 598 75 598 c 0
- 95 598 95 580 95 562 c 2
+ 55 578 l 1
+ 95 578 l 1
  95 201 l 2
  95 174 95 110 172 61 c 0
  225 27 288 18 333 18 c 0
  408 18 571 50 571 200 c 2
- 571 562 l 2
- 571 580 571 598 591 598 c 0
- 611 598 611 580 611 562 c 2
+ 571 578 l 1
+ 611 578 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" union.ssty1 union.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: intersection
 Encoding: 8745 8745 1602
 Width: 666
-Flags: W
+Flags: HW
 GlyphVariantsVertical: intersection intersection.alt01 intersection.alt02
 HStem: -22 21G<65 85 581 601> 558 40<221.26 447.263>
 VStem: 55 40<-21.9869 453.521> 571 40<-21.9869 456.289>
@@ -65813,22 +65810,20 @@ LayerCount: 2
 Fore
 SplineSet
 611 380 m 2
- 611 14 l 2
- 611 -4 611 -22 591 -22 c 0
- 571 -22 571 -4 571 14 c 2
+ 611 0 l 1
+ 571 0 l 1
  571 375 l 2
  571 402 571 466 494 515 c 0
  441 549 378 558 333 558 c 0
  258 558 95 526 95 376 c 2
- 95 14 l 2
- 95 -4 95 -22 75 -22 c 0
- 55 -22 55 -4 55 14 c 2
+ 95 0 l 1
+ 80 0 69 0 55 0 c 1
  55 381 l 2
  55 528 203 598 333 598 c 0
  458 598 611 532 611 380 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" intersection.ssty1 intersection.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni22C0
@@ -65860,7 +65855,7 @@ EndChar
 StartChar: uni22C2
 Encoding: 8898 8898 1605
 Width: 666
-Flags: W
+Flags: HW
 GlyphVariantsVertical: uni22C2 intersection.alt01 intersection.alt02
 HStem: -22 21<65 85 581 601> 558 40<221.26 447.263>
 VStem: 55 40<-21.9869 453.521> 571 40<-21.9869 456.289>
@@ -65874,7 +65869,7 @@ EndChar
 StartChar: uni22C3
 Encoding: 8899 8899 1606
 Width: 666
-Flags: W
+Flags: HW
 GlyphVariantsVertical: uni22C3 union.alt01 union.alt02
 HStem: -22 40<310.5 370.5 310.5 398> 578 20<65 85 581 601>
 VStem: 56 40 570 40
@@ -66192,61 +66187,57 @@ EndChar
 StartChar: propersubset
 Encoding: 8834 8834 1619
 Width: 777
-Flags: W
+Flags: HW
 HStem: -40 40<304.5 659 392 659 392 659> 500 40<390 392 392 659>
 VStem: 83 40<183 317 183 330>
 LayerCount: 2
 Fore
 SplineSet
-659 500 m 2
+694 500 m 2
  392 500 l 2
  236 500 123 384 123 250 c 0
  123 116 236 0 392 0 c 2
- 659 0 l 2
- 676 0 694 0 694 -20 c 0
- 694 -40 676 -40 659 -40 c 2
+ 694 0 l 2
+ 694 -40 l 2
  390 -40 l 2
  219 -40 83 90 83 250 c 0
  83 410 219 540 390 540 c 2
- 659 540 l 2
- 676 540 694 540 694 520 c 0
- 694 500 676 500 659 500 c 2
+ 694 540 l 2
+ 694 500 l 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" propersubset.ssty1 propersubset.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: propersuperset
 Encoding: 8835 8835 1620
 Width: 777
-Flags: W
+Flags: HW
 HStem: -40 40<109.5 385 118 385 385 387> 500 40<109.5 387 118 385>
 VStem: 654 40<183 317>
 LayerCount: 2
 Fore
 SplineSet
 385 500 m 2
- 118 500 l 2
- 101 500 83 500 83 520 c 0
- 83 540 101 540 118 540 c 2
+ 83 500 l 1
+ 83 540 l 1
  387 540 l 2
  558 540 694 410 694 250 c 0
  694 90 558 -40 387 -40 c 2
- 118 -40 l 2
- 101 -40 83 -40 83 -20 c 0
- 83 0 101 0 118 0 c 2
+ 83 -40 l 1
+ 83 0 l 1
  385 0 l 2
  541 0 654 116 654 250 c 0
  654 384 541 500 385 500 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" propersuperset.ssty1 propersuperset.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: reflexsubset
 Encoding: 8838 8838 1621
 Width: 777
-Flags: W
+Flags: HW
 HStem: -137 40<103.013 693.987> 57 40<304.5 659 392 659 392 659> 597 40<390 392 392 659>
 VStem: 83 40<280 414 280 427>
 LayerCount: 2
@@ -66268,7 +66259,7 @@ EndChar
 StartChar: reflexsuperset
 Encoding: 8839 8839 1622
 Width: 777
-Flags: W
+Flags: HW
 HStem: -137 40<83.0131 673.987> 57 40<109.5 385 118 385 385 387> 597 40<109.5 387 118 385>
 VStem: 654 40<280 414>
 LayerCount: 2
@@ -66290,7 +66281,7 @@ EndChar
 StartChar: notsubset
 Encoding: 8836 8836 1623
 Width: 777
-Flags: W
+Flags: HW
 HStem: -182 21 -40 40<304.5 659 392 659 392 659> 500 40<390 392 392 659> 702 20
 VStem: 83 40<183 317 183 330> 171.5 432
 LayerCount: 2
@@ -66304,7 +66295,7 @@ EndChar
 StartChar: uni2285
 Encoding: 8837 8837 1624
 Width: 777
-Flags: W
+Flags: HW
 HStem: -182 21 -40 40<109.5 385 118 385 385 387> 500 40<109.5 387 118 385> 702 20
 VStem: 171.5 432 654 40<183 317>
 LayerCount: 2
@@ -66318,7 +66309,7 @@ EndChar
 StartChar: uni2288
 Encoding: 8840 8840 1625
 Width: 777
-Flags: W
+Flags: HW
 HStem: -182 21 -137 40<103.013 693.987> 57 40<304.5 659 392 659 392 659> 597 40<390 392 392 659> 702 20
 VStem: 83 40<280 414 280 427> 171.5 432
 LayerCount: 2
@@ -66332,7 +66323,7 @@ EndChar
 StartChar: uni2289
 Encoding: 8841 8841 1626
 Width: 777
-Flags: W
+Flags: HW
 HStem: -182 21 -137 40<83.0131 673.987> 57 40<109.5 385 118 385 385 387> 597 40<109.5 387 118 385> 702 20
 VStem: 171.5 432 654 40<280 414>
 LayerCount: 2
@@ -66346,6 +66337,7 @@ EndChar
 StartChar: uni228A
 Encoding: 8842 8842 1627
 Width: 777
+Flags: H
 HStem: -137 40<103.013 693.987> 57 40<304.5 659 392 659 392 659> 597 40<390 392 392 659>
 VStem: 83 40<280 414 280 427>
 DStem2: 331.75 -200 366.75 -222 0.397892 0.917432<0 188.757>
@@ -66369,6 +66361,7 @@ EndChar
 StartChar: uni228B
 Encoding: 8843 8843 1628
 Width: 777
+Flags: H
 HStem: -137 40<83.0131 673.987> 57 40<109.5 385 118 385 385 387> 597 40<109.5 387 118 385>
 VStem: 654 40<280 414>
 DStem2: 331.75 -200 366.75 -222 0.397892 0.917432<0 188.757>
