@@ -1,8 +1,9 @@
 colors = {
     "red"	: 0xff0000,
     "blue"	: 0x0000ff,
+    "light blue": 0x00ffff,
     "green"	: 0x00ff00,
-    "yellow": 0xffff00,
+    "yellow"	: 0xffff00,
     "none"	: -1
 }
 
