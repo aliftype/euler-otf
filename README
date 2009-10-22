@@ -1,21 +1,10 @@
-This is an experimental Unicode complaint, OpenType enriched math font
-based on Type1 version of AMS Euler.
+Our goal is to create an OpenType MATH-enabled font euler.otf, by
+combining the existing Euler math fonts with new glyphs from Hermann
+Zapf and adding MATH table information.
 
-This font is based on the reshaped Euler, which hase been reviewd by
-Hermann Zapf and implemented by Taco Hoekwater, Hans Hagen and Volker RW
-Schaa. See http://tug.org/TUGboat/Articles/tb29-2/tb92hagen-euler.pdf
-for more details.
-
-The aim is to combine the 19 Type1 font files into single OpenType font,
-supplement its missing math symbols from Computer Modern math fonts,
-map the glyphs to Unicode Math code points and enrich the font with
-OpenType layout data, especially MATH table.
-
-The font is in beta stage, but it is usable, though more fine tuning
-still missing.
-
+Taco Hoekwater
+Hans Hagen
 Khaled Hosny
-khaledhosny@eglug.org
 
-7 Sep 2009
+23 Oct 2009
 
