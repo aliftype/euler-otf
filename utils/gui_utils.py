@@ -34,6 +34,12 @@ def set_topaccent(data, font):
             glyph.topaccent = round((glyph.width/2.0) + (float(accent_shift)))
             font.changed = True
 
+def set_extended_shape(data, font):
+    for glyph in font.selection.byGlyphs:
+        glyph.isExtendedShape = True
+        font.changed = True
+
 fontforge.registerMenuItem(set_color,None,None,"Font",None,"Math","Set glyph color")
 fontforge.registerMenuItem(set_ssty,None,None,"Font",None,"Math","Set 'ssty' variants")
 fontforge.registerMenuItem(set_topaccent,None,None,"Font",None,"Math","Set math accent")
+fontforge.registerMenuItem(set_extended_shape,None,None,"Font",None,"Math","Set extended shape")
