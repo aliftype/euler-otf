@@ -110,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1115004 33 10
+WinInfo: 8712 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -951,7 +951,7 @@ SplineSet
  394 -1159 l 1
  202 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: bracketleft.alt03
@@ -974,7 +974,7 @@ SplineSet
  513 -2359 l 1
  250 -2359 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: bracketright.alt03
@@ -997,7 +997,7 @@ SplineSet
  14 -2304 l 1
  222 -2304 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: bracketleft.alt04
@@ -1020,7 +1020,7 @@ SplineSet
  571 -2959 l 1
  275 -2959 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: radical.alt01
@@ -61772,7 +61772,7 @@ SplineSet
  214 40 l 1
  214 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: bracketleft.alt02
@@ -61795,7 +61795,7 @@ SplineSet
  453 -1759 l 1
  226 -1759 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni0032.onum
@@ -61853,7 +61853,7 @@ SplineSet
  11 -2897 l 1
  245 -2897 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: bracketright.alt02
@@ -61876,7 +61876,7 @@ SplineSet
  18 -1712 l 1
  198 -1712 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: u1D585.alt.ssty1
@@ -62804,7 +62804,7 @@ SplineSet
  395 -1760 l 1
  326 -1760 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni23A3
@@ -62824,7 +62824,7 @@ SplineSet
  659 -1759 l 1
  326 -1759 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni23A4
@@ -62844,7 +62844,7 @@ SplineSet
  340 -1760 l 1
  271 -1760 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni23A6
@@ -62864,7 +62864,7 @@ SplineSet
  7 -1690 l 1
  271 -1690 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni23A2
@@ -62882,7 +62882,7 @@ SplineSet
  395 -601 l 1
  326 -601 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni23A5
@@ -62900,7 +62900,7 @@ SplineSet
  340 -601 l 1
  271 -601 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni239B
@@ -63192,7 +63192,7 @@ SplineSet
  449 -1159 l 1
  202 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230B.alt01
@@ -63212,7 +63212,7 @@ SplineSet
  269 40 l 1
  269 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2308.alt01
@@ -63232,7 +63232,7 @@ SplineSet
  242 -1159 l 1
  202 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2309.alt01
@@ -63252,7 +63252,7 @@ SplineSet
  269 -1159 l 1
  229 -1159 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230A.alt02
@@ -63272,7 +63272,7 @@ SplineSet
  509 -1759 l 5
  226 -1759 l 5
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230B.alt02
@@ -63292,7 +63292,7 @@ SplineSet
  18 -1712 l 1
  254 -1712 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2308.alt02
@@ -63312,7 +63312,7 @@ SplineSet
  273 -1759 l 1
  226 -1759 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2309.alt02
@@ -63332,7 +63332,7 @@ SplineSet
  301 -1759 l 1
  254 -1759 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230A.alt03
@@ -63352,7 +63352,7 @@ SplineSet
  568 -2359 l 1
  250 -2359 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230B.alt03
@@ -63372,7 +63372,7 @@ SplineSet
  14 -2304 l 1
  277 -2304 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2308.alt03
@@ -63392,7 +63392,7 @@ SplineSet
  305 -2359 l 1
  250 -2359 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2309.alt03
@@ -63412,7 +63412,7 @@ SplineSet
  332 -2359 l 1
  277 -2359 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230A.alt04
@@ -63432,7 +63432,7 @@ SplineSet
  627 -2959 l 1
  275 -2959 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni230B.alt04
@@ -63452,7 +63452,7 @@ SplineSet
  11 -2897 l 1
  301 -2897 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2308.alt04
@@ -63472,7 +63472,7 @@ SplineSet
  337 -2959 l 1
  275 -2959 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2309.alt04
@@ -63492,7 +63492,7 @@ SplineSet
  363 -2959 l 1
  301 -2959 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni007C.ex
@@ -67723,7 +67723,7 @@ SplineSet
  95 166 163 96 250 96 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2218.ssty1 uni2218.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: proportional
@@ -68560,7 +68560,7 @@ SplineSet
  555 -50 687 67 697 238 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2295.ssty1 uni2295.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2296
@@ -68587,7 +68587,7 @@ SplineSet
  540 -58 687 56 697 238 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2296.ssty1 uni2296.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2297
@@ -68628,7 +68628,7 @@ SplineSet
  596 26 589 33 587 35 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2297.ssty1 uni2297.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2298
@@ -68658,7 +68658,7 @@ SplineSet
  697 332 663 408 615 459 c 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2298.ssty1 uni2298.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2299
@@ -68687,7 +68687,7 @@ SplineSet
  426 319 457 288 457 250 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2299.ssty1 uni2299.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2263
@@ -68738,7 +68738,7 @@ SplineSet
  355 444 444 357 444 250 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2219.ssty1 uni2219.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni22C4
@@ -68819,7 +68819,7 @@ SplineSet
  95 14 276 -176 500 -176 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni20DD.ssty1 uni20DD.ssty2
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2200
@@ -69034,7 +69034,7 @@ SplineSet
  463 -84 l 1
  641 -73 773 69 781 234 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2296.ssty1
@@ -69060,7 +69060,7 @@ SplineSet
  120 60 265 -84 446 -84 c 0
  628 -84 772 60 781 234 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2297.ssty1
@@ -69098,7 +69098,7 @@ SplineSet
  263 -35 340 -84 446 -84 c 0
  552 -84 629 -35 670 2 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2298.ssty1
@@ -69126,7 +69126,7 @@ SplineSet
  630 -84 781 65 781 251 c 0
  781 333 749 417 694 474 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2299.ssty1
@@ -69154,7 +69154,7 @@ SplineSet
  371 290 402 325 446 325 c 0
  487 325 521 292 521 250 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni20DD.ssty1
@@ -69177,7 +69177,7 @@ SplineSet
  321 665 126 477 126 250 c 0
  126 23 321 -165 569 -165 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2218.ssty1
@@ -69200,7 +69200,7 @@ SplineSet
  200 416 126 343 126 250 c 0
  126 161 198 85 292 85 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2219.ssty1
@@ -69218,7 +69218,7 @@ SplineSet
  77 368 172 465 292 465 c 0
  410 465 507 371 507 250 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2200.ssty2
@@ -69379,7 +69379,7 @@ SplineSet
  563 -124 l 1
  762 -113 906 48 915 229 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2296.ssty2
@@ -69405,7 +69405,7 @@ SplineSet
  177 36 338 -125 542 -125 c 0
  742 -125 906 34 915 229 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2297.ssty2
@@ -69443,7 +69443,7 @@ SplineSet
  379 -105 468 -125 542 -125 c 0
  623 -125 716 -97 791 -29 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2298.ssty2
@@ -69471,7 +69471,7 @@ SplineSet
  748 -125 916 43 916 250 c 0
  916 359 869 446 821 500 c 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2299.ssty2
@@ -69499,7 +69499,7 @@ SplineSet
  462 292 496 329 542 329 c 0
  585 329 621 293 621 250 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni20DD.ssty2
@@ -69522,7 +69522,7 @@ SplineSet
  396 660 181 469 181 250 c 0
  181 32 394 -160 681 -160 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2218.ssty2
@@ -69545,7 +69545,7 @@ SplineSet
  265 437 181 353 181 250 c 0
  181 147 265 63 368 63 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni2219.ssty2
@@ -69563,7 +69563,7 @@ SplineSet
  125 384 234 493 368 493 c 0
  502 493 611 384 611 250 c 0
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: numbersign
