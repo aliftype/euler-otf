@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1257370090
+ModificationTime: 1260900803
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -110,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114905 33 10
+WinInfo: 1114146 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -22986,30 +22986,22 @@ Encoding: 1114235 -1 539
 Width: 938
 VWidth: 1950
 Flags: MW
-HStem: -1 21<414 425.5> 979 20<930.5 943.5>
-VStem: 94 868<414 982>
+HStem: 0 21G<396.105 452.005>
 LayerCount: 2
 Fore
 SplineSet
-443 108 m 1
- 912 978 l 2
- 918 990 923 999 938 999 c 0
- 949 999 962 990 962 974 c 0
- 962 969 962 967 954 954 c 2
- 451 18 l 2
- 441 -1 430 -1 421 -1 c 0
- 407 -1 405 1 398 16 c 2
+928.007 1006.89 m 1
+ 970.25 983.75 l 1
+ 441.25 0 l 1
+ 406.25 0 l 1
  179 448 l 1
- 167 440 138 420 127 412 c 0
- 114 403 112 403 108 403 c 0
- 99 403 94 411 94 417 c 0
- 94 420 94 425 108 434 c 2
- 215 505 l 1
- 225 513 227 513 231 513 c 0
- 239 513 242 507 247 497 c 2
- 443 108 l 1
+ 107 398.5 l 1
+ 85.5 419 l 1
+ 236 519.125 l 1
+ 443.25 108 l 1
+ 928.007 1006.89 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni003A.ssty1
@@ -42164,33 +42156,25 @@ EndChar
 
 StartChar: radical.ssty2
 Encoding: 1114665 -1 969
-Width: 1097
+Width: 1127
 VWidth: 1943
 Flags: MW
-HStem: -1 21<506.5 524> 979 20
-VStem: 144 982<416.5 978.5>
+HStem: 0 21G<486.691 546.521>
 LayerCount: 2
 Fore
 SplineSet
-537 109 m 1
- 1070 979 l 2
- 1075 987 1082 999 1098 999 c 0
- 1113 999 1126 986 1126 971 c 0
- 1126 965 1126 963 1116 948 c 2
- 546 18 l 2
- 539 7 534 -1 514 -1 c 0
- 499 -1 499 0 489 16 c 2
- 240 447 l 1
- 201 424 l 2
- 188 417 166 404 161 404 c 0
- 152 404 144 412 144 421 c 0
- 144 430 151 435 158 439 c 2
- 255 495 l 2
- 268 503 289 515 294 515 c 0
- 303 515 305 511 313 497 c 2
- 537 109 l 1
+1087.83 1008.17 m 1
+ 1136.66 981.831 l 1
+ 534.25 0 l 1
+ 498.25 0 l 1
+ 240 446.833 l 1
+ 158.664 399.665 l 1
+ 135.012 425.662 l 1
+ 299.334 520.666 l 1
+ 537 108.75 l 1
+ 1087.83 1008.17 l 1
 EndSplineSet
-Colour: ff
+Colour: ffff
 EndChar
 
 StartChar: uni003A.ssty2
