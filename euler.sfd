@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1260900803
+ModificationTime: 1260904972
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -110,7 +110,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114146 33 10
+WinInfo: 120021 33 10
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -1267,10 +1267,10 @@ EndChar
 
 StartChar: uni222E.alt
 Encoding: 1114131 -1 41
-Width: 444
+Width: 555
 VWidth: 3022
 Flags: W
-ItalicCorrection: 111
+ItalicCorrection: 222
 IsExtendedShape: 1
 HStem: -200 31<153 195.5 153 210> -140 70 646 40<329 329> 1138 40 1892 70 1991 31<368.5 402>
 VStem: 18 40 41 80 242 89 243 89 434 80 516 40<860 955 848 959.5>
@@ -1324,10 +1324,10 @@ EndChar
 
 StartChar: uni222B.alt
 Encoding: 1114132 -1 42
-Width: 444
+Width: 555
 VWidth: 3022
 Flags: MW
-ItalicCorrection: 111
+ItalicCorrection: 222
 IsExtendedShape: 1
 HStem: -200 31<154 196.5 154 212> -139 71 1892 71 1991 31<369.5 403>
 VStem: 41 85 247 84 434 85
@@ -22098,10 +22098,10 @@ EndChar
 
 StartChar: uni222E.ssty1
 Encoding: 1114207 -1 511
-Width: 600
+Width: 630
 VWidth: 1911
 Flags: W
-ItalicCorrection: 30
+ItalicCorrection: 60
 IsExtendedShape: 1
 HStem: -200 32<182 214 182 227.5> 153 49 510 49 879 32<400.5 444.5>
 VStem: 60 114 108 49<320.5 391 320.5 400.5> 277 81 455 115<802 833.5> 477 49<320 390.5>
@@ -22147,10 +22147,10 @@ EndChar
 
 StartChar: uni222E.alt.ssty1
 Encoding: 1114208 -1 512
-Width: 508
+Width: 631
 VWidth: 3022
 Flags: MW
-ItalicCorrection: 123
+ItalicCorrection: 246
 IsExtendedShape: 1
 HStem: -200 32<171.5 223 171.5 275> 614 49<369 369> 1159 49<275 275> 1990 32<413 441.5>
 VStem: 21 49<856 964 856 985> 49 88 275 94<791 1029> 493 88 574 49<858 966>
@@ -22327,10 +22327,10 @@ EndChar
 
 StartChar: uni222B.ssty1
 Encoding: 1114213 -1 517
-Width: 600
+Width: 630
 VWidth: 1911
 Flags: MW
-ItalicCorrection: 30
+ItalicCorrection: 60
 IsExtendedShape: 1
 HStem: -200 32<182 234.5 182 246> 879 32<397 444.5>
 VStem: 59 115<-121.5 -91> 275 84<317 430> 455 115<802 833.5>
@@ -22362,10 +22362,10 @@ EndChar
 
 StartChar: uni222B.alt.ssty1
 Encoding: 1114214 -1 518
-Width: 508
+Width: 631
 VWidth: 3022
 Flags: MW
-ItalicCorrection: 123
+ItalicCorrection: 246
 IsExtendedShape: 1
 HStem: -200 32<171.5 223 171.5 278> 1990 32<413 441.5>
 VStem: 49 90<-103 -91 -103 -88.5> 275 94<773 1047> 491 90<1912.5 1927>
@@ -60718,10 +60718,10 @@ EndChar
 
 StartChar: integral
 Encoding: 8747 8747 1384
-Width: 528
+Width: 556
 VWidth: 1950
 Flags: W
-ItalicCorrection: 28
+ItalicCorrection: 56
 IsExtendedShape: 1
 GlyphVariantsVertical: integral uni222B.alt
 HStem: -161 31<165 206 165 235> 919 31<352.5 391.5>
@@ -60759,10 +60759,10 @@ EndChar
 
 StartChar: uni222E
 Encoding: 8750 8750 1385
-Width: 528
+Width: 556
 VWidth: 1950
 Flags: W
-ItalicCorrection: 28
+ItalicCorrection: 56
 IsExtendedShape: 1
 GlyphVariantsVertical: uni222E uni222E.alt
 HStem: -161 31<165 206 165 211.5> 213 40 537 40 919 31<352.5 391.5>
@@ -64261,9 +64261,9 @@ EndChar
 
 StartChar: uni222C
 Encoding: 8748 8748 1533
-Width: 828
+Width: 856
 Flags: W
-ItalicCorrection: 28
+ItalicCorrection: 56
 IsExtendedShape: 1
 GlyphVariantsVertical: uni222C.alt
 LayerCount: 2
@@ -64276,9 +64276,9 @@ EndChar
 
 StartChar: uni222D
 Encoding: 8749 8749 1534
-Width: 1128
+Width: 1156
 Flags: W
-ItalicCorrection: 28
+ItalicCorrection: 56
 IsExtendedShape: 1
 GlyphVariantsVertical: uni222D.alt
 LayerCount: 2
@@ -64413,9 +64413,9 @@ EndChar
 
 StartChar: uni2A0C
 Encoding: 10764 10764 1542
-Width: 1428
+Width: 1456
 Flags: W
-ItalicCorrection: 28
+ItalicCorrection: 56
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2A0C.alt
 LayerCount: 2
