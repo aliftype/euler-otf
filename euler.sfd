@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1261232656
+ModificationTime: 1264139711
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -123,7 +123,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115325 1856
+BeginChars: 1115325 1857
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -72241,6 +72241,20 @@ SplineSet
  891.929 -172.316 l 1
 EndSplineSet
 Colour: ffff
+EndChar
+
+StartChar: uni2225
+Encoding: 8741 8741 1856
+Width: 392
+Flags: W
+GlyphVariantsVertical: uni2016 uni2016.alt01 uni2016.alt02 uni2016.alt03 uni2016.alt04
+GlyphCompositionVertical: 2  uni2016.alt04%0,1102,1102,3306 uni2016.ex%1,102,102,305
+VStem: 86 40<-159 730> 266 40<-159 730>
+LayerCount: 2
+Fore
+Refer: 1704 8214 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2016.ssty1 uni2016.ssty2
+Colour: ff00
 EndChar
 EndChars
 EndSplineFont
