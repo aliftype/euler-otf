@@ -5,6 +5,7 @@ FamilyName: Neo Euler
 Weight: Medium
 Copyright: Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org).\nCopyright (c) 2009 Khaled Hosny (khaledhosny@eglug.org).
 Version: 000.001
+DefaultBaseFilename: euler
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1264139711
+ModificationTime: 1264886992
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -45,6 +46,7 @@ Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures look
 Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 5"  {"'salt' Stylistic Alternatives lookup 5-1"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler" 
 MATH:ScriptPercentScaleDown: 70
@@ -110,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 900 12 4
+WinInfo: 495 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -123,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115325 1857
+BeginChars: 1115325 1866
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -63964,7 +63966,7 @@ HStem: 451 22 715 20<251 251>
 VStem: 0 495<464 486>
 LayerCount: 2
 Fore
-Refer: 102 94 S 1 0 0 1 0 0 2
+Refer: 102 94 N 1 0 0 1 0 0 2
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni005E.ssty1 uni005E.ssty2
 EndChar
 
@@ -67571,87 +67573,87 @@ EndChar
 
 StartChar: uni20D7
 Encoding: 8407 8407 1682
-Width: 500
+Width: 287
 Flags: W
-TopAccentHorizontal: 419
+TopAccentHorizontal: 206
 GlyphVariantsHorizontal: uni20D7
 GlyphCompositionHorizontal: 2  uni20D6.ex%1,50,50,150 uni20D7%0,137,137,412
-HStem: 595 40<213 549.383>
+HStem: 595 40<0 336.383>
 LayerCount: 2
 Fore
 SplineSet
-213 635 m 9
- 549.383 635 l 1
- 528.534 656 513.146 688 511.992 693 c 0
- 510.146 701 513.145 714 527.145 714 c 0
- 541.145 714 548.146 701 552.223 692 c 0
- 565.764 668 580.92 650 606.383 635 c 0
- 614.537 630 625 625.656 625 615 c 24
- 625 604.344 614.537 600 606.383 595 c 0
- 580.92 580 565.764 562 552.223 538 c 0
- 548.146 529 541.145 516 527.145 516 c 0
- 513.145 516 510.146 529 511.992 537 c 0
- 513.146 542 528.534 574 549.383 595 c 1
- 213 595 l 17
- 213 635 l 9
+0 635 m 9
+ 336.383 635 l 1
+ 315.534 656 300.146 688 298.992 693 c 0
+ 297.146 701 300.145 714 314.145 714 c 0
+ 328.145 714 335.146 701 339.223 692 c 0
+ 352.764 668 367.92 650 393.383 635 c 0
+ 401.537 630 412 625.656 412 615 c 24
+ 412 604.344 401.537 600 393.383 595 c 0
+ 367.92 580 352.764 562 339.223 538 c 0
+ 335.146 529 328.145 516 314.145 516 c 0
+ 300.145 516 297.146 529 298.992 537 c 0
+ 300.146 542 315.534 574 336.383 595 c 1
+ 0 595 l 17
+ 0 635 l 9
 EndSplineSet
 Colour: ff0000
 EndChar
 
 StartChar: uni20D6
 Encoding: 8406 8406 1683
-Width: 500
+Width: 287
 Flags: W
-TopAccentHorizontal: 384
+TopAccentHorizontal: 81
 GlyphVariantsHorizontal: uni20D6
 GlyphCompositionHorizontal: 2  uni20D6%0,137,137,412 uni20D6.ex%1,50,50,150
-HStem: 595 40<253.617 590>
+HStem: 595 40<-49.3828 287>
 LayerCount: 2
 Fore
 SplineSet
-590 595 m 9
- 253.617 595 l 1
- 274.466 574 289.854 542 291.008 537 c 0
- 292.854 529 289.855 516 275.855 516 c 0
- 261.855 516 254.854 529 250.777 538 c 0
- 237.236 562 222.08 580 196.617 595 c 0
- 188.463 600 178 604.344 178 615 c 24
- 178 625.656 188.463 630 196.617 635 c 0
- 222.08 650 237.236 668 250.777 692 c 0
- 254.854 701 261.855 714 275.855 714 c 0
- 289.855 714 292.854 701 291.008 693 c 0
- 289.854 688 274.466 656 253.617 635 c 1
- 590 635 l 17
- 590 595 l 9
+287 595 m 9
+ -49.3828 595 l 1
+ -28.5342 574 -13.1465 542 -11.9922 537 c 0
+ -10.1465 529 -13.1445 516 -27.1445 516 c 0
+ -41.1445 516 -48.1465 529 -52.2227 538 c 0
+ -65.7637 562 -80.9199 580 -106.383 595 c 0
+ -114.537 600 -125 604.344 -125 615 c 24
+ -125 625.656 -114.537 630 -106.383 635 c 0
+ -80.9199 650 -65.7637 668 -52.2227 692 c 0
+ -48.1465 701 -41.1445 714 -27.1445 714 c 0
+ -13.1445 714 -10.1465 701 -11.9922 693 c 0
+ -13.1465 688 -28.5342 656 -49.3828 635 c 1
+ 287 635 l 17
+ 287 595 l 9
 EndSplineSet
 Colour: ff0000
 EndChar
 
 StartChar: uni20EE
 Encoding: 8430 8430 1684
-Width: 500
+Width: 287
 Flags: W
-TopAccentHorizontal: 384
+TopAccentHorizontal: 81
 GlyphVariantsHorizontal: uni20EE
 GlyphCompositionHorizontal: 2  uni20EE%0,137,137,412 uni20EE.ex%1,50,50,150
-HStem: -105 40<253.617 590>
+HStem: -105 40<-49.3828 287>
 LayerCount: 2
 Fore
-Refer: 1683 8406 N 1 0 0 1 0 -700 2
+Refer: 1683 8406 N 1 0 0 1 0 -700 3
 Colour: ff0000
 EndChar
 
 StartChar: uni20EF
 Encoding: 8431 8431 1685
-Width: 500
+Width: 287
 Flags: W
-TopAccentHorizontal: 419
+TopAccentHorizontal: 206
 GlyphVariantsHorizontal: uni20EF
 GlyphCompositionHorizontal: 2  uni20EE.ex%1,50,50,150 uni20EF%0,137,137,412
-HStem: -105 40<213 549.383>
+HStem: -105 40<0 336.383>
 LayerCount: 2
 Fore
-Refer: 1682 8407 N 1 0 0 1 0 -700 2
+Refer: 1682 8407 N 1 0 0 1 0 -700 3
 Colour: ff0000
 EndChar
 
@@ -71253,11 +71255,11 @@ VStem: 226.5 119
 LayerCount: 2
 Fore
 SplineSet
-228 44.5 m 0
+228 44.5 m 0x20
  228 13.5 254 -12.5 286 -12.5 c 0
  317 -12.5 342 13.5 342 44.5 c 0
  342 75.5 317 101.5 286 101.5 c 0
- 254 101.5 228 75.5 228 44.5 c 0
+ 254 101.5 228 75.5 228 44.5 c 0x20
 EndSplineSet
 Refer: 70 58 N 0 -1 -1 -0 505 505 2
 Colour: ff00
@@ -72254,6 +72256,121 @@ LayerCount: 2
 Fore
 Refer: 1704 8214 N 1 0 0 1 0 0 2
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2016.ssty1 uni2016.ssty2
+Colour: ff00
+EndChar
+
+StartChar: grave
+Encoding: 96 96 1857
+Width: 201
+Flags: W
+TopAccentHorizontal: 100
+HStem: 506 171
+VStem: 0 201
+LayerCount: 2
+Fore
+Refer: 1760 768 N 1 0 0 1 385 0 2
+Colour: ff00
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 1858
+Width: 299
+Flags: W
+TopAccentHorizontal: 150
+HStem: 542 100<35.5 65 234.5 264>
+VStem: 0 100<577 606.5 577 607> 199 100<577 606.5 577 607>
+LayerCount: 2
+Fore
+Refer: 1691 776 N 1 0 0 1 399 0 2
+Colour: ff00
+EndChar
+
+StartChar: macron
+Encoding: 175 175 1859
+Width: 312
+Flags: W
+TopAccentHorizontal: 156
+HStem: 566 53<0 312 0 312>
+VStem: 0 312<566 619 566 619>
+LayerCount: 2
+Fore
+Refer: 1687 772 N 1 0 0 1 405 0 2
+Colour: ff00
+EndChar
+
+StartChar: caron
+Encoding: 711 711 1860
+Width: 495
+Flags: W
+TopAccentHorizontal: 248
+HStem: 452 20<251 251> 714 22
+VStem: 0 495<701 723>
+LayerCount: 2
+Fore
+Refer: 1766 780 N 1 0 0 1 0 0 2
+Colour: ff00
+EndChar
+
+StartChar: breve
+Encoding: 728 728 1861
+Width: 282
+Flags: W
+TopAccentHorizontal: 141
+HStem: 513 60<114.44 165.96>
+VStem: 0 30<671 671> 252 30<671 671>
+LayerCount: 2
+Fore
+Refer: 1689 774 N 1 0 0 1 390 0 2
+Colour: ff00
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 1862
+Width: 100
+Flags: W
+TopAccentHorizontal: 50
+HStem: 542 100<35.5 65>
+VStem: 0 100<577 606.5 577 607>
+LayerCount: 2
+Fore
+Refer: 1690 775 N 1 0 0 1 300 0 2
+Colour: ff00
+EndChar
+
+StartChar: ring
+Encoding: 730 730 1863
+Width: 200
+Flags: W
+TopAccentHorizontal: 100
+HStem: 492 36<81 118.5 81 127.5> 656 36<82 119>
+VStem: 0 38<573 612 573 620.5> 162 38<573 611>
+LayerCount: 2
+Fore
+Refer: 1692 778 N 1 0 0 1 349 0 2
+Colour: ff00
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 1864
+Width: 321
+Flags: W
+TopAccentHorizontal: 161
+HStem: 540 55<218.565 244.5>
+VStem: 0 321.5<553.5 627>
+LayerCount: 2
+Fore
+Refer: 1686 771 N 1 0 0 1 409 0 2
+Colour: ff00
+EndChar
+
+StartChar: acute
+Encoding: 180 180 1865
+Width: 201
+Flags: W
+TopAccentHorizontal: 100
+LayerCount: 2
+Fore
+Refer: 1761 769 N 1 0 0 1 315 0 2
 Colour: ff00
 EndChar
 EndChars
