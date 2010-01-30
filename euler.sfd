@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1264886992
+ModificationTime: 1264889524
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 495 33 12
+WinInfo: 759 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -67575,27 +67575,23 @@ StartChar: uni20D7
 Encoding: 8407 8407 1682
 Width: 287
 Flags: W
-TopAccentHorizontal: 206
+TopAccentHorizontal: 209
 GlyphVariantsHorizontal: uni20D7
 GlyphCompositionHorizontal: 2  uni20D6.ex%1,50,50,150 uni20D7%0,137,137,412
-HStem: 595 40<0 336.383>
+HStem: 595 40<0 346>
 LayerCount: 2
 Fore
 SplineSet
-0 635 m 9
- 336.383 635 l 1
- 315.534 656 300.146 688 298.992 693 c 0
- 297.146 701 300.145 714 314.145 714 c 0
- 328.145 714 335.146 701 339.223 692 c 0
- 352.764 668 367.92 650 393.383 635 c 0
- 401.537 630 412 625.656 412 615 c 24
- 412 604.344 401.537 600 393.383 595 c 0
- 367.92 580 352.764 562 339.223 538 c 0
- 335.146 529 328.145 516 314.145 516 c 0
- 300.145 516 297.146 529 298.992 537 c 0
- 300.146 542 315.534 574 336.383 595 c 1
- 0 595 l 17
- 0 635 l 9
+346 595 m 1
+ 0 595 l 1
+ 0 635 l 1
+ 346 635 l 1
+ 267 729 l 1
+ 288 750 l 1
+ 418 614 l 1
+ 288 479 l 1
+ 267 500 l 1
+ 346 595 l 1
 EndSplineSet
 Colour: ff0000
 EndChar
@@ -67604,27 +67600,23 @@ StartChar: uni20D6
 Encoding: 8406 8406 1683
 Width: 287
 Flags: W
-TopAccentHorizontal: 81
+TopAccentHorizontal: 78
 GlyphVariantsHorizontal: uni20D6
 GlyphCompositionHorizontal: 2  uni20D6%0,137,137,412 uni20D6.ex%1,50,50,150
-HStem: 595 40<-49.3828 287>
+HStem: 595 40<-59 287>
 LayerCount: 2
 Fore
 SplineSet
-287 595 m 9
- -49.3828 595 l 1
- -28.5342 574 -13.1465 542 -11.9922 537 c 0
- -10.1465 529 -13.1445 516 -27.1445 516 c 0
- -41.1445 516 -48.1465 529 -52.2227 538 c 0
- -65.7637 562 -80.9199 580 -106.383 595 c 0
- -114.537 600 -125 604.344 -125 615 c 24
- -125 625.656 -114.537 630 -106.383 635 c 0
- -80.9199 650 -65.7637 668 -52.2227 692 c 0
- -48.1465 701 -41.1445 714 -27.1445 714 c 0
- -13.1445 714 -10.1465 701 -11.9922 693 c 0
- -13.1465 688 -28.5342 656 -49.3828 635 c 1
- 287 635 l 17
- 287 595 l 9
+287 595 m 1
+ -59 595 l 1
+ 20 500 l 1
+ -1 479 l 1
+ -131 614 l 1
+ -1 750 l 1
+ 20 729 l 1
+ -59 635 l 1
+ 287 635 l 1
+ 287 595 l 1
 EndSplineSet
 Colour: ff0000
 EndChar
@@ -67633,10 +67625,10 @@ StartChar: uni20EE
 Encoding: 8430 8430 1684
 Width: 287
 Flags: W
-TopAccentHorizontal: 81
+TopAccentHorizontal: 78
 GlyphVariantsHorizontal: uni20EE
 GlyphCompositionHorizontal: 2  uni20EE%0,137,137,412 uni20EE.ex%1,50,50,150
-HStem: -105 40<-49.3828 287>
+HStem: -105 40<-59 287>
 LayerCount: 2
 Fore
 Refer: 1683 8406 N 1 0 0 1 0 -700 3
@@ -67647,10 +67639,10 @@ StartChar: uni20EF
 Encoding: 8431 8431 1685
 Width: 287
 Flags: W
-TopAccentHorizontal: 206
+TopAccentHorizontal: 209
 GlyphVariantsHorizontal: uni20EF
 GlyphCompositionHorizontal: 2  uni20EE.ex%1,50,50,150 uni20EF%0,137,137,412
-HStem: -105 40<0 336.383>
+HStem: -105 40<0 346>
 LayerCount: 2
 Fore
 Refer: 1682 8407 N 1 0 0 1 0 -700 3
@@ -70000,38 +69992,30 @@ EndChar
 
 StartChar: uni20E1
 Encoding: 8417 8417 1767
-Width: 500
+Width: 449
 Flags: W
-TopAccentHorizontal: 402
+TopAccentHorizontal: 224
 GlyphVariantsHorizontal: uni20E1
 GlyphCompositionHorizontal: 3  uni20D6%0,137,137,412 uni20D6.ex%1,50,50,150 uni20D7%0,137,137,412
-HStem: 595 40<253.617 549.383>
+HStem: 595 40<72 377>
 LayerCount: 2
 Fore
 SplineSet
-253.617 595 m 1
- 274.466 574 289.854 542 291.008 537 c 0
- 292.854 529 289.855 516 275.855 516 c 0
- 261.855 516 254.854 529 250.777 538 c 0
- 237.236 562 222.08 580 196.617 595 c 0
- 188.463 600 178 604.344 178 615 c 24
- 178 625.656 188.463 630 196.617 635 c 0
- 222.08 650 237.236 668 250.777 692 c 0
- 254.854 701 261.855 714 275.855 714 c 0
- 289.855 714 292.854 701 291.008 693 c 0
- 289.854 688 274.466 656 253.617 635 c 1
- 549.383 635 l 1
- 528.534 656 513.146 688 511.992 693 c 0
- 510.146 701 513.145 714 527.145 714 c 0
- 541.145 714 548.146 701 552.223 692 c 0
- 565.764 668 580.92 650 606.383 635 c 0
- 614.537 630 625 625.656 625 615 c 24
- 625 604.344 614.537 600 606.383 595 c 0
- 580.92 580 565.764 562 552.223 538 c 0
- 548.146 529 541.145 516 527.145 516 c 0
- 513.145 516 510.146 529 511.992 537 c 0
- 513.146 542 528.534 574 549.383 595 c 1
- 253.617 595 l 1
+377 635 m 1
+ 298 729 l 1
+ 319 750 l 1
+ 449 614 l 1
+ 319 479 l 1
+ 298 500 l 1
+ 377 595 l 1
+ 72 595 l 1
+ 151 500 l 1
+ 130 479 l 1
+ 0 614 l 1
+ 130 750 l 1
+ 151 729 l 1
+ 72 635 l 1
+ 377 635 l 1
 EndSplineSet
 Colour: ff0000
 EndChar
