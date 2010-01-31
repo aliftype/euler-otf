@@ -1,13 +1,14 @@
-\documentclass{minimal}
-\usepackage{amsmath}
-\usepackage{unicode-math}
-\setmathfont{Neo Euler}
+\starttypescript    [math]     [euler][name]
+  \definefontsynonym[MathRoman][file:../eulerbb.otf] [features=math]
+\stoptypescript
 
-\begin{document}
+\definetypeface [mainface] [rm] [serif] [palatino] [default] 
+\definetypeface [mainface] [mm] [math]  [euler] [default]  
 
-\[\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}\]
-\[\mathbb{abcdefghijklmnopqrstuvwzyz}\]
-\[\mathbb{1234567890}\]
-\[\mathbb{\pi \gamma \Gamma \Pi \sum}\]
-
-\end{document}
+\setupbodyfont[mainface,12pt]
+\starttext
+$\Bbb ABCDEFGHIJKLMNOPQRSTUVWXYZ$\par
+$\Bbb abcdefghijklmnopqrstuvwzyz$\par
+$\Bbb 1234567890$\par
+$\Bbb \pi \gamma \Gamma \Pi \sum$
+\stoptext
