@@ -1,9 +1,16 @@
-\usetypescript      [pagella]
+\startmode[mkiv]
 \starttypescript    [math]     [euler][name]
   \definefontsynonym[MathRoman][name:Neo Euler] [features=math]
 \stoptypescript
-\definetypeface     [pagella]  [mm][math][euler][default][text=rm]
-\setupbodyfont      [pagella,10pt]
+\stopmode
+
+\starttypescript[mainface]
+  \definetypeface   [mainface][rm][serif] [palatino] [default]
+  \definetypeface   [mainface][mm][math] [euler]     [default]
+\stoptypescript
+
+\usetypescript[mainface]
+\setupbodyfont[mainface]
 
 \setupmathematics   [lcgreek=normal,ucgreek=normal]
 
@@ -50,7 +57,7 @@
 \stopformula
 
 \startformula
-\int_0^3 9x^2 + 2x + 4\, dx = 3x^3 + x^2 + 4x + C \Big\rbracket_0^3 = 102
+\int_0^3 9x^2 + 2x + 4\, dx = 3x^3 + x^2 + 4x + C \Big]_0^3 = 102
 \stopformula
 
 \startformula
@@ -73,7 +80,17 @@ x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}
 \vert\big\vert\Big\vert\bigg\vert\Bigg\vert
 \stopformula
 
-\page
+\startformula
+\emptyset \varnothing \eth \backepsilon \approx
+\stopformula
+
+\startformula
+\hat{i}\hat{j}\bf\hat{i}\hat{j}
+\stopformula
+
+\startformula
+\hat{\imath}\hat{\jmath}\bf\hat{\imath}\hat{\jmath}
+\stopformula
 
 \startformula
 \hat{a} \hat{c} \hat{e} \hat{f} \hat{g} \hat{o} \hat{s} \hat{z}

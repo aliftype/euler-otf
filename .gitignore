@@ -1,6 +1,10 @@
 *~
 *.log
 *.tuc
+*.tui
+*.tuo
+*.tmp
+*.mp
 *.pdf
 *.aux
 tmp
