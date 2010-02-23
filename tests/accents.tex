@@ -1,11 +1,7 @@
-\starttypescript    [math]     [euler][name]
-  \definefontsynonym[MathRoman][name:Neo Euler] [features=math]
-\stoptypescript
+\usetypescriptfile[type-euler]
+\usetypescript[euler]
+\setupbodyfont[euler]
 
-\definetypeface [mainface] [rm] [serif] [modern] [default] [features=oldstyle]
-\definetypeface [mainface] [mm] [math]  [euler]  [default]  
-
-\setupbodyfont[mainface,12pt]
 \starttext
 \startlines
 acute       $\acute a$
