@@ -1,16 +1,6 @@
-\startmode[mkiv]
-\starttypescript    [math]     [euler][name]
-  \definefontsynonym[MathRoman][name:Neo Euler] [features=math]
-\stoptypescript
-\stopmode
-
-\starttypescript[mainface]
-  \definetypeface   [mainface][rm][serif] [palatino] [default]
-  \definetypeface   [mainface][mm][math] [euler]     [default]
-\stoptypescript
-
-\usetypescript[mainface]
-\setupbodyfont[mainface]
+\usetypescriptfile[type-euler]
+\usetypescript[euler]
+\setupbodyfont[euler]
 
 \setupmathematics   [lcgreek=normal,ucgreek=normal]
 
