@@ -3,7 +3,9 @@ combining the existing Euler math fonts with new glyphs from Hermann
 Zapf and adding MATH table information.
 
 The MATH table work is almost done, and initial glyph review by Zapf
-have been conducted and implemented, we are planning for another review
+have been conducted and implemented, see
+http://tug.org/TUGboat/Articles/tb29-2/tb92hagen-euler.pdf for more
+details about the review process. We are planning for another review
 before the first official beta.
 
 Taco Hoekwater
