@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1272706404
+ModificationTime: 1272706674
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -72360,17 +72360,17 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 1866
-Width: 484
+Width: 544
 Flags: W
-HStem: 226 70<57 428>
+HStem: 236 40<47 498>
 LayerCount: 2
 Fore
 SplineSet
-428 226 m 1
- 30 226 l 1
- 57 296 l 1
- 454 296 l 1
- 428 226 l 1
+498 236 m 1
+ 40 236 l 1
+ 47 276 l 1
+ 504 276 l 1
+ 498 236 l 1
 EndSplineSet
 Colour: ff0000
 EndChar
