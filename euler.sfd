@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 33 12
+WinInfo: 561 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -67122,7 +67122,7 @@ LayerCount: 2
 Fore
 Refer: 1658 8901 S 1 0 0 1 0 0 2
 AlternateSubs2: "'ssty' Script Style lookup 0-1" dotmath.ssty1 dotmath.ssty2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: dotmath.ssty2
@@ -72253,7 +72253,7 @@ VStem: 0 201
 LayerCount: 2
 Fore
 Refer: 1760 768 N 1 0 0 1 385 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: dieresis
@@ -72266,7 +72266,7 @@ VStem: 0 100<577 606.5 577 607> 199 100<577 606.5 577 607>
 LayerCount: 2
 Fore
 Refer: 1691 776 N 1 0 0 1 399 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: macron
@@ -72279,7 +72279,7 @@ VStem: 0 312<566 619 566 619>
 LayerCount: 2
 Fore
 Refer: 1687 772 N 1 0 0 1 405 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: caron
@@ -72305,7 +72305,7 @@ VStem: 0 30<671 671> 252 30<671 671>
 LayerCount: 2
 Fore
 Refer: 1689 774 N 1 0 0 1 390 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: dotaccent
@@ -72318,7 +72318,7 @@ VStem: 0 100<577 606.5 577 607>
 LayerCount: 2
 Fore
 Refer: 1690 775 N 1 0 0 1 300 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: ring
@@ -72331,7 +72331,7 @@ VStem: 0 38<573 612 573 620.5> 162 38<573 611>
 LayerCount: 2
 Fore
 Refer: 1692 778 N 1 0 0 1 349 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: tilde
@@ -72344,7 +72344,7 @@ VStem: 0 321.5<553.5 627>
 LayerCount: 2
 Fore
 Refer: 1686 771 N 1 0 0 1 409 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: acute
@@ -72355,7 +72355,7 @@ TopAccentHorizontal: 100
 LayerCount: 2
 Fore
 Refer: 1761 769 N 1 0 0 1 315 0 2
-Colour: ff00
+Colour: ff0000
 EndChar
 
 StartChar: hyphen
