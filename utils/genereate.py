@@ -9,5 +9,7 @@ filename = sys.argv[1].rpartition(".")[0]
 font     = fontforge.open(filename + ".sfd")
 
 print "Generating %s.otf..." % filename
+font.selection.all()
+font.round()
 font.generate(filename + ".otf")
 print "Done"
