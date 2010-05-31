@@ -7,9 +7,8 @@ if fontforge.version() < 20090622:
 
 filename = sys.argv[1].rpartition(".")[0]
 font     = fontforge.open(filename + ".sfd")
+flags    = "round"
 
 print "Generating %s.otf..." % filename
-font.selection.all()
-font.round()
-font.generate(filename + ".otf")
+font.generate(filename + ".otf", flags)
 print "Done"
