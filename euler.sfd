@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1276274619
+ModificationTime: 1285215779
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114938 33 12
+WinInfo: 8415 33 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -125,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115327 1873
+BeginChars: 1115329 1877
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -23164,11 +23164,11 @@ HStem: 236 40
 LayerCount: 2
 Fore
 SplineSet
-802 329 m 1
- 80 329 l 1
- 88 369 l 1
- 808 369 l 1
- 802 329 l 1
+802 329 m 5
+ 80 329 l 5
+ 88 369 l 5
+ 808 369 l 5
+ 802 329 l 5
 802 132 m 1
  80 132 l 1
  88 172 l 1
@@ -72610,6 +72610,80 @@ SplineSet
  -10 -188 l 2
  -10 -161 -9 -160 17 -160 c 2
 EndSplineSet
+EndChar
+
+StartChar: uni210E
+Encoding: 8462 8462 1873
+Width: 621
+Flags: W
+HStem: 84 63 447 55 650 40
+VStem: 120 70 419 71
+LayerCount: 2
+Fore
+Refer: 390 104 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0068.ssty1 uni0068.ssty2
+Colour: ff00
+EndChar
+
+StartChar: uni210F
+Encoding: 8463 8463 1874
+Width: 621
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 84 63 447 55 516 40<27 298> 650 40
+VStem: 120 70 419 71
+LayerCount: 2
+Fore
+SplineSet
+298 516 m 1
+ 20 516 l 1
+ 27 556 l 1
+ 304 556 l 1
+ 298 516 l 1
+EndSplineSet
+Refer: 390 104 N 1 0 0 1 0 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni210F.ssty1 uni210F.ssty2
+Colour: ff00
+EndChar
+
+StartChar: uni210F.ssty1
+Encoding: 1115327 -1 1875
+Width: 761
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 84 63 447 55 516 40<62 353> 650 40
+VStem: 167 79 504 80
+LayerCount: 2
+Fore
+SplineSet
+353 516 m 1
+ 55 516 l 1
+ 62 556 l 1
+ 359 556 l 1
+ 353 516 l 1
+EndSplineSet
+Refer: 860 -1 N 1 0 0 1 0 0 2
+Colour: ff00
+EndChar
+
+StartChar: uni210F.ssty2
+Encoding: 1115328 -1 1876
+Width: 939
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 84 63 447 55 516 40<122 443> 650 40
+VStem: 241 84 600 85
+LayerCount: 2
+Fore
+SplineSet
+443 516 m 1
+ 115 516 l 1
+ 122 556 l 1
+ 451 556 l 1
+ 443 516 l 1
+EndSplineSet
+Refer: 1290 -1 N 1 0 0 1 0 0 2
+Colour: ff00
 EndChar
 EndChars
 EndSplineFont
