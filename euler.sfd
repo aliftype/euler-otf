@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8415 33 12
+WinInfo: 1114944 32 13
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -65497,6 +65497,7 @@ EndChar
 StartChar: notequal
 Encoding: 8800 8800 1582
 Width: 756
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 236 40 702 20
 VStem: 174 432
@@ -65523,6 +65524,7 @@ EndChar
 StartChar: uni2262
 Encoding: 8802 8802 1584
 Width: 830
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 33 39<90 740 81 749> 230 38<90 740 81 749> 426 39<90 740 81 749> 702 20
 VStem: 197 432
@@ -65593,6 +65595,7 @@ EndChar
 StartChar: notelement.ssty1
 Encoding: 1115181 -1 1587
 Width: 769
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -78.0586 48<338.203 634.814> 225.998 48<157.195 634.814> 530.055 48<338.203 634.814> 702 20
 VStem: 108.155 49.0397<143.946 225.998 273.998 356.049> 144 471
@@ -65634,6 +65637,7 @@ EndChar
 StartChar: uni220C.ssty1
 Encoding: 1115183 -1 1589
 Width: 769
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -78.0586 48<132.155 428.767> 225.998 48<132.155 609.775> 530.055 48<132.155 428.767> 702 20
 VStem: 144 471 609.775 49.0397<143.947 225.998 273.998 356.049>
@@ -65675,6 +65679,7 @@ EndChar
 StartChar: notelement.ssty2
 Encoding: 1115185 -1 1591
 Width: 944
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21<160 221 160 160> -103.286 56<420.918 753.111> 221.999 56<216.723 753.111> 547.284 56<420.917 753.111> 702 20<726 726>
 VStem: 159.328 57.3951<142.329 221.999 277.999 357.668> 160 622
@@ -65716,6 +65721,7 @@ EndChar
 StartChar: uni220C.ssty2
 Encoding: 1115187 -1 1593
 Width: 944
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21<160 221 160 160> -103.286 56<187.328 519.52> 221.999 56<187.328 723.716> 547.284 56<187.328 519.521> 702 20<726 726>
 VStem: 160 622 723.716 57.3951<142.329 221.999 277.999 357.668>
@@ -65729,6 +65735,7 @@ EndChar
 StartChar: notelement
 Encoding: 8713 8713 1594
 Width: 666
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -41.0713 40<284.321 561.498> 230 40<123.981 561.498> 501.072 40<284.321 561.498> 702 20
 VStem: 83.1621 40.819<155.338 230 270 344.661> 116 432
@@ -65743,6 +65750,7 @@ EndChar
 StartChar: uni220C
 Encoding: 8716 8716 1595
 Width: 666
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -41.0713 40<103.162 380.34> 230 40<103.162 540.679> 501.072 40<103.162 380.34> 702 20
 VStem: 116 432 540.679 40.8192<155.338 230 270 344.661>
@@ -65785,6 +65793,7 @@ EndChar
 StartChar: notequal.ssty2
 Encoding: 1115188 -1 1597
 Width: 1101
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 236 40
 LayerCount: 2
@@ -65808,6 +65817,7 @@ EndChar
 StartChar: notequal.ssty1
 Encoding: 1115189 -1 1598
 Width: 873
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 236 40
 LayerCount: 2
@@ -65831,6 +65841,7 @@ EndChar
 StartChar: uni2262.ssty1
 Encoding: 1115190 -1 1599
 Width: 999
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 33 39<132 867> 230 39<132 867> 426 39<132 867> 702 20
 VStem: 262.5 471
@@ -65844,6 +65855,7 @@ EndChar
 StartChar: uni2262.ssty2
 Encoding: 1115191 -1 1600
 Width: 1187
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21<240 301 240 240> 33 39<204 983> 231 39<204 983> 428 39<204 983> 702 20<806 806>
 VStem: 240 622
@@ -66356,6 +66368,7 @@ EndChar
 StartChar: notsubset
 Encoding: 8836 8836 1623
 Width: 777
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -41.0713 40<285.494 672.576> 501.072 40<285.494 672.576> 702 20
 VStem: 83.1973 40<156.288 343.713> 171.5 432
@@ -66370,6 +66383,7 @@ EndChar
 StartChar: uni2285
 Encoding: 8837 8837 1624
 Width: 777
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -41.0713 40<103.197 490.279> 501.072 40<103.197 490.279> 702 20
 VStem: 171.5 432 652.576 40<156.288 343.713>
@@ -66384,6 +66398,7 @@ EndChar
 StartChar: uni2288
 Encoding: 8840 8840 1625
 Width: 777
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -143.03 40<123.276 672.576> 53.749 40<285.494 672.576> 595.892 40<285.494 672.576> 702 20
 VStem: 83.1973 40<251.108 438.533> 171.5 432
@@ -66398,6 +66413,7 @@ EndChar
 StartChar: uni2289
 Encoding: 8841 8841 1626
 Width: 777
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -143.03 40<103.197 652.496> 53.749 40<103.197 490.279> 595.892 40<103.197 490.279> 702 20
 VStem: 171.5 432 652.576 40<251.108 438.533>
@@ -66412,6 +66428,7 @@ EndChar
 StartChar: uni228A
 Encoding: 8842 8842 1627
 Width: 777
+UnlinkRmOvrlpSave: 1
 HStem: -143.03 40<123.276 672.576> 53.749 40<285.494 672.576> 595.892 40<285.494 672.576>
 VStem: 83.1973 40<251.108 438.533>
 DStem2: 331.75 -200 366.75 -222 0.397892 0.917432<0 188.757>
@@ -66435,6 +66452,7 @@ EndChar
 StartChar: uni228B
 Encoding: 8843 8843 1628
 Width: 777
+UnlinkRmOvrlpSave: 1
 HStem: -143.03 40<103.197 652.496> 53.749 40<103.197 490.279> 595.892 40<103.197 490.279>
 VStem: 652.576 40<251.108 438.533>
 DStem2: 331.75 -200 366.75 -222 0.397892 0.917432<0 188.757>
@@ -66564,6 +66582,7 @@ EndChar
 StartChar: notsubset.ssty1
 Encoding: 1115208 -1 1633
 Width: 892
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -78.0586 48<337.828 757.778> 530.055 48<337.828 757.778> 702 20
 VStem: 108.208 48<145.409 354.588> 209 471
@@ -66577,6 +66596,7 @@ EndChar
 StartChar: uni2285.ssty1
 Encoding: 1115209 -1 1634
 Width: 892
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21 -78.0586 48<132.208 552.158> 530.055 48<132.208 552.158> 702 20
 VStem: 209 471 733.778 48<145.409 354.588>
@@ -66590,6 +66610,7 @@ EndChar
 StartChar: uni2288.ssty1
 Encoding: 1115210 -1 1635
 Width: 892
+UnlinkRmOvrlpSave: 1
 HStem: -194.773 48<156.59 757.778> 28.9678 48<337.828 757.778> 637.081 48<337.828 757.778>
 VStem: 108.208 48<252.435 461.614>
 DStem2: 192.5 -222 230.5 -244 0.433843 0.900988<0 1072.53>
@@ -66612,6 +66633,7 @@ EndChar
 StartChar: uni2289.ssty1
 Encoding: 1115211 -1 1636
 Width: 892
+UnlinkRmOvrlpSave: 1
 HStem: -194.773 48<132.208 733.396> 28.9678 48<132.208 552.158> 637.081 48<132.208 552.158>
 VStem: 733.778 48<252.435 461.614>
 DStem2: 192.5 -222 230.5 -244 0.433843 0.900988<0 1072.53>
@@ -66634,6 +66656,7 @@ EndChar
 StartChar: uni228A.ssty1
 Encoding: 1115212 -1 1637
 Width: 892
+UnlinkRmOvrlpSave: 1
 HStem: -194.773 48<156.59 757.778> 28.9678 48<337.828 757.778> 637.081 48<337.828 757.778>
 VStem: 108.208 48<252.435 461.614>
 DStem2: 407.268 -235.406 449.162 -248.551 0.222807 0.974863<0 151.133>
@@ -66656,6 +66679,7 @@ EndChar
 StartChar: uni228B.ssty1
 Encoding: 1115213 -1 1638
 Width: 892
+UnlinkRmOvrlpSave: 1
 HStem: -194.773 48<132.208 733.396> 28.9678 48<132.208 552.158> 637.081 48<132.208 552.158>
 VStem: 733.778 48<252.435 461.614>
 DStem2: 407.268 -235.406 449.162 -248.551 0.222807 0.974863<0 151.133>
@@ -66784,6 +66808,7 @@ EndChar
 StartChar: notsubset.ssty2
 Encoding: 1115218 -1 1643
 Width: 1083
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21<231 292 231 231> -103.286 56<421.867 891.929> 547.284 56<421.866 891.929> 702 20<797 797>
 VStem: 159.401 56<144.417 355.581> 231 622
@@ -66797,6 +66822,7 @@ EndChar
 StartChar: uni2285.ssty2
 Encoding: 1115219 -1 1644
 Width: 1083
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -182 21<231 292 231 231> -103.286 56<187.401 657.463> 547.284 56<187.401 657.464> 702 20<797 797>
 VStem: 231 622 863.929 56<144.417 355.581>
@@ -66810,6 +66836,7 @@ EndChar
 StartChar: uni2288.ssty2
 Encoding: 1115220 -1 1645
 Width: 1083
+UnlinkRmOvrlpSave: 1
 HStem: -228.316 56<215.512 891.929> 12.6367 56<421.867 891.929> 663.207 56<421.866 891.929>
 VStem: 159.401 56<260.34 471.504>
 DStem2: 194.499 -239.762 239.427 -268.87 0.530155 0.847901<0 1204.7>
@@ -66832,6 +66859,7 @@ EndChar
 StartChar: uni2289.ssty2
 Encoding: 1115221 -1 1646
 Width: 1083
+UnlinkRmOvrlpSave: 1
 HStem: -228.316 56<187.401 863.818> 12.6367 56<187.401 657.463> 663.207 56<187.401 657.464>
 VStem: 863.929 56<260.34 471.504>
 DStem2: 194.499 -239.762 239.427 -268.87 0.530155 0.847901<0 1204.7>
@@ -66854,6 +66882,7 @@ EndChar
 StartChar: uni228A.ssty2
 Encoding: 1115222 -1 1647
 Width: 1083
+UnlinkRmOvrlpSave: 1
 HStem: -228.316 56<215.512 891.929> 12.6367 56<421.867 891.929> 663.207 56<421.866 891.929>
 VStem: 159.401 56<260.34 471.504>
 DStem2: 484.268 -285.406 543.162 -298.551 0.260882 0.965371<2.67458 204.532>
@@ -66876,6 +66905,7 @@ EndChar
 StartChar: uni228B.ssty2
 Encoding: 1115223 -1 1648
 Width: 1083
+UnlinkRmOvrlpSave: 1
 HStem: -228.316 56<187.401 863.818> 12.6367 56<187.401 657.463> 663.207 56<187.401 657.464>
 VStem: 863.929 56<260.34 471.504>
 DStem2: 484.268 -285.406 543.162 -298.551 0.260882 0.965371<2.67458 204.532>
@@ -71012,6 +71042,7 @@ EndChar
 StartChar: uni2204
 Encoding: 8708 8708 1802
 Width: 555
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -102 21 0.0791016 40<75.4326 458.117> 327.223 40<89.2715 458.117> 654.365 40<75.4326 458.117> 782 20
 VStem: 60 432 458.117 40<40.0791 327.223 367.223 654.365>
@@ -71038,6 +71069,7 @@ EndChar
 StartChar: uni2204.ssty1
 Encoding: 1115315 -1 1804
 Width: 646
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -100 21 0.381836 48<101.474 518.481> 323.22 48<116.779 518.481> 646.058 48<101.474 518.481> 784 20
 VStem: 87 471 518.481 48<48.3818 323.22 371.22 646.058>
@@ -71051,6 +71083,7 @@ EndChar
 StartChar: uni2204.ssty2
 Encoding: 1115316 -1 1805
 Width: 805
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -104 21<97 158 97 97> 0.111328 56<152.706 620.842> 319.222 56<169.967 620.842> 638.332 56<152.706 620.842> 780 20<663 663>
 VStem: 97 622 620.842 56<56.1113 319.222 375.222 638.332>
@@ -71075,6 +71108,7 @@ EndChar
 StartChar: uni2249
 Encoding: 8777 8777 1807
 Width: 551
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71109,6 +71143,7 @@ EndChar
 StartChar: uni2246
 Encoding: 8774 8774 1809
 Width: 597
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71129,6 +71164,7 @@ EndChar
 StartChar: uni2247
 Encoding: 8775 8775 1810
 Width: 597
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71140,6 +71176,7 @@ EndChar
 StartChar: uni2244
 Encoding: 8772 8772 1811
 Width: 597
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71447,6 +71484,7 @@ EndChar
 StartChar: uni2241
 Encoding: 8769 8769 1826
 Width: 551
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71467,6 +71505,7 @@ EndChar
 StartChar: uni226E
 Encoding: 8814 8814 1827
 Width: 756
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71478,6 +71517,7 @@ EndChar
 StartChar: uni226F
 Encoding: 8815 8815 1828
 Width: 756
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71489,6 +71529,7 @@ EndChar
 StartChar: uni2270
 Encoding: 8816 8816 1829
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71500,6 +71541,7 @@ EndChar
 StartChar: uni2271
 Encoding: 8817 8817 1830
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71597,6 +71639,7 @@ EndChar
 StartChar: uni2274
 Encoding: 8820 8820 1833
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71608,6 +71651,7 @@ EndChar
 StartChar: uni2275
 Encoding: 8821 8821 1834
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71693,6 +71737,7 @@ EndChar
 StartChar: uni2278
 Encoding: 8824 8824 1837
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71704,6 +71749,7 @@ EndChar
 StartChar: uni2279
 Encoding: 8825 8825 1838
 Width: 807
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71765,6 +71811,7 @@ EndChar
 StartChar: uni2268
 Encoding: 8808 8808 1841
 Width: 756
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -71798,6 +71845,7 @@ EndChar
 StartChar: uni2269
 Encoding: 8809 8809 1842
 Width: 756
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -72628,7 +72676,6 @@ EndChar
 StartChar: uni210F
 Encoding: 8463 8463 1874
 Width: 621
-UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<27 298> 650 40
 VStem: 120 70 419 71
@@ -72649,7 +72696,6 @@ EndChar
 StartChar: uni210F.ssty1
 Encoding: 1115327 -1 1875
 Width: 761
-UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<62 353> 650 40
 VStem: 167 79 504 80
@@ -72669,7 +72715,6 @@ EndChar
 StartChar: uni210F.ssty2
 Encoding: 1115328 -1 1876
 Width: 939
-UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<122 443> 650 40
 VStem: 241 84 600 85
