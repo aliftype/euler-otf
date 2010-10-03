@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1285217703
+ModificationTime: 1286135973
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114944 32 13
+WinInfo: 8576 32 13
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -125,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115331 1880
+BeginChars: 1115333 1884
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -72816,6 +72816,88 @@ SplineSet
  441 126 451 128 452 128 c 0
  542 292 647 467 745 625 c 1
 EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni21A6
+Encoding: 8614 8614 1880
+Width: 1000
+Flags: W
+HStem: 0 21G<759 814.5> 230 40<96 874>
+VStem: 56 40<50 230 270 450> 759 40<0 58.3888 439.778 500>
+LayerCount: 2
+Fore
+SplineSet
+56 50 m 1
+ 56 450 l 1
+ 96 450 l 1
+ 96 270 l 1
+ 874 270 l 1
+ 836 317 784 396 759 500 c 1
+ 799 500 l 1
+ 830 370 912 280 944 250 c 1
+ 914 222 830 131 799 0 c 1
+ 759 0 l 1
+ 784 105 837 184 874 230 c 1
+ 96 230 l 1
+ 96 50 l 1
+ 56 50 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21A6.ssty
+Colour: ff00
+EndChar
+
+StartChar: uni21A4
+Encoding: 8612 8612 1881
+Width: 1000
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 21<185.5 241> 230 40<126 904>
+VStem: 201 40<0 58.3888 439.778 500> 904 40<50 230 270 450>
+LayerCount: 2
+Fore
+Refer: 1880 8614 N -1 0 0 1 1000 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21A4.ssty
+Colour: ff00
+EndChar
+
+StartChar: uni21A6.ssty
+Encoding: 1115331 -1 1882
+Width: 1123
+Flags: W
+HStem: 1 21G<844 908> 226 49<118 962>
+VStem: 69 49<50 226 275 450> 844 49<1 57.179 443.821 500>
+LayerCount: 2
+Fore
+SplineSet
+69 50 m 1
+ 69 450 l 1
+ 118 450 l 1
+ 118 275 l 1
+ 962 275 l 1
+ 935 309 877 384 844 500 c 1
+ 893 500 l 1
+ 904 464 941 345 1053 250 c 1
+ 974 187 923 97 893 1 c 1
+ 844 1 l 1
+ 877 117 935 192 962 226 c 1
+ 118 226 l 1
+ 118 50 l 1
+ 69 50 l 1
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni21A4.ssty
+Encoding: 1115332 -1 1883
+Width: 1123
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 1 21<215 279> 226 49<161 1005>
+VStem: 230 49<1 57.179 443.821 500> 1005 49<50 226 275 450>
+LayerCount: 2
+Fore
+Refer: 1882 -1 N -1 0 0 1 1123 0 2
 Colour: ff00
 EndChar
 EndChars
