@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1286270145
+ModificationTime: 1286271986
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114944 32 13
+WinInfo: 8736 32 13
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -125,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115335 1898
+BeginChars: 1115335 1902
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -73205,6 +73205,74 @@ LayerCount: 2
 Fore
 Refer: 1896 -1 N -1 0 0 1 1123 0 2
 Colour: ff00
+EndChar
+
+StartChar: uni22A4
+Encoding: 8868 8868 1898
+Width: 875
+Flags: W
+HStem: 0 21G<418 458> 643.474 39.5264<55 418 458 820>
+VStem: 418 40<0 643.474>
+LayerCount: 2
+Fore
+SplineSet
+55 644 m 1
+ 55 684 l 1
+ 820 683 l 1
+ 820 643 l 1
+ 458 643.474 l 1
+ 458 0 l 1
+ 418 0 l 1
+ 418 643.525 l 1
+ 55 644 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: perpendicular
+Encoding: 8869 8869 1899
+Width: 875
+Flags: W
+HStem: 1 39.5264<55 418 458 820> 663 21<418 458>
+VStem: 418 40<40.5264 684>
+LayerCount: 2
+Fore
+Refer: 1898 8868 N 1 0 0 -1 0 684 2
+Colour: ffff
+EndChar
+
+StartChar: uni22A2
+Encoding: 8866 8866 1900
+Width: 673
+Flags: W
+HStem: 0 21G<55 95> 327 40<95 618> 674 20G<55 95>
+VStem: 55 40<0 327 367 694>
+LayerCount: 2
+Fore
+SplineSet
+55 694 m 1
+ 95 694 l 1
+ 95 367 l 1
+ 618 367 l 1
+ 618 327 l 1
+ 95 327 l 1
+ 95 0 l 1
+ 55 0 l 1
+ 55 694 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: uni22A3
+Encoding: 8867 8867 1901
+Width: 673
+Flags: W
+HStem: 0 21<578 618> 327 40<55 578> 674 20<578 618>
+VStem: 578 40<0 327 367 694>
+LayerCount: 2
+Fore
+Refer: 1900 8866 N -1 0 0 1 673 0 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
