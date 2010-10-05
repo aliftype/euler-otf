@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1286269369
+ModificationTime: 1286270145
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8576 32 13
+WinInfo: 1114944 32 13
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -125,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115333 1896
+BeginChars: 1115335 1898
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -73135,6 +73135,7 @@ VStem: 201 40<0 60.2219 441.611 500> 904 40<325.805 458.195>
 LayerCount: 2
 Fore
 Refer: 1895 8618 N -1 0 0 1 1000 0 2
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21A9.ssty
 Colour: ff00
 EndChar
 
@@ -73162,6 +73163,47 @@ SplineSet
  784 395 837 316 874 270 c 1
  218 270 l 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 0-1" uni21AA.ssty
+Colour: ff00
+EndChar
+
+StartChar: uni21AA.ssty
+Encoding: 1115333 -1 1896
+Width: 1123
+Flags: W
+HStem: 226 49<181.375 252> 538 50<180.531 251>
+VStem: 70 50<336.171 477.682> 844 49<1 57.179 443.821 500>
+LayerCount: 2
+Fore
+SplineSet
+252 275 m 2
+ 179 275 120 334 120 407 c 0
+ 120 480 178 538 251 538 c 0
+ 251 588 l 0
+ 151 588 70 507 70 407 c 0
+ 70 307 152 226 252 226 c 2
+ 962 226 l 1
+ 935 192 877 117 844 1 c 1
+ 893 1 l 1
+ 923 97 974 187 1053 250 c 1
+ 941 345 904 464 893 500 c 1
+ 844 500 l 1
+ 877 384 935 309 962 275 c 1
+ 252 275 l 2
+EndSplineSet
+Colour: ff00
+EndChar
+
+StartChar: uni21A9.ssty
+Encoding: 1115334 -1 1897
+Width: 1123
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 226 49<871 941.625> 538 50<872 942.469>
+VStem: 230 49<1 57.179 443.821 500> 1003 50<336.171 477.682>
+LayerCount: 2
+Fore
+Refer: 1896 -1 N -1 0 0 1 1123 0 2
 Colour: ff00
 EndChar
 EndChars
