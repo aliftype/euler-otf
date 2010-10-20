@@ -52,7 +52,7 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family w
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
-MATH:DisplayOperatorMinHeight: 2180
+MATH:DisplayOperatorMinHeight: 1400
 MATH:MathLeading: 150 
 MATH:AxisHeight: 250 
 MATH:AccentBaseHeight: 413 
