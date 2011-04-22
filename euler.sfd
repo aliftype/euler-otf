@@ -14,7 +14,6 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 UniqueID: 5096681
 FSType: 0
 OS2Version: 0
@@ -112,7 +111,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 128 32 13
+WinInfo: 1114944 32 13
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -72677,6 +72676,7 @@ EndChar
 StartChar: uni210F
 Encoding: 8463 8463 1874
 Width: 621
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<27 298> 650 40
 VStem: 120 70 419 71
@@ -72697,6 +72697,7 @@ EndChar
 StartChar: uni210F.ssty1
 Encoding: 1115327 -1 1875
 Width: 761
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<62 353> 650 40
 VStem: 167 79 504 80
@@ -72716,6 +72717,7 @@ EndChar
 StartChar: uni210F.ssty2
 Encoding: 1115328 -1 1876
 Width: 939
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 84 63 447 55 516 40<122 443> 650 40
 VStem: 241 84 600 85
