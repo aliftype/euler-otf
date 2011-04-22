@@ -3,7 +3,7 @@ VERSION=0.002
 
 FF=fontforge -lang=ff
 FFLAGES=0x200000
-SCRIPT='Open($$1); Generate($$2, "", $(FFLAGES))'
+SCRIPT='Open($$1); SelectAll(); CorrectDirection(); Generate($$2, "", $(FFLAGES))'
 
 SFDS=euler.sfd
 OTFS=$(SFDS:.sfd=.otf)
