@@ -1,9 +1,16 @@
 NAME=neo-euler
 VERSION=0.002
 
-FF=fontforge -lang=ff
-FFLAGES=0x200000
-SCRIPT='Open($$1); SelectAll(); CorrectDirection(); Generate($$2, "", $(FFLAGES))'
+PY=python
+
+define SCRIPT
+import fontforge, sys
+f = fontforge.open(sys.argv[1])
+f.correctDirection()
+f.version = $(VERSION)
+f.generate(sys.argv[2], flags=("round"))
+endef
+
 
 SFDS=euler.sfd
 OTFS=$(SFDS:.sfd=.otf)
@@ -13,8 +20,8 @@ all: otf
 otf: $(OTFS)
 
 %.otf : %.sfd
-	@echo "Generating $@"
-	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@echo "Building $@"
+	@$(PY) -c "$$SCRIPT" $< $@
 
 dist: $(OTFS)
 	@echo "Making dist tarball"
