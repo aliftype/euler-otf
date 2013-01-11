@@ -1,16 +1,17 @@
-NAME=neo-euler
+NAME=euler
 VERSION=0.002
 
 PY=python
 
-define SCRIPT
+define $(NAME)SCRIPT
 import fontforge, sys
 f = fontforge.open(sys.argv[1])
 f.correctDirection()
-f.version = $(VERSION)
-f.generate(sys.argv[2], flags=("round"))
+f.version = "$(VERSION)"
+f.generate(sys.argv[2], flags=("round", "opentype"))
 endef
 
+export $(NAME)SCRIPT
 
 SFDS=euler.sfd
 OTFS=$(SFDS:.sfd=.otf)
@@ -21,7 +22,7 @@ otf: $(OTFS)
 
 %.otf : %.sfd
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@
+	@$(PY) -c "$$$(NAME)SCRIPT" $< $@
 
 dist: $(OTFS)
 	@echo "Making dist tarball"
