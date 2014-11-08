@@ -1,0 +1,25 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature onum {
+  sub zero  by zero.onum;
+  sub one   by one.onum;
+  sub two   by two.onum;
+  sub three by three.onum;
+  sub four  by four.onum;
+  sub five  by five.onum;
+  sub six   by six.onum;
+  sub seven by seven.onum;
+  sub eight by eight.onum;
+  sub nine  by nine.onum;
+} onum;
+
+feature salt {
+  sub one    from [one.alt];
+  sub u1D521 from [u1D521.alt u1D521.nos];
+  sub u1D523 from [u1D523.alt u1D523.nos];
+  sub u1D524 from [u1D524.alt];
+  sub u1D528 from [u1D528.alt];
+  sub u1D531 from [u1D531.alt];
+  sub u1D532 from [u1D532.alt];
+} salt;
