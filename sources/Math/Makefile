@@ -1,4 +1,4 @@
-MKO=makeotf -r
+MKO=makeotf -r -shw
 
 OTF=Regular/NeoEulerMath-Regular.otf Bold/NeoEulerMath-Bold.otf
 ASM=Regular/font.t1asm Bold/font.t1asm
