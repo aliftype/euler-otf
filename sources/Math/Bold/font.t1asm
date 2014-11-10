@@ -72,10 +72,6 @@ dup /CharStrings
 	} |-
 /u1D468 {
 	0 830 hsbw
-	-15 78 hstem
-	268 51 hstem
-	648 39 hstem
-	3 818 vstem
 	131 10 rmoveto
 	34 87 42 107 34 64 rrcurveto
 	251 hlineto
@@ -109,11 +105,6 @@ dup /CharStrings
 	} |-
 /u1D469 {
 	0 726 hsbw
-	-2 42 hstem
-	347 38 hstem
-	661 42 hstem
-	132 133 vstem
-	496 145 vstem
 	421 379 rmoveto
 	92 19 104 51 0 101 rrcurveto
 	105 -94 48 -169 vhcurveto
@@ -146,9 +137,6 @@ dup /CharStrings
 	} |-
 /u1D46A {
 	0 789 hsbw
-	-18 61 hstem
-	666 45 hstem
-	86 147 vstem
 	751 585 rmoveto
 	-59 92 -84 34 -126 0 rrcurveto
 	-109 0 -105 -38 -77 -70 rrcurveto
@@ -166,10 +154,6 @@ dup /CharStrings
 	} |-
 /u1D46B {
 	0 900 hsbw
-	-1 43 hstem
-	655 43 hstem
-	134 135 vstem
-	674 154 vstem
 	109 -1 rmoveto
 	282 hlineto
 	122 0 122 33 88 80 rrcurveto
@@ -197,10 +181,6 @@ dup /CharStrings
 	} |-
 /u1D46C {
 	0 641 hsbw
-	3 62 hstem
-	344 45 hstem
-	645 51 hstem
-	109 123 vstem
 	595 76 rmoveto
 	0 -270 -15 -15 vhcurveto
 	-41 0 -21 21 -5 41 rrcurveto
@@ -232,10 +212,6 @@ dup /CharStrings
 	} |-
 /u1D46D {
 	0 525 hsbw
-	-12 21 hstem
-	343 46 hstem
-	642 56 hstem
-	106 131 vstem
 	238 23 rmoveto
 	-1 98 -5 194 0 1 rrcurveto
 	23 8 4 17 vhcurveto
@@ -261,11 +237,6 @@ dup /CharStrings
 	} |-
 /u1D46E {
 	0 846 hsbw
-	-14 53 hstem
-	257 57 hstem
-	661 45 hstem
-	90 146 vstem
-	607 132 vstem
 	398 303 rmoveto
 	-37 vlineto
 	163 -11 40 11 6 -45 rrcurveto
@@ -290,11 +261,6 @@ dup /CharStrings
 	} |-
 /u1D46F {
 	0 857 hsbw
-	-2 37 hstem
-	339 49 hstem
-	662 36 hstem
-	134 134 vstem
-	607 134 vstem
 	613 681 rmoveto
 	-268 vlineto
 	-14 0 -11 -34 vhcurveto
@@ -327,9 +293,6 @@ dup /CharStrings
 	} |-
 /u1D470 {
 	0 461 hsbw
-	1 29 hstem
-	661 35 hstem
-	149 131 vstem
 	278 618 rmoveto
 	0 14 8 14 16 3 rrcurveto
 	78 16 rlineto
@@ -355,9 +318,6 @@ dup /CharStrings
 	} |-
 /u1D471 {
 	0 458 hsbw
-	-168 21 hstem
-	670 35 hstem
-	179 128 vstem
 	305 513 rmoveto
 	0 68 -7 64 46 13 rrcurveto
 	1 0 45 9 22 5 rrcurveto
@@ -378,9 +338,6 @@ dup /CharStrings
 	} |-
 /u1D472 {
 	0 748 hsbw
-	-16 23 hstem
-	662 39 hstem
-	137 132 vstem
 	280 387 rmoveto
 	-12 hlineto
 	0 103 5 101 10 103 rrcurveto
@@ -409,9 +366,6 @@ dup /CharStrings
 	} |-
 /u1D473 {
 	0 621 hsbw
-	-1 57 hstem
-	666 36 hstem
-	126 132 vstem
 	575 75 rmoveto
 	-35 -4 -155 -18 -103 0 rrcurveto
 	-36 9 117 83 hvcurveto
@@ -435,9 +389,6 @@ dup /CharStrings
 	} |-
 /u1D474 {
 	0 1158 hsbw
-	-15 73 hstem
-	667 33 hstem
-	870 115 vstem
 	244 533 rmoveto
 	3 4 3 4 vhcurveto
 	3 0 4 -3 2 -4 rrcurveto
@@ -475,10 +426,6 @@ dup /CharStrings
 	} |-
 /u1D475 {
 	0 922 hsbw
-	-3 21 hstem
-	666 33 hstem
-	150 53 vstem
-	708 61 vstem
 	231 526 rmoveto
 	-28 9 3 4 4 0 rrcurveto
 	2 0 4 -2 3 -4 rrcurveto
@@ -504,10 +451,6 @@ dup /CharStrings
 	} |-
 /u1D476 {
 	0 882 hsbw
-	-15 46 hstem
-	680 40 hstem
-	72 138 vstem
-	679 143 vstem
 	72 330 rmoveto
 	0 -97 26 -106 74 -68 rrcurveto
 	57 -52 80 -22 80 0 rrcurveto
@@ -527,11 +470,6 @@ dup /CharStrings
 	} |-
 /u1D477 {
 	0 665 hsbw
-	-6 21 hstem
-	304 37 hstem
-	664 35 hstem
-	136 133 vstem
-	475 142 vstem
 	270 30 rmoveto
 	-2 84 -3 167 0 1 rrcurveto
 	0 33 57 -10 28 2 rrcurveto
@@ -557,11 +495,6 @@ dup /CharStrings
 	} |-
 /u1D478 {
 	0 919 hsbw
-	-195 42 hstem
-	-7 33 hstem
-	668 46 hstem
-	86 142 vstem
-	696 139 vstem
 	820 -141 rmoveto
 	-33 -6 -35 -6 -38 0 rrcurveto
 	-76 0 -56 78 -37 58 rrcurveto
@@ -585,11 +518,6 @@ dup /CharStrings
 	} |-
 /u1D479 {
 	0 714 hsbw
-	-10 21 hstem
-	325 40 hstem
-	662 39 hstem
-	142 124 vstem
-	470 142 vstem
 	264 325 rmoveto
 	8 0 4 -1 1 -1 rrcurveto
 	249 -331 rlineto
@@ -621,10 +549,6 @@ dup /CharStrings
 	} |-
 /u1D47A {
 	0 655 hsbw
-	-14 49 hstem
-	685 38 hstem
-	130 111 vstem
-	468 119 vstem
 	496 548 rmoveto
 	95 74 rlineto
 	-31 75 -68 26 -102 0 rrcurveto
@@ -646,9 +570,6 @@ dup /CharStrings
 	} |-
 /u1D47B {
 	0 543 hsbw
-	-10 23 hstem
-	645 67 hstem
-	260 121 vstem
 	257 496 rmoveto
 	0 -165 -3 -165 -5 -165 rrcurveto
 	9 -12 rlineto
@@ -672,10 +593,6 @@ dup /CharStrings
 	} |-
 /u1D47C {
 	0 859 hsbw
-	-10 63 hstem
-	668 34 hstem
-	125 127 vstem
-	582 128 vstem
 	577 671 rmoveto
 	7 -111 0 -277 0 -195 rrcurveto
 	-40 -18 -47 -17 -47 0 rrcurveto
@@ -707,9 +624,6 @@ dup /CharStrings
 	} |-
 /u1D47D {
 	0 745 hsbw
-	-5 21 hstem
-	666 42 hstem
-	27 780 vstem
 	688 697 rmoveto
 	-45 -86 -45 -92 -39 -82 rrcurveto
 	-123 -255 rlineto
@@ -732,9 +646,6 @@ dup /CharStrings
 	} |-
 /u1D47E {
 	0 1126 hsbw
-	-16 21 hstem
-	667 33 hstem
-	13 1165 vstem
 	1178 699 rmoveto
 	-120 -16 rlineto
 	-56 -175 -90 -192 -80 -169 rrcurveto
@@ -766,9 +677,6 @@ dup /CharStrings
 	} |-
 /u1D47F {
 	0 737 hsbw
-	-13 21 hstem
-	665 35 hstem
-	29 676 vstem
 	400 448 rmoveto
 	-14 hlineto
 	-51 83 -52 86 -45 88 rrcurveto
@@ -795,9 +703,6 @@ dup /CharStrings
 	} |-
 /u1D480 {
 	0 584 hsbw
-	-4 21 hstem
-	668 38 hstem
-	275 133 vstem
 	682 695 rmoveto
 	-1 12 rlineto
 	-102 -17 rlineto
@@ -820,9 +725,6 @@ dup /CharStrings
 	} |-
 /u1D481 {
 	0 734 hsbw
-	-2 66 hstem
-	641 53 hstem
-	29 674 vstem
 	477 629 rmoveto
 	-149 -205 -140 -201 -159 -199 rrcurveto
 	-24 vlineto
@@ -844,10 +746,6 @@ dup /CharStrings
 	} |-
 /u1D482 {
 	0 665 hsbw
-	-15 78 hstem
-	459 37 hstem
-	97 113 vstem
-	441 110 vstem
 	546 493 rmoveto
 	-60 -38 rlineto
 	-44 27 -48 16 -54 0 rrcurveto
@@ -873,11 +771,6 @@ dup /CharStrings
 	} |-
 /u1D483 {
 	0 673 hsbw
-	-14 52 hstem
-	419 74 hstem
-	646 61 hstem
-	126 105 vstem
-	470 119 vstem
 	241 693 rmoveto
 	-15 12 rlineto
 	-188 -28 rlineto
@@ -903,9 +796,6 @@ dup /CharStrings
 	} |-
 /u1D484 {
 	0 549 hsbw
-	-10 69 hstem
-	452 44 hstem
-	90 118 vstem
 	516 379 rmoveto
 	-6 90 -75 27 -75 0 rrcurveto
 	-199 -71 -158 -145 hvcurveto
@@ -923,10 +813,6 @@ dup /CharStrings
 	} |-
 /u1D485 {
 	0 673 hsbw
-	10 -21 hstem
-	456 39 hstem
-	84 123 vstem
-	439 105 vstem
 	357 678 rmoveto
 	-14 -9 rlineto
 	-24 vlineto
@@ -956,10 +842,6 @@ dup /CharStrings
 	} |-
 /u1D486 {
 	0 614 hsbw
-	-16 68 hstem
-	455 40 hstem
-	87 120 vstem
-	435 123 vstem
 	220 258 rmoveto
 	-2 0 -2 -1 -2 0 rrcurveto
 	-4 -3 1 4 hvcurveto
@@ -983,9 +865,6 @@ dup /CharStrings
 	} |-
 /u1D487 {
 	0 431 hsbw
-	400 44 hstem
-	644 42 hstem
-	148 103 vstem
 	251 392 rmoveto
 	9 8 rlineto
 	111 hlineto
@@ -1017,10 +896,6 @@ dup /CharStrings
 	} |-
 /u1D488 {
 	0 658 hsbw
-	-242 50 hstem
-	454 41 hstem
-	91 116 vstem
-	436 105 vstem
 	541 127 rmoveto
 	0 261 0 17 4 72 rrcurveto
 	-13 4 rlineto
@@ -1048,18 +923,10 @@ dup /CharStrings
 	} |-
 /u1D489 {
 	0 665 hsbw
-	-8 96 hstem
-	497 -20 hstem
-	125 105 vstem
-	432 109 vstem
 	230 380 rmoveto
 	32 24 49 24 36 0 rrcurveto
 	58 27 -28 -90 hvcurveto
 	4 callsubr
-	-8 96 hstem
-	497 -20 hstem
-	125 105 vstem
-	427 106 vstem
 	0 -45 -5 -50 0 -60 rrcurveto
 	-113 20 -50 71 vhcurveto
 	54 0 54 64 38 44 rrcurveto
@@ -1068,10 +935,6 @@ dup /CharStrings
 	-19 -17 -21 -18 -28 0 rrcurveto
 	-36 -10 37 63 hvcurveto
 	4 callsubr
-	-8 96 hstem
-	497 -20 hstem
-	125 105 vstem
-	432 109 vstem
 	0 64 8 64 0 32 rrcurveto
 	65 -11 84 -96 vhcurveto
 	-65 0 -71 -37 -59 -34 rrcurveto
@@ -1092,10 +955,6 @@ dup /CharStrings
 	} |-
 /u1D48A {
 	0 367 hsbw
-	-13 85 hstem
-	420 73 hstem
-	562 123 hstem
-	130 105 vstem
 	117 621 rmoveto
 	-36 30 -30 36 vhcurveto
 	36 30 30 36 hvcurveto
@@ -1122,9 +981,6 @@ dup /CharStrings
 	} |-
 /u1D48B {
 	0 363 hsbw
-	493 -20 hstem
-	555 132 hstem
-	127 132 vstem
 	127 621 rmoveto
 	-36 30 -30 36 vhcurveto
 	36 30 30 36 hvcurveto
@@ -1134,9 +990,6 @@ dup /CharStrings
 	-89 -232 rmoveto
 	20 16 27 15 22 0 rrcurveto
 	4 callsubr
-	493 -20 hstem
-	555 132 hstem
-	145 101 vstem
 	54 -16 -145 -150 hvcurveto
 	0 -47 -1 -46 -2 -32 rrcurveto
 	-7 -101 -72 -65 -81 -61 rrcurveto
@@ -1150,7 +1003,6 @@ dup /CharStrings
 	} |-
 /u1D48C {
 	0 611 hsbw
-	133 105 vstem
 	243 253 rmoveto
 	9 9 rlineto
 	68 -86 80 -178 80 0 rrcurveto
@@ -1179,9 +1031,6 @@ dup /CharStrings
 	} |-
 /u1D48D {
 	0 369 hsbw
-	-7 83 hstem
-	649 49 hstem
-	123 111 vstem
 	237 685 rmoveto
 	-13 12 rlineto
 	-184 -17 rlineto
@@ -1203,12 +1052,6 @@ dup /CharStrings
 	} |-
 /u1D48E {
 	0 989 hsbw
-	14 -21 hstem
-	433 -20 hstem
-	492 -20 hstem
-	135 104 vstem
-	441 103 vstem
-	752 108 vstem
 	240 383 rmoveto
 	36 23 49 27 46 0 rrcurveto
 	73 -4 -88 -56 hvcurveto
@@ -1246,10 +1089,6 @@ dup /CharStrings
 	} |-
 /u1D48F {
 	0 671 hsbw
-	-10 98 hstem
-	497 -20 hstem
-	126 105 vstem
-	435 105 vstem
 	231 378 rmoveto
 	37 20 54 26 30 0 rrcurveto
 	20 0 21 -2 15 -14 rrcurveto
@@ -1280,10 +1119,6 @@ dup /CharStrings
 	} |-
 /u1D490 {
 	0 673 hsbw
-	-11 41 hstem
-	446 40 hstem
-	79 129 vstem
-	461 129 vstem
 	208 234 rmoveto
 	87 27 125 105 vhcurveto
 	94 27 -93 -85 hvcurveto
@@ -1302,10 +1137,6 @@ dup /CharStrings
 	} |-
 /u1D491 {
 	0 663 hsbw
-	0 42 hstem
-	414 74 hstem
-	134 105 vstem
-	473 120 vstem
 	246 -217 rmoveto
 	232 vlineto
 	2 6 rlineto
@@ -1334,10 +1165,6 @@ dup /CharStrings
 	} |-
 /u1D492 {
 	0 672 hsbw
-	-39 -21 hstem
-	408 40 hstem
-	102 115 vstem
-	440 104 vstem
 	557 -213 rmoveto
 	-8 128 -4 182 0 131 rrcurveto
 	0 103 5 102 6 102 rrcurveto
@@ -1361,8 +1188,6 @@ dup /CharStrings
 	} |-
 /u1D493 {
 	0 497 hsbw
-	489 -20 hstem
-	134 105 vstem
 	253 33 rmoveto
 	-7 76 -7 116 0 32 rrcurveto
 	56 17 88 78 vhcurveto
@@ -1384,10 +1209,6 @@ dup /CharStrings
 	} |-
 /u1D494 {
 	0 499 hsbw
-	-15 37 hstem
-	457 37 hstem
-	71 95 vstem
-	313 112 vstem
 	419 426 rmoveto
 	-29 58 -61 10 -59 0 rrcurveto
 	-103 -96 -49 -114 hvcurveto
@@ -1409,9 +1230,6 @@ dup /CharStrings
 	} |-
 /u1D495 {
 	0 437 hsbw
-	10 -21 hstem
-	400 45 hstem
-	147 105 vstem
 	143 588 rmoveto
 	0 -1 2 -82 1 -52 rrcurveto
 	-7 -9 rlineto
@@ -1443,10 +1261,6 @@ dup /CharStrings
 	} |-
 /u1D496 {
 	0 670 hsbw
-	13 -21 hstem
-	496 -20 hstem
-	119 107 vstem
-	435 105 vstem
 	430 466 rmoveto
 	4 -73 2 -79 0 -78 rrcurveto
 	0 -42 0 -41 -1 -39 rrcurveto
@@ -1476,9 +1290,6 @@ dup /CharStrings
 	} |-
 /u1D497 {
 	0 546 hsbw
-	-13 21 hstem
-	411 78 hstem
-	422 96 vstem
 	-11 386 rmoveto
 	22 14 33 12 14 0 rrcurveto
 	51 0 9 -104 16 -63 rrcurveto
@@ -1501,9 +1312,6 @@ dup /CharStrings
 	} |-
 /u1D498 {
 	0 919 hsbw
-	-13 21 hstem
-	407 84 hstem
-	788 102 vstem
 	231 382 rmoveto
 	-8 50 -1 22 -12 11 rrcurveto
 	-16 14 -16 11 -23 0 rrcurveto
@@ -1538,9 +1346,6 @@ dup /CharStrings
 	} |-
 /u1D499 {
 	0 550 hsbw
-	-12 89 hstem
-	418 71 hstem
-	-23 554 vstem
 	464 489 rmoveto
 	-12 hlineto
 	-64 -55 -56 -62 -54 -62 rrcurveto
@@ -1572,11 +1377,6 @@ dup /CharStrings
 	} |-
 /u1D49A {
 	0 670 hsbw
-	-232 50 hstem
-	10 -21 hstem
-	489 -20 hstem
-	125 110 vstem
-	443 105 vstem
 	552 487 rmoveto
 	-18 4 rlineto
 	-100 -35 rlineto
@@ -1608,9 +1408,6 @@ dup /CharStrings
 	} |-
 /u1D49B {
 	0 545 hsbw
-	-8 102 hstem
-	396 96 hstem
-	26 498 vstem
 	471 492 rmoveto
 	-28 -19 -31 -11 -35 0 rrcurveto
 	-73 0 -69 30 -63 0 rrcurveto
@@ -1638,10 +1435,6 @@ dup /CharStrings
 	} |-
 /u1D71E {
 	0 536 hsbw
-	-9 21 hstem
-	631 61 hstem
-	102 124 vstem
-	548 31 vstem
 	562 692 rmoveto
 	-506 hlineto
 	-2 -17 rlineto
@@ -1661,9 +1454,6 @@ dup /CharStrings
 	} |-
 /u1D71F {
 	0 783 hsbw
-	-2 59 hstem
-	679 20 hstem
-	23 728 vstem
 	385 669 rmoveto
 	-90 -186 -145 -240 -127 -209 rrcurveto
 	1 -14 2 -20 0 -1 rrcurveto
@@ -1683,8 +1473,6 @@ dup /CharStrings
 	} |-
 /u1D723 {
 	0 969 hsbw
-	651 48 hstem
-	734 138 vstem
 	608 429 rmoveto
 	-9 -27 -56 7 -38 0 rrcurveto
 	-53 0 -102 -3 -4 16 rrcurveto
@@ -1721,9 +1509,6 @@ dup /CharStrings
 	} |-
 /u1D726 {
 	0 848 hsbw
-	-13 21 hstem
-	674 20 hstem
-	18 798 vstem
 	403 672 rmoveto
 	-116 -225 -128 -219 -141 -212 rrcurveto
 	12 -20 rlineto
@@ -1742,12 +1527,6 @@ dup /CharStrings
 	} |-
 /u1D729 {
 	0 653 hsbw
-	-3 109 hstem
-	169 20 hstem
-	306 107 hstem
-	505 21 hstem
-	584 115 hstem
-	26 597 vstem
 	623 186 rmoveto
 	-28 3 rlineto
 	-21 -56 rlineto
@@ -1782,10 +1561,6 @@ dup /CharStrings
 	} |-
 /u1D72B {
 	0 845 hsbw
-	-14 21 hstem
-	623 65 hstem
-	119 126 vstem
-	589 126 vstem
 	724 214 rmoveto
 	-11 74 0 97 0 86 rrcurveto
 	0 56 -15 103 53 11 rrcurveto
@@ -1814,9 +1589,6 @@ dup /CharStrings
 	} |-
 /u1D72E {
 	0 713 hsbw
-	0 20 hstem
-	623 66 hstem
-	28 635 vstem
 	377 378 rmoveto
 	8 10 6 15 1 8 rrcurveto
 	0 8 -3 9 -10 14 rrcurveto
@@ -1841,11 +1613,6 @@ dup /CharStrings
 	} |-
 /u1D730 {
 	0 794 hsbw
-	-6 21 hstem
-	605 96 hstem
-	29 22 vstem
-	334 128 vstem
-	732 31 vstem
 	470 27 rmoveto
 	-4 61 -4 61 0 61 rrcurveto
 	0 128 26 146 98 89 rrcurveto
@@ -1868,13 +1635,6 @@ dup /CharStrings
 	} |-
 /u1D731 {
 	0 974 hsbw
-	0 29 hstem
-	90 26 hstem
-	555 32 hstem
-	657 28 hstem
-	78 143 vstem
-	412 135 vstem
-	744 140 vstem
 	642 661 rmoveto
 	24 vlineto
 	-323 hlineto
@@ -1921,10 +1681,6 @@ dup /CharStrings
 	} |-
 /u1D733 {
 	0 782 hsbw
-	20 -21 hstem
-	703 -20 hstem
-	84 125 vstem
-	335 121 vstem
 	719 592 rmoveto
 	6 28 11 30 30 11 rrcurveto
 	4 27 rlineto
@@ -1934,18 +1690,10 @@ dup /CharStrings
 	-8 -50 -31 -49 -56 -14 rrcurveto
 	-8 6 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	84 125 vstem
-	331 129 vstem
 	0 133 0 139 4 127 rrcurveto
 	-15 12 rlineto
 	-114 -32 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	84 125 vstem
-	335 121 vstem
 	4 -59 0 -187 0 -129 rrcurveto
 	-9 -6 rlineto
 	-90 30 -24 117 -3 79 rrcurveto
@@ -1956,10 +1704,6 @@ dup /CharStrings
 	150 0 -194 -307 239 -72 rrcurveto
 	35 -11 38 -5 37 -5 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	84 125 vstem
-	331 129 vstem
 	7 -9 rlineto
 	-166 vlineto
 	0 -15 -11 -12 -16 -3 rrcurveto
@@ -1969,10 +1713,6 @@ dup /CharStrings
 	27 vlineto
 	-76 20 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	84 125 vstem
-	331 123 vstem
 	-38 11 4 127 0 59 rrcurveto
 	7 9 rlineto
 	173 26 29 46 20 94 rrcurveto
@@ -1981,10 +1721,6 @@ dup /CharStrings
 	} |-
 /u1D734 {
 	0 960 hsbw
-	0 104 hstem
-	659 41 hstem
-	97 144 vstem
-	716 141 vstem
 	928 105 rmoveto
 	-86 0 -108 -5 -87 -5 rrcurveto
 	-4 11 rlineto
@@ -2012,9 +1748,6 @@ dup /CharStrings
 	} |-
 /u1D736 {
 	0 715 hsbw
-	-16 88 hstem
-	413 61 hstem
-	90 107 vstem
 	620 476 rmoveto
 	-84 -143 rlineto
 	-9 hlineto
@@ -2044,12 +1777,6 @@ dup /CharStrings
 	} |-
 /u1D737 {
 	0 700 hsbw
-	-194 21 hstem
-	-11 37 hstem
-	338 34 hstem
-	630 46 hstem
-	114 111 vstem
-	491 124 vstem
 	227 -152 rmoveto
 	-4 192 -6 383 0 1 rrcurveto
 	93 11 113 108 vhcurveto
@@ -2077,9 +1804,6 @@ dup /CharStrings
 	} |-
 /u1D738 {
 	0 646 hsbw
-	-201 19 hstem
-	407 65 hstem
-	289 76 vstem
 	305 -201 rmoveto
 	55 35 rlineto
 	8 54 0 85 0 60 rrcurveto
@@ -2101,10 +1825,6 @@ dup /CharStrings
 	} |-
 /u1D739 {
 	0 584 hsbw
-	-11 69 hstem
-	624 49 hstem
-	81 103 vstem
-	426 79 vstem
 	254 390 rmoveto
 	32 -29 rlineto
 	63 -52 78 -73 0 -67 rrcurveto
@@ -2129,10 +1849,6 @@ dup /CharStrings
 	} |-
 /u1D73A {
 	0 532 hsbw
-	-16 79 hstem
-	234 51 hstem
-	436 36 hstem
-	128 76 vstem
 	360 286 rmoveto
 	-66 -90 13 79 hvcurveto
 	33 37 25 35 vhcurveto
@@ -2157,12 +1873,6 @@ dup /CharStrings
 	} |-
 /u1D73B {
 	0 524 hsbw
-	-129 21 hstem
-	-10 86 hstem
-	586 34 hstem
-	655 20 hstem
-	78 115 vstem
-	432 80 vstem
 	426 -129 rmoveto
 	36 47 49 64 0 44 rrcurveto
 	48 -68 4 -15 vhcurveto
@@ -2189,11 +1899,6 @@ dup /CharStrings
 	} |-
 /u1D73C {
 	0 652 hsbw
-	-197 21 hstem
-	-7 21 hstem
-	398 72 hstem
-	127 106 vstem
-	424 108 vstem
 	540 -156 rmoveto
 	-17 215 33 328 -53 50 rrcurveto
 	-21 19 -25 13 -31 0 rrcurveto
@@ -2217,11 +1922,6 @@ dup /CharStrings
 	} |-
 /u1D73D {
 	0 649 hsbw
-	-14 67 hstem
-	317 44 hstem
-	622 55 hstem
-	84 93 vstem
-	461 102 vstem
 	371 677 rmoveto
 	-123 0 -100 -67 -41 -114 rrcurveto
 	-20 -56 -3 -71 0 -59 rrcurveto
@@ -2248,9 +1948,6 @@ dup /CharStrings
 	} |-
 /u1D73E {
 	0 354 hsbw
-	-11 79 hstem
-	449 20 hstem
-	123 101 vstem
 	336 104 rmoveto
 	-8 hlineto
 	-18 -18 -20 -18 -27 0 rrcurveto
@@ -2266,9 +1963,6 @@ dup /CharStrings
 	} |-
 /u1D73F {
 	0 583 hsbw
-	-9 18 hstem
-	451 19 hstem
-	114 105 vstem
 	487 467 rmoveto
 	-90 -56 -64 -54 -107 -102 rrcurveto
 	-7 4 rlineto
@@ -2293,9 +1987,6 @@ dup /CharStrings
 	} |-
 /u1D740 {
 	0 596 hsbw
-	-11 21 hstem
-	624 55 hstem
-	29 541 vstem
 	290 374 rmoveto
 	7 hlineto
 	52 -127 44 -116 46 -128 rrcurveto
@@ -2321,9 +2012,6 @@ dup /CharStrings
 	} |-
 /u1D741 {
 	0 646 hsbw
-	11 -21 hstem
-	111 103 vstem
-	419 104 vstem
 	419 116 rmoveto
 	-32 -22 -39 -25 -43 0 rrcurveto
 	-103 14 114 71 hvcurveto
@@ -2354,9 +2042,6 @@ dup /CharStrings
 	} |-
 /u1D742 {
 	0 639 hsbw
-	-6 21 hstem
-	405 65 hstem
-	-2 606 vstem
 	527 471 rmoveto
 	-25 -15 rlineto
 	-8 -67 -18 -67 -23 -66 rrcurveto
@@ -2379,13 +2064,6 @@ dup /CharStrings
 	} |-
 /u1D743 {
 	0 588 hsbw
-	-126 21 hstem
-	1 87 hstem
-	339 29 hstem
-	607 29 hstem
-	669 20 hstem
-	73 122 vstem
-	502 74 vstem
 	489 -126 rmoveto
 	42 44 45 50 0 61 rrcurveto
 	42 -31 17 -70 vhcurveto
@@ -2417,10 +2095,6 @@ dup /CharStrings
 	} |-
 /u1D745 {
 	0 664 hsbw
-	-5 21 hstem
-	388 97 hstem
-	509 14 hstem
-	403 106 vstem
 	171 485 rmoveto
 	-32 0 -38 0 -22 -17 rrcurveto
 	-24 -18 -24 -95 -13 -64 rrcurveto
@@ -2452,11 +2126,6 @@ dup /CharStrings
 	} |-
 /u1D746 {
 	0 611 hsbw
-	-196 21 hstem
-	2 51 hstem
-	437 37 hstem
-	104 109 vstem
-	439 127 vstem
 	228 -166 rmoveto
 	8 12 rlineto
 	-16 66 -14 73 0 68 rrcurveto
@@ -2480,10 +2149,6 @@ dup /CharStrings
 	} |-
 /u1D748 {
 	0 700 hsbw
-	-11 43 hstem
-	421 43 hstem
-	86 126 vstem
-	440 107 vstem
 	325 425 rmoveto
 	106 9 -122 -70 hvcurveto
 	-79 -19 -122 -100 vhcurveto
@@ -2508,11 +2173,6 @@ dup /CharStrings
 	} |-
 /u1D749 {
 	0 581 hsbw
-	-7 78 hstem
-	372 88 hstem
-	483 15 hstem
-	31 29 vstem
-	245 109 vstem
 	499 372 rmoveto
 	28 0 48 78 9 38 rrcurveto
 	-12 9 rlineto
@@ -2539,10 +2199,6 @@ dup /CharStrings
 	} |-
 /u1D74A {
 	0 622 hsbw
-	0 64 hstem
-	391 82 hstem
-	123 106 vstem
-	485 85 vstem
 	409 399 rmoveto
 	46 -47 30 -59 0 -63 rrcurveto
 	-79 -32 -86 -97 vhcurveto
@@ -2564,10 +2220,6 @@ dup /CharStrings
 	} |-
 /u1D74B {
 	0 817 hsbw
-	421 47 hstem
-	85 116 vstem
-	323 105 vstem
-	618 119 vstem
 	333 -201 rmoveto
 	100 30 rlineto
 	-2 33 -3 76 0 52 rrcurveto
@@ -2599,9 +2251,6 @@ dup /CharStrings
 	} |-
 /u1D74C {
 	0 588 hsbw
-	-194 70 hstem
-	385 78 hstem
-	-4 602 vstem
 	593 -116 rmoveto
 	-17 -3 -18 -3 -18 0 rrcurveto
 	-84 0 -63 143 -69 146 rrcurveto
@@ -2630,13 +2279,6 @@ dup /CharStrings
 	} |-
 /u1D74D {
 	0 822 hsbw
-	-196 21 hstem
-	-6 34 hstem
-	391 81 hstem
-	652 20 hstem
-	110 106 vstem
-	365 104 vstem
-	647 95 vstem
 	464 672 rmoveto
 	-106 -35 rlineto
 	3 -124 5 -123 0 -124 rrcurveto
@@ -2675,11 +2317,6 @@ dup /CharStrings
 	} |-
 /u1D74E {
 	0 973 hsbw
-	-7 77 hstem
-	478 20 hstem
-	78 99 vstem
-	432 102 vstem
-	801 86 vstem
 	716 432 rmoveto
 	3 -19 rlineto
 	56 -47 26 -66 0 -68 rrcurveto
@@ -2707,11 +2344,6 @@ dup /CharStrings
 	} |-
 /u1D74F {
 	0 643 hsbw
-	-18 41 hstem
-	439 37 hstem
-	625 71 hstem
-	87 118 vstem
-	444 114 vstem
 	114 534 rmoveto
 	29 64 32 27 53 0 rrcurveto
 	86 0 51 -74 29 -67 rrcurveto
@@ -2738,10 +2370,6 @@ dup /CharStrings
 	} |-
 /u1D750 {
 	0 588 hsbw
-	-7 62 hstem
-	218 44 hstem
-	429 42 hstem
-	84 116 vstem
 	443 263 rmoveto
 	-43 -1 -44 0 -43 0 rrcurveto
 	-35 0 -38 0 -36 2 rrcurveto
@@ -2767,11 +2395,6 @@ dup /CharStrings
 	} |-
 /u1D751 {
 	0 639 hsbw
-	-8 74 hstem
-	291 80 hstem
-	633 43 hstem
-	107 106 vstem
-	459 89 vstem
 	13 273 rmoveto
 	15 9 18 9 15 0 rrcurveto
 	28 18 -13 -74 hvcurveto
@@ -2803,11 +2426,6 @@ dup /CharStrings
 	} |-
 /u1D753 {
 	0 874 hsbw
-	-7 35 hstem
-	437 32 hstem
-	86 127 vstem
-	376 105 vstem
-	663 127 vstem
 	382 -196 rmoveto
 	100 37 rlineto
 	-1 48 0 47 0 48 rrcurveto
@@ -2847,10 +2465,6 @@ dup /CharStrings
 	} |-
 /u1D7CE {
 	0 550 hsbw
-	-15 82 hstem
-	622 92 hstem
-	40 94 vstem
-	436 77 vstem
 	325 716 rmoveto
 	-55 -13 -52 -39 -44 -38 rrcurveto
 	-101 -87 -33 -129 0 -125 rrcurveto
@@ -2870,9 +2484,6 @@ dup /CharStrings
 	} |-
 /u1D7CF {
 	0 550 hsbw
-	-9 21 hstem
-	694 20 hstem
-	236 103 vstem
 	70 626 rmoveto
 	-32 vlineto
 	128 hlineto
@@ -2889,9 +2500,6 @@ dup /CharStrings
 	} |-
 /u1D7D0 {
 	0 550 hsbw
-	5 104 hstem
-	640 75 hstem
-	359 132 vstem
 	529 109 rmoveto
 	-338 hlineto
 	-3 -3 3 2 hvcurveto
@@ -2911,10 +2519,6 @@ dup /CharStrings
 	} |-
 /u1D7D1 {
 	0 550 hsbw
-	-8 43 hstem
-	358 31 hstem
-	644 64 hstem
-	369 127 vstem
 	281 391 rmoveto
 	91 34 83 63 0 94 rrcurveto
 	81 -79 45 -81 vhcurveto
@@ -2937,8 +2541,6 @@ dup /CharStrings
 	} |-
 /u1D7D2 {
 	0 550 hsbw
-	184 71 hstem
-	301 105 vstem
 	413 255 rmoveto
 	-7 8 rlineto
 	435 vlineto
@@ -2969,11 +2571,6 @@ dup /CharStrings
 	} |-
 /u1D7D3 {
 	0 550 hsbw
-	-12 44 hstem
-	395 51 hstem
-	591 103 hstem
-	83 54 vstem
-	366 129 vstem
 	475 694 rmoveto
 	-392 hlineto
 	-345 vlineto
@@ -2998,11 +2595,6 @@ dup /CharStrings
 	} |-
 /u1D7D4 {
 	0 550 hsbw
-	-12 51 hstem
-	318 68 hstem
-	646 58 hstem
-	44 116 vstem
-	419 90 vstem
 	496 625 rmoveto
 	24 65 rlineto
 	-16 7 -32 7 -13 0 rrcurveto
@@ -3025,9 +2617,6 @@ dup /CharStrings
 	} |-
 /u1D7D5 {
 	0 550 hsbw
-	-5 21 hstem
-	595 98 hstem
-	50 38 vstem
 	251 20 rmoveto
 	7 100 24 106 46 92 rrcurveto
 	63 124 75 118 81 116 rrcurveto
@@ -3046,10 +2635,6 @@ dup /CharStrings
 	} |-
 /u1D7D6 {
 	0 550 hsbw
-	-5 47 hstem
-	665 50 hstem
-	42 106 vstem
-	402 103 vstem
 	249 330 rmoveto
 	67 -39 86 -56 0 -78 rrcurveto
 	-66 -38 -54 -82 vhcurveto
@@ -3078,11 +2663,6 @@ dup /CharStrings
 	} |-
 /u1D7D7 {
 	0 550 hsbw
-	-10 21 hstem
-	303 71 hstem
-	643 64 hstem
-	48 107 vstem
-	400 114 vstem
 	376 342 rmoveto
 	-197 -245 rlineto
 	-25 -31 -22 -30 -19 -34 rrcurveto
@@ -3108,9 +2688,6 @@ dup /CharStrings
 	} |-
 /uni002C {
 	0 306 hsbw
-	-192 21 hstem
-	87 20 hstem
-	172 63 vstem
 	133 -192 rmoveto
 	44 47 59 62 0 56 rrcurveto
 	42 -47 109 -36 vhcurveto
@@ -3124,8 +2701,6 @@ dup /CharStrings
 	} |-
 /uni002E {
 	0 306 hsbw
-	-15 117 hstem
-	96 130 vstem
 	90 56 rmoveto
 	-38 32 -32 39 vhcurveto
 	38 32 32 38 hvcurveto
@@ -3136,9 +2711,6 @@ dup /CharStrings
 	} |-
 /uni002F {
 	0 553 hsbw
-	-182 21 hstem
-	702 20 hstem
-	34 432 vstem
 	490 711 rmoveto
 	-36 9 rlineto
 	-11 -2 rlineto
@@ -3151,9 +2723,6 @@ dup /CharStrings
 	} |-
 /uni003C {
 	0 363 hsbw
-	-10 21 hstem
-	455 20 hstem
-	19 319 vstem
 	329 443 rmoveto
 	-25 32 rlineto
 	-285 -230 rlineto
@@ -3165,9 +2734,6 @@ dup /CharStrings
 	} |-
 /uni003E {
 	0 361 hsbw
-	-7 21 hstem
-	452 20 hstem
-	34 295 vstem
 	329 241 rmoveto
 	-255 231 rlineto
 	-40 -35 rlineto
@@ -3179,9 +2745,6 @@ dup /CharStrings
 	} |-
 /uni0131 {
 	0 367 hsbw
-	-13 85 hstem
-	493 -20 hstem
-	130 104 vstem
 	348 119 rmoveto
 	-20 -20 -27 -27 -24 0 rrcurveto
 	-53 10 71 122 hvcurveto
@@ -3202,9 +2765,6 @@ dup /CharStrings
 	} |-
 /uni0237 {
 	0 367 hsbw
-	-194 21 hstem
-	418 74 hstem
-	147 104 vstem
 	38 389 rmoveto
 	20 16 27 15 22 0 rrcurveto
 	54 -16 -145 -150 hvcurveto
@@ -3220,11 +2780,6 @@ dup /CharStrings
 	} |-
 /uni03D6 {
 	0 933 hsbw
-	-11 79 hstem
-	474 69 hstem
-	84 96 vstem
-	416 106 vstem
-	779 86 vstem
 	271 381 rmoveto
 	-112 -31 -75 -88 0 -100 rrcurveto
 	-92 61 -81 110 vhcurveto
@@ -3253,10 +2808,6 @@ dup /CharStrings
 	} |-
 /uni2113 {
 	0 411 hsbw
-	-20 87 hstem
-	669 40 hstem
-	85 101 vstem
-	311 64 vstem
 	373 134 rmoveto
 	-16 -22 -41 -45 -32 0 rrcurveto
 	-76 0 -13 120 -5 58 rrcurveto
@@ -3283,11 +2834,6 @@ dup /CharStrings
 	} |-
 /uni2118 {
 	0 675 hsbw
-	-202 50 hstem
-	-9 66 hstem
-	411 76 hstem
-	49 58 vstem
-	543 90 vstem
 	329 59 rmoveto
 	-18 71 -48 63 -37 64 rrcurveto
 	49 73 72 82 84 0 rrcurveto
@@ -3323,10 +2869,6 @@ dup /CharStrings
 	} |-
 /eight.onum {
 	0 593 hsbw
-	-5 47 hstem
-	665 50 hstem
-	45 114 vstem
-	431 111 vstem
 	252 336 rmoveto
 	83 -43 96 -56 0 -80 rrcurveto
 	-67 -41 -52 -88 vhcurveto
@@ -3353,11 +2895,6 @@ dup /CharStrings
 	} |-
 /five.onum {
 	0 593 hsbw
-	-191 39 hstem
-	193 49 hstem
-	388 93 hstem
-	95 51 vstem
-	371 146 vstem
 	516 481 rmoveto
 	-421 hlineto
 	-319 vlineto
@@ -3382,21 +2919,13 @@ dup /CharStrings
 	} |-
 /four.onum {
 	0 593 hsbw
-	-1 58 hstem
-	335 115 vstem
 	450 -158 rmoveto
 	4 callsubr
-	-1 58 hstem
-	341 105 vstem
 	-3 51 -1 55 0 51 rrcurveto
 	100 hlineto
 	4 callsubr
-	-1 62 hstem
-	335 115 vstem
 	19 62 rlineto
 	4 callsubr
-	-1 58 hstem
-	341 105 vstem
 	-33 -3 -28 -1 -58 0 rrcurveto
 	0 177 4 168 6 80 rrcurveto
 	-10 13 rlineto
@@ -3408,8 +2937,6 @@ dup /CharStrings
 	5 -10 rlineto
 	closepath
 	4 callsubr
-	-1 58 hstem
-	335 115 vstem
 	-236 255 rmoveto
 	11 vlineto
 	72 109 94 130 59 55 rrcurveto
@@ -3420,11 +2947,6 @@ dup /CharStrings
 	} |-
 /nine.onum {
 	0 593 hsbw
-	-195 32 hstem
-	43 72 hstem
-	425 63 hstem
-	29 122 vstem
-	409 140 vstem
 	390 104 rmoveto
 	7 -6 rlineto
 	-6 -73 -38 -73 -60 -50 rrcurveto
@@ -3450,9 +2972,6 @@ dup /CharStrings
 	} |-
 /one.onum {
 	0 593 hsbw
-	0 44 hstem
-	449 40 hstem
-	253 114 vstem
 	97 451 rmoveto
 	91 -13 rlineto
 	57 -8 10 -44 0 -50 rrcurveto
@@ -3472,10 +2991,6 @@ dup /CharStrings
 	} |-
 /one.alt {
 	0 542 hsbw
-	-9 21 hstem
-	594 30 hstem
-	694 20 hstem
-	234 135 vstem
 	368 32 rmoveto
 	-4 64 0 104 0 84 rrcurveto
 	0 138 7 138 12 137 rrcurveto
@@ -3494,9 +3009,6 @@ dup /CharStrings
 	} |-
 /seven.onum {
 	0 593 hsbw
-	-198 21 hstem
-	375 104 hstem
-	54 538 vstem
 	169 -198 rmoveto
 	116 228 139 221 167 205 rrcurveto
 	23 vlineto
@@ -3513,11 +3025,6 @@ dup /CharStrings
 	} |-
 /six.onum {
 	0 593 hsbw
-	-12 51 hstem
-	319 67 hstem
-	646 58 hstem
-	48 124 vstem
-	450 96 vstem
 	537 625 rmoveto
 	11 72 rlineto
 	-19 2 -32 5 -4 0 rrcurveto
@@ -3540,10 +3047,6 @@ dup /CharStrings
 	} |-
 /three.onum {
 	0 593 hsbw
-	-193 44 hstem
-	166 38 hstem
-	423 65 hstem
-	381 142 vstem
 	314 212 rmoveto
 	79 26 73 57 0 77 rrcurveto
 	74 -80 42 -79 vhcurveto
@@ -3566,9 +3069,6 @@ dup /CharStrings
 	} |-
 /two.onum {
 	0 593 hsbw
-	4 97 hstem
-	421 70 hstem
-	307 123 vstem
 	537 hmoveto
 	27 102 rlineto
 	-14 4 rlineto
@@ -3590,12 +3090,6 @@ dup /CharStrings
 	} |-
 /u1D56C {
 	0 847 hsbw
-	-31 21 hstem
-	77 82 hstem
-	624 64 hstem
-	29 103 vstem
-	412 124 vstem
-	583 131 vstem
 	583 124 rmoveto
 	73 -150 rlineto
 	12 -3 rlineto
@@ -3634,11 +3128,6 @@ dup /CharStrings
 	} |-
 /u1D56D {
 	0 1044 hsbw
-	-31 85 hstem
-	621 64 hstem
-	56 101 vstem
-	390 134 vstem
-	827 124 vstem
 	906 100 rmoveto
 	29 37 16 34 0 45 rrcurveto
 	0 87 -46 63 -146 17 rrcurveto
@@ -3688,11 +3177,6 @@ dup /CharStrings
 	} |-
 /u1D56E {
 	0 723 hsbw
-	-32 78 hstem
-	514 55 hstem
-	657 20 hstem
-	71 128 vstem
-	351 136 vstem
 	313 593 rmoveto
 	-71 -31 -103 -61 -21 -16 rrcurveto
 	-29 -56 -18 -61 0 -62 rrcurveto
@@ -3725,12 +3209,6 @@ dup /CharStrings
 	} |-
 /u1D56F {
 	0 982 hsbw
-	-29 21 hstem
-	63 97 hstem
-	597 88 hstem
-	30 25 vstem
-	246 127 vstem
-	780 116 vstem
 	413 549 rmoveto
 	-67 -35 -94 -56 0 -62 rrcurveto
 	0 -59 105 -57 0 -48 rrcurveto
@@ -3762,11 +3240,6 @@ dup /CharStrings
 	} |-
 /u1D570 {
 	0 783 hsbw
-	-29 83 hstem
-	517 59 hstem
-	667 20 hstem
-	73 122 vstem
-	353 105 vstem
 	614 461 rmoveto
 	-122 -80 rlineto
 	0 59 -38 69 0 61 rrcurveto
@@ -3808,12 +3281,6 @@ dup /CharStrings
 	} |-
 /u1D571 {
 	0 722 hsbw
-	-147 40 hstem
-	169 61 hstem
-	596 88 hstem
-	123 112 vstem
-	260 104 vstem
-	468 112 vstem
 	438 299 rmoveto
 	-35 36 -39 46 0 42 rrcurveto
 	0 48 51 25 46 14 rrcurveto
@@ -3852,13 +3319,6 @@ dup /CharStrings
 	} |-
 /u1D572 {
 	0 927 hsbw
-	-29 80 hstem
-	382 76 hstem
-	526 86 hstem
-	668 20 hstem
-	74 117 vstem
-	305 161 vstem
-	718 126 vstem
 	308 596 rmoveto
 	-62 -28 -62 -33 -62 -39 rrcurveto
 	-38 -54 -10 -63 0 -61 rrcurveto
@@ -3896,14 +3356,6 @@ dup /CharStrings
 	} |-
 /u1D573 {
 	0 851 hsbw
-	-127 58 hstem
-	30 96 hstem
-	386 87 hstem
-	534 85 hstem
-	664 20 hstem
-	155 99 vstem
-	288 101 vstem
-	627 126 vstem
 	354 127 rmoveto
 	21 20 7 31 0 27 rrcurveto
 	0 32 -22 54 -24 40 rrcurveto
@@ -3940,9 +3392,6 @@ dup /CharStrings
 	} |-
 /u1D574 {
 	0 655 hsbw
-	-25 54 hstem
-	572 111 hstem
-	418 128 vstem
 	614 670 rmoveto
 	-35 -25 -39 -29 -42 0 rrcurveto
 	-57 0 -109 67 -77 0 rrcurveto
@@ -3972,11 +3421,6 @@ dup /CharStrings
 	} |-
 /u1D575 {
 	0 652 hsbw
-	-142 36 hstem
-	76 73 hstem
-	579 102 hstem
-	125 117 vstem
-	424 115 vstem
 	615 609 rmoveto
 	-38 -14 -45 -16 -32 0 rrcurveto
 	-81 0 -79 102 -65 0 rrcurveto
@@ -4008,11 +3452,6 @@ dup /CharStrings
 	} |-
 /u1D576 {
 	0 789 hsbw
-	-22 70 hstem
-	432 70 hstem
-	620 62 hstem
-	152 110 vstem
-	545 115 vstem
 	738 348 rmoveto
 	-6 21 rlineto
 	-22 -6 -12 0 -12 0 rrcurveto
@@ -4057,10 +3496,6 @@ dup /CharStrings
 	} |-
 /u1D577 {
 	0 786 hsbw
-	-28 110 hstem
-	628 56 hstem
-	178 115 vstem
-	538 125 vstem
 	367 257 rmoveto
 	4 5 1 12 0 5 rrcurveto
 	0 88 -79 72 0 84 rrcurveto
@@ -4095,14 +3530,6 @@ dup /CharStrings
 	} |-
 /u1D578 {
 	0 1239 hsbw
-	-26 20 hstem
-	28 92 hstem
-	620 62 hstem
-	26 98 vstem
-	134 106 vstem
-	400 116 vstem
-	711 114 vstem
-	964 115 vstem
 	1223 76 rmoveto
 	18 vlineto
 	-20 -7 -32 -2 -9 0 rrcurveto
@@ -4160,11 +3587,6 @@ dup /CharStrings
 	} |-
 /u1D579 {
 	0 983 hsbw
-	-30 87 hstem
-	614 65 hstem
-	26 93 vstem
-	429 113 vstem
-	713 112 vstem
 	860 476 rmoveto
 	42 29 37 24 29 13 rrcurveto
 	-5 15 rlineto
@@ -4207,12 +3629,6 @@ dup /CharStrings
 	} |-
 /u1D57A {
 	0 976 hsbw
-	-29 79 hstem
-	577 101 hstem
-	706 20 hstem
-	87 118 vstem
-	217 111 vstem
-	752 129 vstem
 	296 608 rmoveto
 	-10 18 -26 46 vhcurveto
 	35 0 34 4 43 0 rrcurveto
@@ -4247,10 +3663,6 @@ dup /CharStrings
 	} |-
 /u1D57B {
 	0 977 hsbw
-	1 -21 hstem
-	612 69 hstem
-	369 125 vstem
-	679 110 vstem
 	508 -141 rmoveto
 	-9 54 -5 52 0 54 rrcurveto
 	48 -21 55 -18 54 0 rrcurveto
@@ -4264,10 +3676,6 @@ dup /CharStrings
 	-16 13 -21 2 -21 0 rrcurveto
 	-100 0 -91 -62 -73 -62 rrcurveto
 	4 callsubr
-	1 -21 hstem
-	619 66 hstem
-	369 125 vstem
-	679 110 vstem
 	-34 75 -71 53 -89 0 rrcurveto
 	-153 -119 -132 -72 hvcurveto
 	0 -69 95 -32 0 -47 rrcurveto
@@ -4288,10 +3696,6 @@ dup /CharStrings
 	closepath
 	124 741 rmoveto
 	4 callsubr
-	1 -21 hstem
-	612 69 hstem
-	369 125 vstem
-	679 110 vstem
 	53 62 36 32 60 0 rrcurveto
 	45 27 -32 -58 hvcurveto
 	0 -72 37 -2 34 -5 rrcurveto
@@ -4305,12 +3709,6 @@ dup /CharStrings
 	} |-
 /u1D57C {
 	0 976 hsbw
-	-82 21 hstem
-	36 94 hstem
-	577 99 hstem
-	706 20 hstem
-	217 111 vstem
-	752 129 vstem
 	716 66 rmoveto
 	28 20 34 24 22 24 rrcurveto
 	52 74 29 84 0 86 rrcurveto
@@ -4350,12 +3748,6 @@ dup /CharStrings
 	} |-
 /u1D57D {
 	0 978 hsbw
-	-29 21 hstem
-	28 96 hstem
-	619 71 hstem
-	130 114 vstem
-	397 125 vstem
-	718 116 vstem
 	205 619 rmoveto
 	87 0 61 -73 23 -61 rrcurveto
 	15 -41 6 -45 0 -42 rrcurveto
@@ -4406,13 +3798,6 @@ dup /CharStrings
 	} |-
 /u1D57E {
 	0 978 hsbw
-	-31 72 hstem
-	322 84 hstem
-	490 94 hstem
-	610 75 hstem
-	82 119 vstem
-	270 110 vstem
-	822 84 vstem
 	594 513 rmoveto
 	22 -11 23 -12 26 0 rrcurveto
 	98 0 107 69 31 80 rrcurveto
@@ -4445,12 +3830,6 @@ dup /CharStrings
 	} |-
 /u1D57F {
 	0 790 hsbw
-	-30 21 hstem
-	42 91 hstem
-	585 96 hstem
-	30 69 vstem
-	284 118 vstem
-	436 113 vstem
 	798 659 rmoveto
 	32 vlineto
 	-32 -27 -48 -23 -46 0 rrcurveto
@@ -4485,10 +3864,6 @@ dup /CharStrings
 	} |-
 /u1D580 {
 	0 851 hsbw
-	-34 97 hstem
-	669 20 hstem
-	156 123 vstem
-	594 120 vstem
 	363 249 rmoveto
 	6 17 2 17 0 18 rrcurveto
 	0 59 -25 64 -31 55 rrcurveto
@@ -4525,12 +3900,6 @@ dup /CharStrings
 	} |-
 /u1D581 {
 	0 982 hsbw
-	-29 85 hstem
-	86 86 hstem
-	598 87 hstem
-	133 114 vstem
-	378 127 vstem
-	725 149 vstem
 	303 687 rmoveto
 	-161 -117 -137 -69 hvcurveto
 	0 -69 95 -32 0 -47 rrcurveto
@@ -4576,12 +3945,6 @@ dup /CharStrings
 	} |-
 /u1D582 {
 	0 1235 hsbw
-	-31 73 hstem
-	617 66 hstem
-	133 103 vstem
-	394 128 vstem
-	699 107 vstem
-	1022 120 vstem
 	219 617 rmoveto
 	132 43 -132 -91 hvcurveto
 	-110 -30 -144 -163 vhcurveto
@@ -4640,10 +4003,6 @@ dup /CharStrings
 	} |-
 /u1D583 {
 	0 849 hsbw
-	-32 81 hstem
-	315 51 hstem
-	581 100 hstem
-	376 109 vstem
 	835 578 rmoveto
 	19 vlineto
 	-11 -3 -16 -4 -14 0 rrcurveto
@@ -4681,12 +4040,6 @@ dup /CharStrings
 	} |-
 /u1D584 {
 	0 984 hsbw
-	-214 48 hstem
-	-27 106 hstem
-	622 61 hstem
-	137 115 vstem
-	383 130 vstem
-	749 130 vstem
 	217 622 rmoveto
 	36 0 26 -17 23 -20 rrcurveto
 	58 -50 23 -68 0 -69 rrcurveto
@@ -4730,12 +4083,6 @@ dup /CharStrings
 	} |-
 /u1D584.alt {
 	0 981 hsbw
-	-221 55 hstem
-	51 94 hstem
-	619 62 hstem
-	31 103 vstem
-	379 127 vstem
-	746 129 vstem
 	300 681 rmoveto
 	-120 0 -82 -63 -49 -73 rrcurveto
 	-13 -20 -11 -21 0 -23 rrcurveto
@@ -4780,13 +4127,6 @@ dup /CharStrings
 	} |-
 /u1D585 {
 	0 711 hsbw
-	-137 27 hstem
-	-24 70 hstem
-	289 87 hstem
-	571 94 hstem
-	698 20 hstem
-	132 126 vstem
-	490 143 vstem
 	253 664 rmoveto
 	-26 -1 -24 11 0 24 rrcurveto
 	0 7 1 7 3 6 rrcurveto
@@ -4820,12 +4160,6 @@ dup /CharStrings
 	} |-
 /u1D585.alt {
 	0 727 hsbw
-	-148 46 hstem
-	69 75 hstem
-	283 98 hstem
-	602 76 hstem
-	115 127 vstem
-	491 133 vstem
 	252 360 rmoveto
 	-44 -69 rlineto
 	11 -10 rlineto
@@ -4859,11 +4193,6 @@ dup /CharStrings
 	} |-
 /u1D586 {
 	0 603 hsbw
-	-32 98 hstem
-	388 52 hstem
-	452 19 hstem
-	76 116 vstem
-	369 111 vstem
 	369 80 rmoveto
 	1 -26 rlineto
 	28 -25 24 -28 20 -30 rrcurveto
@@ -4892,11 +4221,6 @@ dup /CharStrings
 	} |-
 /u1D587 {
 	0 590 hsbw
-	-32 86 hstem
-	380 94 hstem
-	671 20 hstem
-	98 114 vstem
-	388 119 vstem
 	220 384 rmoveto
 	-9 4 rlineto
 	107 vlineto
@@ -4925,9 +4249,6 @@ dup /CharStrings
 	} |-
 /u1D588 {
 	0 464 hsbw
-	-26 98 hstem
-	393 80 hstem
-	82 129 vstem
 	424 429 rmoveto
 	-39 22 -44 14 -46 8 rrcurveto
 	-195 -107 rlineto
@@ -4947,10 +4268,6 @@ dup /CharStrings
 	} |-
 /u1D589 {
 	0 589 hsbw
-	-29 95 hstem
-	558 74 hstem
-	89 118 vstem
-	392 118 vstem
 	257 459 rmoveto
 	-54 -35 -64 -46 -47 -43 rrcurveto
 	-5 -66 -2 -60 0 -46 rrcurveto
@@ -4976,10 +4293,6 @@ dup /CharStrings
 	} |-
 /u1D589.alt {
 	0 587 hsbw
-	-28 86 hstem
-	562 69 hstem
-	95 116 vstem
-	390 119 vstem
 	262 465 rmoveto
 	-57 -30 -57 -32 -48 -39 rrcurveto
 	-7 -49 -3 -48 0 -49 rrcurveto
@@ -5005,9 +4318,6 @@ dup /CharStrings
 	} |-
 /u1D58A {
 	0 472 hsbw
-	-28 96 hstem
-	391 80 hstem
-	77 111 vstem
 	417 108 rmoveto
 	-35 -17 -44 -18 -31 -5 rrcurveto
 	-72 45 -47 24 0 44 rrcurveto
@@ -5028,9 +4338,6 @@ dup /CharStrings
 	} |-
 /u1D58B {
 	0 388 hsbw
-	359 46 hstem
-	611 70 hstem
-	134 116 vstem
 	253 405 rmoveto
 	-19 65 -84 28 0 63 rrcurveto
 	31 23 19 33 vhcurveto
@@ -5059,9 +4366,6 @@ dup /CharStrings
 	} |-
 /u1D58B.alt {
 	0 387 hsbw
-	359 46 hstem
-	135 78 vstem
-	135 115 vstem
 	251 405 rmoveto
 	-28 69 -46 49 -5 63 rrcurveto
 	37 -10 38 -7 39 0 rrcurveto
@@ -5088,9 +4392,6 @@ dup /CharStrings
 	} |-
 /u1D58B.nos {
 	0 394 hsbw
-	359 46 hstem
-	691 -20 hstem
-	134 26 vstem
 	408 655 rmoveto
 	-3 21 rlineto
 	-33 -19 rlineto
@@ -5109,18 +4410,12 @@ dup /CharStrings
 	113 208 rlineto
 	8 14 7 17 3 15 rrcurveto
 	4 callsubr
-	359 46 hstem
-	691 -20 hstem
-	134 116 vstem
 	19 111 0 119 0 117 rrcurveto
 	121 hlineto
 	16 39 rlineto
 	7 vlineto
 	-136 hlineto
 	4 callsubr
-	359 46 hstem
-	691 -20 hstem
-	134 26 vstem
 	-38 42 -53 74 0 30 rrcurveto
 	26 28 21 35 vhcurveto
 	15 0 38 -26 24 -17 rrcurveto
@@ -5129,12 +4424,6 @@ dup /CharStrings
 	} |-
 /u1D58C {
 	0 595 hsbw
-	-211 86 hstem
-	-21 89 hstem
-	370 56 hstem
-	453 20 hstem
-	91 118 vstem
-	386 110 vstem
 	382 83 rmoveto
 	14 -51 18 -69 0 -37 rrcurveto
 	-49 -23 -2 -30 vhcurveto
@@ -5168,11 +4457,6 @@ dup /CharStrings
 	} |-
 /u1D58C.alt {
 	0 593 hsbw
-	-212 78 hstem
-	-29 100 hstem
-	398 76 hstem
-	91 108 vstem
-	385 137 vstem
 	510 -49 rmoveto
 	6 14 4 15 0 15 rrcurveto
 	0 8 -4 27 -3 18 rrcurveto
@@ -5205,12 +4489,6 @@ dup /CharStrings
 	} |-
 /u1D58D {
 	0 615 hsbw
-	-207 21 hstem
-	-24 21 hstem
-	376 95 hstem
-	667 20 hstem
-	88 127 vstem
-	395 112 vstem
 	220 507 rmoveto
 	1 67 15 55 74 43 rrcurveto
 	-18 15 rlineto
@@ -5240,10 +4518,6 @@ dup /CharStrings
 	} |-
 /u1D58E {
 	0 331 hsbw
-	-26 108 hstem
-	387 91 hstem
-	540 146 hstem
-	106 114 vstem
 	278 86 rmoveto
 	-2 -1 -10 -3 -5 0 rrcurveto
 	-18 -25 40 16 hvcurveto
@@ -5269,10 +4543,6 @@ dup /CharStrings
 	} |-
 /u1D58F {
 	0 332 hsbw
-	-204 21 hstem
-	380 99 hstem
-	541 142 hstem
-	121 114 vstem
 	18 382 rmoveto
 	15 -19 rlineto
 	13 6 24 11 1 0 rrcurveto
@@ -5294,12 +4564,6 @@ dup /CharStrings
 	} |-
 /u1D590 {
 	0 464 hsbw
-	-25 93 hstem
-	308 38 hstem
-	515 70 hstem
-	663 11 hstem
-	114 114 vstem
-	336 92 vstem
 	109 115 rmoveto
 	-1 -15 -2 -14 -1 -15 rrcurveto
 	129 -96 rlineto
@@ -5334,8 +4598,6 @@ dup /CharStrings
 	} |-
 /u1D590.alt {
 	0 393 hsbw
-	359 46 hstem
-	103 115 vstem
 	218 405 rmoveto
 	41 -1 51 34 vhcurveto
 	25 0 25 -33 17 -21 rrcurveto
@@ -5368,7 +4630,6 @@ dup /CharStrings
 	} |-
 /u1D591 {
 	0 337 hsbw
-	111 111 vstem
 	315 86 rmoveto
 	-9 15 rlineto
 	-17 -9 -23 -9 -9 0 rrcurveto
@@ -5388,11 +4649,6 @@ dup /CharStrings
 	} |-
 /u1D592 {
 	0 921 hsbw
-	-31 21 hstem
-	384 93 hstem
-	107 122 vstem
-	392 112 vstem
-	673 117 vstem
 	511 376 rmoveto
 	0 1 2 26 1 13 rrcurveto
 	-49 13 -45 22 -45 21 rrcurveto
@@ -5438,10 +4694,6 @@ dup /CharStrings
 	} |-
 /u1D593 {
 	0 654 hsbw
-	-28 21 hstem
-	388 86 hstem
-	92 124 vstem
-	382 122 vstem
 	214 129 rmoveto
 	-1 75 0 144 0 2 rrcurveto
 	62 31 rlineto
@@ -5472,10 +4724,6 @@ dup /CharStrings
 	} |-
 /u1D594 {
 	0 609 hsbw
-	-34 89 hstem
-	391 91 hstem
-	103 122 vstem
-	403 109 vstem
 	254 -34 rmoveto
 	83 34 80 41 73 48 rrcurveto
 	24 79 1 88 0 81 rrcurveto
@@ -5498,12 +4746,6 @@ dup /CharStrings
 	} |-
 /u1D595 {
 	0 604 hsbw
-	-208 21 hstem
-	22 108 hstem
-	383 99 hstem
-	538 20 hstem
-	117 116 vstem
-	396 123 vstem
 	242 -161 rmoveto
 	-5 61 -4 61 0 61 rrcurveto
 	39 -5 36 -14 29 -22 rrcurveto
@@ -5536,11 +4778,6 @@ dup /CharStrings
 	} |-
 /u1D596 {
 	0 596 hsbw
-	-212 21 hstem
-	-30 102 hstem
-	386 93 hstem
-	88 119 vstem
-	374 111 vstem
 	494 -171 rmoveto
 	-5 71 -4 70 0 71 rrcurveto
 	0 147 0 188 30 103 rrcurveto
@@ -5567,9 +4804,6 @@ dup /CharStrings
 	} |-
 /u1D597 {
 	0 460 hsbw
-	-26 96 hstem
-	378 95 hstem
-	109 125 vstem
 	301 334 rmoveto
 	15 -13 8 -5 15 0 rrcurveto
 	6 0 3 2 3 2 rrcurveto
@@ -5599,13 +4833,6 @@ dup /CharStrings
 	} |-
 /u1D598 {
 	0 523 hsbw
-	-35 21 hstem
-	41 90 hstem
-	225 77 hstem
-	342 86 hstem
-	459 20 hstem
-	77 124 vstem
-	321 114 vstem
 	482 442 rmoveto
 	-11 19 rlineto
 	-24 -16 -36 -17 -24 0 rrcurveto
@@ -5637,8 +4864,6 @@ dup /CharStrings
 	} |-
 /u1D599 {
 	0 393 hsbw
-	359 46 hstem
-	129 116 vstem
 	245 359 rmoveto
 	92 hlineto
 	16 39 rlineto
@@ -5665,8 +4890,6 @@ dup /CharStrings
 	} |-
 /u1D599.alt {
 	0 398 hsbw
-	359 46 hstem
-	127 115 vstem
 	242 405 rmoveto
 	0 1 8 115 4 56 rrcurveto
 	-12 9 rlineto
@@ -5692,10 +4915,6 @@ dup /CharStrings
 	} |-
 /u1D59A {
 	0 589 hsbw
-	-32 94 hstem
-	384 89 hstem
-	119 106 vstem
-	373 115 vstem
 	370 424 rmoveto
 	4 -112 0 -111 0 -103 rrcurveto
 	-67 -36 rlineto
@@ -5724,11 +4943,6 @@ dup /CharStrings
 	} |-
 /u1D59B {
 	0 604 hsbw
-	-28 83 hstem
-	389 87 hstem
-	526 20 hstem
-	98 121 vstem
-	387 118 vstem
 	469 80 rmoveto
 	38 69 0 91 0 76 rrcurveto
 	0 33 -1 33 -2 33 rrcurveto
@@ -5757,12 +4971,6 @@ dup /CharStrings
 	} |-
 /u1D59C {
 	0 918 hsbw
-	-33 96 hstem
-	376 94 hstem
-	529 20 hstem
-	108 120 vstem
-	387 123 vstem
-	694 121 vstem
 	511 370 rmoveto
 	34 vlineto
 	-51 19 -49 22 -46 26 rrcurveto
@@ -5806,11 +5014,6 @@ dup /CharStrings
 	} |-
 /u1D59D {
 	0 459 hsbw
-	-188 64 hstem
-	-29 97 hstem
-	381 90 hstem
-	13 70 vstem
-	134 116 vstem
 	423 82 rmoveto
 	-2 18 rlineto
 	-31 -14 -44 -18 -12 0 rrcurveto
@@ -5841,12 +5044,6 @@ dup /CharStrings
 	} |-
 /u1D59E {
 	0 589 hsbw
-	-222 21 hstem
-	-28 21 hstem
-	381 97 hstem
-	537 20 hstem
-	109 120 vstem
-	388 120 vstem
 	512 412 rmoveto
 	-49 19 -47 22 -45 25 rrcurveto
 	-140 -93 rlineto
@@ -5877,10 +5074,6 @@ dup /CharStrings
 	} |-
 /u1D59F {
 	0 461 hsbw
-	-215 80 hstem
-	371 101 hstem
-	-8 110 vstem
-	260 103 vstem
 	346 -103 rmoveto
 	19 60 12 57 0 60 rrcurveto
 	0 47 -5 47 -11 46 rrcurveto
@@ -5909,10 +5102,6 @@ dup /CharStrings
 	} |-
 /uni0021 {
 	0 349 hsbw
-	-12 117 hstem
-	184 21 hstem
-	670 20 hstem
-	107 133 vstem
 	112 46 rmoveto
 	-34 28 -28 34 vhcurveto
 	34 28 28 34 hvcurveto
@@ -5931,10 +5120,6 @@ dup /CharStrings
 	} |-
 /uni0022 {
 	0 254 hsbw
-	432 21 hstem
-	675 19 hstem
-	10 80 vstem
-	151 80 vstem
 	40 432 rmoveto
 	25 hlineto
 	25 191 rlineto
@@ -5955,13 +5140,6 @@ dup /CharStrings
 	} |-
 /uni0026 {
 	0 871 hsbw
-	-14 52 hstem
-	355 48 hstem
-	662 35 hstem
-	42 117 vstem
-	185 93 vstem
-	419 113 vstem
-	611 75 vstem
 	431 355 rmoveto
 	20 2 20 0 20 0 rrcurveto
 	77 43 -47 -58 hvcurveto
@@ -6003,9 +5181,6 @@ dup /CharStrings
 	} |-
 /uni0027 {
 	0 250 hsbw
-	436 21 hstem
-	675 20 hstem
-	80 79 vstem
 	104 436 rmoveto
 	19 hlineto
 	31 186 rlineto
@@ -6018,9 +5193,6 @@ dup /CharStrings
 	} |-
 /uni0028 {
 	0 459 hsbw
-	-186 21 hstem
-	718 20 hstem
-	134 60 vstem
 	347 -172 rmoveto
 	-86 21 -33 106 -13 63 rrcurveto
 	-17 84 -4 86 0 86 rrcurveto
@@ -6035,9 +5207,6 @@ dup /CharStrings
 	} |-
 /uni0029 {
 	0 459 hsbw
-	-187 21 hstem
-	715 20 hstem
-	264 62 vstem
 	105 715 rmoveto
 	89 -37 29 -90 18 -77 rrcurveto
 	18 -77 5 -79 0 -79 rrcurveto
@@ -6052,9 +5221,6 @@ dup /CharStrings
 	} |-
 /uni002A {
 	0 328 hsbw
-	425 25 hstem
-	692 24 hstem
-	145 41 vstem
 	188 449 rmoveto
 	-10 43 -2 14 -2 42 rrcurveto
 	32 -22 25 -18 19 -20 rrcurveto
@@ -6078,8 +5244,6 @@ dup /CharStrings
 	} |-
 /uni002B {
 	0 893 hsbw
-	238 50 hstem
-	422 50 vstem
 	472 288 rmoveto
 	310 vlineto
 	-50 -14 rlineto
@@ -6097,9 +5261,6 @@ dup /CharStrings
 	} |-
 /uni003A {
 	0 255 hsbw
-	-16 145 hstem
-	334 144 hstem
-	55 144 vstem
 	127 478 rmoveto
 	-40 -32 -32 -40 hvcurveto
 	-40 32 -32 40 vhcurveto
@@ -6116,9 +5277,6 @@ dup /CharStrings
 	} |-
 /uni003B {
 	0 255 hsbw
-	-190 289 hstem
-	343 116 hstem
-	56 156 vstem
 	126 479 rmoveto
 	-40 -32 -32 -40 hvcurveto
 	-40 32 -33 40 vhcurveto
@@ -6141,8 +5299,6 @@ dup /CharStrings
 	} |-
 /uni003D {
 	0 582 hsbw
-	164 50 hstem
-	299 50 hstem
 	549 299 rmoveto
 	10 50 rlineto
 	-526 hlineto
@@ -6157,11 +5313,6 @@ dup /CharStrings
 	} |-
 /uni003F {
 	0 428 hsbw
-	-15 129 hstem
-	170 21 hstem
-	654 45 hstem
-	95 147 vstem
-	312 111 vstem
 	169 121 rmoveto
 	-39 -33 -32 -40 hvcurveto
 	-40 33 -33 39 vhcurveto
@@ -6191,9 +5342,6 @@ dup /CharStrings
 	} |-
 /uni005B {
 	0 257 hsbw
-	-130 32 hstem
-	710 31 hstem
-	36 50 vstem
 	226 712 rmoveto
 	24 vlineto
 	-64 0 -80 0 -46 5 rrcurveto
@@ -6207,9 +5355,6 @@ dup /CharStrings
 	} |-
 /uni005D {
 	0 257 hsbw
-	-132 31 hstem
-	708 31 hstem
-	158 50 vstem
 	158 700 rmoveto
 	-792 vlineto
 	-144 -11 rlineto
@@ -6223,9 +5368,6 @@ dup /CharStrings
 	} |-
 /uni005E {
 	0 590 hsbw
-	452 21 hstem
-	715 20 hstem
-	0 584 vstem
 	296 735 rmoveto
 	-296 -271 rlineto
 	27 -12 rlineto
@@ -6237,8 +5379,6 @@ dup /CharStrings
 	} |-
 /uni2018 {
 	0 254 hsbw
-	410 299 hstem
-	53 135 vstem
 	166 709 rmoveto
 	-47 -49 -66 -69 0 -50 rrcurveto
 	-45 46 -86 39 vhcurveto
@@ -6252,8 +5392,6 @@ dup /CharStrings
 	} |-
 /uni2019 {
 	0 254 hsbw
-	427 297 hstem
-	48 135 vstem
 	79 394 rmoveto
 	47 49 66 68 0 51 rrcurveto
 	44 -46 87 -39 vhcurveto
@@ -6267,7 +5405,6 @@ dup /CharStrings
 	} |-
 /uni2212 {
 	0 893 hsbw
-	231 50 hstem
 	818 231 rmoveto
 	16 50 rlineto
 	-761 hlineto
@@ -6277,10 +5414,6 @@ dup /CharStrings
 	} |-
 /zero.onum {
 	0 593 hsbw
-	-11 84 hstem
-	420 82 hstem
-	41 101 vstem
-	428 105 vstem
 	313 502 rmoveto
 	-162 -60 -110 -109 0 -146 rrcurveto
 	-96 74 -102 122 vhcurveto
@@ -6297,11 +5430,6 @@ dup /CharStrings
 	} |-
 /u1D4D0 {
 	0 886 hsbw
-	-11 56 hstem
-	225 51 hstem
-	646 55 hstem
-	10 116 vstem
-	577 126 vstem
 	577 225 rmoveto
 	-105 6 -137 117 vhcurveto
 	73 0 48 53 39 51 rrcurveto
@@ -6329,12 +5457,6 @@ dup /CharStrings
 	} |-
 /u1D4D1 {
 	0 864 hsbw
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	38 109 vstem
-	310 117 vstem
-	681 113 vstem
 	415 727 rmoveto
 	-100 -37 rlineto
 	-121 -19 -156 -75 0 -108 rrcurveto
@@ -6353,12 +5475,6 @@ dup /CharStrings
 	84 -80 58 -89 vhcurveto
 	-2 6 rlineto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	38 109 vstem
-	310 117 vstem
-	648 110 vstem
 	75 27 60 62 0 68 rrcurveto
 	138 -207 4 -123 vhcurveto
 	25 vlineto
@@ -6369,12 +5485,6 @@ dup /CharStrings
 	1 4 13 2 8 1 rrcurveto
 	86 hlineto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	38 109 vstem
-	310 117 vstem
-	681 113 vstem
 	89 -8 63 -57 0 -87 rrcurveto
 	0 -31 -6 -38 -26 -22 rrcurveto
 	-26 -23 -69 0 -36 0 rrcurveto
@@ -6382,12 +5492,6 @@ dup /CharStrings
 	-91 574 rmoveto
 	64 0 76 -12 46 -40 rrcurveto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	38 109 vstem
-	310 117 vstem
-	648 110 vstem
 	29 -26 6 -37 0 -35 rrcurveto
 	-105 -119 -12 -90 vhcurveto
 	-5 -7 3 6 hvcurveto
@@ -6396,12 +5500,6 @@ dup /CharStrings
 	} |-
 /u1D4D2 {
 	0 681 hsbw
-	-15 40 hstem
-	383 32 hstem
-	673 36 hstem
-	59 122 vstem
-	275 115 vstem
-	544 100 vstem
 	565 165 rmoveto
 	-15 -8 rlineto
 	-72 -54 -60 -81 vhcurveto
@@ -6427,11 +5525,6 @@ dup /CharStrings
 	} |-
 /u1D4D3 {
 	0 938 hsbw
-	0 89 hstem
-	650 43 hstem
-	36 118 vstem
-	303 115 vstem
-	759 122 vstem
 	418 719 rmoveto
 	-13 8 rlineto
 	-100 -37 rlineto
@@ -6462,11 +5555,6 @@ dup /CharStrings
 	} |-
 /u1D4D4 {
 	0 687 hsbw
-	-12 38 hstem
-	367 29 hstem
-	677 31 hstem
-	61 127 vstem
-	469 106 vstem
 	275 380 rmoveto
 	-124 -18 -90 -80 0 -118 rrcurveto
 	-135 151 -41 150 vhcurveto
@@ -6492,11 +5580,6 @@ dup /CharStrings
 	} |-
 /u1D4D5 {
 	0 755 hsbw
-	-14 44 hstem
-	341 49 hstem
-	655 41 hstem
-	50 121 vstem
-	384 119 vstem
 	503 682 rmoveto
 	43 vlineto
 	-12 6 rlineto
@@ -6538,12 +5621,6 @@ dup /CharStrings
 	} |-
 /u1D4D6 {
 	0 683 hsbw
-	-138 39 hstem
-	228 36 hstem
-	475 32 hstem
-	669 38 hstem
-	62 126 vstem
-	484 114 vstem
 	496 377 rmoveto
 	-20 -86 -52 -27 -68 0 rrcurveto
 	-116 -52 112 87 hvcurveto
@@ -6572,13 +5649,6 @@ dup /CharStrings
 	} |-
 /u1D4D7 {
 	0 999 hsbw
-	-11 44 hstem
-	339 49 hstem
-	644 57 hstem
-	32 126 vstem
-	312 122 vstem
-	648 119 vstem
-	883 111 vstem
 	475 694 rmoveto
 	-29 2 -56 2 -20 0 rrcurveto
 	-150 -185 -53 -142 hvcurveto
@@ -6617,10 +5687,6 @@ dup /CharStrings
 	} |-
 /u1D4D8 {
 	0 563 hsbw
-	-18 46 hstem
-	663 39 hstem
-	70 132 vstem
-	342 126 vstem
 	468 658 rmoveto
 	32 17 rlineto
 	6 24 rlineto
@@ -6643,10 +5709,6 @@ dup /CharStrings
 	} |-
 /u1D4D9 {
 	0 572 hsbw
-	-137 39 hstem
-	649 52 hstem
-	31 85 vstem
-	349 125 vstem
 	540 698 rmoveto
 	-21 2 -20 1 -20 0 rrcurveto
 	-125 0 -126 -31 -90 -79 rrcurveto
@@ -6675,11 +5737,6 @@ dup /CharStrings
 	} |-
 /u1D4DA {
 	0 930 hsbw
-	-8 44 hstem
-	656 44 hstem
-	27 135 vstem
-	319 116 vstem
-	783 118 vstem
 	435 656 rmoveto
 	47 19 rlineto
 	1 22 rlineto
@@ -6718,12 +5775,6 @@ dup /CharStrings
 	} |-
 /u1D4DB {
 	0 808 hsbw
-	-12 101 hstem
-	102 81 hstem
-	670 40 hstem
-	177 126 vstem
-	454 128 vstem
-	712 29 vstem
 	218 411 rmoveto
 	-21 -145 -31 -38 -53 -48 rrcurveto
 	-69 -55 -15 -44 -3 -68 rrcurveto
@@ -6749,11 +5800,6 @@ dup /CharStrings
 	} |-
 /u1D4DC {
 	0 1110 hsbw
-	-13 58 hstem
-	639 70 hstem
-	27 25 vstem
-	262 49 vstem
-	799 114 vstem
 	577 23 rmoveto
 	5 12 rlineto
 	23 188 60 205 134 143 rrcurveto
@@ -6794,12 +5840,6 @@ dup /CharStrings
 	} |-
 /u1D4DD {
 	0 875 hsbw
-	-13 119 hstem
-	625 79 hstem
-	24 28 vstem
-	244 47 vstem
-	693 46 vstem
-	796 98 vstem
 	540 388 rmoveto
 	-59 88 -69 98 -86 77 rrcurveto
 	-34 30 -45 21 -49 0 rrcurveto
@@ -6828,11 +5868,6 @@ dup /CharStrings
 	} |-
 /u1D4DE {
 	0 800 hsbw
-	-20 43 hstem
-	661 46 hstem
-	45 119 vstem
-	269 66 vstem
-	612 126 vstem
 	230 670 rmoveto
 	-125 -53 -60 -146 0 -127 rrcurveto
 	0 -99 20 -118 80 -69 rrcurveto
@@ -6855,12 +5890,6 @@ dup /CharStrings
 	} |-
 /u1D4DF {
 	0 746 hsbw
-	-13 42 hstem
-	283 33 hstem
-	650 39 hstem
-	32 128 vstem
-	304 117 vstem
-	589 123 vstem
 	419 690 rmoveto
 	28 vlineto
 	-13 8 rlineto
@@ -6890,11 +5919,6 @@ dup /CharStrings
 	} |-
 /u1D4E0 {
 	0 765 hsbw
-	-13 103 hstem
-	183 25 hstem
-	674 31 hstem
-	42 125 vstem
-	573 129 vstem
 	705 184 rmoveto
 	-26 -56 -48 -43 -66 0 rrcurveto
 	-39 0 -41 10 -29 7 rrcurveto
@@ -6920,12 +5944,6 @@ dup /CharStrings
 	} |-
 /u1D4E1 {
 	0 817 hsbw
-	-10 47 hstem
-	308 25 hstem
-	656 37 hstem
-	30 137 vstem
-	327 115 vstem
-	614 133 vstem
 	442 694 rmoveto
 	30 vlineto
 	-13 8 rlineto
@@ -6965,13 +5983,6 @@ dup /CharStrings
 	} |-
 /u1D4E2 {
 	0 599 hsbw
-	-18 41 hstem
-	254 39 hstem
-	511 23 hstem
-	676 39 hstem
-	7 87 vstem
-	189 97 vstem
-	438 116 vstem
 	351 515 rmoveto
 	14 -2 20 -2 14 0 rrcurveto
 	60 65 42 52 hvcurveto
@@ -7001,10 +6012,6 @@ dup /CharStrings
 	} |-
 /u1D4E3 {
 	0 654 hsbw
-	-11 48 hstem
-	633 66 hstem
-	26 128 vstem
-	358 110 vstem
 	711 697 rmoveto
 	-20 -25 rlineto
 	-21 -21 -24 -16 -32 0 rrcurveto
@@ -7033,11 +6040,6 @@ dup /CharStrings
 	} |-
 /u1D4E4 {
 	0 799 hsbw
-	-13 63 hstem
-	618 88 hstem
-	9 35 vstem
-	111 118 vstem
-	502 121 vstem
 	777 121 rmoveto
 	-28 -40 -23 -27 -26 0 rrcurveto
 	-78 1 155 74 hvcurveto
@@ -7066,10 +6068,6 @@ dup /CharStrings
 	} |-
 /u1D4E5 {
 	0 751 hsbw
-	-16 21 hstem
-	613 87 hstem
-	25 26 vstem
-	609 108 vstem
 	396 118 rmoveto
 	-64 308 rlineto
 	-23 114 -35 162 -108 0 rrcurveto
@@ -7094,11 +6092,6 @@ dup /CharStrings
 	} |-
 /u1D4E6 {
 	0 1118 hsbw
-	-8 21 hstem
-	612 92 hstem
-	23 30 vstem
-	271 105 vstem
-	981 100 vstem
 	387 146 rmoveto
 	-9 -3 rlineto
 	127 vlineto
@@ -7135,11 +6128,6 @@ dup /CharStrings
 	} |-
 /u1D4E7 {
 	0 810 hsbw
-	-11 46 hstem
-	669 43 hstem
-	30 117 vstem
-	375 105 vstem
-	666 108 vstem
 	733 169 rmoveto
 	-12 -42 -24 -58 -57 0 rrcurveto
 	-69 0 -28 80 -18 51 rrcurveto
@@ -7171,11 +6159,6 @@ dup /CharStrings
 	} |-
 /u1D4E8 {
 	0 681 hsbw
-	-135 45 hstem
-	277 65 hstem
-	616 93 hstem
-	115 114 vstem
-	473 122 vstem
 	480 655 rmoveto
 	0 -68 -4 -69 0 -68 rrcurveto
 	-7 -6 rlineto
@@ -7212,12 +6195,6 @@ dup /CharStrings
 	} |-
 /u1D4E9 {
 	0 742 hsbw
-	-14 87 hstem
-	87 89 hstem
-	530 73 hstem
-	629 76 hstem
-	57 71 vstem
-	662 52 vstem
 	501 527 rmoveto
 	36 46 40 43 41 42 rrcurveto
 	-1 9 rlineto
@@ -7251,9 +6228,6 @@ dup /CharStrings
 	} |-
 /uni005C {
 	0 567 hsbw
-	-194 21 hstem
-	706 20 hstem
-	35 487 vstem
 	486 -194 rmoveto
 	42 25 rlineto
 	-439 897 rlineto
@@ -7263,10 +6237,6 @@ dup /CharStrings
 	} |-
 /uni007B {
 	0 362 hsbw
-	-178 17 hstem
-	259 26 hstem
-	710 20 hstem
-	122 58 vstem
 	330 -161 rmoveto
 	-60 0 -66 -1 -15 73 rrcurveto
 	-23 126 51 185 -139 51 rrcurveto
@@ -7288,7 +6258,6 @@ dup /CharStrings
 	} |-
 /uni007C {
 	0 241 hsbw
-	95 50 vstem
 	145 -159 rmoveto
 	897 vlineto
 	-50 -19 rlineto
@@ -7298,10 +6267,6 @@ dup /CharStrings
 	} |-
 /uni007D {
 	0 362 hsbw
-	-177 21 hstem
-	263 24 hstem
-	717 17 hstem
-	-239 61 vstem
 	25 -178 rmoveto
 	168 39 -3 215 hvcurveto
 	0 69 0 105 28 28 rrcurveto
@@ -7322,10 +6287,6 @@ dup /CharStrings
 	} |-
 /uni00A7 {
 	0 582 hsbw
-	-107 34 hstem
-	669 32 hstem
-	81 43 vstem
-	403 69 vstem
 	459 232 rmoveto
 	0 -23 -8 -24 -15 -19 rrcurveto
 	-75 65 -237 36 0 106 rrcurveto
@@ -7359,8 +6320,6 @@ dup /CharStrings
 	} |-
 /uni00AC {
 	0 773 hsbw
-	351 50 hstem
-	659 50 vstem
 	709 401 rmoveto
 	-679 hlineto
 	-50 vlineto
@@ -7372,9 +6331,6 @@ dup /CharStrings
 	} |-
 /uni2111 {
 	0 627 hsbw
-	-9 55 hstem
-	589 110 hstem
-	400 123 vstem
 	614 670 rmoveto
 	-4 -3 rlineto
 	-34 -24 -37 -27 -41 0 rrcurveto
@@ -7405,13 +6361,6 @@ dup /CharStrings
 	} |-
 /uni211C {
 	0 936 hsbw
-	-12 21 hstem
-	44 97 hstem
-	350 24 hstem
-	636 69 hstem
-	125 109 vstem
-	381 119 vstem
-	687 107 vstem
 	205 619 rmoveto
 	87 0 61 -73 23 -61 rrcurveto
 	15 -41 6 -45 0 -42 rrcurveto
@@ -7462,11 +6411,6 @@ dup /CharStrings
 	} |-
 /uni2135 {
 	0 875 hsbw
-	1 115 hstem
-	530 120 hstem
-	669 20 hstem
-	141 60 vstem
-	519 61 vstem
 	371 116 rmoveto
 	-93 -77 24 97 hvcurveto
 	0 32 38 60 37 12 rrcurveto
@@ -7501,9 +6445,6 @@ dup /CharStrings
 	} |-
 /uni2227 {
 	0 876 hsbw
-	-9 21 hstem
-	694 20 hstem
-	13 855 vstem
 	457 713 rmoveto
 	-10 1 rlineto
 	-434 -704 rlineto
@@ -7517,9 +6458,6 @@ dup /CharStrings
 	} |-
 /uni2228 {
 	0 876 hsbw
-	-12 21 hstem
-	668 20 hstem
-	7 847 vstem
 	854 684 rmoveto
 	-4 4 rlineto
 	-58 hlineto
@@ -7533,9 +6471,6 @@ dup /CharStrings
 	} |-
 /uni223C {
 	0 623 hsbw
-	178 41 hstem
-	305 42 hstem
-	25 574 vstem
 	353 214 rmoveto
 	35 -20 41 -16 43 0 rrcurveto
 	59 0 44 49 24 48 rrcurveto
@@ -7553,10 +6488,6 @@ dup /CharStrings
 	} |-
 /u1D468.ssty1 {
 	0 971 hsbw
-	-15 78 hstem
-	268 51 hstem
-	648 39 hstem
-	35 892 vstem
 	175 10 rmoveto
 	37 87 46 107 37 64 rrcurveto
 	273 hlineto
@@ -7590,11 +6521,6 @@ dup /CharStrings
 	} |-
 /u1D469.ssty1 {
 	0 858 hsbw
-	-2 42 hstem
-	347 38 hstem
-	661 42 hstem
-	176 145 vstem
-	573 158 vstem
 	491 379 rmoveto
 	101 19 113 52 0 100 rrcurveto
 	107 -106 46 -181 vhcurveto
@@ -7627,9 +6553,6 @@ dup /CharStrings
 	} |-
 /u1D46A.ssty1 {
 	0 927 hsbw
-	-18 61 hstem
-	666 45 hstem
-	126 160 vstem
 	851 585 rmoveto
 	-66 90 -88 36 -140 0 rrcurveto
 	-118 0 -115 -38 -84 -70 rrcurveto
@@ -7647,10 +6570,6 @@ dup /CharStrings
 	} |-
 /u1D46B.ssty1 {
 	0 1047 hsbw
-	-1 43 hstem
-	655 43 hstem
-	178 147 vstem
-	767 168 vstem
 	151 -1 rmoveto
 	307 hlineto
 	133 0 133 33 96 80 rrcurveto
@@ -7678,10 +6597,6 @@ dup /CharStrings
 	} |-
 /u1D46C.ssty1 {
 	0 764 hsbw
-	3 62 hstem
-	344 45 hstem
-	645 51 hstem
-	151 134 vstem
 	681 76 rmoveto
 	-1 0 -294 -15 -16 0 rrcurveto
 	-44 0 -24 20 -5 42 rrcurveto
@@ -7713,10 +6628,6 @@ dup /CharStrings
 	} |-
 /u1D46D.ssty1 {
 	0 639 hsbw
-	-12 21 hstem
-	343 46 hstem
-	642 56 hstem
-	148 143 vstem
 	291 23 rmoveto
 	-1 98 -5 194 0 1 rrcurveto
 	26 11 1 16 vhcurveto
@@ -7742,11 +6653,6 @@ dup /CharStrings
 	} |-
 /u1D46E.ssty1 {
 	0 988 hsbw
-	-14 53 hstem
-	257 57 hstem
-	661 45 hstem
-	130 159 vstem
-	694 144 vstem
 	466 303 rmoveto
 	-37 vlineto
 	174 -11 45 11 9 -45 rrcurveto
@@ -7771,11 +6677,6 @@ dup /CharStrings
 	} |-
 /u1D46F.ssty1 {
 	0 1000 hsbw
-	-2 37 hstem
-	339 49 hstem
-	662 36 hstem
-	178 146 vstem
-	694 146 vstem
 	700 681 rmoveto
 	-268 vlineto
 	-17 -2 -8 -35 vhcurveto
@@ -7808,9 +6709,6 @@ dup /CharStrings
 	} |-
 /u1D470.ssty1 {
 	0 568 hsbw
-	1 29 hstem
-	661 35 hstem
-	194 143 vstem
 	335 618 rmoveto
 	0 14 9 14 17 3 rrcurveto
 	85 16 rlineto
@@ -7836,9 +6734,6 @@ dup /CharStrings
 	} |-
 /u1D471.ssty1 {
 	0 564 hsbw
-	-168 21 hstem
-	670 35 hstem
-	227 140 vstem
 	364 513 rmoveto
 	0 68 -7 64 50 13 rrcurveto
 	1 0 49 9 24 5 rrcurveto
@@ -7859,9 +6754,6 @@ dup /CharStrings
 	} |-
 /u1D472.ssty1 {
 	0 881 hsbw
-	-16 23 hstem
-	662 39 hstem
-	181 144 vstem
 	337 387 rmoveto
 	-13 hlineto
 	0 103 5 101 12 103 rrcurveto
@@ -7890,9 +6782,6 @@ dup /CharStrings
 	} |-
 /u1D473.ssty1 {
 	0 742 hsbw
-	-1 57 hstem
-	666 36 hstem
-	169 144 vstem
 	659 75 rmoveto
 	-38 -4 -169 -18 -112 0 rrcurveto
 	-39 9 117 83 hvcurveto
@@ -7915,9 +6804,6 @@ dup /CharStrings
 	} |-
 /u1D474.ssty1 {
 	0 1329 hsbw
-	-15 73 hstem
-	667 33 hstem
-	980 125 vstem
 	298 533 rmoveto
 	3 4 3 4 vhcurveto
 	4 0 4 -3 2 -4 rrcurveto
@@ -7955,10 +6841,6 @@ dup /CharStrings
 	} |-
 /u1D475.ssty1 {
 	0 1072 hsbw
-	-3 21 hstem
-	666 33 hstem
-	195 58 vstem
-	804 66 vstem
 	254 526 rmoveto
 	9 2 4 4 vhcurveto
 	3 0 4 -2 3 -4 rrcurveto
@@ -7984,10 +6866,6 @@ dup /CharStrings
 	} |-
 /u1D476.ssty1 {
 	0 1028 hsbw
-	-15 46 hstem
-	680 40 hstem
-	110 150 vstem
-	772 156 vstem
 	110 330 rmoveto
 	0 -96 29 -108 80 -67 rrcurveto
 	62 -52 88 -22 87 0 rrcurveto
@@ -8007,11 +6885,6 @@ dup /CharStrings
 	} |-
 /u1D477.ssty1 {
 	0 791 hsbw
-	-6 21 hstem
-	304 37 hstem
-	664 35 hstem
-	180 145 vstem
-	550 155 vstem
 	326 30 rmoveto
 	-2 84 -3 167 0 1 rrcurveto
 	0 33 63 -11 30 3 rrcurveto
@@ -8037,11 +6910,6 @@ dup /CharStrings
 	} |-
 /u1D478.ssty1 {
 	0 1068 hsbw
-	-195 42 hstem
-	-7 33 hstem
-	668 46 hstem
-	126 155 vstem
-	791 152 vstem
 	925 -141 rmoveto
 	-35 -6 -38 -6 -42 0 rrcurveto
 	-82 0 -62 78 -40 58 rrcurveto
@@ -8065,11 +6933,6 @@ dup /CharStrings
 	} |-
 /u1D479.ssty1 {
 	0 844 hsbw
-	-10 21 hstem
-	325 40 hstem
-	662 39 hstem
-	187 135 vstem
-	544 155 vstem
 	320 325 rmoveto
 	8 0 5 -1 1 -1 rrcurveto
 	271 -331 rlineto
@@ -8101,10 +6964,6 @@ dup /CharStrings
 	} |-
 /u1D47A.ssty1 {
 	0 780 hsbw
-	-14 49 hstem
-	685 38 hstem
-	174 121 vstem
-	542 130 vstem
 	573 548 rmoveto
 	103 74 rlineto
 	-36 78 -76 23 -107 0 rrcurveto
@@ -8126,9 +6985,6 @@ dup /CharStrings
 	} |-
 /u1D47B.ssty1 {
 	0 658 hsbw
-	-10 23 hstem
-	645 67 hstem
-	315 132 vstem
 	312 496 rmoveto
 	0 -165 -3 -165 -6 -165 rrcurveto
 	10 -12 rlineto
@@ -8152,10 +7008,6 @@ dup /CharStrings
 	} |-
 /u1D47C.ssty1 {
 	0 1002 hsbw
-	-10 63 hstem
-	668 34 hstem
-	168 138 vstem
-	666 140 vstem
 	661 671 rmoveto
 	8 -111 0 -277 0 -195 rrcurveto
 	-44 -18 -51 -17 -52 0 rrcurveto
@@ -8187,9 +7039,6 @@ dup /CharStrings
 	} |-
 /u1D47D.ssty1 {
 	0 879 hsbw
-	-5 21 hstem
-	666 42 hstem
-	61 850 vstem
 	782 697 rmoveto
 	-141 -260 rlineto
 	-134 -255 rlineto
@@ -8212,9 +7061,6 @@ dup /CharStrings
 	} |-
 /u1D47E.ssty1 {
 	0 1294 hsbw
-	-16 21 hstem
-	667 33 hstem
-	46 1270 vstem
 	1316 699 rmoveto
 	-131 -16 rlineto
 	-61 -175 -98 -192 -87 -169 rrcurveto
@@ -8246,9 +7092,6 @@ dup /CharStrings
 	} |-
 /u1D47F.ssty1 {
 	0 870 hsbw
-	-13 21 hstem
-	665 35 hstem
-	64 737 vstem
 	468 448 rmoveto
 	-15 hlineto
 	-56 83 -57 86 -49 88 rrcurveto
@@ -8275,9 +7118,6 @@ dup /CharStrings
 	} |-
 /u1D480.ssty1 {
 	0 702 hsbw
-	-4 21 hstem
-	668 38 hstem
-	332 145 vstem
 	775 695 rmoveto
 	-1 12 rlineto
 	-111 -17 rlineto
@@ -8300,9 +7140,6 @@ dup /CharStrings
 	} |-
 /u1D481.ssty1 {
 	0 866 hsbw
-	-2 66 hstem
-	641 53 hstem
-	64 735 vstem
 	552 629 rmoveto
 	-162 -205 -153 -201 -173 -199 rrcurveto
 	-24 vlineto
@@ -8324,10 +7161,6 @@ dup /CharStrings
 	} |-
 /u1D482.ssty1 {
 	0 791 hsbw
-	-15 78 hstem
-	459 37 hstem
-	138 123 vstem
-	513 120 vstem
 	627 493 rmoveto
 	-65 -38 rlineto
 	-48 27 -52 16 -59 0 rrcurveto
@@ -8353,11 +7186,6 @@ dup /CharStrings
 	} |-
 /u1D483.ssty1 {
 	0 800 hsbw
-	-14 52 hstem
-	419 74 hstem
-	646 61 hstem
-	169 114 vstem
-	544 130 vstem
 	295 693 rmoveto
 	-16 12 rlineto
 	-206 -28 rlineto
@@ -8383,9 +7211,6 @@ dup /CharStrings
 	} |-
 /u1D484.ssty1 {
 	0 665 hsbw
-	-10 69 hstem
-	452 44 hstem
-	130 129 vstem
 	594 379 rmoveto
 	-6 90 -81 27 -83 0 rrcurveto
 	-215 -79 -158 -145 hvcurveto
@@ -8403,10 +7228,6 @@ dup /CharStrings
 	} |-
 /u1D485.ssty1 {
 	0 800 hsbw
-	10 -21 hstem
-	456 39 hstem
-	124 134 vstem
-	511 114 vstem
 	421 678 rmoveto
 	-15 -9 rlineto
 	-24 vlineto
@@ -8436,10 +7257,6 @@ dup /CharStrings
 	} |-
 /u1D486.ssty1 {
 	0 735 hsbw
-	-16 68 hstem
-	455 40 hstem
-	127 131 vstem
-	506 134 vstem
 	272 258 rmoveto
 	-2 0 -3 -1 -2 0 rrcurveto
 	-4 -3 1 4 hvcurveto
@@ -8463,9 +7280,6 @@ dup /CharStrings
 	} |-
 /u1D487.ssty1 {
 	0 535 hsbw
-	400 44 hstem
-	644 42 hstem
-	193 112 vstem
 	306 392 rmoveto
 	9 8 rlineto
 	121 hlineto
@@ -8498,10 +7312,6 @@ dup /CharStrings
 	} |-
 /u1D488.ssty1 {
 	0 783 hsbw
-	-242 50 hstem
-	454 41 hstem
-	132 126 vstem
-	507 114 vstem
 	622 127 rmoveto
 	0 261 0 17 4 72 rrcurveto
 	-14 4 rlineto
@@ -8529,18 +7339,10 @@ dup /CharStrings
 	} |-
 /u1D489.ssty1 {
 	0 791 hsbw
-	-8 96 hstem
-	497 -20 hstem
-	168 114 vstem
-	502 119 vstem
 	283 380 rmoveto
 	34 24 55 24 38 0 rrcurveto
 	61 31 -24 -94 hvcurveto
 	4 callsubr
-	-8 96 hstem
-	497 -20 hstem
-	168 114 vstem
-	498 116 vstem
 	0 -45 -4 -50 0 -60 rrcurveto
 	-113 20 -50 79 vhcurveto
 	58 0 60 63 40 45 rrcurveto
@@ -8568,10 +7370,6 @@ dup /CharStrings
 	} |-
 /u1D48A.ssty1 {
 	0 466 hsbw
-	-13 85 hstem
-	420 73 hstem
-	562 123 hstem
-	174 114 vstem
 	160 621 rmoveto
 	-36 32 -30 39 vhcurveto
 	40 32 30 36 hvcurveto
@@ -8598,9 +7396,6 @@ dup /CharStrings
 	} |-
 /u1D48B.ssty1 {
 	0 461 hsbw
-	493 -20 hstem
-	555 132 hstem
-	170 144 vstem
 	170 621 rmoveto
 	-36 33 -30 39 vhcurveto
 	40 32 30 36 hvcurveto
@@ -8610,9 +7405,6 @@ dup /CharStrings
 	-97 -232 rmoveto
 	22 16 29 15 24 0 rrcurveto
 	4 callsubr
-	493 -20 hstem
-	555 132 hstem
-	190 110 vstem
 	60 -18 -145 -150 hvcurveto
 	0 -47 -1 -46 -2 -32 rrcurveto
 	-7 -102 -80 -65 -88 -60 rrcurveto
@@ -8626,7 +7418,6 @@ dup /CharStrings
 	} |-
 /u1D48C.ssty1 {
 	0 732 hsbw
-	177 114 vstem
 	297 253 rmoveto
 	10 9 rlineto
 	74 -85 87 -179 87 0 rrcurveto
@@ -8656,9 +7447,6 @@ dup /CharStrings
 	} |-
 /u1D48D.ssty1 {
 	0 467 hsbw
-	-7 83 hstem
-	649 49 hstem
-	166 121 vstem
 	291 685 rmoveto
 	-15 12 rlineto
 	-200 -17 rlineto
@@ -8680,12 +7468,6 @@ dup /CharStrings
 	} |-
 /u1D48E.ssty1 {
 	0 1145 hsbw
-	14 -21 hstem
-	433 -20 hstem
-	492 -20 hstem
-	179 113 vstem
-	513 112 vstem
-	852 118 vstem
 	294 383 rmoveto
 	40 23 53 27 49 0 rrcurveto
 	79 -3 -89 -55 hvcurveto
@@ -8723,10 +7505,6 @@ dup /CharStrings
 	} |-
 /u1D48F.ssty1 {
 	0 797 hsbw
-	-10 98 hstem
-	497 -20 hstem
-	169 114 vstem
-	506 114 vstem
 	284 378 rmoveto
 	40 20 59 26 33 0 rrcurveto
 	21 0 23 -2 17 -14 rrcurveto
@@ -8757,10 +7535,6 @@ dup /CharStrings
 	} |-
 /u1D490.ssty1 {
 	0 800 hsbw
-	-11 41 hstem
-	446 40 hstem
-	118 141 vstem
-	534 141 vstem
 	259 234 rmoveto
 	87 29 125 115 vhcurveto
 	105 26 -98 -80 hvcurveto
@@ -8779,10 +7553,6 @@ dup /CharStrings
 	} |-
 /u1D491.ssty1 {
 	0 788 hsbw
-	0 42 hstem
-	414 74 hstem
-	178 114 vstem
-	548 131 vstem
 	300 -217 rmoveto
 	232 vlineto
 	2 6 rlineto
@@ -8811,10 +7581,6 @@ dup /CharStrings
 	} |-
 /u1D492.ssty1 {
 	0 798 hsbw
-	-39 -21 hstem
-	408 40 hstem
-	143 125 vstem
-	512 113 vstem
 	639 -213 rmoveto
 	-9 128 -4 182 0 131 rrcurveto
 	0 103 6 102 6 102 rrcurveto
@@ -8838,8 +7604,6 @@ dup /CharStrings
 	} |-
 /u1D493.ssty1 {
 	0 607 hsbw
-	489 -20 hstem
-	178 114 vstem
 	308 33 rmoveto
 	-8 76 -7 116 0 32 rrcurveto
 	57 18 87 85 vhcurveto
@@ -8861,10 +7625,6 @@ dup /CharStrings
 	} |-
 /u1D494.ssty1 {
 	0 609 hsbw
-	-15 37 hstem
-	457 37 hstem
-	109 104 vstem
-	373 122 vstem
 	489 426 rmoveto
 	-32 59 -67 9 -64 0 rrcurveto
 	-109 -108 -47 -116 hvcurveto
@@ -8886,9 +7646,6 @@ dup /CharStrings
 	} |-
 /u1D495.ssty1 {
 	0 542 hsbw
-	10 -21 hstem
-	400 45 hstem
-	192 114 vstem
 	188 588 rmoveto
 	0 -1 2 -82 1 -52 rrcurveto
 	-7 -9 rlineto
@@ -8920,10 +7677,6 @@ dup /CharStrings
 	} |-
 /u1D496.ssty1 {
 	0 797 hsbw
-	13 -21 hstem
-	496 -20 hstem
-	162 117 vstem
-	506 114 vstem
 	501 466 rmoveto
 	4 -73 2 -79 0 -78 rrcurveto
 	0 -42 0 -41 -1 -39 rrcurveto
@@ -8953,9 +7706,6 @@ dup /CharStrings
 	} |-
 /u1D497.ssty1 {
 	0 661 hsbw
-	-13 21 hstem
-	411 78 hstem
-	492 105 vstem
 	20 386 rmoveto
 	24 14 36 12 15 0 rrcurveto
 	31 0 12 -26 6 -20 rrcurveto
@@ -8979,9 +7729,6 @@ dup /CharStrings
 	} |-
 /u1D498.ssty1 {
 	0 1069 hsbw
-	-13 21 hstem
-	407 84 hstem
-	891 111 vstem
 	284 382 rmoveto
 	-8 49 -1 25 -14 9 rrcurveto
 	-16 14 -20 11 -24 0 rrcurveto
@@ -9016,9 +7763,6 @@ dup /CharStrings
 	} |-
 /u1D499.ssty1 {
 	0 666 hsbw
-	-12 89 hstem
-	418 71 hstem
-	7 604 vstem
 	538 489 rmoveto
 	-13 hlineto
 	-71 -55 -60 -62 -59 -62 rrcurveto
@@ -9050,11 +7794,6 @@ dup /CharStrings
 	} |-
 /u1D49A.ssty1 {
 	0 796 hsbw
-	-232 50 hstem
-	10 -21 hstem
-	489 -20 hstem
-	168 120 vstem
-	515 114 vstem
 	634 487 rmoveto
 	-20 4 rlineto
 	-109 -35 rlineto
@@ -9087,9 +7826,6 @@ dup /CharStrings
 	} |-
 /u1D49B.ssty1 {
 	0 659 hsbw
-	-8 102 hstem
-	396 96 hstem
-	60 543 vstem
 	545 492 rmoveto
 	-30 -19 -34 -11 -38 0 rrcurveto
 	-79 0 -74 30 -71 0 rrcurveto
@@ -9117,10 +7853,6 @@ dup /CharStrings
 	} |-
 /u1D71E.ssty1 {
 	0 650 hsbw
-	-9 21 hstem
-	631 61 hstem
-	143 135 vstem
-	629 34 vstem
 	645 692 rmoveto
 	-552 hlineto
 	-2 -17 rlineto
@@ -9140,9 +7872,6 @@ dup /CharStrings
 	} |-
 /u1D71F.ssty1 {
 	0 919 hsbw
-	-2 59 hstem
-	679 20 hstem
-	57 794 vstem
 	452 669 rmoveto
 	-98 -186 -158 -240 -139 -209 rrcurveto
 	1 -14 2 -20 0 -1 rrcurveto
@@ -9162,8 +7891,6 @@ dup /CharStrings
 	} |-
 /u1D723.ssty1 {
 	0 1122 hsbw
-	651 48 hstem
-	832 150 vstem
 	695 429 rmoveto
 	-13 -27 -58 7 -42 0 rrcurveto
 	-58 0 -111 -3 -4 16 rrcurveto
@@ -9200,9 +7927,6 @@ dup /CharStrings
 	} |-
 /u1D726.ssty1 {
 	0 990 hsbw
-	-13 21 hstem
-	674 20 hstem
-	52 870 vstem
 	471 672 rmoveto
 	-126 -225 -140 -219 -153 -212 rrcurveto
 	13 -20 rlineto
@@ -9221,12 +7945,6 @@ dup /CharStrings
 	} |-
 /u1D729.ssty1 {
 	0 777 hsbw
-	-3 109 hstem
-	169 20 hstem
-	306 107 hstem
-	505 21 hstem
-	584 115 hstem
-	60 651 vstem
 	711 186 rmoveto
 	-30 3 rlineto
 	-23 -56 rlineto
@@ -9261,10 +7979,6 @@ dup /CharStrings
 	} |-
 /u1D72B.ssty1 {
 	0 987 hsbw
-	-14 21 hstem
-	623 65 hstem
-	162 137 vstem
-	674 137 vstem
 	821 214 rmoveto
 	-13 74 1 97 0 86 rrcurveto
 	0 57 -17 102 59 11 rrcurveto
@@ -9293,9 +8007,6 @@ dup /CharStrings
 	} |-
 /u1D72E.ssty1 {
 	0 843 hsbw
-	0 20 hstem
-	623 66 hstem
-	63 692 vstem
 	443 378 rmoveto
 	9 11 8 14 0 8 rrcurveto
 	0 8 -4 9 -11 14 rrcurveto
@@ -9320,11 +8031,6 @@ dup /CharStrings
 	} |-
 /u1D730.ssty1 {
 	0 932 hsbw
-	-6 21 hstem
-	605 96 hstem
-	64 24 vstem
-	396 140 vstem
-	830 34 vstem
 	544 27 rmoveto
 	-4 61 -4 61 0 61 rrcurveto
 	0 129 28 144 107 90 rrcurveto
@@ -9347,13 +8053,6 @@ dup /CharStrings
 	} |-
 /u1D731.ssty1 {
 	0 1128 hsbw
-	0 29 hstem
-	90 26 hstem
-	555 32 hstem
-	657 28 hstem
-	117 156 vstem
-	481 147 vstem
-	843 153 vstem
 	732 661 rmoveto
 	24 vlineto
 	-352 hlineto
@@ -9400,10 +8099,6 @@ dup /CharStrings
 	} |-
 /u1D733.ssty1 {
 	0 918 hsbw
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	397 132 vstem
 	816 592 rmoveto
 	6 28 12 30 33 11 rrcurveto
 	4 27 rlineto
@@ -9415,16 +8110,8 @@ dup /CharStrings
 	0 133 0 139 4 127 rrcurveto
 	-16 12 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	393 141 vstem
 	-124 -32 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	397 132 vstem
 	4 -59 0 -187 0 -129 rrcurveto
 	-10 -6 rlineto
 	-97 30 -28 117 -2 79 rrcurveto
@@ -9435,10 +8122,6 @@ dup /CharStrings
 	163 0 -211 -307 260 -72 rrcurveto
 	38 -11 42 -5 40 -5 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	393 141 vstem
 	8 -9 rlineto
 	-166 vlineto
 	0 -15 -12 -11 -18 -4 rrcurveto
@@ -9449,16 +8132,8 @@ dup /CharStrings
 	-83 20 rlineto
 	-14 3 -10 13 -1 12 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	393 134 vstem
 	-8 56 -4 56 0 57 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	124 136 vstem
-	393 141 vstem
 	7 9 rlineto
 	190 24 30 49 22 93 rrcurveto
 	closepath
@@ -9466,10 +8141,6 @@ dup /CharStrings
 	} |-
 /u1D734.ssty1 {
 	0 1113 hsbw
-	0 104 hstem
-	659 41 hstem
-	138 157 vstem
-	812 154 vstem
 	1044 105 rmoveto
 	-95 0 -117 -5 -95 -5 rrcurveto
 	-4 11 rlineto
@@ -9497,9 +8168,6 @@ dup /CharStrings
 	} |-
 /u1D736.ssty1 {
 	0 845 hsbw
-	-16 88 hstem
-	413 61 hstem
-	130 117 vstem
 	708 476 rmoveto
 	-91 -143 rlineto
 	-11 hlineto
@@ -9529,12 +8197,6 @@ dup /CharStrings
 	} |-
 /u1D737.ssty1 {
 	0 829 hsbw
-	-194 21 hstem
-	-11 37 hstem
-	338 34 hstem
-	630 46 hstem
-	156 121 vstem
-	567 135 vstem
 	279 -152 rmoveto
 	-4 192 -6 383 0 1 rrcurveto
 	93 11 113 118 vhcurveto
@@ -9564,9 +8226,6 @@ dup /CharStrings
 	} |-
 /u1D738.ssty1 {
 	0 770 hsbw
-	-201 19 hstem
-	407 65 hstem
-	347 83 vstem
 	364 -201 rmoveto
 	60 35 rlineto
 	9 54 0 85 0 60 rrcurveto
@@ -9588,10 +8247,6 @@ dup /CharStrings
 	} |-
 /u1D739.ssty1 {
 	0 703 hsbw
-	-11 69 hstem
-	624 49 hstem
-	120 112 vstem
-	496 86 vstem
 	309 390 rmoveto
 	35 -29 rlineto
 	69 -52 84 -74 0 -66 rrcurveto
@@ -9616,10 +8271,6 @@ dup /CharStrings
 	} |-
 /u1D73A.ssty1 {
 	0 646 hsbw
-	-16 79 hstem
-	234 51 hstem
-	436 36 hstem
-	172 83 vstem
 	424 286 rmoveto
 	-68 -102 13 79 hvcurveto
 	34 41 24 38 vhcurveto
@@ -9644,12 +8295,6 @@ dup /CharStrings
 	} |-
 /u1D73B.ssty1 {
 	0 637 hsbw
-	-129 21 hstem
-	-10 86 hstem
-	586 34 hstem
-	655 20 hstem
-	117 125 vstem
-	503 87 vstem
 	496 -129 rmoveto
 	39 47 54 64 0 44 rrcurveto
 	48 -75 4 -15 vhcurveto
@@ -9676,11 +8321,6 @@ dup /CharStrings
 	} |-
 /u1D73C.ssty1 {
 	0 776 hsbw
-	-197 21 hstem
-	-7 21 hstem
-	398 72 hstem
-	170 116 vstem
-	494 118 vstem
 	621 -156 rmoveto
 	-10 117 0 117 0 117 rrcurveto
 	0 123 6 87 -37 32 rrcurveto
@@ -9705,11 +8345,6 @@ dup /CharStrings
 	} |-
 /u1D73D.ssty1 {
 	0 773 hsbw
-	-14 67 hstem
-	317 44 hstem
-	622 55 hstem
-	124 101 vstem
-	534 111 vstem
 	436 677 rmoveto
 	-132 0 -111 -65 -44 -116 rrcurveto
 	-22 -57 -3 -70 0 -59 rrcurveto
@@ -9736,9 +8371,6 @@ dup /CharStrings
 	} |-
 /u1D73E.ssty1 {
 	0 451 hsbw
-	-11 79 hstem
-	449 20 hstem
-	166 110 vstem
 	398 104 rmoveto
 	-8 hlineto
 	-20 -18 -22 -18 -29 0 rrcurveto
@@ -9754,9 +8386,6 @@ dup /CharStrings
 	} |-
 /u1D73F.ssty1 {
 	0 702 hsbw
-	-9 18 hstem
-	451 19 hstem
-	156 114 vstem
 	563 467 rmoveto
 	-97 -56 -71 -53 -117 -103 rrcurveto
 	-7 4 rlineto
@@ -9781,9 +8410,6 @@ dup /CharStrings
 	} |-
 /u1D740.ssty1 {
 	0 716 hsbw
-	-11 21 hstem
-	624 55 hstem
-	64 590 vstem
 	348 374 rmoveto
 	8 hlineto
 	56 -127 49 -116 49 -128 rrcurveto
@@ -9809,9 +8435,6 @@ dup /CharStrings
 	} |-
 /u1D741.ssty1 {
 	0 770 hsbw
-	11 -21 hstem
-	153 112 vstem
-	489 113 vstem
 	489 116 rmoveto
 	-35 -22 -43 -25 -47 0 rrcurveto
 	-110 13 112 73 hvcurveto
@@ -9842,9 +8465,6 @@ dup /CharStrings
 	} |-
 /u1D742.ssty1 {
 	0 762 hsbw
-	-6 21 hstem
-	405 65 hstem
-	30 661 vstem
 	606 471 rmoveto
 	-27 -15 rlineto
 	-9 -67 -19 -67 -25 -66 rrcurveto
@@ -9867,13 +8487,6 @@ dup /CharStrings
 	} |-
 /u1D743.ssty1 {
 	0 707 hsbw
-	-126 21 hstem
-	1 87 hstem
-	339 29 hstem
-	607 29 hstem
-	669 20 hstem
-	112 133 vstem
-	579 81 vstem
 	565 -126 rmoveto
 	46 44 49 50 0 61 rrcurveto
 	42 -36 17 -74 vhcurveto
@@ -9905,10 +8518,6 @@ dup /CharStrings
 	} |-
 /u1D745.ssty1 {
 	0 790 hsbw
-	-5 21 hstem
-	388 97 hstem
-	509 14 hstem
-	471 116 vstem
 	218 485 rmoveto
 	-34 0 -41 0 -25 -17 rrcurveto
 	-26 -18 -26 -95 -14 -64 rrcurveto
@@ -9941,11 +8550,6 @@ dup /CharStrings
 	} |-
 /u1D746.ssty1 {
 	0 732 hsbw
-	-196 21 hstem
-	2 51 hstem
-	437 37 hstem
-	145 119 vstem
-	511 138 vstem
 	281 -166 rmoveto
 	8 12 rlineto
 	-17 66 -16 73 0 68 rrcurveto
@@ -9969,10 +8573,6 @@ dup /CharStrings
 	} |-
 /u1D748.ssty1 {
 	0 829 hsbw
-	-11 43 hstem
-	421 43 hstem
-	126 137 vstem
-	512 117 vstem
 	386 425 rmoveto
 	116 10 -123 -69 hvcurveto
 	-80 -21 -121 -109 vhcurveto
@@ -9997,11 +8597,6 @@ dup /CharStrings
 	} |-
 /u1D749.ssty1 {
 	0 699 hsbw
-	-7 78 hstem
-	372 88 hstem
-	483 15 hstem
-	66 32 vstem
-	299 119 vstem
 	576 372 rmoveto
 	31 0 51 77 10 39 rrcurveto
 	-13 9 rlineto
@@ -10028,10 +8623,6 @@ dup /CharStrings
 	} |-
 /u1D74A.ssty1 {
 	0 744 hsbw
-	0 64 hstem
-	391 82 hstem
-	166 116 vstem
-	561 93 vstem
 	478 399 rmoveto
 	50 -47 33 -59 0 -63 rrcurveto
 	-80 -36 -85 -105 vhcurveto
@@ -10054,10 +8645,6 @@ dup /CharStrings
 	} |-
 /u1D74B.ssty1 {
 	0 957 hsbw
-	421 47 hstem
-	125 126 vstem
-	384 114 vstem
-	706 130 vstem
 	395 -201 rmoveto
 	109 30 rlineto
 	-2 33 -3 76 0 52 rrcurveto
@@ -10089,9 +8676,6 @@ dup /CharStrings
 	} |-
 /u1D74C.ssty1 {
 	0 706 hsbw
-	-194 70 hstem
-	385 78 hstem
-	28 656 vstem
 	678 -116 rmoveto
 	-18 -3 -20 -3 -19 0 rrcurveto
 	-27 0 -25 9 -18 16 rrcurveto
@@ -10121,13 +8705,6 @@ dup /CharStrings
 	} |-
 /u1D74D.ssty1 {
 	0 962 hsbw
-	-196 21 hstem
-	-6 34 hstem
-	391 81 hstem
-	652 20 hstem
-	152 116 vstem
-	430 113 vstem
-	737 104 vstem
 	538 672 rmoveto
 	-116 -35 rlineto
 	3 -124 6 -123 0 -124 rrcurveto
@@ -10166,11 +8743,6 @@ dup /CharStrings
 	} |-
 /u1D74E.ssty1 {
 	0 1127 hsbw
-	-7 77 hstem
-	478 20 hstem
-	117 108 vstem
-	503 111 vstem
-	905 94 vstem
 	812 432 rmoveto
 	4 -19 rlineto
 	61 -47 28 -66 0 -68 rrcurveto
@@ -10198,11 +8770,6 @@ dup /CharStrings
 	} |-
 /u1D74F.ssty1 {
 	0 767 hsbw
-	-18 41 hstem
-	439 37 hstem
-	625 71 hstem
-	127 129 vstem
-	516 124 vstem
 	156 534 rmoveto
 	32 63 34 28 59 0 rrcurveto
 	93 0 56 -74 32 -67 rrcurveto
@@ -10229,10 +8796,6 @@ dup /CharStrings
 	} |-
 /u1D750.ssty1 {
 	0 706 hsbw
-	-7 62 hstem
-	218 44 hstem
-	429 42 hstem
-	124 126 vstem
 	515 263 rmoveto
 	-47 -1 -48 0 -47 0 rrcurveto
 	-39 0 -40 0 -40 2 rrcurveto
@@ -10258,11 +8821,6 @@ dup /CharStrings
 	} |-
 /u1D751.ssty1 {
 	0 763 hsbw
-	-8 74 hstem
-	291 80 hstem
-	633 43 hstem
-	149 116 vstem
-	532 97 vstem
 	46 273 rmoveto
 	17 9 19 9 16 0 rrcurveto
 	34 17 -16 -71 hvcurveto
@@ -10294,11 +8852,6 @@ dup /CharStrings
 	} |-
 /u1D753.ssty1 {
 	0 1019 hsbw
-	-7 35 hstem
-	437 32 hstem
-	126 138 vstem
-	442 114 vstem
-	755 138 vstem
 	448 -196 rmoveto
 	109 37 rlineto
 	-1 48 0 47 0 48 rrcurveto
@@ -10338,10 +8891,6 @@ dup /CharStrings
 	} |-
 /u1D7CE.ssty1 {
 	0 666 hsbw
-	-15 82 hstem
-	622 92 hstem
-	76 102 vstem
-	507 84 vstem
 	386 716 rmoveto
 	-59 -13 -57 -39 -48 -38 rrcurveto
 	-110 -87 -36 -129 0 -125 rrcurveto
@@ -10363,9 +8912,6 @@ dup /CharStrings
 	} |-
 /u1D7CF.ssty1 {
 	0 666 hsbw
-	-9 21 hstem
-	694 20 hstem
-	289 112 vstem
 	108 626 rmoveto
 	-32 vlineto
 	140 hlineto
@@ -10382,9 +8928,6 @@ dup /CharStrings
 	} |-
 /u1D7D0.ssty1 {
 	0 666 hsbw
-	5 104 hstem
-	640 75 hstem
-	423 144 vstem
 	609 109 rmoveto
 	-369 hlineto
 	-3 -3 3 2 hvcurveto
@@ -10404,10 +8947,6 @@ dup /CharStrings
 	} |-
 /u1D7D1.ssty1 {
 	0 666 hsbw
-	-8 43 hstem
-	358 31 hstem
-	644 64 hstem
-	434 138 vstem
 	338 391 rmoveto
 	101 33 89 64 0 94 rrcurveto
 	82 -87 44 -87 vhcurveto
@@ -10430,8 +8969,6 @@ dup /CharStrings
 	} |-
 /u1D7D2.ssty1 {
 	0 666 hsbw
-	184 71 hstem
-	360 114 vstem
 	482 255 rmoveto
 	-7 8 rlineto
 	435 vlineto
@@ -10462,11 +8999,6 @@ dup /CharStrings
 	} |-
 /u1D7D3.ssty1 {
 	0 666 hsbw
-	-12 44 hstem
-	395 51 hstem
-	591 103 hstem
-	122 59 vstem
-	431 141 vstem
 	550 694 rmoveto
 	-428 hlineto
 	-345 vlineto
@@ -10491,11 +9023,6 @@ dup /CharStrings
 	} |-
 /u1D7D4.ssty1 {
 	0 666 hsbw
-	-12 51 hstem
-	318 68 hstem
-	646 58 hstem
-	80 126 vstem
-	489 98 vstem
 	572 625 rmoveto
 	27 65 rlineto
 	-17 7 -36 7 -14 0 rrcurveto
@@ -10518,9 +9045,6 @@ dup /CharStrings
 	} |-
 /u1D7D5.ssty1 {
 	0 666 hsbw
-	-5 21 hstem
-	595 98 hstem
-	86 41 vstem
 	306 20 rmoveto
 	7 100 26 106 51 92 rrcurveto
 	68 124 82 118 88 116 rrcurveto
@@ -10539,10 +9063,6 @@ dup /CharStrings
 	} |-
 /u1D7D6.ssty1 {
 	0 666 hsbw
-	-5 47 hstem
-	665 50 hstem
-	78 116 vstem
-	470 112 vstem
 	303 330 rmoveto
 	74 -40 93 -55 0 -78 rrcurveto
 	-68 -43 -52 -88 vhcurveto
@@ -10571,11 +9091,6 @@ dup /CharStrings
 	} |-
 /u1D7D7.ssty1 {
 	0 666 hsbw
-	-10 21 hstem
-	303 71 hstem
-	643 64 hstem
-	84 117 vstem
-	468 124 vstem
 	441 342 rmoveto
 	-214 -245 rlineto
 	-27 -31 -24 -31 -21 -33 rrcurveto
@@ -10601,9 +9116,6 @@ dup /CharStrings
 	} |-
 /uni002C.ssty1 {
 	0 399 hsbw
-	-192 21 hstem
-	87 20 hstem
-	219 69 vstem
 	177 -192 rmoveto
 	47 47 65 62 0 56 rrcurveto
 	40 -50 111 -40 vhcurveto
@@ -10617,8 +9129,6 @@ dup /CharStrings
 	} |-
 /uni002E.ssty1 {
 	0 399 hsbw
-	-15 117 hstem
-	137 142 vstem
 	130 56 rmoveto
 	-38 35 -32 42 vhcurveto
 	42 35 32 38 hvcurveto
@@ -10629,9 +9139,6 @@ dup /CharStrings
 	} |-
 /uni002F.ssty1 {
 	0 668 hsbw
-	-182 21 hstem
-	702 20 hstem
-	69 471 vstem
 	566 711 rmoveto
 	-39 9 rlineto
 	-12 -2 rlineto
@@ -10644,9 +9151,6 @@ dup /CharStrings
 	} |-
 /uni003C.ssty1 {
 	0 461 hsbw
-	-10 21 hstem
-	455 20 hstem
-	53 348 vstem
 	391 443 rmoveto
 	-28 32 rlineto
 	-310 -230 rlineto
@@ -10658,9 +9162,6 @@ dup /CharStrings
 	} |-
 /uni003E.ssty1 {
 	0 459 hsbw
-	-7 21 hstem
-	452 20 hstem
-	69 322 vstem
 	391 241 rmoveto
 	-278 231 rlineto
 	-44 -35 rlineto
@@ -10672,9 +9173,6 @@ dup /CharStrings
 	} |-
 /uni0131.ssty1 {
 	0 466 hsbw
-	-13 85 hstem
-	493 -20 hstem
-	174 113 vstem
 	411 119 rmoveto
 	-22 -20 -29 -27 -26 0 rrcurveto
 	-58 11 71 122 hvcurveto
@@ -10695,9 +9193,6 @@ dup /CharStrings
 	} |-
 /uni0237.ssty1 {
 	0 466 hsbw
-	-194 21 hstem
-	418 74 hstem
-	192 113 vstem
 	73 389 rmoveto
 	22 16 29 15 24 0 rrcurveto
 	60 -18 -145 -150 hvcurveto
@@ -10713,11 +9208,6 @@ dup /CharStrings
 	} |-
 /uni03D6.ssty1 {
 	0 1084 hsbw
-	-11 79 hstem
-	474 69 hstem
-	124 105 vstem
-	485 116 vstem
-	881 94 vstem
 	327 381 rmoveto
 	-121 -32 -82 -86 0 -101 rrcurveto
 	-93 68 -80 118 vhcurveto
@@ -10746,10 +9236,6 @@ dup /CharStrings
 	} |-
 /uni2113.ssty1 {
 	0 513 hsbw
-	-20 87 hstem
-	669 40 hstem
-	125 110 vstem
-	371 70 vstem
 	439 134 rmoveto
 	-19 -23 -44 -44 -34 0 rrcurveto
 	-83 0 -15 121 -5 57 rrcurveto
@@ -10777,11 +9263,6 @@ dup /CharStrings
 	} |-
 /uni2118.ssty1 {
 	0 801 hsbw
-	-202 50 hstem
-	-9 66 hstem
-	411 76 hstem
-	85 63 vstem
-	624 98 vstem
 	391 59 rmoveto
 	-23 73 -45 57 -45 68 rrcurveto
 	53 73 80 82 91 0 rrcurveto
@@ -10817,10 +9298,6 @@ dup /CharStrings
 	} |-
 /eight.onum.ssty1 {
 	0 668 hsbw
-	-5 47 hstem
-	665 50 hstem
-	78 116 vstem
-	472 113 vstem
 	289 336 rmoveto
 	86 -43 97 -57 0 -79 rrcurveto
 	-68 -44 -51 -88 vhcurveto
@@ -10847,11 +9324,6 @@ dup /CharStrings
 	} |-
 /five.onum.ssty1 {
 	0 668 hsbw
-	-191 39 hstem
-	193 49 hstem
-	388 93 hstem
-	129 52 vstem
-	410 149 vstem
 	558 481 rmoveto
 	-429 hlineto
 	-319 vlineto
@@ -10876,21 +9348,13 @@ dup /CharStrings
 	} |-
 /four.onum.ssty1 {
 	0 668 hsbw
-	-1 58 hstem
-	374 117 vstem
 	491 -158 rmoveto
 	4 callsubr
-	-1 58 hstem
-	380 107 vstem
 	-3 51 -1 55 0 51 rrcurveto
 	102 hlineto
 	4 callsubr
-	-1 62 hstem
-	374 117 vstem
 	19 62 rlineto
 	4 callsubr
-	-1 58 hstem
-	380 107 vstem
 	-33 -3 -29 -1 -59 0 rrcurveto
 	0 177 4 168 6 80 rrcurveto
 	-10 13 rlineto
@@ -10902,8 +9366,6 @@ dup /CharStrings
 	5 -10 rlineto
 	closepath
 	4 callsubr
-	-1 58 hstem
-	374 117 vstem
 	-241 255 rmoveto
 	11 vlineto
 	74 109 96 130 60 55 rrcurveto
@@ -10914,11 +9376,6 @@ dup /CharStrings
 	} |-
 /nine.onum.ssty1 {
 	0 668 hsbw
-	-195 32 hstem
-	43 72 hstem
-	425 63 hstem
-	62 124 vstem
-	449 143 vstem
 	430 104 rmoveto
 	7 -6 rlineto
 	-7 -72 -38 -74 -61 -50 rrcurveto
@@ -10944,9 +9401,6 @@ dup /CharStrings
 	} |-
 /one.onum.ssty1 {
 	0 668 hsbw
-	0 44 hstem
-	449 40 hstem
-	290 116 vstem
 	131 451 rmoveto
 	93 -13 rlineto
 	58 -8 10 -43 0 -51 rrcurveto
@@ -10966,10 +9420,6 @@ dup /CharStrings
 	} |-
 /one.alt.ssty1 {
 	0 617 hsbw
-	-9 21 hstem
-	594 30 hstem
-	694 20 hstem
-	271 138 vstem
 	407 32 rmoveto
 	-4 64 0 104 0 84 rrcurveto
 	0 138 7 138 13 137 rrcurveto
@@ -10988,9 +9438,6 @@ dup /CharStrings
 	} |-
 /seven.onum.ssty1 {
 	0 668 hsbw
-	-198 21 hstem
-	375 104 hstem
-	87 549 vstem
 	204 -198 rmoveto
 	119 228 141 221 171 205 rrcurveto
 	23 vlineto
@@ -11007,11 +9454,6 @@ dup /CharStrings
 	} |-
 /six.onum.ssty1 {
 	0 668 hsbw
-	-12 51 hstem
-	319 67 hstem
-	646 58 hstem
-	81 126 vstem
-	491 98 vstem
 	580 625 rmoveto
 	11 72 rlineto
 	-19 2 -33 5 -4 0 rrcurveto
@@ -11034,10 +9476,6 @@ dup /CharStrings
 	} |-
 /three.onum.ssty1 {
 	0 668 hsbw
-	-193 44 hstem
-	166 38 hstem
-	423 65 hstem
-	421 145 vstem
 	352 212 rmoveto
 	82 26 73 57 0 77 rrcurveto
 	75 -82 41 -80 vhcurveto
@@ -11060,9 +9498,6 @@ dup /CharStrings
 	} |-
 /two.onum.ssty1 {
 	0 668 hsbw
-	4 97 hstem
-	421 70 hstem
-	345 125 vstem
 	580 hmoveto
 	27 102 rlineto
 	-14 4 rlineto
@@ -11084,12 +9519,6 @@ dup /CharStrings
 	} |-
 /u1D56C.ssty1 {
 	0 928 hsbw
-	-31 21 hstem
-	77 82 hstem
-	624 64 hstem
-	62 105 vstem
-	452 126 vstem
-	627 134 vstem
 	627 124 rmoveto
 	74 -150 rlineto
 	12 -3 rlineto
@@ -11128,11 +9557,6 @@ dup /CharStrings
 	} |-
 /u1D56D.ssty1 {
 	0 1128 hsbw
-	-31 85 hstem
-	621 64 hstem
-	89 103 vstem
-	430 137 vstem
-	876 126 vstem
 	956 100 rmoveto
 	30 37 16 34 0 45 rrcurveto
 	0 87 -46 63 -150 17 rrcurveto
@@ -11182,11 +9606,6 @@ dup /CharStrings
 	} |-
 /u1D56E.ssty1 {
 	0 802 hsbw
-	-32 78 hstem
-	514 55 hstem
-	657 20 hstem
-	104 131 vstem
-	390 139 vstem
 	351 593 rmoveto
 	-72 -31 -105 -61 -22 -16 rrcurveto
 	-29 -56 -19 -61 0 -62 rrcurveto
@@ -11219,12 +9638,6 @@ dup /CharStrings
 	} |-
 /u1D56F.ssty1 {
 	0 1065 hsbw
-	-29 21 hstem
-	63 97 hstem
-	597 88 hstem
-	63 26 vstem
-	283 130 vstem
-	828 118 vstem
 	453 549 rmoveto
 	-65 -33 -99 -57 0 -63 rrcurveto
 	0 -59 107 -56 0 -49 rrcurveto
@@ -11256,11 +9669,6 @@ dup /CharStrings
 	} |-
 /u1D570.ssty1 {
 	0 862 hsbw
-	-29 83 hstem
-	517 59 hstem
-	667 20 hstem
-	106 124 vstem
-	392 107 vstem
 	658 461 rmoveto
 	-124 -80 rlineto
 	0 58 -39 69 0 62 rrcurveto
@@ -11302,12 +9710,6 @@ dup /CharStrings
 	} |-
 /u1D571.ssty1 {
 	0 800 hsbw
-	-147 40 hstem
-	169 61 hstem
-	596 88 hstem
-	157 114 vstem
-	297 106 vstem
-	509 114 vstem
 	479 299 rmoveto
 	-36 36 -40 48 0 40 rrcurveto
 	0 48 52 24 47 15 rrcurveto
@@ -11346,13 +9748,6 @@ dup /CharStrings
 	} |-
 /u1D572.ssty1 {
 	0 1009 hsbw
-	-29 80 hstem
-	382 76 hstem
-	526 86 hstem
-	668 20 hstem
-	107 119 vstem
-	343 164 vstem
-	764 129 vstem
 	346 596 rmoveto
 	-63 -28 -63 -33 -64 -39 rrcurveto
 	-38 -53 -11 -64 0 -61 rrcurveto
@@ -11391,14 +9786,6 @@ dup /CharStrings
 	} |-
 /u1D573.ssty1 {
 	0 931 hsbw
-	-127 58 hstem
-	30 96 hstem
-	386 87 hstem
-	534 85 hstem
-	664 20 hstem
-	190 101 vstem
-	326 103 vstem
-	672 129 vstem
 	393 127 rmoveto
 	22 19 7 33 0 26 rrcurveto
 	0 32 -23 54 -24 40 rrcurveto
@@ -11437,9 +9824,6 @@ dup /CharStrings
 	} |-
 /u1D574.ssty1 {
 	0 732 hsbw
-	-25 54 hstem
-	572 111 hstem
-	458 131 vstem
 	658 670 rmoveto
 	-36 -26 -40 -28 -42 0 rrcurveto
 	-58 0 -111 67 -79 0 rrcurveto
@@ -11469,11 +9853,6 @@ dup /CharStrings
 	} |-
 /u1D575.ssty1 {
 	0 729 hsbw
-	-142 36 hstem
-	76 73 hstem
-	579 102 hstem
-	160 119 vstem
-	464 117 vstem
 	659 609 rmoveto
 	-38 -14 -46 -16 -33 0 rrcurveto
 	-82 0 -81 102 -67 0 rrcurveto
@@ -11504,11 +9883,6 @@ dup /CharStrings
 	} |-
 /u1D576.ssty1 {
 	0 869 hsbw
-	-22 70 hstem
-	432 70 hstem
-	620 62 hstem
-	187 112 vstem
-	588 117 vstem
 	784 348 rmoveto
 	-5 21 rlineto
 	-23 -6 -12 0 -12 0 rrcurveto
@@ -11554,10 +9928,6 @@ dup /CharStrings
 	} |-
 /u1D577.ssty1 {
 	0 866 hsbw
-	-28 110 hstem
-	628 56 hstem
-	214 117 vstem
-	581 128 vstem
 	406 257 rmoveto
 	4 5 1 12 0 5 rrcurveto
 	0 89 -80 72 0 83 rrcurveto
@@ -11592,14 +9962,6 @@ dup /CharStrings
 	} |-
 /u1D578.ssty1 {
 	0 1327 hsbw
-	-26 20 hstem
-	28 92 hstem
-	620 62 hstem
-	59 100 vstem
-	169 108 vstem
-	440 118 vstem
-	757 116 vstem
-	1015 117 vstem
 	1279 76 rmoveto
 	18 vlineto
 	-20 -7 -33 -2 -9 0 rrcurveto
@@ -11657,11 +10019,6 @@ dup /CharStrings
 	} |-
 /u1D579.ssty1 {
 	0 1066 hsbw
-	-30 87 hstem
-	614 65 hstem
-	59 95 vstem
-	470 115 vstem
-	759 114 vstem
 	909 476 rmoveto
 	43 29 37 24 30 13 rrcurveto
 	-5 15 rlineto
@@ -11704,12 +10061,6 @@ dup /CharStrings
 	} |-
 /u1D57A.ssty1 {
 	0 1059 hsbw
-	-29 79 hstem
-	577 101 hstem
-	706 20 hstem
-	121 120 vstem
-	253 113 vstem
-	799 132 vstem
 	334 608 rmoveto
 	-10 18 -26 47 vhcurveto
 	34 0 36 4 44 0 rrcurveto
@@ -11745,10 +10096,6 @@ dup /CharStrings
 	} |-
 /u1D57B.ssty1 {
 	0 1060 hsbw
-	1 -21 hstem
-	612 69 hstem
-	408 128 vstem
-	725 112 vstem
 	550 -141 rmoveto
 	-9 54 -5 52 0 54 rrcurveto
 	49 -21 56 -18 55 0 rrcurveto
@@ -11762,10 +10109,6 @@ dup /CharStrings
 	-16 13 -22 2 -21 0 rrcurveto
 	-103 0 -92 -62 -74 -62 rrcurveto
 	4 callsubr
-	1 -21 hstem
-	619 66 hstem
-	408 128 vstem
-	725 112 vstem
 	-37 77 -70 51 -91 0 rrcurveto
 	-157 -121 -133 -71 hvcurveto
 	0 -67 97 -35 0 -46 rrcurveto
@@ -11786,10 +10129,6 @@ dup /CharStrings
 	closepath
 	127 741 rmoveto
 	4 callsubr
-	1 -21 hstem
-	612 69 hstem
-	408 128 vstem
-	725 112 vstem
 	53 61 37 33 62 0 rrcurveto
 	46 27 -31 -59 hvcurveto
 	0 -71 37 -3 36 -5 rrcurveto
@@ -11803,12 +10142,6 @@ dup /CharStrings
 	} |-
 /u1D57C.ssty1 {
 	0 1059 hsbw
-	-82 21 hstem
-	36 94 hstem
-	577 99 hstem
-	706 20 hstem
-	253 113 vstem
-	799 132 vstem
 	762 66 rmoveto
 	29 20 35 24 22 24 rrcurveto
 	53 74 30 84 0 86 rrcurveto
@@ -11849,12 +10182,6 @@ dup /CharStrings
 	} |-
 /u1D57D.ssty1 {
 	0 1061 hsbw
-	-29 21 hstem
-	28 96 hstem
-	619 71 hstem
-	165 116 vstem
-	437 128 vstem
-	764 118 vstem
 	241 619 rmoveto
 	91 0 58 -74 26 -60 rrcurveto
 	15 -42 6 -43 0 -43 rrcurveto
@@ -11905,13 +10232,6 @@ dup /CharStrings
 	} |-
 /u1D57E.ssty1 {
 	0 1061 hsbw
-	-31 72 hstem
-	322 84 hstem
-	490 94 hstem
-	610 75 hstem
-	116 121 vstem
-	307 112 vstem
-	870 86 vstem
 	638 513 rmoveto
 	22 -11 24 -12 26 0 rrcurveto
 	100 0 110 69 31 80 rrcurveto
@@ -11944,12 +10264,6 @@ dup /CharStrings
 	} |-
 /u1D57F.ssty1 {
 	0 869 hsbw
-	-30 21 hstem
-	42 91 hstem
-	585 96 hstem
-	63 70 vstem
-	322 120 vstem
-	477 115 vstem
 	846 659 rmoveto
 	32 vlineto
 	-33 -27 -49 -23 -47 0 rrcurveto
@@ -11984,10 +10298,6 @@ dup /CharStrings
 	} |-
 /u1D580.ssty1 {
 	0 931 hsbw
-	-34 97 hstem
-	669 20 hstem
-	191 125 vstem
-	638 122 vstem
 	402 249 rmoveto
 	6 17 3 17 0 18 rrcurveto
 	0 56 -26 67 -32 55 rrcurveto
@@ -12024,12 +10334,6 @@ dup /CharStrings
 	} |-
 /u1D581.ssty1 {
 	0 1065 hsbw
-	-29 85 hstem
-	86 86 hstem
-	598 87 hstem
-	168 116 vstem
-	418 130 vstem
-	772 152 vstem
 	341 687 rmoveto
 	-163 -120 -136 -70 hvcurveto
 	0 -69 96 -33 0 -46 rrcurveto
@@ -12075,12 +10379,6 @@ dup /CharStrings
 	} |-
 /u1D582.ssty1 {
 	0 1323 hsbw
-	-31 73 hstem
-	617 66 hstem
-	168 105 vstem
-	434 131 vstem
-	745 109 vstem
-	1074 122 vstem
 	255 617 rmoveto
 	136 43 -133 -90 hvcurveto
 	-109 -30 -145 -167 vhcurveto
@@ -12139,10 +10437,6 @@ dup /CharStrings
 	} |-
 /u1D583.ssty1 {
 	0 930 hsbw
-	-32 81 hstem
-	315 51 hstem
-	581 100 hstem
-	416 111 vstem
 	884 578 rmoveto
 	19 vlineto
 	-12 -3 -16 -4 -14 0 rrcurveto
@@ -12180,12 +10474,6 @@ dup /CharStrings
 	} |-
 /u1D584.ssty1 {
 	0 1067 hsbw
-	-214 48 hstem
-	-27 106 hstem
-	622 61 hstem
-	172 117 vstem
-	423 133 vstem
-	796 133 vstem
 	253 622 rmoveto
 	111 59 -137 -87 hvcurveto
 	0 -69 -4 -106 -47 -41 rrcurveto
@@ -12228,12 +10516,6 @@ dup /CharStrings
 	} |-
 /u1D584.alt.ssty1 {
 	0 1064 hsbw
-	-221 55 hstem
-	51 94 hstem
-	619 62 hstem
-	64 105 vstem
-	419 130 vstem
-	793 132 vstem
 	338 681 rmoveto
 	-121 0 -86 -62 -49 -74 rrcurveto
 	-13 -20 -11 -21 0 -23 rrcurveto
@@ -12279,13 +10561,6 @@ dup /CharStrings
 	} |-
 /u1D585.ssty1 {
 	0 789 hsbw
-	-137 27 hstem
-	-24 70 hstem
-	289 87 hstem
-	571 94 hstem
-	698 20 hstem
-	167 129 vstem
-	532 146 vstem
 	290 664 rmoveto
 	-26 -1 -25 11 0 24 rrcurveto
 	0 7 2 7 2 6 rrcurveto
@@ -12319,12 +10594,6 @@ dup /CharStrings
 	} |-
 /u1D585.alt.ssty1 {
 	0 805 hsbw
-	-148 46 hstem
-	69 75 hstem
-	283 98 hstem
-	602 76 hstem
-	149 130 vstem
-	533 136 vstem
 	289 360 rmoveto
 	-45 -69 rlineto
 	11 -10 rlineto
@@ -12359,11 +10628,6 @@ dup /CharStrings
 	} |-
 /u1D586.ssty1 {
 	0 679 hsbw
-	-32 98 hstem
-	388 52 hstem
-	452 19 hstem
-	110 118 vstem
-	408 113 vstem
 	408 80 rmoveto
 	1 -26 rlineto
 	29 -25 24 -28 21 -30 rrcurveto
@@ -12392,11 +10656,6 @@ dup /CharStrings
 	} |-
 /u1D587.ssty1 {
 	0 666 hsbw
-	-32 86 hstem
-	380 94 hstem
-	671 20 hstem
-	132 116 vstem
-	428 121 vstem
 	256 384 rmoveto
 	-9 4 rlineto
 	107 vlineto
@@ -12425,9 +10684,6 @@ dup /CharStrings
 	} |-
 /u1D588.ssty1 {
 	0 537 hsbw
-	-26 98 hstem
-	393 80 hstem
-	116 132 vstem
 	464 429 rmoveto
 	-39 22 -45 14 -47 8 rrcurveto
 	-199 -107 rlineto
@@ -12447,10 +10703,6 @@ dup /CharStrings
 	} |-
 /u1D589.ssty1 {
 	0 665 hsbw
-	-29 95 hstem
-	558 74 hstem
-	123 120 vstem
-	432 120 vstem
 	294 459 rmoveto
 	-55 -35 -65 -46 -48 -43 rrcurveto
 	-5 -66 -3 -60 0 -46 rrcurveto
@@ -12476,10 +10728,6 @@ dup /CharStrings
 	} |-
 /u1D589.alt.ssty1 {
 	0 663 hsbw
-	-28 86 hstem
-	562 69 hstem
-	129 118 vstem
-	430 121 vstem
 	299 465 rmoveto
 	-58 -30 -58 -32 -49 -39 rrcurveto
 	-7 -49 -3 -48 0 -49 rrcurveto
@@ -12505,9 +10753,6 @@ dup /CharStrings
 	} |-
 /u1D58A.ssty1 {
 	0 546 hsbw
-	-28 96 hstem
-	391 80 hstem
-	111 113 vstem
 	457 108 rmoveto
 	-35 -17 -45 -18 -32 -5 rrcurveto
 	-73 44 -48 25 0 44 rrcurveto
@@ -12528,9 +10773,6 @@ dup /CharStrings
 	} |-
 /u1D58B.ssty1 {
 	0 461 hsbw
-	359 46 hstem
-	611 70 hstem
-	169 118 vstem
 	290 405 rmoveto
 	-19 65 -86 28 0 63 rrcurveto
 	33 25 17 32 vhcurveto
@@ -12558,9 +10800,6 @@ dup /CharStrings
 	} |-
 /u1D58B.alt.ssty1 {
 	0 460 hsbw
-	359 46 hstem
-	170 80 vstem
-	170 117 vstem
 	288 405 rmoveto
 	-27 69 -49 48 -5 64 rrcurveto
 	38 -10 39 -7 40 0 rrcurveto
@@ -12588,9 +10827,6 @@ dup /CharStrings
 	} |-
 /u1D58B.nos.ssty1 {
 	0 466 hsbw
-	359 46 hstem
-	691 -20 hstem
-	169 27 vstem
 	448 655 rmoveto
 	-3 21 rlineto
 	-34 -19 rlineto
@@ -12608,9 +10844,6 @@ dup /CharStrings
 	115 208 rlineto
 	8 14 8 17 3 15 rrcurveto
 	4 callsubr
-	359 46 hstem
-	691 -20 hstem
-	169 118 vstem
 	19 111 0 119 0 117 rrcurveto
 	123 hlineto
 	17 39 rlineto
@@ -12624,12 +10857,6 @@ dup /CharStrings
 	} |-
 /u1D58C.ssty1 {
 	0 671 hsbw
-	-211 86 hstem
-	-21 89 hstem
-	370 56 hstem
-	453 20 hstem
-	125 120 vstem
-	426 112 vstem
 	422 83 rmoveto
 	14 -51 18 -69 0 -37 rrcurveto
 	-49 -22 -2 -32 vhcurveto
@@ -12663,11 +10890,6 @@ dup /CharStrings
 	} |-
 /u1D58C.alt.ssty1 {
 	0 668 hsbw
-	-212 78 hstem
-	-29 100 hstem
-	398 76 hstem
-	125 110 vstem
-	425 140 vstem
 	552 -49 rmoveto
 	6 14 4 15 0 15 rrcurveto
 	0 8 -4 27 -3 18 rrcurveto
@@ -12700,12 +10922,6 @@ dup /CharStrings
 	} |-
 /u1D58D.ssty1 {
 	0 692 hsbw
-	-207 21 hstem
-	-24 21 hstem
-	376 95 hstem
-	667 20 hstem
-	122 130 vstem
-	435 114 vstem
 	256 507 rmoveto
 	1 66 16 56 75 43 rrcurveto
 	-18 15 rlineto
@@ -12735,10 +10951,6 @@ dup /CharStrings
 	} |-
 /u1D58E.ssty1 {
 	0 402 hsbw
-	-26 108 hstem
-	387 91 hstem
-	540 146 hstem
-	140 116 vstem
 	316 86 rmoveto
 	-2 -1 -11 -3 -5 0 rrcurveto
 	-18 -26 41 15 hvcurveto
@@ -12764,10 +10976,6 @@ dup /CharStrings
 	} |-
 /u1D58F.ssty1 {
 	0 403 hsbw
-	-204 21 hstem
-	380 99 hstem
-	541 142 hstem
-	155 116 vstem
 	50 382 rmoveto
 	16 -19 rlineto
 	13 6 24 11 1 0 rrcurveto
@@ -12789,12 +10997,6 @@ dup /CharStrings
 	} |-
 /u1D590.ssty1 {
 	0 538 hsbw
-	-25 93 hstem
-	308 38 hstem
-	515 70 hstem
-	663 11 hstem
-	148 116 vstem
-	375 94 vstem
 	143 115 rmoveto
 	-1 -15 -2 -14 -1 -15 rrcurveto
 	132 -96 rlineto
@@ -12830,8 +11032,6 @@ dup /CharStrings
 	} |-
 /u1D590.alt.ssty1 {
 	0 465 hsbw
-	359 46 hstem
-	137 117 vstem
 	254 405 rmoveto
 	40 -1 52 35 vhcurveto
 	26 0 25 -32 17 -22 rrcurveto
@@ -12864,7 +11064,6 @@ dup /CharStrings
 	} |-
 /u1D591.ssty1 {
 	0 408 hsbw
-	145 113 vstem
 	353 86 rmoveto
 	-8 15 rlineto
 	-18 -9 -23 -9 -10 0 rrcurveto
@@ -12884,11 +11083,6 @@ dup /CharStrings
 	} |-
 /u1D592.ssty1 {
 	0 1003 hsbw
-	-31 21 hstem
-	384 93 hstem
-	141 124 vstem
-	432 114 vstem
-	718 119 vstem
 	553 376 rmoveto
 	0 1 2 26 1 13 rrcurveto
 	-50 13 -46 22 -46 21 rrcurveto
@@ -12934,10 +11128,6 @@ dup /CharStrings
 	} |-
 /u1D593.ssty1 {
 	0 731 hsbw
-	-28 21 hstem
-	388 86 hstem
-	126 126 vstem
-	422 124 vstem
 	250 129 rmoveto
 	-1 75 0 144 0 2 rrcurveto
 	63 31 rlineto
@@ -12968,10 +11158,6 @@ dup /CharStrings
 	} |-
 /u1D594.ssty1 {
 	0 685 hsbw
-	-34 89 hstem
-	391 91 hstem
-	137 124 vstem
-	443 111 vstem
 	291 -34 rmoveto
 	85 34 81 41 75 48 rrcurveto
 	24 79 2 88 0 81 rrcurveto
@@ -12994,12 +11180,6 @@ dup /CharStrings
 	} |-
 /u1D595.ssty1 {
 	0 680 hsbw
-	-208 21 hstem
-	22 108 hstem
-	383 99 hstem
-	538 20 hstem
-	151 118 vstem
-	436 125 vstem
 	279 -161 rmoveto
 	-5 61 -4 61 0 61 rrcurveto
 	39 -5 37 -14 30 -22 rrcurveto
@@ -13032,11 +11212,6 @@ dup /CharStrings
 	} |-
 /u1D596.ssty1 {
 	0 672 hsbw
-	-212 21 hstem
-	-30 102 hstem
-	386 93 hstem
-	122 121 vstem
-	413 113 vstem
 	536 -171 rmoveto
 	-5 71 -4 70 0 71 rrcurveto
 	0 147 0 188 30 103 rrcurveto
@@ -13063,9 +11238,6 @@ dup /CharStrings
 	} |-
 /u1D597.ssty1 {
 	0 533 hsbw
-	-26 96 hstem
-	378 95 hstem
-	143 128 vstem
 	339 334 rmoveto
 	15 -12 8 -6 15 0 rrcurveto
 	7 0 3 2 3 2 rrcurveto
@@ -13095,13 +11267,6 @@ dup /CharStrings
 	} |-
 /u1D598.ssty1 {
 	0 597 hsbw
-	-35 21 hstem
-	41 90 hstem
-	225 77 hstem
-	342 86 hstem
-	459 20 hstem
-	111 126 vstem
-	359 116 vstem
 	524 442 rmoveto
 	-12 19 rlineto
 	-24 -16 -37 -17 -24 0 rrcurveto
@@ -13133,8 +11298,6 @@ dup /CharStrings
 	} |-
 /u1D599.ssty1 {
 	0 465 hsbw
-	359 46 hstem
-	164 118 vstem
 	282 359 rmoveto
 	94 hlineto
 	16 39 rlineto
@@ -13161,8 +11324,6 @@ dup /CharStrings
 	} |-
 /u1D599.alt.ssty1 {
 	0 470 hsbw
-	359 46 hstem
-	162 117 vstem
 	279 405 rmoveto
 	0 1 8 115 4 56 rrcurveto
 	-12 9 rlineto
@@ -13188,10 +11349,6 @@ dup /CharStrings
 	} |-
 /u1D59A.ssty1 {
 	0 665 hsbw
-	-32 94 hstem
-	384 89 hstem
-	153 108 vstem
-	412 117 vstem
 	409 424 rmoveto
 	4 -112 0 -111 0 -103 rrcurveto
 	-68 -36 rlineto
@@ -13220,11 +11377,6 @@ dup /CharStrings
 	} |-
 /u1D59B.ssty1 {
 	0 680 hsbw
-	-28 83 hstem
-	389 87 hstem
-	526 20 hstem
-	132 123 vstem
-	427 120 vstem
 	510 80 rmoveto
 	39 68 0 92 0 76 rrcurveto
 	0 33 -1 33 -2 33 rrcurveto
@@ -13253,12 +11405,6 @@ dup /CharStrings
 	} |-
 /u1D59C.ssty1 {
 	0 999 hsbw
-	-33 96 hstem
-	376 94 hstem
-	529 20 hstem
-	142 122 vstem
-	427 125 vstem
-	740 123 vstem
 	553 370 rmoveto
 	34 vlineto
 	-52 19 -50 22 -47 26 rrcurveto
@@ -13302,11 +11448,6 @@ dup /CharStrings
 	} |-
 /u1D59D.ssty1 {
 	0 532 hsbw
-	-188 64 hstem
-	-29 97 hstem
-	381 90 hstem
-	45 71 vstem
-	169 118 vstem
 	463 82 rmoveto
 	-2 18 rlineto
 	-31 -14 -45 -18 -12 0 rrcurveto
@@ -13337,12 +11478,6 @@ dup /CharStrings
 	} |-
 /u1D59E.ssty1 {
 	0 665 hsbw
-	-222 21 hstem
-	-28 21 hstem
-	381 97 hstem
-	537 20 hstem
-	143 122 vstem
-	428 122 vstem
 	554 412 rmoveto
 	-50 19 -48 22 -46 25 rrcurveto
 	-142 -93 rlineto
@@ -13373,10 +11508,6 @@ dup /CharStrings
 	} |-
 /u1D59F.ssty1 {
 	0 535 hsbw
-	-215 80 hstem
-	371 101 hstem
-	24 112 vstem
-	297 105 vstem
 	385 -103 rmoveto
 	19 60 13 57 0 60 rrcurveto
 	0 47 -6 47 -11 46 rrcurveto
@@ -13405,10 +11536,6 @@ dup /CharStrings
 	} |-
 /uni0021.ssty1 {
 	0 421 hsbw
-	-12 117 hstem
-	184 21 hstem
-	670 20 hstem
-	141 136 vstem
 	146 46 rmoveto
 	-34 29 -28 34 vhcurveto
 	35 29 28 34 hvcurveto
@@ -13427,10 +11554,6 @@ dup /CharStrings
 	} |-
 /uni0022.ssty1 {
 	0 323 hsbw
-	432 21 hstem
-	675 19 hstem
-	42 82 vstem
-	186 82 vstem
 	73 432 rmoveto
 	25 hlineto
 	26 191 rlineto
@@ -13451,13 +11574,6 @@ dup /CharStrings
 	} |-
 /uni0026.ssty1 {
 	0 952 hsbw
-	-14 52 hstem
-	355 48 hstem
-	662 35 hstem
-	75 119 vstem
-	221 95 vstem
-	459 115 vstem
-	655 76 vstem
 	472 355 rmoveto
 	20 2 20 0 21 0 rrcurveto
 	79 43 -47 -58 hvcurveto
@@ -13499,9 +11615,6 @@ dup /CharStrings
 	} |-
 /uni0027.ssty1 {
 	0 320 hsbw
-	436 21 hstem
-	675 20 hstem
-	114 81 vstem
 	138 436 rmoveto
 	19 hlineto
 	32 186 rlineto
@@ -13514,9 +11627,6 @@ dup /CharStrings
 	} |-
 /uni0028.ssty1 {
 	0 532 hsbw
-	-186 21 hstem
-	718 20 hstem
-	169 61 vstem
 	386 -172 rmoveto
 	-90 21 -33 110 -12 59 rrcurveto
 	-17 84 -4 86 0 86 rrcurveto
@@ -13531,9 +11641,6 @@ dup /CharStrings
 	} |-
 /uni0029.ssty1 {
 	0 532 hsbw
-	-187 21 hstem
-	715 20 hstem
-	301 63 vstem
 	139 715 rmoveto
 	90 -36 31 -90 18 -78 rrcurveto
 	18 -77 5 -79 0 -79 rrcurveto
@@ -13548,9 +11655,6 @@ dup /CharStrings
 	} |-
 /uni002A.ssty1 {
 	0 399 hsbw
-	425 25 hstem
-	692 24 hstem
-	180 42 vstem
 	224 449 rmoveto
 	-11 43 -2 14 -1 42 rrcurveto
 	32 -22 26 -18 19 -20 rrcurveto
@@ -13574,8 +11678,6 @@ dup /CharStrings
 	} |-
 /uni002B.ssty1 {
 	0 974 hsbw
-	238 50 hstem
-	462 51 vstem
 	513 288 rmoveto
 	310 vlineto
 	-51 -14 rlineto
@@ -13593,9 +11695,6 @@ dup /CharStrings
 	} |-
 /uni003A.ssty1 {
 	0 325 hsbw
-	-16 145 hstem
-	334 144 hstem
-	88 147 vstem
 	162 478 rmoveto
 	-41 -33 -32 -40 hvcurveto
 	-40 33 -32 41 vhcurveto
@@ -13612,9 +11711,6 @@ dup /CharStrings
 	} |-
 /uni003B.ssty1 {
 	0 325 hsbw
-	-190 289 hstem
-	343 116 hstem
-	89 159 vstem
 	161 479 rmoveto
 	-41 -33 -32 -40 hvcurveto
 	-40 33 -33 41 vhcurveto
@@ -13637,8 +11733,6 @@ dup /CharStrings
 	} |-
 /uni003D.ssty1 {
 	0 657 hsbw
-	164 50 hstem
-	299 50 hstem
 	592 299 rmoveto
 	10 50 rlineto
 	-536 hlineto
@@ -13653,11 +11747,6 @@ dup /CharStrings
 	} |-
 /uni003F.ssty1 {
 	0 501 hsbw
-	-15 129 hstem
-	170 21 hstem
-	654 45 hstem
-	129 150 vstem
-	350 113 vstem
 	204 121 rmoveto
 	-39 -34 -32 -40 hvcurveto
 	-40 34 -33 39 vhcurveto
@@ -13687,9 +11776,6 @@ dup /CharStrings
 	} |-
 /uni005B.ssty1 {
 	0 326 hsbw
-	-130 32 hstem
-	710 31 hstem
-	69 51 vstem
 	263 712 rmoveto
 	24 vlineto
 	-66 0 -81 0 -47 5 rrcurveto
@@ -13703,9 +11789,6 @@ dup /CharStrings
 	} |-
 /uni005D.ssty1 {
 	0 326 hsbw
-	-132 31 hstem
-	708 31 hstem
-	193 51 vstem
 	193 700 rmoveto
 	-792 vlineto
 	-147 -11 rlineto
@@ -13719,9 +11802,6 @@ dup /CharStrings
 	} |-
 /uni005E.ssty1 {
 	0 666 hsbw
-	452 21 hstem
-	715 20 hstem
-	32 596 vstem
 	334 735 rmoveto
 	-302 -271 rlineto
 	28 -12 rlineto
@@ -13733,8 +11813,6 @@ dup /CharStrings
 	} |-
 /uni2018.ssty1 {
 	0 323 hsbw
-	410 299 hstem
-	86 138 vstem
 	201 709 rmoveto
 	-48 -50 -67 -68 0 -50 rrcurveto
 	-45 47 -86 40 vhcurveto
@@ -13748,8 +11826,6 @@ dup /CharStrings
 	} |-
 /uni2019.ssty1 {
 	0 323 hsbw
-	427 297 hstem
-	81 138 vstem
 	113 394 rmoveto
 	48 49 67 69 0 50 rrcurveto
 	45 -48 86 -39 vhcurveto
@@ -13763,7 +11839,6 @@ dup /CharStrings
 	} |-
 /uni2212.ssty1 {
 	0 974 hsbw
-	231 50 hstem
 	866 231 rmoveto
 	17 50 rlineto
 	-777 hlineto
@@ -13773,10 +11848,6 @@ dup /CharStrings
 	} |-
 /zero.onum.ssty1 {
 	0 668 hsbw
-	-11 84 hstem
-	420 82 hstem
-	74 103 vstem
-	469 107 vstem
 	351 502 rmoveto
 	-164 -60 -113 -109 0 -146 rrcurveto
 	-96 75 -102 125 vhcurveto
@@ -13793,11 +11864,6 @@ dup /CharStrings
 	} |-
 /u1D4D0.ssty1 {
 	0 1015 hsbw
-	-11 56 hstem
-	225 51 hstem
-	646 55 hstem
-	43 124 vstem
-	649 135 vstem
 	649 225 rmoveto
 	-107 8 -135 124 vhcurveto
 	78 0 51 52 42 52 rrcurveto
@@ -13825,12 +11891,6 @@ dup /CharStrings
 	} |-
 /u1D4D1.ssty1 {
 	0 991 hsbw
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	73 117 vstem
-	364 125 vstem
-	761 121 vstem
 	476 727 rmoveto
 	-107 -37 rlineto
 	-130 -19 -166 -75 0 -108 rrcurveto
@@ -13849,12 +11909,6 @@ dup /CharStrings
 	83 -86 59 -95 vhcurveto
 	-2 6 rlineto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	73 117 vstem
-	364 125 vstem
-	725 118 vstem
 	80 26 64 63 0 68 rrcurveto
 	138 -222 4 -131 vhcurveto
 	25 vlineto
@@ -13866,12 +11920,6 @@ dup /CharStrings
 	2 4 13 2 9 1 rrcurveto
 	92 hlineto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	73 117 vstem
-	364 125 vstem
-	761 121 vstem
 	94 -8 69 -57 0 -87 rrcurveto
 	0 -32 -7 -36 -28 -23 rrcurveto
 	-24 -20 -57 -3 -40 0 rrcurveto
@@ -13879,12 +11927,6 @@ dup /CharStrings
 	-116 574 rmoveto
 	67 0 81 -11 51 -41 rrcurveto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	73 117 vstem
-	364 125 vstem
-	725 118 vstem
 	31 -25 6 -38 0 -35 rrcurveto
 	-104 -125 -13 -98 vhcurveto
 	-6 -7 3 6 hvcurveto
@@ -13893,12 +11935,6 @@ dup /CharStrings
 	} |-
 /u1D4D2.ssty1 {
 	0 795 hsbw
-	-15 40 hstem
-	383 32 hstem
-	673 36 hstem
-	95 131 vstem
-	326 123 vstem
-	614 107 vstem
 	637 165 rmoveto
 	-17 -8 rlineto
 	-74 -58 -58 -86 vhcurveto
@@ -13924,11 +11960,6 @@ dup /CharStrings
 	} |-
 /u1D4D3.ssty1 {
 	0 1071 hsbw
-	0 89 hstem
-	650 43 hstem
-	71 126 vstem
-	356 123 vstem
-	844 131 vstem
 	479 719 rmoveto
 	-14 8 rlineto
 	-107 -37 rlineto
@@ -13960,11 +11991,6 @@ dup /CharStrings
 	} |-
 /u1D4D4.ssty1 {
 	0 802 hsbw
-	-12 38 hstem
-	367 29 hstem
-	677 31 hstem
-	97 136 vstem
-	534 113 vstem
 	326 380 rmoveto
 	-131 -18 -98 -80 0 -118 rrcurveto
 	-134 162 -42 160 vhcurveto
@@ -13990,11 +12016,6 @@ dup /CharStrings
 	} |-
 /u1D4D5.ssty1 {
 	0 875 hsbw
-	-14 44 hstem
-	341 49 hstem
-	655 41 hstem
-	85 129 vstem
-	443 127 vstem
 	570 682 rmoveto
 	43 vlineto
 	-13 6 rlineto
@@ -14036,12 +12057,6 @@ dup /CharStrings
 	} |-
 /u1D4D6.ssty1 {
 	0 797 hsbw
-	-138 39 hstem
-	228 36 hstem
-	475 32 hstem
-	669 38 hstem
-	98 135 vstem
-	550 122 vstem
 	563 377 rmoveto
 	-22 -87 -56 -26 -72 0 rrcurveto
 	-124 -56 111 88 hvcurveto
@@ -14070,13 +12085,6 @@ dup /CharStrings
 	} |-
 /u1D4D7.ssty1 {
 	0 1136 hsbw
-	-11 44 hstem
-	339 49 hstem
-	644 57 hstem
-	66 135 vstem
-	366 131 vstem
-	725 127 vstem
-	977 119 vstem
 	541 694 rmoveto
 	-31 2 -61 2 -21 0 rrcurveto
 	-164 -195 -55 -140 hvcurveto
@@ -14115,10 +12123,6 @@ dup /CharStrings
 	} |-
 /u1D4D8.ssty1 {
 	0 669 hsbw
-	-18 46 hstem
-	663 39 hstem
-	107 141 vstem
-	398 135 vstem
 	533 658 rmoveto
 	34 17 rlineto
 	6 24 rlineto
@@ -14141,10 +12145,6 @@ dup /CharStrings
 	} |-
 /u1D4D9.ssty1 {
 	0 678 hsbw
-	-137 39 hstem
-	649 52 hstem
-	65 91 vstem
-	405 134 vstem
 	610 698 rmoveto
 	-23 2 -21 1 -21 0 rrcurveto
 	-134 0 -135 -31 -96 -79 rrcurveto
@@ -14174,11 +12174,6 @@ dup /CharStrings
 	} |-
 /u1D4DA.ssty1 {
 	0 1062 hsbw
-	-8 44 hstem
-	656 44 hstem
-	61 144 vstem
-	373 124 vstem
-	870 126 vstem
 	497 656 rmoveto
 	51 19 rlineto
 	1 22 rlineto
@@ -14217,12 +12212,6 @@ dup /CharStrings
 	} |-
 /u1D4DB.ssty1 {
 	0 932 hsbw
-	-12 101 hstem
-	102 81 hstem
-	670 40 hstem
-	221 135 vstem
-	518 137 vstem
-	794 31 vstem
 	266 411 rmoveto
 	-23 -144 -33 -41 -58 -45 rrcurveto
 	-72 -56 -17 -44 -3 -68 rrcurveto
@@ -14249,11 +12238,6 @@ dup /CharStrings
 	} |-
 /u1D4DC.ssty1 {
 	0 1255 hsbw
-	-13 58 hstem
-	639 70 hstem
-	61 27 vstem
-	312 52 vstem
-	887 122 vstem
 	649 23 rmoveto
 	6 12 rlineto
 	25 189 63 203 144 144 rrcurveto
@@ -14296,12 +12280,6 @@ dup /CharStrings
 	} |-
 /u1D4DD.ssty1 {
 	0 1003 hsbw
-	-13 119 hstem
-	625 79 hstem
-	58 30 vstem
-	293 50 vstem
-	774 49 vstem
-	884 105 vstem
 	610 388 rmoveto
 	-64 88 -75 99 -90 76 rrcurveto
 	-36 30 -50 21 -51 0 rrcurveto
@@ -14331,11 +12309,6 @@ dup /CharStrings
 	} |-
 /u1D4DE.ssty1 {
 	0 922 hsbw
-	-20 43 hstem
-	661 46 hstem
-	80 127 vstem
-	320 71 vstem
-	687 135 vstem
 	278 670 rmoveto
 	-133 -52 -65 -148 0 -126 rrcurveto
 	0 -99 23 -118 84 -69 rrcurveto
@@ -14359,12 +12332,6 @@ dup /CharStrings
 	} |-
 /u1D4DF.ssty1 {
 	0 865 hsbw
-	-13 42 hstem
-	283 33 hstem
-	650 39 hstem
-	66 137 vstem
-	357 125 vstem
-	662 132 vstem
 	480 690 rmoveto
 	28 vlineto
 	-14 8 rlineto
@@ -14394,11 +12361,6 @@ dup /CharStrings
 	} |-
 /u1D4E0.ssty1 {
 	0 885 hsbw
-	-13 103 hstem
-	183 25 hstem
-	674 31 hstem
-	77 134 vstem
-	645 138 vstem
 	786 184 rmoveto
 	-29 -58 -50 -41 -70 0 rrcurveto
 	-42 0 -44 10 -31 7 rrcurveto
@@ -14424,12 +12386,6 @@ dup /CharStrings
 	} |-
 /u1D4E1.ssty1 {
 	0 940 hsbw
-	-10 47 hstem
-	308 25 hstem
-	656 37 hstem
-	64 147 vstem
-	382 123 vstem
-	689 142 vstem
 	505 694 rmoveto
 	30 vlineto
 	-14 8 rlineto
@@ -14469,13 +12425,6 @@ dup /CharStrings
 	} |-
 /u1D4E2.ssty1 {
 	0 707 hsbw
-	-18 41 hstem
-	254 39 hstem
-	511 23 hstem
-	676 39 hstem
-	39 93 vstem
-	234 104 vstem
-	501 124 vstem
 	407 515 rmoveto
 	15 -2 22 -2 15 0 rrcurveto
 	64 70 42 52 hvcurveto
@@ -14505,10 +12454,6 @@ dup /CharStrings
 	} |-
 /u1D4E3.ssty1 {
 	0 766 hsbw
-	-11 48 hstem
-	633 66 hstem
-	60 137 vstem
-	415 118 vstem
 	792 697 rmoveto
 	-20 -25 rlineto
 	-23 -21 -26 -16 -34 0 rrcurveto
@@ -14538,11 +12483,6 @@ dup /CharStrings
 	} |-
 /u1D4E4.ssty1 {
 	0 922 hsbw
-	-13 63 hstem
-	618 88 hstem
-	42 37 vstem
-	151 126 vstem
-	569 129 vstem
 	864 121 rmoveto
 	-31 -41 -24 -26 -28 0 rrcurveto
 	-84 2 154 75 hvcurveto
@@ -14571,10 +12511,6 @@ dup /CharStrings
 	} |-
 /u1D4E5.ssty1 {
 	0 870 hsbw
-	-16 21 hstem
-	613 87 hstem
-	59 28 vstem
-	684 116 vstem
 	456 118 rmoveto
 	-69 308 rlineto
 	-26 114 -38 162 -113 0 rrcurveto
@@ -14599,11 +12535,6 @@ dup /CharStrings
 	} |-
 /u1D4E6.ssty1 {
 	0 1263 hsbw
-	-8 21 hstem
-	612 92 hstem
-	57 32 vstem
-	322 112 vstem
-	1082 107 vstem
 	446 146 rmoveto
 	-10 -3 rlineto
 	127 vlineto
@@ -14642,11 +12573,6 @@ dup /CharStrings
 	} |-
 /u1D4E7.ssty1 {
 	0 933 hsbw
-	-11 46 hstem
-	669 43 hstem
-	64 125 vstem
-	433 112 vstem
-	745 116 vstem
 	816 169 rmoveto
 	-12 -42 -27 -58 -60 0 rrcurveto
 	-74 0 -30 80 -19 51 rrcurveto
@@ -14679,11 +12605,6 @@ dup /CharStrings
 	} |-
 /u1D4E8.ssty1 {
 	0 795 hsbw
-	-135 45 hstem
-	277 65 hstem
-	616 93 hstem
-	155 122 vstem
-	538 131 vstem
 	546 655 rmoveto
 	0 -68 -5 -69 0 -68 rrcurveto
 	-7 -6 rlineto
@@ -14720,12 +12641,6 @@ dup /CharStrings
 	} |-
 /u1D4E9.ssty1 {
 	0 861 hsbw
-	-14 87 hstem
-	87 89 hstem
-	530 73 hstem
-	629 76 hstem
-	93 76 vstem
-	740 56 vstem
 	568 527 rmoveto
 	39 46 42 43 44 42 rrcurveto
 	-1 9 rlineto
@@ -14759,9 +12674,6 @@ dup /CharStrings
 	} |-
 /uni005C.ssty1 {
 	0 673 hsbw
-	-194 21 hstem
-	706 20 hstem
-	69 521 vstem
 	552 -194 rmoveto
 	45 25 rlineto
 	-470 897 rlineto
@@ -14771,10 +12683,6 @@ dup /CharStrings
 	} |-
 /uni007B.ssty1 {
 	0 453 hsbw
-	-178 17 hstem
-	259 26 hstem
-	710 20 hstem
-	163 62 vstem
 	385 -161 rmoveto
 	-62 0 -74 -1 -15 73 rrcurveto
 	-23 128 53 184 -149 50 rrcurveto
@@ -14796,7 +12704,6 @@ dup /CharStrings
 	} |-
 /uni007C.ssty1 {
 	0 324 hsbw
-	134 54 vstem
 	187 -159 rmoveto
 	897 vlineto
 	-53 -19 rlineto
@@ -14806,10 +12713,6 @@ dup /CharStrings
 	} |-
 /uni007D.ssty1 {
 	0 453 hsbw
-	-177 21 hstem
-	263 24 hstem
-	717 17 hstem
-	-224 65 vstem
 	59 -178 rmoveto
 	133 0 73 -2 12 108 rrcurveto
 	3 24 0 46 0 36 rrcurveto
@@ -14831,10 +12734,6 @@ dup /CharStrings
 	} |-
 /uni00A7.ssty1 {
 	0 689 hsbw
-	-107 31 hstem
-	670 31 hstem
-	119 46 vstem
-	523 54 vstem
 	523 232 rmoveto
 	0 -23 -8 -24 -16 -19 rrcurveto
 	-82 65 -252 36 0 106 rrcurveto
@@ -14844,17 +12743,9 @@ dup /CharStrings
 	-424 -209 rmoveto
 	16 -101 106 -29 98 0 rrcurveto
 	4 callsubr
-	-107 31 hstem
-	670 31 hstem
-	119 46 vstem
-	463 74 vstem
 	116 102 81 101 hvcurveto
 	0 26 -6 27 -16 22 rrcurveto
 	4 callsubr
-	-107 31 hstem
-	670 31 hstem
-	164 70 vstem
-	523 54 vstem
 	40 36 22 49 0 50 rrcurveto
 	0 87 -105 22 -76 37 rrcurveto
 	-109 49 rlineto
@@ -14868,10 +12759,6 @@ dup /CharStrings
 	-123 -82 -80 -96 hvcurveto
 	0 -21 5 -20 7 -20 rrcurveto
 	4 callsubr
-	-107 31 hstem
-	670 31 hstem
-	119 46 vstem
-	463 74 vstem
 	-32 -38 -25 -42 0 -46 rrcurveto
 	0 -90 73 -34 100 -38 rrcurveto
 	98 -38 73 -27 0 -63 rrcurveto
@@ -14884,8 +12771,6 @@ dup /CharStrings
 	} |-
 /uni00AC.ssty1 {
 	0 894 hsbw
-	351 50 hstem
-	737 54 vstem
 	791 401 rmoveto
 	-727 hlineto
 	-50 vlineto
@@ -14897,9 +12782,6 @@ dup /CharStrings
 	} |-
 /uni2111.ssty1 {
 	0 737 hsbw
-	-25 54 hstem
-	572 111 hstem
-	458 131 vstem
 	658 670 rmoveto
 	-36 -26 -40 -28 -42 0 rrcurveto
 	-58 0 -111 67 -79 0 rrcurveto
@@ -14929,12 +12811,6 @@ dup /CharStrings
 	} |-
 /uni211C.ssty1 {
 	0 1068 hsbw
-	-29 21 hstem
-	28 96 hstem
-	619 71 hstem
-	165 116 vstem
-	437 128 vstem
-	764 118 vstem
 	241 619 rmoveto
 	91 0 58 -74 26 -60 rrcurveto
 	15 -42 6 -43 0 -43 rrcurveto
@@ -14985,11 +12861,6 @@ dup /CharStrings
 	} |-
 /uni2135.ssty1 {
 	0 1003 hsbw
-	1 115 hstem
-	530 120 hstem
-	669 20 hstem
-	183 64 vstem
-	587 65 vstem
 	429 116 rmoveto
 	-97 -85 22 99 hvcurveto
 	0 32 40 59 40 13 rrcurveto
@@ -15024,9 +12895,6 @@ dup /CharStrings
 	} |-
 /uni2227.ssty1 {
 	0 1004 hsbw
-	-9 21 hstem
-	694 20 hstem
-	46 915 vstem
 	521 713 rmoveto
 	-11 1 rlineto
 	-464 -704 rlineto
@@ -15040,9 +12908,6 @@ dup /CharStrings
 	} |-
 /uni2228.ssty1 {
 	0 1004 hsbw
-	-12 21 hstem
-	668 20 hstem
-	39 906 vstem
 	946 684 rmoveto
 	-4 4 rlineto
 	-63 hlineto
@@ -15056,9 +12921,6 @@ dup /CharStrings
 	} |-
 /uni223C.ssty1 {
 	0 733 hsbw
-	178 41 hstem
-	305 42 hstem
-	59 614 vstem
 	410 214 rmoveto
 	38 -20 43 -16 46 0 rrcurveto
 	63 0 47 49 26 48 rrcurveto
@@ -15076,10 +12938,6 @@ dup /CharStrings
 	} |-
 /u1D468.ssty2 {
 	0 1169 hsbw
-	-15 78 hstem
-	268 51 hstem
-	648 39 hstem
-	108 949 vstem
 	257 10 rmoveto
 	39 87 49 107 40 64 rrcurveto
 	291 hlineto
@@ -15113,11 +12971,6 @@ dup /CharStrings
 	} |-
 /u1D469.ssty2 {
 	0 1049 hsbw
-	-2 42 hstem
-	347 38 hstem
-	661 42 hstem
-	258 154 vstem
-	680 168 vstem
 	593 379 rmoveto
 	108 19 120 51 0 101 rrcurveto
 	107 -115 46 -190 vhcurveto
@@ -15151,9 +13004,6 @@ dup /CharStrings
 	} |-
 /u1D46A.ssty2 {
 	0 1122 hsbw
-	-18 61 hstem
-	666 45 hstem
-	205 171 vstem
 	976 585 rmoveto
 	-68 93 -104 33 -140 0 rrcurveto
 	-127 0 -121 -38 -89 -70 rrcurveto
@@ -15171,10 +13021,6 @@ dup /CharStrings
 	} |-
 /u1D46B.ssty2 {
 	0 1250 hsbw
-	-1 43 hstem
-	655 43 hstem
-	260 157 vstem
-	887 179 vstem
 	231 -1 rmoveto
 	328 hlineto
 	141 0 142 33 102 80 rrcurveto
@@ -15203,10 +13049,6 @@ dup /CharStrings
 	} |-
 /u1D46C.ssty2 {
 	0 949 hsbw
-	3 62 hstem
-	344 45 hstem
-	645 51 hstem
-	231 143 vstem
 	795 76 rmoveto
 	0 -314 -15 -16 vhcurveto
 	-47 0 -26 21 -5 41 rrcurveto
@@ -15238,10 +13080,6 @@ dup /CharStrings
 	} |-
 /u1D46D.ssty2 {
 	0 816 hsbw
-	-12 21 hstem
-	343 46 hstem
-	642 56 hstem
-	228 152 vstem
 	381 23 rmoveto
 	-1 98 -6 194 0 1 rrcurveto
 	25 12 2 17 vhcurveto
@@ -15267,11 +13105,6 @@ dup /CharStrings
 	} |-
 /u1D46E.ssty2 {
 	0 1187 hsbw
-	-14 53 hstem
-	257 57 hstem
-	661 45 hstem
-	209 169 vstem
-	809 153 vstem
 	567 303 rmoveto
 	-37 vlineto
 	189 -11 47 11 6 -45 rrcurveto
@@ -15296,11 +13129,6 @@ dup /CharStrings
 	} |-
 /u1D46F.ssty2 {
 	0 1200 hsbw
-	-2 37 hstem
-	339 49 hstem
-	662 36 hstem
-	260 155 vstem
-	809 155 vstem
 	816 681 rmoveto
 	-268 vlineto
 	-15 -1 -10 -38 vhcurveto
@@ -15333,9 +13161,6 @@ dup /CharStrings
 	} |-
 /u1D470.ssty2 {
 	0 741 hsbw
-	1 29 hstem
-	661 35 hstem
-	278 152 vstem
 	427 618 rmoveto
 	0 14 10 14 18 3 rrcurveto
 	91 16 rlineto
@@ -15361,9 +13186,6 @@ dup /CharStrings
 	} |-
 /u1D471.ssty2 {
 	0 737 hsbw
-	-168 21 hstem
-	670 35 hstem
-	313 148 vstem
 	459 513 rmoveto
 	0 69 -7 63 52 13 rrcurveto
 	1 0 52 9 26 5 rrcurveto
@@ -15384,9 +13206,6 @@ dup /CharStrings
 	} |-
 /u1D472.ssty2 {
 	0 1074 hsbw
-	-16 23 hstem
-	662 39 hstem
-	264 153 vstem
 	430 387 rmoveto
 	-14 hlineto
 	0 103 5 101 12 103 rrcurveto
@@ -15415,9 +13234,6 @@ dup /CharStrings
 	} |-
 /u1D473.ssty2 {
 	0 926 hsbw
-	-1 57 hstem
-	666 36 hstem
-	251 153 vstem
 	772 75 rmoveto
 	-40 -4 -180 -18 -119 0 rrcurveto
 	-10 0 -14 7 -2 13 rrcurveto
@@ -15442,9 +13258,6 @@ dup /CharStrings
 	} |-
 /u1D474.ssty2 {
 	0 1549 hsbw
-	-15 73 hstem
-	667 33 hstem
-	1114 133 vstem
 	388 533 rmoveto
 	3 4 3 5 vhcurveto
 	4 0 4 -3 2 -4 rrcurveto
@@ -15482,10 +13295,6 @@ dup /CharStrings
 	} |-
 /u1D475.ssty2 {
 	0 1276 hsbw
-	-3 21 hstem
-	666 33 hstem
-	279 61 vstem
-	926 71 vstem
 	341 526 rmoveto
 	9 3 4 4 vhcurveto
 	3 0 4 -2 4 -4 rrcurveto
@@ -15511,10 +13320,6 @@ dup /CharStrings
 	} |-
 /u1D476.ssty2 {
 	0 1229 hsbw
-	-15 46 hstem
-	680 40 hstem
-	189 160 vstem
-	893 166 vstem
 	189 330 rmoveto
 	0 -97 29 -106 87 -68 rrcurveto
 	66 -52 92 -22 93 0 rrcurveto
@@ -15534,11 +13339,6 @@ dup /CharStrings
 	} |-
 /u1D477.ssty2 {
 	0 978 hsbw
-	-6 21 hstem
-	304 37 hstem
-	664 35 hstem
-	263 154 vstem
-	656 165 vstem
 	418 30 rmoveto
 	-2 84 -4 167 0 1 rrcurveto
 	0 33 67 -10 32 2 rrcurveto
@@ -15564,11 +13364,6 @@ dup /CharStrings
 	} |-
 /u1D478.ssty2 {
 	0 1272 hsbw
-	-195 42 hstem
-	-7 33 hstem
-	668 46 hstem
-	205 165 vstem
-	912 161 vstem
 	1056 -141 rmoveto
 	-38 -6 -41 -6 -44 0 rrcurveto
 	-86 0 -67 77 -43 59 rrcurveto
@@ -15592,11 +13387,6 @@ dup /CharStrings
 	} |-
 /u1D479.ssty2 {
 	0 1035 hsbw
-	-10 21 hstem
-	325 40 hstem
-	662 39 hstem
-	270 144 vstem
-	650 165 vstem
 	411 325 rmoveto
 	10 0 4 -1 1 -1 rrcurveto
 	289 -331 rlineto
@@ -15628,10 +13418,6 @@ dup /CharStrings
 	} |-
 /u1D47A.ssty2 {
 	0 966 hsbw
-	-14 49 hstem
-	685 38 hstem
-	256 129 vstem
-	648 138 vstem
 	680 548 rmoveto
 	111 74 rlineto
 	-38 76 -78 25 -118 0 rrcurveto
@@ -15653,9 +13439,6 @@ dup /CharStrings
 	} |-
 /u1D47B.ssty2 {
 	0 837 hsbw
-	-10 23 hstem
-	645 67 hstem
-	407 140 vstem
 	403 496 rmoveto
 	0 -165 -3 -165 -6 -165 rrcurveto
 	10 -12 rlineto
@@ -15679,10 +13462,6 @@ dup /CharStrings
 	} |-
 /u1D47C.ssty2 {
 	0 1202 hsbw
-	-10 63 hstem
-	668 34 hstem
-	250 147 vstem
-	780 148 vstem
 	774 671 rmoveto
 	8 -111 0 -277 0 -195 rrcurveto
 	-46 -18 -54 -17 -55 0 rrcurveto
@@ -15714,9 +13493,6 @@ dup /CharStrings
 	} |-
 /u1D47D.ssty2 {
 	0 1071 hsbw
-	-5 21 hstem
-	666 42 hstem
-	136 905 vstem
 	903 697 rmoveto
 	-150 -260 rlineto
 	-142 -255 rlineto
@@ -15739,9 +13515,6 @@ dup /CharStrings
 	} |-
 /u1D47E.ssty2 {
 	0 1512 hsbw
-	-16 21 hstem
-	667 33 hstem
-	120 1351 vstem
 	1471 699 rmoveto
 	-139 -16 rlineto
 	-65 -175 -104 -192 -93 -169 rrcurveto
@@ -15773,9 +13546,6 @@ dup /CharStrings
 	} |-
 /u1D47F.ssty2 {
 	0 1061 hsbw
-	-13 21 hstem
-	665 35 hstem
-	139 784 vstem
 	569 448 rmoveto
 	-16 hlineto
 	-60 83 -60 86 -52 88 rrcurveto
@@ -15802,9 +13572,6 @@ dup /CharStrings
 	} |-
 /u1D480.ssty2 {
 	0 884 hsbw
-	-4 21 hstem
-	668 38 hstem
-	424 154 vstem
 	896 695 rmoveto
 	-1 12 rlineto
 	-118 -17 rlineto
@@ -15827,9 +13594,6 @@ dup /CharStrings
 	} |-
 /u1D481.ssty2 {
 	0 1057 hsbw
-	-2 66 hstem
-	641 53 hstem
-	139 782 vstem
 	658 629 rmoveto
 	-173 -205 -162 -201 -184 -199 rrcurveto
 	-24 vlineto
@@ -15851,10 +13615,6 @@ dup /CharStrings
 	} |-
 /u1D482.ssty2 {
 	0 978 hsbw
-	-15 78 hstem
-	459 37 hstem
-	218 131 vstem
-	617 128 vstem
 	738 493 rmoveto
 	-69 -38 rlineto
 	-51 27 -56 16 -63 0 rrcurveto
@@ -15880,11 +13640,6 @@ dup /CharStrings
 	} |-
 /u1D483.ssty2 {
 	0 987 hsbw
-	-14 52 hstem
-	419 74 hstem
-	646 61 hstem
-	251 122 vstem
-	650 138 vstem
 	385 693 rmoveto
 	-17 12 rlineto
 	-220 -28 rlineto
@@ -15910,9 +13665,6 @@ dup /CharStrings
 	} |-
 /u1D484.ssty2 {
 	0 843 hsbw
-	-10 69 hstem
-	452 44 hstem
-	209 137 vstem
 	704 379 rmoveto
 	-9 92 -86 25 -86 0 rrcurveto
 	-230 -84 -158 -145 hvcurveto
@@ -15930,10 +13682,6 @@ dup /CharStrings
 	} |-
 /u1D485.ssty2 {
 	0 987 hsbw
-	10 -21 hstem
-	456 39 hstem
-	202 143 vstem
-	614 122 vstem
 	519 678 rmoveto
 	-16 -9 rlineto
 	-24 vlineto
@@ -15963,10 +13711,6 @@ dup /CharStrings
 	} |-
 /u1D486.ssty2 {
 	0 918 hsbw
-	-16 68 hstem
-	455 40 hstem
-	206 139 vstem
-	610 143 vstem
 	360 258 rmoveto
 	-2 0 -3 -1 -2 0 rrcurveto
 	-4 -4 1 4 hvcurveto
@@ -15990,9 +13734,6 @@ dup /CharStrings
 	} |-
 /u1D487.ssty2 {
 	0 706 hsbw
-	400 44 hstem
-	644 42 hstem
-	277 120 vstem
 	396 392 rmoveto
 	11 8 rlineto
 	128 hlineto
@@ -16025,10 +13766,6 @@ dup /CharStrings
 	} |-
 /u1D488.ssty2 {
 	0 970 hsbw
-	-242 50 hstem
-	454 41 hstem
-	211 134 vstem
-	611 122 vstem
 	733 127 rmoveto
 	0 261 0 17 4 72 rrcurveto
 	-15 4 rlineto
@@ -16056,18 +13793,10 @@ dup /CharStrings
 	} |-
 /u1D489.ssty2 {
 	0 977 hsbw
-	-8 96 hstem
-	497 -20 hstem
-	250 122 vstem
-	606 127 vstem
 	372 380 rmoveto
 	38 24 56 24 42 0 rrcurveto
 	62 36 -23 -95 hvcurveto
 	4 callsubr
-	-8 96 hstem
-	497 -20 hstem
-	250 122 vstem
-	600 123 vstem
 	0 -45 -6 -50 0 -60 rrcurveto
 	-113 24 -50 82 vhcurveto
 	63 0 63 63 43 45 rrcurveto
@@ -16076,10 +13805,6 @@ dup /CharStrings
 	-23 -17 -24 -18 -32 0 rrcurveto
 	-42 -11 38 62 hvcurveto
 	4 callsubr
-	-8 96 hstem
-	497 -20 hstem
-	250 122 vstem
-	606 127 vstem
 	0 64 9 64 0 32 rrcurveto
 	68 -15 81 -110 vhcurveto
 	-75 0 -83 -37 -68 -34 rrcurveto
@@ -16100,10 +13825,6 @@ dup /CharStrings
 	} |-
 /u1D48A.ssty2 {
 	0 632 hsbw
-	-13 85 hstem
-	420 73 hstem
-	562 123 hstem
-	256 122 vstem
 	241 621 rmoveto
 	-36 34 -30 42 vhcurveto
 	43 34 30 36 hvcurveto
@@ -16130,9 +13851,6 @@ dup /CharStrings
 	} |-
 /u1D48B.ssty2 {
 	0 628 hsbw
-	493 -20 hstem
-	555 132 hstem
-	252 153 vstem
 	252 621 rmoveto
 	-36 35 -30 42 vhcurveto
 	42 34 30 36 hvcurveto
@@ -16142,9 +13860,6 @@ dup /CharStrings
 	-103 -232 rmoveto
 	23 16 31 15 26 0 rrcurveto
 	4 callsubr
-	493 -20 hstem
-	555 132 hstem
-	273 117 vstem
 	56 -12 -84 -105 hvcurveto
 	0 -35 1 -43 0 -42 rrcurveto
 	0 -42 -2 -40 -2 -29 rrcurveto
@@ -16159,7 +13874,6 @@ dup /CharStrings
 	} |-
 /u1D48C.ssty2 {
 	0 915 hsbw
-	259 122 vstem
 	387 253 rmoveto
 	10 9 rlineto
 	80 -87 91 -177 94 0 rrcurveto
@@ -16188,9 +13902,6 @@ dup /CharStrings
 	} |-
 /u1D48D.ssty2 {
 	0 634 hsbw
-	-7 83 hstem
-	649 49 hstem
-	248 129 vstem
 	380 685 rmoveto
 	-15 12 rlineto
 	-214 -17 rlineto
@@ -16212,12 +13923,6 @@ dup /CharStrings
 	} |-
 /u1D48E.ssty2 {
 	0 1353 hsbw
-	14 -21 hstem
-	433 -20 hstem
-	492 -20 hstem
-	262 121 vstem
-	617 119 vstem
-	977 125 vstem
 	383 383 rmoveto
 	43 23 56 27 53 0 rrcurveto
 	84 -4 -87 -57 hvcurveto
@@ -16255,10 +13960,6 @@ dup /CharStrings
 	} |-
 /u1D48F.ssty2 {
 	0 985 hsbw
-	-10 98 hstem
-	497 -20 hstem
-	251 122 vstem
-	610 122 vstem
 	373 378 rmoveto
 	43 20 63 26 34 0 rrcurveto
 	24 0 23 -2 18 -14 rrcurveto
@@ -16289,10 +13990,6 @@ dup /CharStrings
 	} |-
 /u1D490.ssty2 {
 	0 987 hsbw
-	-11 41 hstem
-	446 40 hstem
-	197 150 vstem
-	640 150 vstem
 	346 234 rmoveto
 	88 33 124 120 vhcurveto
 	110 31 -94 -84 hvcurveto
@@ -16312,10 +14009,6 @@ dup /CharStrings
 	} |-
 /u1D491.ssty2 {
 	0 975 hsbw
-	0 42 hstem
-	414 74 hstem
-	260 122 vstem
-	654 139 vstem
 	390 -217 rmoveto
 	232 vlineto
 	3 6 rlineto
@@ -16344,10 +14037,6 @@ dup /CharStrings
 	} |-
 /u1D492.ssty2 {
 	0 986 hsbw
-	-39 -21 hstem
-	408 40 hstem
-	223 133 vstem
-	615 121 vstem
 	751 -213 rmoveto
 	-9 128 -5 182 0 131 rrcurveto
 	0 103 6 102 7 102 rrcurveto
@@ -16371,8 +14060,6 @@ dup /CharStrings
 	} |-
 /u1D493.ssty2 {
 	0 783 hsbw
-	489 -20 hstem
-	260 122 vstem
 	398 33 rmoveto
 	-8 76 -8 116 0 32 rrcurveto
 	58 22 86 88 vhcurveto
@@ -16394,10 +14081,6 @@ dup /CharStrings
 	} |-
 /u1D494.ssty2 {
 	0 785 hsbw
-	-15 37 hstem
-	457 37 hstem
-	187 110 vstem
-	468 130 vstem
 	591 426 rmoveto
 	-35 59 -70 9 -68 0 rrcurveto
 	-115 -116 -46 -117 hvcurveto
@@ -16419,9 +14102,6 @@ dup /CharStrings
 	} |-
 /u1D495.ssty2 {
 	0 714 hsbw
-	10 -21 hstem
-	400 45 hstem
-	276 122 vstem
 	271 588 rmoveto
 	0 -1 2 -82 1 -52 rrcurveto
 	-8 -9 rlineto
@@ -16453,10 +14133,6 @@ dup /CharStrings
 	} |-
 /u1D496.ssty2 {
 	0 984 hsbw
-	13 -21 hstem
-	496 -20 hstem
-	243 124 vstem
-	610 122 vstem
 	604 466 rmoveto
 	5 -75 2 -81 0 -80 rrcurveto
 	0 -39 0 -39 -1 -38 rrcurveto
@@ -16486,9 +14162,6 @@ dup /CharStrings
 	} |-
 /u1D497.ssty2 {
 	0 840 hsbw
-	-13 21 hstem
-	411 78 hstem
-	595 111 vstem
 	92 386 rmoveto
 	26 14 38 12 16 0 rrcurveto
 	33 0 14 -26 5 -20 rrcurveto
@@ -16511,9 +14184,6 @@ dup /CharStrings
 	} |-
 /u1D498.ssty2 {
 	0 1272 hsbw
-	-13 21 hstem
-	407 84 hstem
-	1019 118 vstem
 	373 382 rmoveto
 	-10 49 0 24 -14 10 rrcurveto
 	-19 13 -19 12 -26 0 rrcurveto
@@ -16548,9 +14218,6 @@ dup /CharStrings
 	} |-
 /u1D499.ssty2 {
 	0 845 hsbw
-	-12 89 hstem
-	418 71 hstem
-	78 643 vstem
 	643 489 rmoveto
 	-14 hlineto
 	-74 -55 -65 -62 -63 -62 rrcurveto
@@ -16582,11 +14249,6 @@ dup /CharStrings
 	} |-
 /u1D49A.ssty2 {
 	0 984 hsbw
-	-232 50 hstem
-	10 -21 hstem
-	489 -20 hstem
-	250 128 vstem
-	619 122 vstem
 	745 487 rmoveto
 	-21 4 rlineto
 	-116 -35 rlineto
@@ -16619,9 +14281,6 @@ dup /CharStrings
 	} |-
 /u1D49B.ssty2 {
 	0 838 hsbw
-	-8 102 hstem
-	396 96 hstem
-	135 578 vstem
 	651 492 rmoveto
 	-32 -19 -36 -11 -41 0 rrcurveto
 	-84 0 -82 30 -71 0 rrcurveto
@@ -16649,10 +14308,6 @@ dup /CharStrings
 	} |-
 /u1D71E.ssty2 {
 	0 828 hsbw
-	-9 21 hstem
-	631 61 hstem
-	223 144 vstem
-	741 36 vstem
 	757 692 rmoveto
 	-587 hlineto
 	-2 -17 rlineto
@@ -16672,9 +14327,6 @@ dup /CharStrings
 	} |-
 /u1D71F.ssty2 {
 	0 1114 hsbw
-	-2 59 hstem
-	679 20 hstem
-	132 844 vstem
 	552 669 rmoveto
 	-105 -186 -168 -240 -147 -209 rrcurveto
 	1 -14 2 -20 0 -1 rrcurveto
@@ -16694,8 +14346,6 @@ dup /CharStrings
 	} |-
 /u1D723.ssty2 {
 	0 1329 hsbw
-	651 48 hstem
-	956 160 vstem
 	810 429 rmoveto
 	-11 -27 -63 7 -45 0 rrcurveto
 	-62 0 -119 -3 -4 16 rrcurveto
@@ -16732,9 +14382,6 @@ dup /CharStrings
 	} |-
 /u1D726.ssty2 {
 	0 1189 hsbw
-	-13 21 hstem
-	674 20 hstem
-	126 926 vstem
 	572 672 rmoveto
 	-134 -225 -149 -219 -163 -212 rrcurveto
 	14 -20 rlineto
@@ -16753,12 +14400,6 @@ dup /CharStrings
 	} |-
 /u1D729.ssty2 {
 	0 963 hsbw
-	-3 109 hstem
-	169 20 hstem
-	306 107 hstem
-	505 21 hstem
-	584 115 hstem
-	135 693 vstem
 	828 186 rmoveto
 	-33 3 rlineto
 	-24 -56 rlineto
@@ -16793,10 +14434,6 @@ dup /CharStrings
 	} |-
 /u1D72B.ssty2 {
 	0 1186 hsbw
-	-14 21 hstem
-	623 65 hstem
-	243 146 vstem
-	788 146 vstem
 	945 214 rmoveto
 	-13 74 0 97 0 86 rrcurveto
 	0 58 -17 100 61 12 rrcurveto
@@ -16825,9 +14462,6 @@ dup /CharStrings
 	} |-
 /u1D72E.ssty2 {
 	0 1033 hsbw
-	0 20 hstem
-	623 66 hstem
-	137 737 vstem
 	542 378 rmoveto
 	10 11 8 14 0 8 rrcurveto
 	0 8 -4 9 -11 14 rrcurveto
@@ -16852,11 +14486,6 @@ dup /CharStrings
 	} |-
 /u1D730.ssty2 {
 	0 1128 hsbw
-	-6 21 hstem
-	605 96 hstem
-	139 26 vstem
-	492 148 vstem
-	954 36 vstem
 	650 27 rmoveto
 	-4 61 -5 61 0 61 rrcurveto
 	0 128 31 146 113 89 rrcurveto
@@ -16879,13 +14508,6 @@ dup /CharStrings
 	} |-
 /u1D731.ssty2 {
 	0 1335 hsbw
-	0 29 hstem
-	90 26 hstem
-	555 32 hstem
-	657 28 hstem
-	195 166 vstem
-	583 157 vstem
-	968 162 vstem
 	850 661 rmoveto
 	24 vlineto
 	-375 hlineto
@@ -16932,10 +14554,6 @@ dup /CharStrings
 	} |-
 /u1D733.ssty2 {
 	0 1113 hsbw
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	494 140 vstem
 	939 592 rmoveto
 	7 28 13 30 35 11 rrcurveto
 	4 27 rlineto
@@ -16945,18 +14563,10 @@ dup /CharStrings
 	-7 -50 -39 -50 -64 -13 rrcurveto
 	-9 6 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	489 150 vstem
 	0 133 0 139 5 127 rrcurveto
 	-18 12 rlineto
 	-132 -32 rlineto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	494 140 vstem
 	4 -59 1 -187 0 -129 rrcurveto
 	-11 -6 rlineto
 	-102 29 -32 119 -2 78 rrcurveto
@@ -16968,10 +14578,6 @@ dup /CharStrings
 	116 0 -69 -149 49 -122 rrcurveto
 	32 -81 64 -30 162 -18 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	489 150 vstem
 	8 -9 rlineto
 	-166 vlineto
 	0 -14 -13 -13 -18 -3 rrcurveto
@@ -16982,16 +14588,8 @@ dup /CharStrings
 	-88 20 rlineto
 	-15 3 -10 13 -2 12 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	489 143 vstem
 	-8 56 -4 56 0 57 rrcurveto
 	4 callsubr
-	20 -21 hstem
-	703 -20 hstem
-	202 145 vstem
-	489 150 vstem
 	7 9 rlineto
 	206 25 28 49 24 92 rrcurveto
 	closepath
@@ -16999,10 +14597,6 @@ dup /CharStrings
 	} |-
 /u1D734.ssty2 {
 	0 1319 hsbw
-	0 104 hstem
-	659 41 hstem
-	218 167 vstem
-	936 164 vstem
 	1181 105 rmoveto
 	-100 0 -125 -5 -101 -5 rrcurveto
 	-4 11 rlineto
@@ -17030,9 +14624,6 @@ dup /CharStrings
 	} |-
 /u1D736.ssty2 {
 	0 1035 hsbw
-	-16 88 hstem
-	413 61 hstem
-	209 124 vstem
 	824 476 rmoveto
 	-97 -143 rlineto
 	-11 hlineto
@@ -17063,12 +14654,6 @@ dup /CharStrings
 	} |-
 /u1D737.ssty2 {
 	0 1018 hsbw
-	-194 21 hstem
-	-11 37 hstem
-	338 34 hstem
-	630 46 hstem
-	237 129 vstem
-	675 144 vstem
 	368 -152 rmoveto
 	-4 192 -7 383 0 1 rrcurveto
 	94 12 112 126 vhcurveto
@@ -17096,9 +14681,6 @@ dup /CharStrings
 	} |-
 /u1D738.ssty2 {
 	0 956 hsbw
-	-201 19 hstem
-	407 65 hstem
-	440 88 vstem
 	459 -201 rmoveto
 	64 35 rlineto
 	9 54 0 85 0 60 rrcurveto
@@ -17120,10 +14702,6 @@ dup /CharStrings
 	} |-
 /u1D739.ssty2 {
 	0 884 hsbw
-	-11 69 hstem
-	624 49 hstem
-	199 119 vstem
-	599 92 vstem
 	399 390 rmoveto
 	38 -29 rlineto
 	74 -53 89 -73 0 -66 rrcurveto
@@ -17148,10 +14726,6 @@ dup /CharStrings
 	} |-
 /u1D73A.ssty2 {
 	0 823 hsbw
-	-16 79 hstem
-	234 51 hstem
-	436 36 hstem
-	253 88 vstem
 	523 286 rmoveto
 	-78 -103 14 78 hvcurveto
 	33 42 25 41 vhcurveto
@@ -17176,12 +14750,6 @@ dup /CharStrings
 	} |-
 /u1D73B.ssty2 {
 	0 814 hsbw
-	-129 21 hstem
-	-10 86 hstem
-	586 34 hstem
-	655 20 hstem
-	195 133 vstem
-	606 93 vstem
 	599 -129 rmoveto
 	42 47 57 65 0 43 rrcurveto
 	48 -81 4 -15 vhcurveto
@@ -17208,11 +14776,6 @@ dup /CharStrings
 	} |-
 /u1D73C.ssty2 {
 	0 962 hsbw
-	-197 21 hstem
-	-7 21 hstem
-	398 72 hstem
-	252 123 vstem
-	597 125 vstem
 	731 -156 rmoveto
 	-10 117 0 117 0 117 rrcurveto
 	0 123 7 87 -40 32 rrcurveto
@@ -17237,11 +14800,6 @@ dup /CharStrings
 	} |-
 /u1D73D.ssty2 {
 	0 959 hsbw
-	-14 67 hstem
-	317 44 hstem
-	622 55 hstem
-	202 108 vstem
-	640 118 vstem
 	535 677 rmoveto
 	-140 0 -117 -65 -49 -116 rrcurveto
 	-23 -56 -4 -71 0 -59 rrcurveto
@@ -17268,9 +14826,6 @@ dup /CharStrings
 	} |-
 /u1D73E.ssty2 {
 	0 617 hsbw
-	-11 79 hstem
-	449 20 hstem
-	248 117 vstem
 	495 104 rmoveto
 	-10 hlineto
 	-20 -18 -23 -18 -32 0 rrcurveto
@@ -17286,9 +14841,6 @@ dup /CharStrings
 	} |-
 /u1D73F.ssty2 {
 	0 883 hsbw
-	-9 18 hstem
-	451 19 hstem
-	237 122 vstem
 	670 467 rmoveto
 	-104 -56 -76 -55 -123 -101 rrcurveto
 	-8 4 rlineto
@@ -17313,9 +14865,6 @@ dup /CharStrings
 	} |-
 /u1D740.ssty2 {
 	0 898 hsbw
-	-11 21 hstem
-	624 55 hstem
-	139 628 vstem
 	441 374 rmoveto
 	9 hlineto
 	59 -127 52 -116 53 -128 rrcurveto
@@ -17341,9 +14890,6 @@ dup /CharStrings
 	} |-
 /u1D741.ssty2 {
 	0 956 hsbw
-	11 -21 hstem
-	234 119 vstem
-	591 121 vstem
 	591 116 rmoveto
 	-37 -22 -45 -25 -50 0 rrcurveto
 	-72 0 -15 30 -8 42 rrcurveto
@@ -17375,9 +14921,6 @@ dup /CharStrings
 	} |-
 /u1D742.ssty2 {
 	0 947 hsbw
-	-6 21 hstem
-	405 65 hstem
-	103 703 vstem
 	716 471 rmoveto
 	-29 -15 rlineto
 	-9 -67 -21 -67 -27 -66 rrcurveto
@@ -17400,13 +14943,6 @@ dup /CharStrings
 	} |-
 /u1D743.ssty2 {
 	0 888 hsbw
-	-126 21 hstem
-	1 87 hstem
-	339 29 hstem
-	607 29 hstem
-	669 20 hstem
-	190 142 vstem
-	687 86 vstem
 	672 -126 rmoveto
 	49 44 52 49 0 62 rrcurveto
 	42 -36 17 -81 vhcurveto
@@ -17438,10 +14974,6 @@ dup /CharStrings
 	} |-
 /u1D745.ssty2 {
 	0 977 hsbw
-	-5 21 hstem
-	388 97 hstem
-	509 14 hstem
-	572 123 vstem
 	303 485 rmoveto
 	-37 0 -42 0 -27 -17 rrcurveto
 	-28 -18 -28 -95 -15 -64 rrcurveto
@@ -17473,11 +15005,6 @@ dup /CharStrings
 	} |-
 /u1D746.ssty2 {
 	0 915 hsbw
-	-196 21 hstem
-	2 51 hstem
-	437 37 hstem
-	226 126 vstem
-	614 147 vstem
 	370 -166 rmoveto
 	9 12 rlineto
 	-18 66 -17 73 0 68 rrcurveto
@@ -17502,10 +15029,6 @@ dup /CharStrings
 	} |-
 /u1D748.ssty2 {
 	0 1018 hsbw
-	-11 43 hstem
-	421 43 hstem
-	205 146 vstem
-	615 124 vstem
 	482 425 rmoveto
 	120 13 -118 -74 hvcurveto
 	-81 -22 -120 -116 vhcurveto
@@ -17530,11 +15053,6 @@ dup /CharStrings
 	} |-
 /u1D749.ssty2 {
 	0 880 hsbw
-	-7 78 hstem
-	372 88 hstem
-	483 15 hstem
-	141 34 vstem
-	389 126 vstem
 	684 372 rmoveto
 	34 0 54 78 10 38 rrcurveto
 	-13 9 rlineto
@@ -17561,10 +15079,6 @@ dup /CharStrings
 	} |-
 /u1D74A.ssty2 {
 	0 928 hsbw
-	0 64 hstem
-	391 82 hstem
-	248 123 vstem
-	668 99 vstem
 	579 399 rmoveto
 	54 -47 35 -59 0 -63 rrcurveto
 	-80 -39 -85 -111 vhcurveto
@@ -17587,10 +15101,6 @@ dup /CharStrings
 	} |-
 /u1D74B.ssty2 {
 	0 1154 hsbw
-	421 47 hstem
-	204 135 vstem
-	480 122 vstem
-	822 138 vstem
 	491 -201 rmoveto
 	116 30 rlineto
 	-2 33 -4 76 0 52 rrcurveto
@@ -17622,9 +15132,6 @@ dup /CharStrings
 	} |-
 /u1D74C.ssty2 {
 	0 888 hsbw
-	-194 70 hstem
-	385 78 hstem
-	100 698 vstem
 	793 -116 rmoveto
 	-20 -3 -21 -3 -21 0 rrcurveto
 	-95 0 -74 141 -81 148 rrcurveto
@@ -17653,13 +15160,6 @@ dup /CharStrings
 	} |-
 /u1D74D.ssty2 {
 	0 1159 hsbw
-	-196 21 hstem
-	-6 34 hstem
-	391 81 hstem
-	652 20 hstem
-	233 123 vstem
-	528 121 vstem
-	856 110 vstem
 	643 672 rmoveto
 	-123 -35 rlineto
 	4 -124 6 -123 0 -124 rrcurveto
@@ -17698,11 +15198,6 @@ dup /CharStrings
 	} |-
 /u1D74E.ssty2 {
 	0 1335 hsbw
-	-7 77 hstem
-	478 20 hstem
-	195 115 vstem
-	606 118 vstem
-	1034 100 vstem
 	936 432 rmoveto
 	3 -19 rlineto
 	65 -47 30 -66 0 -68 rrcurveto
@@ -17730,11 +15225,6 @@ dup /CharStrings
 	} |-
 /u1D74F.ssty2 {
 	0 952 hsbw
-	-18 41 hstem
-	439 37 hstem
-	625 71 hstem
-	206 137 vstem
-	620 132 vstem
 	237 534 rmoveto
 	36 65 35 26 61 0 rrcurveto
 	100 0 59 -74 34 -67 rrcurveto
@@ -17761,10 +15251,6 @@ dup /CharStrings
 	} |-
 /u1D750.ssty2 {
 	0 888 hsbw
-	-7 62 hstem
-	218 44 hstem
-	429 42 hstem
-	202 135 vstem
 	619 263 rmoveto
 	-50 -1 -51 0 -50 0 rrcurveto
 	-41 0 -43 0 -43 2 rrcurveto
@@ -17791,11 +15277,6 @@ dup /CharStrings
 	} |-
 /u1D751.ssty2 {
 	0 948 hsbw
-	-8 74 hstem
-	291 80 hstem
-	633 43 hstem
-	229 123 vstem
-	637 103 vstem
 	120 273 rmoveto
 	18 9 20 9 18 0 rrcurveto
 	34 19 -14 -73 hvcurveto
@@ -17829,11 +15310,6 @@ dup /CharStrings
 	} |-
 /u1D753.ssty2 {
 	0 1219 hsbw
-	-7 35 hstem
-	437 32 hstem
-	205 147 vstem
-	541 122 vstem
-	874 147 vstem
 	548 -196 rmoveto
 	116 37 rlineto
 	-1 48 0 47 0 48 rrcurveto
@@ -17873,10 +15349,6 @@ dup /CharStrings
 	} |-
 /u1D7CE.ssty2 {
 	0 845 hsbw
-	-15 82 hstem
-	622 92 hstem
-	151 109 vstem
-	611 89 vstem
 	482 716 rmoveto
 	-63 -13 -61 -39 -51 -38 rrcurveto
 	-117 -87 -39 -129 0 -125 rrcurveto
@@ -17897,9 +15369,6 @@ dup /CharStrings
 	} |-
 /u1D7CF.ssty2 {
 	0 845 hsbw
-	-9 21 hstem
-	694 20 hstem
-	379 119 vstem
 	186 626 rmoveto
 	-32 vlineto
 	149 hlineto
@@ -17916,9 +15385,6 @@ dup /CharStrings
 	} |-
 /u1D7D0.ssty2 {
 	0 845 hsbw
-	5 104 hstem
-	640 75 hstem
-	521 153 vstem
 	719 109 rmoveto
 	-392 hlineto
 	-4 -3 3 2 hvcurveto
@@ -17938,10 +15404,6 @@ dup /CharStrings
 	} |-
 /u1D7D1.ssty2 {
 	0 845 hsbw
-	-8 43 hstem
-	358 31 hstem
-	644 64 hstem
-	533 147 vstem
 	431 391 rmoveto
 	104 33 98 62 0 96 rrcurveto
 	82 -92 44 -94 vhcurveto
@@ -17964,8 +15426,6 @@ dup /CharStrings
 	} |-
 /u1D7D2.ssty2 {
 	0 845 hsbw
-	184 71 hstem
-	454 122 vstem
 	584 255 rmoveto
 	-8 8 rlineto
 	435 vlineto
@@ -17996,11 +15456,6 @@ dup /CharStrings
 	} |-
 /u1D7D3.ssty2 {
 	0 845 hsbw
-	-12 44 hstem
-	395 51 hstem
-	591 103 hstem
-	201 63 vstem
-	530 150 vstem
 	656 694 rmoveto
 	-455 hlineto
 	-345 vlineto
@@ -18025,11 +15480,6 @@ dup /CharStrings
 	} |-
 /u1D7D4.ssty2 {
 	0 845 hsbw
-	-12 51 hstem
-	318 68 hstem
-	646 58 hstem
-	156 135 vstem
-	591 104 vstem
 	680 625 rmoveto
 	28 65 rlineto
 	-18 7 -38 7 -15 0 rrcurveto
@@ -18052,9 +15502,6 @@ dup /CharStrings
 	} |-
 /u1D7D5.ssty2 {
 	0 845 hsbw
-	-5 21 hstem
-	595 98 hstem
-	163 44 vstem
 	396 20 rmoveto
 	8 99 27 108 54 91 rrcurveto
 	73 124 89 117 93 117 rrcurveto
@@ -18073,10 +15520,6 @@ dup /CharStrings
 	} |-
 /u1D7D6.ssty2 {
 	0 845 hsbw
-	-5 47 hstem
-	665 50 hstem
-	154 123 vstem
-	571 119 vstem
 	394 330 rmoveto
 	76 -39 101 -55 0 -79 rrcurveto
 	-68 -46 -52 -93 vhcurveto
@@ -18105,11 +15548,6 @@ dup /CharStrings
 	} |-
 /u1D7D7.ssty2 {
 	0 845 hsbw
-	-10 21 hstem
-	303 71 hstem
-	643 64 hstem
-	161 124 vstem
-	569 132 vstem
 	541 342 rmoveto
 	-228 -245 rlineto
 	-29 -31 -26 -30 -22 -34 rrcurveto
@@ -18135,9 +15573,6 @@ dup /CharStrings
 	} |-
 /uni002C.ssty2 {
 	0 561 hsbw
-	-192 21 hstem
-	87 20 hstem
-	305 73 vstem
 	259 -192 rmoveto
 	51 46 69 64 0 55 rrcurveto
 	42 -56 109 -41 vhcurveto
@@ -18151,8 +15586,6 @@ dup /CharStrings
 	} |-
 /uni002E.ssty2 {
 	0 561 hsbw
-	-15 117 hstem
-	216 151 vstem
 	210 56 rmoveto
 	-38 36 -32 45 vhcurveto
 	45 37 32 38 hvcurveto
@@ -18163,9 +15596,6 @@ dup /CharStrings
 	} |-
 /uni002F.ssty2 {
 	0 848 hsbw
-	-182 21 hstem
-	702 20 hstem
-	144 501 vstem
 	673 711 rmoveto
 	-41 9 rlineto
 	-13 -2 rlineto
@@ -18178,9 +15608,6 @@ dup /CharStrings
 	} |-
 /uni003C.ssty2 {
 	0 628 hsbw
-	-10 21 hstem
-	455 20 hstem
-	127 370 vstem
 	487 443 rmoveto
 	-29 32 rlineto
 	-331 -230 rlineto
@@ -18192,9 +15619,6 @@ dup /CharStrings
 	} |-
 /uni003E.ssty2 {
 	0 626 hsbw
-	-7 21 hstem
-	452 20 hstem
-	144 342 vstem
 	487 241 rmoveto
 	-296 231 rlineto
 	-47 -35 rlineto
@@ -18206,9 +15630,6 @@ dup /CharStrings
 	} |-
 /uni0131.ssty2 {
 	0 632 hsbw
-	-13 85 hstem
-	493 -20 hstem
-	256 121 vstem
 	509 119 rmoveto
 	-24 -20 -29 -27 -30 0 rrcurveto
 	-60 10 71 122 hvcurveto
@@ -18229,9 +15650,6 @@ dup /CharStrings
 	} |-
 /uni0237.ssty2 {
 	0 632 hsbw
-	-194 21 hstem
-	418 74 hstem
-	276 121 vstem
 	149 389 rmoveto
 	23 16 31 15 26 0 rrcurveto
 	56 -12 -84 -105 hvcurveto
@@ -18248,11 +15666,6 @@ dup /CharStrings
 	} |-
 /uni03D6.ssty2 {
 	0 1288 hsbw
-	-11 79 hstem
-	474 69 hstem
-	202 111 vstem
-	588 123 vstem
-	1009 100 vstem
 	419 381 rmoveto
 	-128 -31 -89 -87 0 -101 rrcurveto
 	-93 74 -80 125 vhcurveto
@@ -18281,10 +15694,6 @@ dup /CharStrings
 	} |-
 /uni2113.ssty2 {
 	0 683 hsbw
-	-20 87 hstem
-	669 40 hstem
-	204 117 vstem
-	466 74 vstem
 	538 134 rmoveto
 	-19 -23 -48 -44 -37 0 rrcurveto
 	-87 0 -15 119 -7 59 rrcurveto
@@ -18311,11 +15720,6 @@ dup /CharStrings
 	} |-
 /uni2118.ssty2 {
 	0 989 hsbw
-	-202 50 hstem
-	-9 66 hstem
-	411 76 hstem
-	162 67 vstem
-	735 104 vstem
 	487 59 rmoveto
 	-23 73 -52 58 -45 67 rrcurveto
 	57 73 83 82 98 0 rrcurveto
@@ -18351,10 +15755,6 @@ dup /CharStrings
 	} |-
 /eight.onum.ssty2 {
 	0 863 hsbw
-	-5 47 hstem
-	665 50 hstem
-	154 125 vstem
-	579 122 vstem
 	382 336 rmoveto
 	91 -43 106 -56 0 -80 rrcurveto
 	-67 -46 -52 -96 vhcurveto
@@ -18381,11 +15781,6 @@ dup /CharStrings
 	} |-
 /five.onum.ssty2 {
 	0 863 hsbw
-	-191 39 hstem
-	193 49 hstem
-	388 93 hstem
-	209 56 vstem
-	513 161 vstem
 	673 481 rmoveto
 	-463 hlineto
 	-319 vlineto
@@ -18410,21 +15805,13 @@ dup /CharStrings
 	} |-
 /four.onum.ssty2 {
 	0 863 hsbw
-	-1 58 hstem
-	473 126 vstem
 	600 -158 rmoveto
 	4 callsubr
-	-1 58 hstem
-	480 116 vstem
 	-3 51 -1 55 0 51 rrcurveto
 	110 hlineto
 	4 callsubr
-	-1 62 hstem
-	473 126 vstem
 	20 62 rlineto
 	4 callsubr
-	-1 58 hstem
-	480 116 vstem
 	-35 -3 -32 -1 -63 0 rrcurveto
 	0 177 4 168 7 80 rrcurveto
 	-11 13 rlineto
@@ -18445,11 +15832,6 @@ dup /CharStrings
 	} |-
 /nine.onum.ssty2 {
 	0 863 hsbw
-	-195 32 hstem
-	43 72 hstem
-	425 63 hstem
-	137 134 vstem
-	555 154 vstem
 	534 104 rmoveto
 	8 -6 rlineto
 	-7 -73 -42 -72 -66 -51 rrcurveto
@@ -18475,9 +15857,6 @@ dup /CharStrings
 	} |-
 /one.onum.ssty2 {
 	0 863 hsbw
-	0 44 hstem
-	449 40 hstem
-	383 125 vstem
 	212 451 rmoveto
 	100 -13 rlineto
 	61 -8 13 -41 0 -53 rrcurveto
@@ -18497,10 +15876,6 @@ dup /CharStrings
 	} |-
 /one.alt.ssty2 {
 	0 807 hsbw
-	-9 21 hstem
-	594 30 hstem
-	694 20 hstem
-	362 148 vstem
 	510 32 rmoveto
 	-5 64 0 104 0 84 rrcurveto
 	0 138 8 138 13 137 rrcurveto
@@ -18519,9 +15894,6 @@ dup /CharStrings
 	} |-
 /seven.onum.ssty2 {
 	0 863 hsbw
-	-198 21 hstem
-	375 104 hstem
-	164 592 vstem
 	291 -198 rmoveto
 	127 228 153 221 184 205 rrcurveto
 	23 vlineto
@@ -18538,11 +15910,6 @@ dup /CharStrings
 	} |-
 /six.onum.ssty2 {
 	0 863 hsbw
-	-12 51 hstem
-	319 67 hstem
-	646 58 hstem
-	158 136 vstem
-	600 106 vstem
 	696 625 rmoveto
 	12 72 rlineto
 	-21 2 -35 5 -5 0 rrcurveto
@@ -18566,10 +15933,6 @@ dup /CharStrings
 	} |-
 /three.onum.ssty2 {
 	0 863 hsbw
-	-193 44 hstem
-	166 38 hstem
-	423 65 hstem
-	524 156 vstem
 	450 212 rmoveto
 	87 26 81 56 0 78 rrcurveto
 	73 -88 43 -87 vhcurveto
@@ -18592,9 +15955,6 @@ dup /CharStrings
 	} |-
 /two.onum.ssty2 {
 	0 863 hsbw
-	4 97 hstem
-	421 70 hstem
-	443 135 vstem
 	696 hmoveto
 	29 102 rlineto
 	-15 4 rlineto
@@ -18615,12 +15975,6 @@ dup /CharStrings
 	} |-
 /u1D56C.ssty2 {
 	0 1143 hsbw
-	-31 21 hstem
-	77 82 hstem
-	624 64 hstem
-	137 113 vstem
-	558 136 vstem
-	746 144 vstem
 	746 124 rmoveto
 	81 -150 rlineto
 	13 -3 rlineto
@@ -18659,11 +16013,6 @@ dup /CharStrings
 	} |-
 /u1D56D.ssty2 {
 	0 1359 hsbw
-	-31 85 hstem
-	621 64 hstem
-	167 111 vstem
-	534 147 vstem
-	1015 136 vstem
 	1102 100 rmoveto
 	32 37 17 34 0 45 rrcurveto
 	0 87 -50 63 -161 17 rrcurveto
@@ -18714,11 +16063,6 @@ dup /CharStrings
 	} |-
 /u1D56E.ssty2 {
 	0 1007 hsbw
-	-32 78 hstem
-	514 55 hstem
-	657 20 hstem
-	183 141 vstem
-	491 150 vstem
 	449 593 rmoveto
 	-78 -31 -113 -61 -23 -16 rrcurveto
 	-32 -56 -20 -61 0 -62 rrcurveto
@@ -18752,12 +16096,6 @@ dup /CharStrings
 	} |-
 /u1D56F.ssty2 {
 	0 1291 hsbw
-	-29 21 hstem
-	63 97 hstem
-	597 88 hstem
-	138 28 vstem
-	376 140 vstem
-	963 128 vstem
 	559 549 rmoveto
 	-70 -34 -107 -56 0 -63 rrcurveto
 	0 -51 116 -62 0 -51 rrcurveto
@@ -18789,11 +16127,6 @@ dup /CharStrings
 	} |-
 /u1D570.ssty2 {
 	0 1072 hsbw
-	-29 83 hstem
-	517 59 hstem
-	667 20 hstem
-	185 134 vstem
-	493 116 vstem
 	780 461 rmoveto
 	-134 -80 rlineto
 	0 59 -42 69 0 61 rrcurveto
@@ -18836,12 +16169,6 @@ dup /CharStrings
 	} |-
 /u1D571.ssty2 {
 	0 1005 hsbw
-	-147 40 hstem
-	169 61 hstem
-	596 88 hstem
-	240 123 vstem
-	391 114 vstem
-	620 123 vstem
 	587 299 rmoveto
 	-38 36 -44 46 0 42 rrcurveto
 	0 47 56 26 51 14 rrcurveto
@@ -18881,13 +16208,6 @@ dup /CharStrings
 	} |-
 /u1D572.ssty2 {
 	0 1231 hsbw
-	-29 80 hstem
-	382 76 hstem
-	526 86 hstem
-	668 20 hstem
-	186 129 vstem
-	440 177 vstem
-	895 139 vstem
 	444 596 rmoveto
 	-68 -28 -69 -33 -68 -39 rrcurveto
 	-41 -52 -12 -65 0 -61 rrcurveto
@@ -18927,14 +16247,6 @@ dup /CharStrings
 	} |-
 /u1D573.ssty2 {
 	0 1147 hsbw
-	-127 58 hstem
-	30 96 hstem
-	386 87 hstem
-	534 85 hstem
-	664 20 hstem
-	275 109 vstem
-	422 111 vstem
-	795 139 vstem
 	495 127 rmoveto
 	23 20 7 31 0 27 rrcurveto
 	0 32 -24 54 -26 40 rrcurveto
@@ -18971,9 +16283,6 @@ dup /CharStrings
 	} |-
 /u1D574.ssty2 {
 	0 931 hsbw
-	-25 54 hstem
-	572 111 hstem
-	565 141 vstem
 	780 670 rmoveto
 	-37 -26 -45 -28 -45 0 rrcurveto
 	-63 0 -122 67 -82 0 rrcurveto
@@ -19003,11 +16312,6 @@ dup /CharStrings
 	} |-
 /u1D575.ssty2 {
 	0 928 hsbw
-	-142 36 hstem
-	76 73 hstem
-	579 102 hstem
-	242 129 vstem
-	571 126 vstem
 	782 609 rmoveto
 	-42 -14 -50 -16 -35 0 rrcurveto
 	-44 0 -43 29 -35 21 rrcurveto
@@ -19040,11 +16344,6 @@ dup /CharStrings
 	} |-
 /u1D576.ssty2 {
 	0 1079 hsbw
-	-22 70 hstem
-	432 70 hstem
-	620 62 hstem
-	272 121 vstem
-	705 126 vstem
 	916 348 rmoveto
 	-6 21 rlineto
 	-24 -6 -13 0 -13 0 rrcurveto
@@ -19090,10 +16389,6 @@ dup /CharStrings
 	} |-
 /u1D577.ssty2 {
 	0 1076 hsbw
-	-28 110 hstem
-	628 56 hstem
-	301 126 vstem
-	697 138 vstem
 	508 257 rmoveto
 	5 5 1 12 0 5 rrcurveto
 	0 87 -87 73 0 84 rrcurveto
@@ -19128,14 +16423,6 @@ dup /CharStrings
 	} |-
 /u1D578.ssty2 {
 	0 1574 hsbw
-	-26 20 hstem
-	28 92 hstem
-	620 62 hstem
-	134 108 vstem
-	252 117 vstem
-	545 128 vstem
-	887 125 vstem
-	1165 126 vstem
 	1450 76 rmoveto
 	18 vlineto
 	-22 -7 -35 -2 -10 0 rrcurveto
@@ -19194,11 +16481,6 @@ dup /CharStrings
 	} |-
 /u1D579.ssty2 {
 	0 1292 hsbw
-	-30 87 hstem
-	614 65 hstem
-	134 102 vstem
-	577 124 vstem
-	889 123 vstem
 	1051 476 rmoveto
 	46 29 41 24 32 13 rrcurveto
 	-6 15 rlineto
@@ -19242,12 +16524,6 @@ dup /CharStrings
 	} |-
 /u1D57A.ssty2 {
 	0 1285 hsbw
-	-29 79 hstem
-	577 101 hstem
-	706 20 hstem
-	201 130 vstem
-	344 122 vstem
-	932 142 vstem
 	431 608 rmoveto
 	-10 19 -26 51 vhcurveto
 	40 0 36 4 47 0 rrcurveto
@@ -19282,10 +16558,6 @@ dup /CharStrings
 	} |-
 /u1D57B.ssty2 {
 	0 1286 hsbw
-	1 -21 hstem
-	612 69 hstem
-	511 138 vstem
-	852 121 vstem
 	664 -141 rmoveto
 	-10 54 -6 52 0 54 rrcurveto
 	53 -21 61 -18 59 0 rrcurveto
@@ -19299,10 +16571,6 @@ dup /CharStrings
 	-17 13 -24 2 -23 0 rrcurveto
 	-110 0 -100 -61 -80 -63 rrcurveto
 	4 callsubr
-	1 -21 hstem
-	619 66 hstem
-	511 138 vstem
-	852 121 vstem
 	-39 74 -76 54 -99 0 rrcurveto
 	-167 -132 -131 -73 hvcurveto
 	0 -68 104 -33 0 -47 rrcurveto
@@ -19323,10 +16591,6 @@ dup /CharStrings
 	closepath
 	136 741 rmoveto
 	4 callsubr
-	1 -21 hstem
-	612 69 hstem
-	511 138 vstem
-	852 121 vstem
 	59 62 39 32 66 0 rrcurveto
 	52 28 -34 -56 hvcurveto
 	0 -72 40 -2 38 -5 rrcurveto
@@ -19340,12 +16604,6 @@ dup /CharStrings
 	} |-
 /u1D57C.ssty2 {
 	0 1285 hsbw
-	-82 21 hstem
-	36 94 hstem
-	577 99 hstem
-	706 20 hstem
-	344 122 vstem
-	932 142 vstem
 	892 66 rmoveto
 	31 20 38 24 24 24 rrcurveto
 	57 74 32 84 0 86 rrcurveto
@@ -19385,12 +16643,6 @@ dup /CharStrings
 	} |-
 /u1D57D.ssty2 {
 	0 1287 hsbw
-	-29 21 hstem
-	28 96 hstem
-	619 71 hstem
-	248 125 vstem
-	542 138 vstem
-	895 128 vstem
 	330 619 rmoveto
 	97 0 64 -74 28 -60 rrcurveto
 	16 -42 7 -43 0 -43 rrcurveto
@@ -19441,13 +16693,6 @@ dup /CharStrings
 	} |-
 /u1D57E.ssty2 {
 	0 1287 hsbw
-	-31 72 hstem
-	322 84 hstem
-	490 94 hstem
-	610 75 hstem
-	195 131 vstem
-	402 121 vstem
-	1009 92 vstem
 	758 513 rmoveto
 	24 -11 26 -12 28 0 rrcurveto
 	106 0 120 68 34 81 rrcurveto
@@ -19480,12 +16725,6 @@ dup /CharStrings
 	} |-
 /u1D57F.ssty2 {
 	0 1080 hsbw
-	-30 21 hstem
-	42 91 hstem
-	585 96 hstem
-	138 76 vstem
-	417 130 vstem
-	585 124 vstem
 	983 659 rmoveto
 	32 vlineto
 	-36 -27 -52 -23 -51 0 rrcurveto
@@ -19520,10 +16759,6 @@ dup /CharStrings
 	} |-
 /u1D580.ssty2 {
 	0 1147 hsbw
-	-34 97 hstem
-	669 20 hstem
-	277 135 vstem
-	758 132 vstem
 	504 249 rmoveto
 	7 17 2 17 0 18 rrcurveto
 	0 58 -27 65 -34 55 rrcurveto
@@ -19560,12 +16795,6 @@ dup /CharStrings
 	} |-
 /u1D581.ssty2 {
 	0 1291 hsbw
-	-29 85 hstem
-	86 86 hstem
-	598 87 hstem
-	251 125 vstem
-	521 140 vstem
-	902 164 vstem
 	438 687 rmoveto
 	-178 -128 -140 -66 hvcurveto
 	0 -69 105 -32 0 -47 rrcurveto
@@ -19611,12 +16840,6 @@ dup /CharStrings
 	} |-
 /u1D582.ssty2 {
 	0 1570 hsbw
-	-31 73 hstem
-	617 66 hstem
-	251 113 vstem
-	538 141 vstem
-	874 118 vstem
-	1229 132 vstem
 	346 617 rmoveto
 	147 45 -133 -90 hvcurveto
 	-110 -32 -144 -180 vhcurveto
@@ -19675,10 +16898,6 @@ dup /CharStrings
 	} |-
 /u1D583.ssty2 {
 	0 1145 hsbw
-	-32 81 hstem
-	315 51 hstem
-	581 100 hstem
-	519 120 vstem
 	1024 578 rmoveto
 	19 vlineto
 	-13 -3 -17 -4 -16 0 rrcurveto
@@ -19716,12 +16935,6 @@ dup /CharStrings
 	} |-
 /u1D584.ssty2 {
 	0 1293 hsbw
-	-214 48 hstem
-	-27 106 hstem
-	622 61 hstem
-	256 126 vstem
-	526 143 vstem
-	929 143 vstem
 	344 622 rmoveto
 	39 0 28 -17 26 -20 rrcurveto
 	64 -50 25 -68 0 -69 rrcurveto
@@ -19766,12 +16979,6 @@ dup /CharStrings
 	} |-
 /u1D584.alt.ssty2 {
 	0 1290 hsbw
-	-221 55 hstem
-	51 94 hstem
-	619 62 hstem
-	139 113 vstem
-	522 140 vstem
-	926 142 vstem
 	435 681 rmoveto
 	-132 0 -91 -63 -53 -73 rrcurveto
 	-15 -20 -12 -22 0 -22 rrcurveto
@@ -19816,13 +17023,6 @@ dup /CharStrings
 	} |-
 /u1D585.ssty2 {
 	0 993 hsbw
-	-137 27 hstem
-	-24 70 hstem
-	289 87 hstem
-	571 94 hstem
-	698 20 hstem
-	250 139 vstem
-	644 157 vstem
 	383 664 rmoveto
 	-28 -1 -27 11 0 24 rrcurveto
 	0 7 2 7 3 6 rrcurveto
@@ -19856,12 +17056,6 @@ dup /CharStrings
 	} |-
 /u1D585.alt.ssty2 {
 	0 1010 hsbw
-	-148 46 hstem
-	69 75 hstem
-	283 98 hstem
-	602 76 hstem
-	232 140 vstem
-	645 146 vstem
 	382 360 rmoveto
 	-48 -69 rlineto
 	12 -10 rlineto
@@ -19896,11 +17090,6 @@ dup /CharStrings
 	} |-
 /u1D586.ssty2 {
 	0 874 hsbw
-	-32 98 hstem
-	388 52 hstem
-	452 19 hstem
-	189 128 vstem
-	511 122 vstem
 	511 80 rmoveto
 	1 -26 rlineto
 	31 -25 26 -28 22 -30 rrcurveto
@@ -19929,11 +17118,6 @@ dup /CharStrings
 	} |-
 /u1D587.ssty2 {
 	0 860 hsbw
-	-32 86 hstem
-	380 94 hstem
-	671 20 hstem
-	213 125 vstem
-	532 131 vstem
 	347 384 rmoveto
 	-10 4 rlineto
 	107 vlineto
@@ -19962,9 +17146,6 @@ dup /CharStrings
 	} |-
 /u1D588.ssty2 {
 	0 721 hsbw
-	-26 98 hstem
-	393 80 hstem
-	195 142 vstem
 	571 429 rmoveto
 	-43 22 -48 14 -50 8 rrcurveto
 	-215 -107 rlineto
@@ -19984,10 +17165,6 @@ dup /CharStrings
 	} |-
 /u1D589.ssty2 {
 	0 858 hsbw
-	-29 95 hstem
-	558 74 hstem
-	203 130 vstem
-	536 130 vstem
 	388 459 rmoveto
 	-60 -35 -70 -46 -52 -43 rrcurveto
 	-5 -66 -3 -60 0 -46 rrcurveto
@@ -20014,10 +17191,6 @@ dup /CharStrings
 	} |-
 /u1D589.alt.ssty2 {
 	0 857 hsbw
-	-28 86 hstem
-	562 69 hstem
-	209 128 vstem
-	534 131 vstem
 	393 465 rmoveto
 	-63 -30 -62 -32 -53 -39 rrcurveto
 	-8 -49 -3 -48 0 -49 rrcurveto
@@ -20043,9 +17216,6 @@ dup /CharStrings
 	} |-
 /u1D58A.ssty2 {
 	0 730 hsbw
-	-28 96 hstem
-	391 80 hstem
-	190 122 vstem
 	564 108 rmoveto
 	-39 -17 -48 -18 -34 -5 rrcurveto
 	-78 44 -53 23 0 46 rrcurveto
@@ -20066,9 +17236,6 @@ dup /CharStrings
 	} |-
 /u1D58B.ssty2 {
 	0 638 hsbw
-	359 46 hstem
-	611 70 hstem
-	252 128 vstem
 	383 405 rmoveto
 	-18 64 -95 29 0 63 rrcurveto
 	31 26 19 36 vhcurveto
@@ -20096,9 +17263,6 @@ dup /CharStrings
 	} |-
 /u1D58B.alt.ssty2 {
 	0 637 hsbw
-	359 46 hstem
-	254 86 vstem
-	254 126 vstem
 	381 405 rmoveto
 	-29 68 -51 49 -7 64 rrcurveto
 	41 -10 42 -7 43 0 rrcurveto
@@ -20125,9 +17289,6 @@ dup /CharStrings
 	} |-
 /u1D58B.nos.ssty2 {
 	0 644 hsbw
-	359 46 hstem
-	691 -20 hstem
-	252 29 vstem
 	554 655 rmoveto
 	-4 21 rlineto
 	-36 -19 rlineto
@@ -20145,18 +17306,12 @@ dup /CharStrings
 	124 208 rlineto
 	8 14 9 17 3 15 rrcurveto
 	4 callsubr
-	359 46 hstem
-	691 -20 hstem
-	252 128 vstem
 	21 111 0 119 0 117 rrcurveto
 	133 hlineto
 	18 39 rlineto
 	7 vlineto
 	-150 hlineto
 	4 callsubr
-	359 46 hstem
-	691 -20 hstem
-	252 29 vstem
 	-41 41 -59 75 0 30 rrcurveto
 	27 32 20 37 vhcurveto
 	17 0 42 -26 26 -17 rrcurveto
@@ -20165,12 +17320,6 @@ dup /CharStrings
 	} |-
 /u1D58C.ssty2 {
 	0 865 hsbw
-	-211 86 hstem
-	-21 89 hstem
-	370 56 hstem
-	453 20 hstem
-	205 130 vstem
-	530 121 vstem
 	525 83 rmoveto
 	16 -51 19 -69 0 -37 rrcurveto
 	-49 -25 -2 -33 vhcurveto
@@ -20204,11 +17353,6 @@ dup /CharStrings
 	} |-
 /u1D58C.alt.ssty2 {
 	0 863 hsbw
-	-212 78 hstem
-	-29 100 hstem
-	398 76 hstem
-	205 119 vstem
-	529 151 vstem
 	666 -49 rmoveto
 	7 14 4 15 0 15 rrcurveto
 	0 8 -5 27 -3 18 rrcurveto
@@ -20241,12 +17385,6 @@ dup /CharStrings
 	} |-
 /u1D58D.ssty2 {
 	0 888 hsbw
-	-207 21 hstem
-	-24 21 hstem
-	376 95 hstem
-	667 20 hstem
-	202 140 vstem
-	540 123 vstem
 	347 507 rmoveto
 	1 67 16 54 82 44 rrcurveto
 	-20 15 rlineto
@@ -20276,10 +17414,6 @@ dup /CharStrings
 	} |-
 /u1D58E.ssty2 {
 	0 575 hsbw
-	-26 108 hstem
-	387 91 hstem
-	540 146 hstem
-	222 125 vstem
 	411 86 rmoveto
 	-2 -1 -12 -3 -5 0 rrcurveto
 	-20 -27 40 16 hvcurveto
@@ -20305,10 +17439,6 @@ dup /CharStrings
 	} |-
 /u1D58F.ssty2 {
 	0 576 hsbw
-	-204 21 hstem
-	380 99 hstem
-	541 142 hstem
-	238 125 vstem
 	125 382 rmoveto
 	16 -19 rlineto
 	15 6 26 11 1 0 rrcurveto
@@ -20330,12 +17460,6 @@ dup /CharStrings
 	} |-
 /u1D590.ssty2 {
 	0 721 hsbw
-	-25 93 hstem
-	308 38 hstem
-	515 70 hstem
-	663 11 hstem
-	230 125 vstem
-	475 101 vstem
 	225 115 rmoveto
 	-1 -15 -2 -14 -2 -15 rrcurveto
 	142 -96 rlineto
@@ -20370,8 +17494,6 @@ dup /CharStrings
 	} |-
 /u1D590.alt.ssty2 {
 	0 643 hsbw
-	359 46 hstem
-	218 126 vstem
 	345 405 rmoveto
 	41 -1 51 37 vhcurveto
 	28 0 28 -33 18 -21 rrcurveto
@@ -20404,7 +17526,6 @@ dup /CharStrings
 	} |-
 /u1D591.ssty2 {
 	0 581 hsbw
-	227 122 vstem
 	451 86 rmoveto
 	-9 15 rlineto
 	-19 -9 -25 -9 -10 0 rrcurveto
@@ -20424,11 +17545,6 @@ dup /CharStrings
 	} |-
 /u1D592.ssty2 {
 	0 1224 hsbw
-	-31 21 hstem
-	384 93 hstem
-	223 134 vstem
-	536 123 vstem
-	845 129 vstem
 	667 376 rmoveto
 	0 1 2 26 1 13 rrcurveto
 	-54 13 -49 22 -49 21 rrcurveto
@@ -20474,10 +17590,6 @@ dup /CharStrings
 	} |-
 /u1D593.ssty2 {
 	0 930 hsbw
-	-28 21 hstem
-	388 86 hstem
-	206 136 vstem
-	525 134 vstem
 	340 129 rmoveto
 	-1 75 0 144 0 2 rrcurveto
 	69 31 rlineto
@@ -20508,10 +17620,6 @@ dup /CharStrings
 	} |-
 /u1D594.ssty2 {
 	0 881 hsbw
-	-34 89 hstem
-	391 91 hstem
-	218 134 vstem
-	548 120 vstem
 	384 -34 rmoveto
 	92 34 88 41 80 48 rrcurveto
 	26 79 2 88 0 81 rrcurveto
@@ -20534,12 +17642,6 @@ dup /CharStrings
 	} |-
 /u1D595.ssty2 {
 	0 875 hsbw
-	-208 21 hstem
-	22 108 hstem
-	383 99 hstem
-	538 20 hstem
-	234 128 vstem
-	541 135 vstem
 	371 -161 rmoveto
 	-5 61 -5 61 0 61 rrcurveto
 	43 -5 40 -14 32 -22 rrcurveto
@@ -20572,11 +17674,6 @@ dup /CharStrings
 	} |-
 /u1D596.ssty2 {
 	0 866 hsbw
-	-212 21 hstem
-	-30 102 hstem
-	386 93 hstem
-	202 131 vstem
-	516 122 vstem
 	648 -171 rmoveto
 	-5 71 -5 70 0 71 rrcurveto
 	0 147 0 188 34 103 rrcurveto
@@ -20603,9 +17700,6 @@ dup /CharStrings
 	} |-
 /u1D597.ssty2 {
 	0 716 hsbw
-	-26 96 hstem
-	378 95 hstem
-	225 138 vstem
 	436 334 rmoveto
 	16 -12 9 -6 17 0 rrcurveto
 	7 0 3 2 3 2 rrcurveto
@@ -20635,13 +17729,6 @@ dup /CharStrings
 	} |-
 /u1D598.ssty2 {
 	0 786 hsbw
-	-35 21 hstem
-	41 90 hstem
-	225 77 hstem
-	342 86 hstem
-	459 20 hstem
-	190 136 vstem
-	458 125 vstem
 	635 442 rmoveto
 	-12 19 rlineto
 	-26 -16 -40 -17 -26 0 rrcurveto
@@ -20673,8 +17760,6 @@ dup /CharStrings
 	} |-
 /u1D599.ssty2 {
 	0 643 hsbw
-	359 46 hstem
-	247 128 vstem
 	374 359 rmoveto
 	102 hlineto
 	17 39 rlineto
@@ -20701,8 +17786,6 @@ dup /CharStrings
 	} |-
 /u1D599.alt.ssty2 {
 	0 648 hsbw
-	359 46 hstem
-	245 126 vstem
 	371 405 rmoveto
 	0 1 9 115 4 56 rrcurveto
 	-13 9 rlineto
@@ -20728,10 +17811,6 @@ dup /CharStrings
 	} |-
 /u1D59A.ssty2 {
 	0 858 hsbw
-	-32 94 hstem
-	384 89 hstem
-	236 117 vstem
-	515 126 vstem
 	512 424 rmoveto
 	4 -112 0 -111 0 -103 rrcurveto
 	-73 -36 rlineto
@@ -20760,11 +17839,6 @@ dup /CharStrings
 	} |-
 /u1D59B.ssty2 {
 	0 876 hsbw
-	-28 83 hstem
-	389 87 hstem
-	526 20 hstem
-	213 133 vstem
-	531 130 vstem
 	621 80 rmoveto
 	41 68 1 93 0 75 rrcurveto
 	0 33 -2 33 -2 33 rrcurveto
@@ -20793,12 +17867,6 @@ dup /CharStrings
 	} |-
 /u1D59C.ssty2 {
 	0 1220 hsbw
-	-33 96 hstem
-	376 94 hstem
-	529 20 hstem
-	224 132 vstem
-	531 135 vstem
-	868 133 vstem
 	667 370 rmoveto
 	34 vlineto
 	-56 19 -54 22 -51 26 rrcurveto
@@ -20842,11 +17910,6 @@ dup /CharStrings
 	} |-
 /u1D59D.ssty2 {
 	0 716 hsbw
-	-188 64 hstem
-	-29 97 hstem
-	381 90 hstem
-	119 77 vstem
-	252 128 vstem
 	570 82 rmoveto
 	-2 18 rlineto
 	-34 -14 -49 -18 -13 0 rrcurveto
@@ -20877,12 +17940,6 @@ dup /CharStrings
 	} |-
 /u1D59E.ssty2 {
 	0 859 hsbw
-	-222 21 hstem
-	-28 21 hstem
-	381 97 hstem
-	537 20 hstem
-	225 132 vstem
-	532 132 vstem
 	668 412 rmoveto
 	-54 19 -51 22 -50 25 rrcurveto
 	-154 -93 rlineto
@@ -20914,10 +17971,6 @@ dup /CharStrings
 	} |-
 /u1D59F.ssty2 {
 	0 718 hsbw
-	-215 80 hstem
-	371 101 hstem
-	96 121 vstem
-	391 113 vstem
 	486 -103 rmoveto
 	20 60 14 57 0 60 rrcurveto
 	0 47 -6 47 -12 46 rrcurveto
@@ -20946,10 +17999,6 @@ dup /CharStrings
 	} |-
 /uni0021.ssty2 {
 	0 595 hsbw
-	-12 117 hstem
-	184 21 hstem
-	670 20 hstem
-	223 146 vstem
 	228 46 rmoveto
 	-34 31 -28 37 vhcurveto
 	38 31 28 34 hvcurveto
@@ -20968,10 +18017,6 @@ dup /CharStrings
 	} |-
 /uni0022.ssty2 {
 	0 490 hsbw
-	432 21 hstem
-	675 19 hstem
-	116 88 vstem
-	271 88 vstem
 	149 432 rmoveto
 	27 hlineto
 	28 191 rlineto
@@ -20992,13 +18037,6 @@ dup /CharStrings
 	} |-
 /uni0026.ssty2 {
 	0 1169 hsbw
-	-14 52 hstem
-	355 48 hstem
-	662 35 hstem
-	151 129 vstem
-	309 102 vstem
-	566 124 vstem
-	777 82 vstem
 	579 355 rmoveto
 	22 2 22 0 22 0 rrcurveto
 	84 48 -46 -59 hvcurveto
@@ -21040,9 +18078,6 @@ dup /CharStrings
 	} |-
 /uni0027.ssty2 {
 	0 486 hsbw
-	436 21 hstem
-	675 20 hstem
-	193 87 vstem
 	219 436 rmoveto
 	21 hlineto
 	34 186 rlineto
@@ -21055,9 +18090,6 @@ dup /CharStrings
 	} |-
 /uni0028.ssty2 {
 	0 716 hsbw
-	-186 21 hstem
-	718 20 hstem
-	252 66 vstem
 	487 -172 rmoveto
 	-96 21 -36 107 -13 62 rrcurveto
 	-18 84 -6 85 0 87 rrcurveto
@@ -21072,9 +18104,6 @@ dup /CharStrings
 	} |-
 /uni0029.ssty2 {
 	0 716 hsbw
-	-187 21 hstem
-	715 20 hstem
-	395 68 vstem
 	220 715 rmoveto
 	98 -37 32 -89 20 -78 rrcurveto
 	19 -78 6 -78 0 -79 rrcurveto
@@ -21089,9 +18118,6 @@ dup /CharStrings
 	} |-
 /uni002A.ssty2 {
 	0 571 hsbw
-	425 25 hstem
-	692 24 hstem
-	264 45 vstem
 	312 449 rmoveto
 	-11 43 -3 14 -1 42 rrcurveto
 	35 -22 27 -18 21 -20 rrcurveto
@@ -21115,8 +18141,6 @@ dup /CharStrings
 	} |-
 /uni002B.ssty2 {
 	0 1193 hsbw
-	238 50 hstem
-	569 55 vstem
 	624 288 rmoveto
 	310 vlineto
 	-55 -14 rlineto
@@ -21134,9 +18158,6 @@ dup /CharStrings
 	} |-
 /uni003A.ssty2 {
 	0 491 hsbw
-	-16 145 hstem
-	334 144 hstem
-	166 158 vstem
 	245 478 rmoveto
 	-44 -35 -32 -40 hvcurveto
 	-40 35 -32 44 vhcurveto
@@ -21153,9 +18174,6 @@ dup /CharStrings
 	} |-
 /uni003B.ssty2 {
 	0 491 hsbw
-	-190 289 hstem
-	343 116 hstem
-	167 172 vstem
 	244 479 rmoveto
 	-44 -36 -32 -40 hvcurveto
 	-40 36 -33 44 vhcurveto
@@ -21178,8 +18196,6 @@ dup /CharStrings
 	} |-
 /uni003D.ssty2 {
 	0 851 hsbw
-	164 50 hstem
-	299 50 hstem
 	709 299 rmoveto
 	11 50 rlineto
 	-579 hlineto
@@ -21194,11 +18210,6 @@ dup /CharStrings
 	} |-
 /uni003F.ssty2 {
 	0 682 hsbw
-	-15 129 hstem
-	170 21 hstem
-	654 45 hstem
-	210 162 vstem
-	448 122 vstem
 	291 121 rmoveto
 	-43 -36 -32 -40 hvcurveto
 	-40 36 -33 43 vhcurveto
@@ -21228,9 +18239,6 @@ dup /CharStrings
 	} |-
 /uni005B.ssty2 {
 	0 493 hsbw
-	-130 32 hstem
-	710 31 hstem
-	145 55 vstem
 	354 712 rmoveto
 	24 vlineto
 	-71 0 -88 0 -50 5 rrcurveto
@@ -21244,9 +18252,6 @@ dup /CharStrings
 	} |-
 /uni005D.ssty2 {
 	0 493 hsbw
-	-132 31 hstem
-	708 31 hstem
-	279 55 vstem
 	279 709 rmoveto
 	-801 vlineto
 	-159 -11 rlineto
@@ -21260,9 +18265,6 @@ dup /CharStrings
 	} |-
 /uni005E.ssty2 {
 	0 860 hsbw
-	452 21 hstem
-	715 20 hstem
-	105 642 vstem
 	431 735 rmoveto
 	-326 -271 rlineto
 	30 -12 rlineto
@@ -21274,8 +18276,6 @@ dup /CharStrings
 	} |-
 /uni2018.ssty2 {
 	0 490 hsbw
-	410 299 hstem
-	163 148 vstem
 	288 709 rmoveto
 	-52 -49 -73 -69 0 -50 rrcurveto
 	-44 51 -87 43 vhcurveto
@@ -21289,8 +18289,6 @@ dup /CharStrings
 	} |-
 /uni2019.ssty2 {
 	0 490 hsbw
-	427 297 hstem
-	158 148 vstem
 	192 394 rmoveto
 	52 49 72 69 0 50 rrcurveto
 	44 -50 87 -43 vhcurveto
@@ -21304,7 +18302,6 @@ dup /CharStrings
 	} |-
 /uni2212.ssty2 {
 	0 1193 hsbw
-	231 50 hstem
 	1005 231 rmoveto
 	17 50 rlineto
 	-837 hlineto
@@ -21314,10 +18311,6 @@ dup /CharStrings
 	} |-
 /zero.onum.ssty2 {
 	0 863 hsbw
-	-11 84 hstem
-	420 82 hstem
-	150 111 vstem
-	576 116 vstem
 	449 502 rmoveto
 	-177 -60 -122 -109 0 -146 rrcurveto
 	-96 81 -102 135 vhcurveto
@@ -21334,11 +18327,6 @@ dup /CharStrings
 	} |-
 /u1D4D0.ssty2 {
 	0 1208 hsbw
-	-11 56 hstem
-	225 51 hstem
-	646 55 hstem
-	116 131 vstem
-	757 142 vstem
 	757 225 rmoveto
 	-104 7 -138 132 vhcurveto
 	82 0 55 53 44 51 rrcurveto
@@ -21366,12 +18354,6 @@ dup /CharStrings
 	} |-
 /u1D4D1.ssty2 {
 	0 1184 hsbw
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	148 123 vstem
-	455 132 vstem
-	875 128 vstem
 	574 727 rmoveto
 	-113 -37 rlineto
 	-138 -19 -175 -75 0 -108 rrcurveto
@@ -21405,12 +18387,6 @@ dup /CharStrings
 	-102 574 rmoveto
 	70 0 87 -11 53 -41 rrcurveto
 	4 callsubr
-	-1 88 hstem
-	353 41 hstem
-	661 33 hstem
-	148 123 vstem
-	455 132 vstem
-	837 124 vstem
 	32 -25 7 -38 0 -35 rrcurveto
 	-107 -139 -10 -97 vhcurveto
 	-6 -7 3 6 hvcurveto
@@ -21419,12 +18395,6 @@ dup /CharStrings
 	} |-
 /u1D4D2.ssty2 {
 	0 976 hsbw
-	-15 40 hstem
-	383 32 hstem
-	673 36 hstem
-	172 138 vstem
-	416 130 vstem
-	720 113 vstem
 	743 165 rmoveto
 	-17 -8 rlineto
 	-73 -61 -59 -91 vhcurveto
@@ -21450,11 +18420,6 @@ dup /CharStrings
 	} |-
 /u1D4D3.ssty2 {
 	0 1267 hsbw
-	0 89 hstem
-	650 43 hstem
-	146 133 vstem
-	447 130 vstem
-	963 138 vstem
 	577 719 rmoveto
 	-15 8 rlineto
 	-112 -37 rlineto
@@ -21486,11 +18451,6 @@ dup /CharStrings
 	} |-
 /u1D4D4.ssty2 {
 	0 984 hsbw
-	-12 38 hstem
-	367 29 hstem
-	677 31 hstem
-	174 144 vstem
-	635 120 vstem
 	416 380 rmoveto
 	-136 -18 -106 -77 0 -121 rrcurveto
 	-138 179 -38 161 vhcurveto
@@ -21516,11 +18476,6 @@ dup /CharStrings
 	} |-
 /u1D4D5.ssty2 {
 	0 1060 hsbw
-	-14 44 hstem
-	341 49 hstem
-	655 41 hstem
-	162 137 vstem
-	539 134 vstem
 	673 682 rmoveto
 	43 vlineto
 	-13 6 rlineto
@@ -21562,12 +18517,6 @@ dup /CharStrings
 	} |-
 /u1D4D6.ssty2 {
 	0 979 hsbw
-	-138 39 hstem
-	228 36 hstem
-	475 32 hstem
-	669 38 hstem
-	175 142 vstem
-	652 129 vstem
 	665 377 rmoveto
 	-23 -89 -60 -24 -75 0 rrcurveto
 	-131 -59 112 87 hvcurveto
@@ -21596,13 +18545,6 @@ dup /CharStrings
 	} |-
 /u1D4D7.ssty2 {
 	0 1336 hsbw
-	-11 44 hstem
-	339 49 hstem
-	644 57 hstem
-	141 142 vstem
-	458 138 vstem
-	837 134 vstem
-	1103 125 vstem
 	642 694 rmoveto
 	-32 2 -64 2 -23 0 rrcurveto
 	-167 -211 -51 -144 hvcurveto
@@ -21640,10 +18582,6 @@ dup /CharStrings
 	} |-
 /u1D4D8.ssty2 {
 	0 843 hsbw
-	-18 46 hstem
-	663 39 hstem
-	184 149 vstem
-	491 142 vstem
 	634 658 rmoveto
 	36 17 rlineto
 	7 24 rlineto
@@ -21666,10 +18604,6 @@ dup /CharStrings
 	} |-
 /u1D4D9.ssty2 {
 	0 853 hsbw
-	-137 39 hstem
-	649 52 hstem
-	140 96 vstem
-	499 141 vstem
 	715 698 rmoveto
 	-24 2 -22 1 -23 0 rrcurveto
 	-141 0 -142 -31 -102 -79 rrcurveto
@@ -21698,11 +18632,6 @@ dup /CharStrings
 	} |-
 /u1D4DA.ssty2 {
 	0 1258 hsbw
-	-8 44 hstem
-	656 44 hstem
-	136 153 vstem
-	465 131 vstem
-	990 133 vstem
 	597 656 rmoveto
 	53 19 rlineto
 	1 22 rlineto
@@ -21741,12 +18670,6 @@ dup /CharStrings
 	} |-
 /u1D4DB.ssty2 {
 	0 1120 hsbw
-	-12 101 hstem
-	102 81 hstem
-	670 40 hstem
-	305 142 vstem
-	618 145 vstem
-	910 33 vstem
 	352 411 rmoveto
 	-25 -144 -31 -36 -63 -51 rrcurveto
 	-79 -56 -16 -42 -4 -69 rrcurveto
@@ -21773,11 +18696,6 @@ dup /CharStrings
 	} |-
 /u1D4DC.ssty2 {
 	0 1461 hsbw
-	-13 58 hstem
-	639 70 hstem
-	136 28 vstem
-	401 55 vstem
-	1008 129 vstem
 	757 23 rmoveto
 	6 12 rlineto
 	25 187 69 207 151 142 rrcurveto
@@ -21818,12 +18736,6 @@ dup /CharStrings
 	} |-
 /u1D4DD.ssty2 {
 	0 1195 hsbw
-	-13 119 hstem
-	625 79 hstem
-	132 32 vstem
-	381 53 vstem
-	888 52 vstem
-	1004 111 vstem
 	715 388 rmoveto
 	-67 87 -78 100 -97 76 rrcurveto
 	-38 30 -51 21 -55 0 rrcurveto
@@ -21853,11 +18765,6 @@ dup /CharStrings
 	} |-
 /u1D4DE.ssty2 {
 	0 1110 hsbw
-	-20 43 hstem
-	661 46 hstem
-	156 134 vstem
-	409 75 vstem
-	797 142 vstem
 	365 670 rmoveto
 	-141 -54 -68 -146 0 -126 rrcurveto
 	0 -99 23 -118 90 -69 rrcurveto
@@ -21883,12 +18790,6 @@ dup /CharStrings
 	} |-
 /u1D4DF.ssty2 {
 	0 1050 hsbw
-	-13 42 hstem
-	283 33 hstem
-	650 39 hstem
-	141 145 vstem
-	449 132 vstem
-	771 139 vstem
 	578 690 rmoveto
 	28 vlineto
 	-15 8 rlineto
@@ -21918,11 +18819,6 @@ dup /CharStrings
 	} |-
 /u1D4E0.ssty2 {
 	0 1072 hsbw
-	-13 103 hstem
-	183 25 hstem
-	674 31 hstem
-	152 141 vstem
-	752 146 vstem
 	902 184 rmoveto
 	-32 -59 -54 -40 -73 0 rrcurveto
 	-43 0 -47 10 -33 7 rrcurveto
@@ -21948,12 +18844,6 @@ dup /CharStrings
 	} |-
 /u1D4E1.ssty2 {
 	0 1130 hsbw
-	-10 47 hstem
-	308 25 hstem
-	656 37 hstem
-	139 155 vstem
-	475 130 vstem
-	799 150 vstem
 	604 694 rmoveto
 	30 vlineto
 	-15 8 rlineto
@@ -21993,13 +18883,6 @@ dup /CharStrings
 	} |-
 /u1D4E2.ssty2 {
 	0 884 hsbw
-	-18 41 hstem
-	254 39 hstem
-	511 23 hstem
-	676 39 hstem
-	113 98 vstem
-	319 110 vstem
-	600 131 vstem
 	501 515 rmoveto
 	16 -2 23 -2 16 0 rrcurveto
 	66 75 41 53 hvcurveto
@@ -22029,10 +18912,6 @@ dup /CharStrings
 	} |-
 /u1D4E3.ssty2 {
 	0 946 hsbw
-	-11 48 hstem
-	633 66 hstem
-	134 145 vstem
-	510 124 vstem
 	908 697 rmoveto
 	-22 -25 rlineto
 	-24 -21 -27 -16 -36 0 rrcurveto
@@ -22061,11 +18940,6 @@ dup /CharStrings
 	} |-
 /u1D4E4.ssty2 {
 	0 1110 hsbw
-	-13 63 hstem
-	618 88 hstem
-	115 40 vstem
-	230 133 vstem
-	672 137 vstem
 	983 121 rmoveto
 	-31 -41 -27 -26 -29 0 rrcurveto
 	-88 1 154 75 hvcurveto
@@ -22095,10 +18969,6 @@ dup /CharStrings
 	} |-
 /u1D4E5.ssty2 {
 	0 1056 hsbw
-	-16 21 hstem
-	613 87 hstem
-	133 29 vstem
-	793 122 vstem
 	552 118 rmoveto
 	-72 308 rlineto
 	-25 115 -42 161 -120 0 rrcurveto
@@ -22123,11 +18993,6 @@ dup /CharStrings
 	} |-
 /u1D4E6.ssty2 {
 	0 1470 hsbw
-	-8 21 hstem
-	612 92 hstem
-	131 34 vstem
-	411 119 vstem
-	1214 113 vstem
 	542 146 rmoveto
 	-10 -3 rlineto
 	-4 127 rlineto
@@ -22164,11 +19029,6 @@ dup /CharStrings
 	} |-
 /u1D4E7.ssty2 {
 	0 1122 hsbw
-	-11 46 hstem
-	669 43 hstem
-	139 132 vstem
-	529 119 vstem
-	858 122 vstem
 	933 169 rmoveto
 	-13 -41 -27 -59 -65 0 rrcurveto
 	-77 0 -33 80 -20 51 rrcurveto
@@ -22200,11 +19060,6 @@ dup /CharStrings
 	} |-
 /u1D4E8.ssty2 {
 	0 976 hsbw
-	-135 45 hstem
-	277 65 hstem
-	616 93 hstem
-	235 129 vstem
-	639 138 vstem
 	647 655 rmoveto
 	0 -68 -4 -69 0 -68 rrcurveto
 	-57 -44 -81 -62 -69 -2 rrcurveto
@@ -22238,12 +19093,6 @@ dup /CharStrings
 	} |-
 /u1D4E9.ssty2 {
 	0 1046 hsbw
-	-14 87 hstem
-	87 89 hstem
-	530 73 hstem
-	629 76 hstem
-	169 80 vstem
-	853 59 vstem
 	671 527 rmoveto
 	41 46 45 43 46 42 rrcurveto
 	-1 9 rlineto
@@ -22278,9 +19127,6 @@ dup /CharStrings
 	} |-
 /uni005C.ssty2 {
 	0 848 hsbw
-	-194 21 hstem
-	706 20 hstem
-	145 550 vstem
 	654 -194 rmoveto
 	48 25 rlineto
 	-496 897 rlineto
@@ -22290,10 +19136,6 @@ dup /CharStrings
 	} |-
 /uni007B.ssty2 {
 	0 616 hsbw
-	-178 17 hstem
-	259 26 hstem
-	710 20 hstem
-	243 66 vstem
 	478 -161 rmoveto
 	-66 0 -78 -1 -15 73 rrcurveto
 	-27 129 57 183 -156 50 rrcurveto
@@ -22315,7 +19157,6 @@ dup /CharStrings
 	} |-
 /uni007C.ssty2 {
 	0 479 hsbw
-	212 56 vstem
 	269 -159 rmoveto
 	897 vlineto
 	-57 -19 rlineto
@@ -22325,10 +19166,6 @@ dup /CharStrings
 	} |-
 /uni007D.ssty2 {
 	0 616 hsbw
-	-177 21 hstem
-	263 24 hstem
-	717 17 hstem
-	-165 69 vstem
 	133 -178 rmoveto
 	141 0 74 -3 16 109 rrcurveto
 	3 24 0 46 0 36 rrcurveto
@@ -22350,10 +19187,6 @@ dup /CharStrings
 	} |-
 /uni00A7.ssty2 {
 	0 865 hsbw
-	-107 34 hstem
-	669 32 hstem
-	197 49 vstem
-	560 78 vstem
 	624 232 rmoveto
 	0 -23 -9 -24 -17 -19 rrcurveto
 	-85 66 -268 35 0 106 rrcurveto
@@ -22388,8 +19221,6 @@ dup /CharStrings
 	} |-
 /uni00AC.ssty2 {
 	0 1081 hsbw
-	351 50 hstem
-	850 56 vstem
 	906 401 rmoveto
 	-767 hlineto
 	-50 vlineto
@@ -22401,9 +19232,6 @@ dup /CharStrings
 	} |-
 /uni2111.ssty2 {
 	0 915 hsbw
-	-25 54 hstem
-	572 111 hstem
-	565 141 vstem
 	780 670 rmoveto
 	-37 -26 -45 -28 -45 0 rrcurveto
 	-63 0 -122 67 -82 0 rrcurveto
@@ -22433,12 +19261,6 @@ dup /CharStrings
 	} |-
 /uni211C.ssty2 {
 	0 1264 hsbw
-	-29 21 hstem
-	28 96 hstem
-	619 71 hstem
-	248 125 vstem
-	542 138 vstem
-	895 128 vstem
 	330 619 rmoveto
 	97 0 64 -74 28 -60 rrcurveto
 	16 -42 7 -43 0 -43 rrcurveto
@@ -22489,11 +19311,6 @@ dup /CharStrings
 	} |-
 /uni2135.ssty2 {
 	0 1196 hsbw
-	1 115 hstem
-	530 120 hstem
-	669 20 hstem
-	264 68 vstem
-	691 69 vstem
 	524 116 rmoveto
 	-103 -89 23 98 hvcurveto
 	0 31 44 63 41 10 rrcurveto
@@ -22528,9 +19345,6 @@ dup /CharStrings
 	} |-
 /uni2227.ssty2 {
 	0 1197 hsbw
-	-9 21 hstem
-	694 20 hstem
-	120 966 vstem
 	621 713 rmoveto
 	-11 1 rlineto
 	-490 -704 rlineto
@@ -22544,9 +19358,6 @@ dup /CharStrings
 	} |-
 /uni2228.ssty2 {
 	0 1197 hsbw
-	-12 21 hstem
-	668 20 hstem
-	113 957 vstem
 	1070 684 rmoveto
 	-4 4 rlineto
 	-66 hlineto
@@ -22560,9 +19371,6 @@ dup /CharStrings
 	} |-
 /uni223C.ssty2 {
 	0 911 hsbw
-	178 41 hstem
-	305 42 hstem
-	133 649 vstem
 	504 214 rmoveto
 	40 -21 46 -15 48 0 rrcurveto
 	67 0 49 48 28 49 rrcurveto
