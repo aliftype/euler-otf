@@ -12,10 +12,10 @@ otf: $(OTF)
 	@echo "Generating $@"
 	@t1asm -a $< $@
 
-Regular/NeoEulerMath-Regular.otf: FontMenuNameDB GlyphOrderAndAliasDB features Regular/features Regular/font.pfa
+Regular/NeoEulerMath-Regular.otf: FontMenuNameDB GlyphOrderAndAliasDB features Regular/features Regular/fontinfo Regular/font.pfa
 	@echo "Building $@"
 	@(cd `dirname $@` && $(MKO))
 
-Bold/NeoEulerMath-Bold.otf: FontMenuNameDB GlyphOrderAndAliasDB features Bold/font.pfa
+Bold/NeoEulerMath-Bold.otf: FontMenuNameDB GlyphOrderAndAliasDB features Bold/fontinfo Bold/font.pfa
 	@echo "Building $@"
 	@(cd `dirname $@` && $(MKO))
