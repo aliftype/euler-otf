@@ -1,4 +1,4 @@
-**Update: this project is abondaned, the repository is left for achælogical
+**Update: this project is abandoned, the repository is left for achælogical
 purposes.**
 
 Our goal is to create an OpenType MATH-enabled font euler.otf, by
