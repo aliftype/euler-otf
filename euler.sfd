@@ -11,16 +11,17 @@ UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
 UniqueID: 5096681
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1303483220
+ModificationTime: 1500409393
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -40,14 +41,14 @@ HheadAOffset: 0
 HheadDescent: -200
 HheadDOffset: 0
 OS2Vendor: 'GNU '
-Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1"  {"'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1" ) } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 5"  {"'salt' Stylistic Alternatives lookup 5-1"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 3 0 0 "'ssty' Script Style lookup 0"  {"'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'dtls' Dotless Forms lookup" { "'dtls' Dotless Forms lookup-1"  } ['dtls' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 1" { "'onum' Oldstyle Figures lookup 1-1" ("onum.ssty1") } ['onum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'salt' Stylistic Alternatives lookup 5" { "'salt' Stylistic Alternatives lookup 5-1"  } ['salt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'ssty' Script Style lookup 0" { "'ssty' Script Style lookup 0-1"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org),+AAoA-with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoACgAA-Copyright (c) 2009, 2010 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org),+AAoA-with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoACgAA-Copyright (c) 2009, 2010 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -111,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8672 32 13
+WinInfo: 8448 32 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -124,7 +125,7 @@ ForceBold 5 false
 StemSnapH 9 [ 40 54 ]
 StemSnapV 9 [ 40 75 ]
 EndPrivate
-BeginChars: 1115335 1903
+BeginChars: 1115335 1910
 
 StartChar: uni007B.alt01
 Encoding: 1114112 -1 0
@@ -1867,7 +1868,7 @@ SplineSet
  436 720 l 1
  458 715 l 1
 EndSplineSet
-Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1" 204 -61 "'kern' Horizontal Kerning lookup 0-1" 202 -61 "'kern' Horizontal Kerning lookup 0-1" 1411 -61 "'kern' Horizontal Kerning lookup 0-1" 285 -61 "'kern' Horizontal Kerning lookup 0-1" 279 -61 "'kern' Horizontal Kerning lookup 0-1" 252 -61 "'kern' Horizontal Kerning lookup 0-1" 1396 -56 "'kern' Horizontal Kerning lookup 0-1" 319 -56 "'kern' Horizontal Kerning lookup 0-1" 311 -56 "'kern' Horizontal Kerning lookup 0-1" 1395 -56 "'kern' Horizontal Kerning lookup 0-1" 389 -56 "'kern' Horizontal Kerning lookup 0-1" 383 -56 "'kern' Horizontal Kerning lookup 0-1" 357 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
@@ -8712,7 +8713,7 @@ SplineSet
  379 692 l 1
  562 692 l 1
 EndSplineSet
-Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1"  1522 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1" 1522 -61 "'kern' Horizontal Kerning lookup 0-1" 59 -61 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D6AA.ssty1 u1D6AA.ssty2
 EndChar
 
@@ -11113,7 +11114,7 @@ SplineSet
  232 334 232 324 232 316 c 0
  232 315 237 121 238 23 c 1
 EndSplineSet
-Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1"  1522 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1" 1522 -61 "'kern' Horizontal Kerning lookup 0-1" 59 -61 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D405.ssty1 u1D405.ssty2
 EndChar
 
@@ -11512,7 +11513,7 @@ SplineSet
  264 659 263 648 263 641 c 0
  263 640 264 454 265 361 c 0
 EndSplineSet
-Kerns2: 56 -92 "'kern' Horizontal Kerning lookup 0-1"  58 -92 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 56 -92 "'kern' Horizontal Kerning lookup 0-1" 58 -92 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40F.ssty1 u1D40F.ssty2
 EndChar
 
@@ -11679,7 +11680,7 @@ SplineSet
  249 1 l 1
  254 166 257 331 257 496 c 2
 EndSplineSet
-Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1"  1522 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1" 1522 -61 "'kern' Horizontal Kerning lookup 0-1" 59 -61 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D413.ssty1 u1D413.ssty2
 EndChar
 
@@ -13258,7 +13259,7 @@ SplineSet
  314 693 l 2
  375 693 436 694 496 697 c 1
 EndSplineSet
-Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1"  1522 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1" 1522 -56 "'kern' Horizontal Kerning lookup 0-1" 59 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0393.ssty1 uni0393.ssty2
 EndChar
 
@@ -13624,12 +13625,12 @@ SplineSet
  450.819 62.1816 453.183 9.4541 455 -11 c 5
  359.501 -33 l 5
  355.001 -25.0908 l 5
- 355.995 -18.4629 364.001 67.8184 364.001 80 c 5
+ 355.995 -18.4629 364.001 67.8184 364.001 80 c 1029
 366 396 m 2
  366 496 366 616 360 698 c 1
  456 721 l 1
  460 713 l 1
- 453 638 447 564 447 489 c 0
+ 453 638 447 564 447 489 c 1024
 EndSplineSet
 Fore
 SplineSet
@@ -15677,7 +15678,7 @@ SplineSet
  118 -2 l 1
  122 119 125 239 125 360 c 1
 EndSplineSet
-Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1"  1522 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1" 1522 -56 "'kern' Horizontal Kerning lookup 0-1" 59 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0046.ssty1 uni0046.ssty2
 EndChar
 
@@ -16071,7 +16072,7 @@ SplineSet
  214 286 210 281 210 274 c 0
  210 249 216 123 217 22 c 1
 EndSplineSet
-Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1"  56 -83 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1" 56 -83 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0050.ssty1 uni0050.ssty2
 EndChar
 
@@ -16236,7 +16237,7 @@ SplineSet
  380 686 479 692 567 696 c 1
  575 689 l 1xa0
 EndSplineSet
-Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1"  1522 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1" 1522 -56 "'kern' Horizontal Kerning lookup 0-1" 59 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0054.ssty1 uni0054.ssty2
 EndChar
 
@@ -17474,9 +17475,9 @@ EndChar
 StartChar: uni0078
 Encoding: 120 120 406
 Width: 526
-Flags: MW
-HStem: -15 78 406 59
-VStem: 2 510<82 400>
+Flags: W
+HStem: -12 75<375.5 433.9> 407 57<64.1719 120.401>
+VStem: 73 44<13 40.4021>
 LayerCount: 2
 Fore
 SplineSet
@@ -23050,7 +23051,7 @@ SplineSet
  509 720 l 1
  532 715 l 1
 EndSplineSet
-Kerns2: 755 -67 "'kern' Horizontal Kerning lookup 0-1"  749 -67 "'kern' Horizontal Kerning lookup 0-1"  722 -67 "'kern' Horizontal Kerning lookup 0-1"  682 -67 "'kern' Horizontal Kerning lookup 0-1"  674 -67 "'kern' Horizontal Kerning lookup 0-1"  672 -67 "'kern' Horizontal Kerning lookup 0-1"  741 -67 "'kern' Horizontal Kerning lookup 0-1"  727 -67 "'kern' Horizontal Kerning lookup 0-1"  789 -63 "'kern' Horizontal Kerning lookup 0-1"  781 -63 "'kern' Horizontal Kerning lookup 0-1"  779 -63 "'kern' Horizontal Kerning lookup 0-1"  859 -63 "'kern' Horizontal Kerning lookup 0-1"  853 -63 "'kern' Horizontal Kerning lookup 0-1"  827 -63 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 755 -67 "'kern' Horizontal Kerning lookup 0-1" 749 -67 "'kern' Horizontal Kerning lookup 0-1" 722 -67 "'kern' Horizontal Kerning lookup 0-1" 682 -67 "'kern' Horizontal Kerning lookup 0-1" 674 -67 "'kern' Horizontal Kerning lookup 0-1" 672 -67 "'kern' Horizontal Kerning lookup 0-1" 741 -67 "'kern' Horizontal Kerning lookup 0-1" 727 -67 "'kern' Horizontal Kerning lookup 0-1" 789 -63 "'kern' Horizontal Kerning lookup 0-1" 781 -63 "'kern' Horizontal Kerning lookup 0-1" 779 -63 "'kern' Horizontal Kerning lookup 0-1" 859 -63 "'kern' Horizontal Kerning lookup 0-1" 853 -63 "'kern' Horizontal Kerning lookup 0-1" 827 -63 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D7CF.alt.ssty1
@@ -29414,7 +29415,7 @@ SplineSet
  445 692 l 1
  645 692 l 1
 EndSplineSet
-Kerns2: 537 -67 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 537 -67 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D6AB.ssty1
@@ -32137,7 +32138,7 @@ SplineSet
  320 659 319 648 319 641 c 0
  319 640 320 454 321 361 c 0
 EndSplineSet
-Kerns2: 534 -100 "'kern' Horizontal Kerning lookup 0-1"  536 -100 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 534 -100 "'kern' Horizontal Kerning lookup 0-1" 536 -100 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D410.ssty1
@@ -33845,7 +33846,7 @@ SplineSet
  386 693 l 2
  455 693 524 694 591 697 c 1
 EndSplineSet
-Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni2206.ssty1
@@ -36127,7 +36128,7 @@ SplineSet
  164 -2 l 1
  169 119 172 239 172 360 c 1
 EndSplineSet
-Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0047.ssty1
@@ -36511,7 +36512,7 @@ SplineSet
  272 286 268 281 268 274 c 0
  268 249 275 123 276 22 c 1
 EndSplineSet
-Kerns2: 534 -94 "'kern' Horizontal Kerning lookup 0-1"  536 -94 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 534 -94 "'kern' Horizontal Kerning lookup 0-1" 536 -94 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0051.ssty1
@@ -36672,7 +36673,7 @@ SplineSet
  460 686 572 692 671 696 c 1
  680 689 l 1xa0
 EndSplineSet
-Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 537 -63 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0055.ssty1
@@ -42225,7 +42226,7 @@ SplineSet
  685 722 l 5
  740 713 l 5
 EndSplineSet
-Kerns2: 1185 -70 "'kern' Horizontal Kerning lookup 0-1"  1179 -70 "'kern' Horizontal Kerning lookup 0-1"  1152 -70 "'kern' Horizontal Kerning lookup 0-1"  1112 -70 "'kern' Horizontal Kerning lookup 0-1"  1104 -70 "'kern' Horizontal Kerning lookup 0-1"  1102 -70 "'kern' Horizontal Kerning lookup 0-1"  1219 -66 "'kern' Horizontal Kerning lookup 0-1"  1211 -66 "'kern' Horizontal Kerning lookup 0-1"  1209 -66 "'kern' Horizontal Kerning lookup 0-1"  1289 -66 "'kern' Horizontal Kerning lookup 0-1"  1283 -66 "'kern' Horizontal Kerning lookup 0-1"  1257 -66 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1185 -70 "'kern' Horizontal Kerning lookup 0-1" 1179 -70 "'kern' Horizontal Kerning lookup 0-1" 1152 -70 "'kern' Horizontal Kerning lookup 0-1" 1112 -70 "'kern' Horizontal Kerning lookup 0-1" 1104 -70 "'kern' Horizontal Kerning lookup 0-1" 1102 -70 "'kern' Horizontal Kerning lookup 0-1" 1219 -66 "'kern' Horizontal Kerning lookup 0-1" 1211 -66 "'kern' Horizontal Kerning lookup 0-1" 1209 -66 "'kern' Horizontal Kerning lookup 0-1" 1289 -66 "'kern' Horizontal Kerning lookup 0-1" 1283 -66 "'kern' Horizontal Kerning lookup 0-1" 1257 -66 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D7CF.alt.ssty2
@@ -48508,7 +48509,7 @@ SplineSet
  545 692 l 1
  757 692 l 1
 EndSplineSet
-Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D6AB.ssty2
@@ -50843,7 +50844,7 @@ SplineSet
  374 334 374 324 374 316 c 0
  374 315 380 121 381 23 c 1
 EndSplineSet
-Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D406.ssty2
@@ -51232,7 +51233,7 @@ SplineSet
  411 659 410 648 410 641 c 0
  410 640 411 454 412 361 c 0
 EndSplineSet
-Kerns2: 1458 -106 "'kern' Horizontal Kerning lookup 0-1"  1460 -106 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1458 -106 "'kern' Horizontal Kerning lookup 0-1" 1460 -106 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D410.ssty2
@@ -51395,7 +51396,7 @@ SplineSet
  394 1 l 1
  400 166 403 331 403 496 c 2
 EndSplineSet
-Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -70 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: u1D414.ssty2
@@ -52941,7 +52942,7 @@ SplineSet
  474 693 l 2
  547 693 620 694 692 697 c 1
 EndSplineSet
-Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni2206.ssty2
@@ -55223,7 +55224,7 @@ SplineSet
  239 -2 l 1
  243 119 247 239 247 360 c 1
 EndSplineSet
-Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0047.ssty2
@@ -55607,7 +55608,7 @@ SplineSet
  353 286 349 281 349 274 c 0
  349 249 356 123 357 22 c 1
 EndSplineSet
-Kerns2: 1458 -100 "'kern' Horizontal Kerning lookup 0-1"  1460 -100 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1458 -100 "'kern' Horizontal Kerning lookup 0-1" 1460 -100 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0051.ssty2
@@ -55768,7 +55769,7 @@ SplineSet
  553 686 672 692 777 696 c 1
  787 689 l 1xa0
 EndSplineSet
-Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 967 -66 "'kern' Horizontal Kerning lookup 0-1"
 EndChar
 
 StartChar: uni0055.ssty2
@@ -61426,7 +61427,7 @@ VStem: 134 82 454 96<485 524>
 LayerCount: 2
 Fore
 Refer: 372 80 S 1 0 0 1 0 0 2
-Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1"  56 -83 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 58 -83 "'kern' Horizontal Kerning lookup 0-1" 56 -83 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0050.ssty1 uni0050.ssty2
 EndChar
 
@@ -61439,7 +61440,7 @@ VStem: 257 89<633 638> 259 83<377.5 421>
 LayerCount: 2
 Fore
 Refer: 376 84 S 1 0 0 1 0 0 2
-Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1"  1522 -56 "'kern' Horizontal Kerning lookup 0-1"  59 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -56 "'kern' Horizontal Kerning lookup 0-1" 1522 -56 "'kern' Horizontal Kerning lookup 0-1" 59 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni0054.ssty1 uni0054.ssty2
 EndChar
 
@@ -61646,7 +61647,7 @@ VStem: 136 133 475 142<510 541.5>
 LayerCount: 2
 Fore
 Refer: 267 119823 S 1 0 0 1 0 0 2
-Kerns2: 56 -91 "'kern' Horizontal Kerning lookup 0-1"  58 -91 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 56 -91 "'kern' Horizontal Kerning lookup 0-1" 58 -91 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D40F.ssty1 u1D40F.ssty2
 EndChar
 
@@ -61659,7 +61660,7 @@ VStem: 260 121
 LayerCount: 2
 Fore
 Refer: 271 119827 S 1 0 0 1 0 0 2
-Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1"  1522 -61 "'kern' Horizontal Kerning lookup 0-1"  59 -61 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 1517 -61 "'kern' Horizontal Kerning lookup 0-1" 1522 -61 "'kern' Horizontal Kerning lookup 0-1" 59 -61 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" u1D413.ssty1 u1D413.ssty2
 EndChar
 
@@ -63997,7 +63998,7 @@ VStem: 34 432
 LayerCount: 2
 Fore
 Refer: 59 47 S 1 0 0 1 0 0 2
-Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1" 204 -61 "'kern' Horizontal Kerning lookup 0-1" 202 -61 "'kern' Horizontal Kerning lookup 0-1" 1411 -61 "'kern' Horizontal Kerning lookup 0-1" 285 -61 "'kern' Horizontal Kerning lookup 0-1" 279 -61 "'kern' Horizontal Kerning lookup 0-1" 252 -61 "'kern' Horizontal Kerning lookup 0-1" 1396 -56 "'kern' Horizontal Kerning lookup 0-1" 319 -56 "'kern' Horizontal Kerning lookup 0-1" 311 -56 "'kern' Horizontal Kerning lookup 0-1" 1395 -56 "'kern' Horizontal Kerning lookup 0-1" 389 -56 "'kern' Horizontal Kerning lookup 0-1" 383 -56 "'kern' Horizontal Kerning lookup 0-1" 357 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
@@ -64095,7 +64096,7 @@ VStem: 34 432
 LayerCount: 2
 Fore
 Refer: 59 47 S 1 0 0 1 0 0 2
-Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1"  204 -61 "'kern' Horizontal Kerning lookup 0-1"  202 -61 "'kern' Horizontal Kerning lookup 0-1"  1411 -61 "'kern' Horizontal Kerning lookup 0-1"  285 -61 "'kern' Horizontal Kerning lookup 0-1"  279 -61 "'kern' Horizontal Kerning lookup 0-1"  252 -61 "'kern' Horizontal Kerning lookup 0-1"  1396 -56 "'kern' Horizontal Kerning lookup 0-1"  319 -56 "'kern' Horizontal Kerning lookup 0-1"  311 -56 "'kern' Horizontal Kerning lookup 0-1"  1395 -56 "'kern' Horizontal Kerning lookup 0-1"  389 -56 "'kern' Horizontal Kerning lookup 0-1"  383 -56 "'kern' Horizontal Kerning lookup 0-1"  357 -56 "'kern' Horizontal Kerning lookup 0-1" 
+Kerns2: 212 -61 "'kern' Horizontal Kerning lookup 0-1" 204 -61 "'kern' Horizontal Kerning lookup 0-1" 202 -61 "'kern' Horizontal Kerning lookup 0-1" 1411 -61 "'kern' Horizontal Kerning lookup 0-1" 285 -61 "'kern' Horizontal Kerning lookup 0-1" 279 -61 "'kern' Horizontal Kerning lookup 0-1" 252 -61 "'kern' Horizontal Kerning lookup 0-1" 1396 -56 "'kern' Horizontal Kerning lookup 0-1" 319 -56 "'kern' Horizontal Kerning lookup 0-1" 311 -56 "'kern' Horizontal Kerning lookup 0-1" 1395 -56 "'kern' Horizontal Kerning lookup 0-1" 389 -56 "'kern' Horizontal Kerning lookup 0-1" 383 -56 "'kern' Horizontal Kerning lookup 0-1" 357 -56 "'kern' Horizontal Kerning lookup 0-1"
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni002F.ssty1 uni002F.ssty2
 EndChar
 
@@ -71479,7 +71480,7 @@ SplineSet
  308.947 723.25 l 1
  430.447 723.25 l 1
  433.947 727.25 l 1
-217.473 487.452 m 0
+217.473 487.452 m 1024
 EndSplineSet
 Refer: 1428 8730 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -73305,6 +73306,331 @@ SplineSet
 EndSplineSet
 Refer: 1583 824 S 1 0 0 1 131 0 2
 Colour: ff0000
+EndChar
+
+StartChar: uni2115
+Encoding: 8469 8469 1903
+Width: 829
+Flags: W
+HStem: 0 16G<126 221.4 647.5 695> 641 49<57 137.382> 656 34<57 116.923> 674 20G<624 710>
+VStem: 138 43<400.445 563.901> 236.9 27.6996<54 480> 648 47<165.004 203.232>
+LayerCount: 2
+Fore
+SplineSet
+234.6640625 44.7685546875 m 0x8e
+ 239 47 236.900390625 54 236.900390625 54 c 2
+ 236.989257812 218.69140625 236.936523438 450.098632812 236.923828125 500 c 2
+ 236.923828125 503.750976562 237 509 235.921875 513 c 0
+ 234.995117188 516.440429688 235.294921875 517.272460938 230 523 c 2
+ 198.571289062 557 l 2
+ 195.571289062 561 190.911521443 565.303840481 187 564 c 0
+ 181 562 181 553 181 547 c 0
+ 181 432.691284105 201 54 201 54 c 2
+ 201.331054688 45.6904296875 204 44 204 44 c 0
+ 209 39 213 40 213 40 c 2
+ 227.6640625 43 l 18
+ 227.6640625 43 234.6640625 44.7685546875 234.6640625 44.7685546875 c 0x8e
+264.6 25 m 1
+ 135 -5 l 1
+ 126 4 l 1
+ 136 205 142 407 138 608 c 0
+ 138 616 138 624 132 630 c 0
+ 128 635 123 640 117 641 c 0xce
+ 116 641 74 651 53 656 c 1xae
+ 49 683 l 1
+ 57 690 l 1xce
+ 219 690 l 1xae
+ 352 514 514 299 631 173 c 0
+ 634 170 638 165 642 165 c 0
+ 647 165 648 171 648 173 c 0
+ 648 275 645 374 624 678 c 1
+ 704 694 l 1x9e
+ 710 686 l 1
+ 697 459 695 227 695 0 c 1
+ 659 0 l 1
+ 636 26 622 42 592 80 c 2
+ 433 278 l 2
+ 367.609427581 358.776589458 310.438630175 426.812527648 264.64934774 479.999987929 c 1
+ 264.6 25 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2124
+Encoding: 8484 8484 1904
+Width: 666
+Flags: W
+HStem: -13 78 631 64
+VStem: 46 594<21 59>
+LayerCount: 2
+Fore
+SplineSet
+595 664 m 1
+ 460 471 286 200 196 61 c 1
+ 202 54 l 1
+ 631 68 l 1
+ 640 59 l 1
+ 622 -12 l 1
+ 493 0 239 0 47 0 c 1
+ 46 21 l 1
+ 470 627 l 1
+ 463 637 l 1
+ 276 637 174 631 147 628 c 1
+ 141 633 l 1
+ 141 687 l 1
+ 150 695 l 1
+ 298 686 446 683 595 683 c 1
+ 595 664 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni211D
+Encoding: 8477 8477 1905
+Width: 609
+Flags: W
+HStem: -6 21G<86 181.138 436.5 559.154> 312 43<214.002 244.631> 640 39<133.001 161 219.475 380.607> 656 23<22 56.3544>
+VStem: 95 38<624 625> 172.418 46.5817<45.0455 312 355.007 636.828> 438 98<443.552 589.957>
+LayerCount: 2
+Fore
+SplineSet
+170 637 m 0xee
+ 166.176074422 640.869200673 161 640 161 640 c 2
+ 149 640 l 2
+ 143 640 140.170898438 639.141601562 138 637 c 0
+ 134.590820312 633.635742188 133 633 133 624 c 18
+ 133 405.958007812 133.2265625 56 133.2265625 56 c 2
+ 133.2109375 50.9990234375 133 47 134 45 c 0
+ 134.763671875 43.47265625 136.512695312 42.1865234375 141 41.7939453125 c 2
+ 169 51.2529296875 l 2
+ 170.730538684 51.8375584022 171.872091403 53.5174167479 172 55.5 c 0
+ 172.142099854 57.6551811163 172.281507392 59.8219840625 172.418260872 61.9999952296 c 2
+ 173.002929688 623 l 26
+ 173 626 173.559884035 633.397967108 170 637 c 0xee
+219 23 m 1
+ 97 -6 l 1
+ 86 3 l 1
+ 94 148 95 294 95 439 c 0
+ 95 454 93 554 92 611 c 0
+ 92 625 82 637 69 641 c 0
+ 51 646 16 656 15 656 c 2
+ 16 673 l 1
+ 22 679 l 1xde
+ 333 679 l 2
+ 367 679 401 676 433 667 c 0
+ 457 660 480 651 497 633 c 0
+ 522 608 536 574 536 539 c 0
+ 536 491 532 477 517 443 c 0
+ 485 373 404 340 321 331 c 1
+ 319 323 l 1
+ 582 27 l 1
+ 582 18 l 1
+ 483 -8 l 1
+ 390 111 263 274 234 303 c 0
+ 229 308 220 312 214 312 c 1
+ 214 216 214 119 219 23 c 1
+213 370 m 0
+ 213 364 215 355 222 355 c 0
+ 235 355 248 355 260 356 c 0
+ 306 360 354 371 387 405 c 0
+ 418 436 438 478 438 523 c 0
+ 438 553 426 583 405 604 c 0
+ 391 618 372 626 353 631 c 0
+ 326 638 298 640 271 640 c 2
+ 231 640 l 2xee
+ 223 640 220 633 219 614 c 0
+ 217 550 213 375 213 370 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni211A
+Encoding: 8474 8474 1906
+Width: 828
+Flags: W
+HStem: -235 46<586.45 723.892> -16 38<326.581 377.219> 660 38<329.539 502.977>
+VStem: 86 93<194.752 470.083> 264 50<92 602.156> 646 95<202.506 485.585>
+LayerCount: 2
+Fore
+SplineSet
+767 -174 m 1
+ 774 -194 l 1
+ 735 -210 670 -235 619 -235 c 0
+ 570 -235 516 -207 482 -174 c 0
+ 445 -137 393 -60 366 -16 c 1
+ 297 -16 220 2 171 57 c 0
+ 114 121 85 213 86 305 c 0
+ 87 440 114 534 187 609 c 0
+ 255 679 350 698 445 698 c 0
+ 522 698 600 680 658 622 c 0
+ 721 559 741 449 741 366 c 0
+ 741 269 736 251 722 210 c 0
+ 708 166 696 133 654 87 c 0
+ 609 38 539 8 476 -7 c 1
+ 472 -17 l 1
+ 488 -47 514 -96 534 -122 c 0
+ 549 -143 592 -189 680 -189 c 0
+ 696 -189 744 -180 767 -174 c 1
+314 59 m 6
+ 314 30 383.010837065 22 410 22 c 0
+ 484 22 522 43 561 80 c 0
+ 626 143 646 248 646 338 c 0
+ 646 390 641 435 625 485 c 0
+ 611 526 589 571 557 602 c 1
+ 519 641 475 660 421 660 c 0
+ 391.477062213 660 314 653 314 621 c 2
+ 314 59 l 6
+264.000001417 602.155519212 m 0
+ 261.213545784 599.522601273 258.542997391 596.803817637 256 594 c 0
+ 227 562 212 528 199 489 c 1
+ 184 439 179 386 179 334 c 0
+ 179 249.991644754 199.4921875 161.983398438 253.93359375 99 c 0
+ 257.16796875 95.2578125 264 87 264 92 c 10
+ 264.000001417 602.155519212 l 0
+EndSplineSet
+EndChar
+
+StartChar: uni2119
+Encoding: 8473 8473 1907
+Width: 576
+Flags: W
+HStem: -6 21G<96 184.429> 640 39<139.094 172.952 215.631 391.875> 654 25<31 74.2585>
+VStem: 96 42<34.0925 416.391> 103 34.9961<34.0925 632.945> 174 36<40.5472 286.95 329.002 638.952> 454 96<424.475 583.328>
+LayerCount: 2
+Fore
+SplineSet
+139 638 m 0xd6
+ 138 637 137.99609375 635 137.99609375 635 c 26xce
+ 138 41 l 2
+ 138.251953125 36.28515625 138 36 139 34 c 4
+ 140 32 144.212890625 32.2392578125 146 32.73828125 c 2
+ 171 39.162109375 l 2
+ 171 39.162109375 172 39.5 173 40.5 c 0
+ 174 41.5 174 43 174 43 c 2
+ 174 634 l 26
+ 174 635 174 638 173 639 c 24
+ 172 640 169 640 169 640 c 2
+ 144 640 l 26
+ 143 640 141 640 139 638 c 0xd6
+281 640 m 2
+ 225 640 l 2
+ 218 640 216 634 216 629 c 0
+ 212 541 210 428 210 341 c 0
+ 210 332 217 329 221 329 c 0
+ 256 329 297 333 330 344 c 0
+ 357 352 382 364 401 383 c 0
+ 434 416 454 460 454 506 c 0
+ 454 542 442 578 416 604 c 0
+ 402 618 383 626 364 631 c 0
+ 337 638 309 640 281 640 c 2
+217 22 m 1
+ 103 -6 l 1xce
+ 96 1 l 1xd6
+ 98 141 103 282 103 423 c 0
+ 103 482 102 541 98 600 c 0
+ 97 618 89 636 71 643 c 0
+ 56 649 40 652 24 654 c 1
+ 24 672 l 1
+ 31 679 l 1xae
+ 319 679 l 2
+ 355 679 392 677 427 669 c 0
+ 451 664 476 657 495 641 c 0
+ 533 610 550 562 550 514 c 0
+ 550 456 528 399 486 358 c 1
+ 466 337 440 324 412 314 c 0
+ 377 302 341 296 304 293 c 0
+ 279 291 247 289 222 287 c 0
+ 214 286 210 281 210 274 c 0
+ 210 249 216 123 217 22 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2102
+Encoding: 8450 8450 1908
+Width: 714
+Flags: W
+HStem: -15 53<332.724 510.685> 658 41<326.32 513.896>
+VStem: 87 89<229.979 475.534> 255 42<196.222 593> 257 49<121 496.778>
+LayerCount: 2
+Fore
+SplineSet
+297 617 m 24xf0
+ 306 76 l 0xe8
+ 323.168241969 63.9772621175 332.015839141 57.8146524871 352 51 c 0
+ 369.689637443 44.9677861558 392.821951255 38 436 38 c 0
+ 504 38 567 67 623 105 c 1
+ 640 76 l 1
+ 568 27 488 -15 401 -15 c 0
+ 322 -15 240 2 183 59 c 0
+ 113 129 87 228 87 326 c 0
+ 87 422 108 521 178 590 c 0
+ 251 663 352 699 456 699 c 0
+ 521 699 587 683 633 636 c 0
+ 648 621 661 604 672 586 c 1
+ 615 528 l 1
+ 601 529 l 1
+ 589 561 572 590 549 613 c 0
+ 516 646 468 658 422 658 c 0
+ 388.889621268 658 369 654 338 643 c 0
+ 312.916992188 634.099609375 295.653320312 620.795898438 297 617 c 24xf0
+255 593 m 0xf0
+ 227 564 209 528 197 490 c 0
+ 182 443 176 393 176 344 c 0
+ 176 252 224 154 257 121 c 0xe8
+ 255 593 l 0xf0
+EndSplineSet
+EndChar
+
+StartChar: uni210D
+Encoding: 8461 8461 1909
+Width: 783
+Flags: W
+HStem: -2 21G<122 189.194 578.524 738> 8 24<699.402 738> 346 39<292 582.998> 650 35<207.492 245> 659 26<59 92.3173>
+VStem: 132 71<129.96 639.807> 245 47<67 346 385 650> 583 82<48.1663 346 385 673>
+LayerCount: 2
+Fore
+SplineSet
+292 334 m 2x6f
+ 292 51.599609375 l 9
+ 128 -2 l 1
+ 122 3 l 1
+ 132 116 132 245 132 367 c 0
+ 132 450 131 533 126 616 c 0
+ 125 625 123 636 113 640 c 0
+ 109 641 73 652 53 659 c 1
+ 52 678 l 1
+ 59 685 l 1xaf
+ 209 685 l 1x37
+ 288 685 l 25
+ 292 677 l 17
+ 292 397 l 2
+ 292 388.719726562 295.16796875 385 304 385 c 2
+ 571 385 l 2
+ 582 385 583 391 583 397 c 0
+ 583 483 580 587 580 673 c 1
+ 668 690 l 1
+ 673 684 l 1
+ 670 645 666 604 665 565 c 0
+ 661 403 660 241 666 79 c 0
+ 666 62 679 49 695 45 c 0
+ 713 40 742 32 743 32 c 2
+ 744 14 l 1
+ 738 8 l 1
+ 589 0 l 1
+ 578 21 l 1
+ 580 118 583 237 583 334 c 0
+ 583 339 580 346 571 346 c 2
+ 304 346 l 2
+ 295.16796875 346 292 341.727539062 292 334 c 2x6f
+207 611 m 0
+ 204.666221792 535.071856935 203 336.697078046 203 104 c 0
+ 203 91.6669921875 203 67 214.243164062 67 c 2
+ 232 67 l 2
+ 243.072265625 67 245 71.3759765625 245 82 c 2
+ 245 334 l 17
+ 245 397 l 9
+ 245 642 l 2
+ 245 648.208007812 243.208007812 650 237 650 c 2
+ 215 650 l 2x37
+ 206.115234375 650 207.689453419 633.405835501 207 611 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
