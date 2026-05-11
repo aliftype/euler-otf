@@ -1,6 +1,9 @@
 **Update: this project is abandoned, the repository is left for achælogical
 purposes.**
 
+**A more maintained and updated version is available on CTAN:
+https://ctan.org/pkg/euler-math**
+
 Our goal is to create an OpenType MATH-enabled font euler.otf, by
 combining the existing Euler math fonts with new glyphs from Hermann
 Zapf and adding MATH table information.
